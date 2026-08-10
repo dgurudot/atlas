@@ -10,14 +10,14 @@
  },
  "filenameRule": "alphanumerics and . - _ pass through; every other character becomes '-'",
  "totals": {
-  "logoFiles": 101807,
-  "symbols": 92430,
+  "logoFiles": 102068,
+  "symbols": 92405,
   "exchanges": 64,
-  "cryptoAssets": 8274
+  "cryptoAssets": 8391
  },
  "exchanges": {
   "ADX": 113,
-  "AMEX": 2932,
+  "AMEX": 2941,
   "AMS": 838,
   "AQUIS": 331,
   "ASX": 2181,
@@ -51,9 +51,9 @@
   "LSIN": 1111,
   "MIL": 1385,
   "MYX": 1126,
-  "NASDAQ": 4745,
+  "NASDAQ": 4863,
   "NSE": 3263,
-  "NYSE": 2694,
+  "NYSE": 2711,
   "NZX": 166,
   "OMXCOP": 179,
   "OMXHEX": 191,
@@ -80,7 +80,7 @@
   "TWSE": 1347,
   "VIE": 1417,
   "XETR": 5044,
-  "crypto": 8274
+  "crypto": 8391
  },
  "markets": {
   "argentina": {
@@ -91,15 +91,15 @@
    ]
   },
   "australia": {
-   "symbols": 2213,
+   "symbols": 2219,
    "withLogo": 2181,
    "exchanges": [
     "ASX"
    ]
   },
   "austria": {
-   "symbols": 1425,
-   "withLogo": 1417,
+   "symbols": 1423,
+   "withLogo": 1415,
    "exchanges": [
     "VIE"
    ]
@@ -128,7 +128,7 @@
    ]
   },
   "china": {
-   "symbols": 7395,
+   "symbols": 7397,
    "withLogo": 7355,
    "exchanges": [
     "SSE",
@@ -164,8 +164,8 @@
    ]
   },
   "euronext": {
-   "symbols": 4771,
-   "withLogo": 4743,
+   "symbols": 4760,
+   "withLogo": 4728,
    "exchanges": [
     "AMS",
     "EBR",
@@ -181,8 +181,8 @@
    ]
   },
   "germany": {
-   "symbols": 5073,
-   "withLogo": 5044,
+   "symbols": 5071,
+   "withLogo": 5042,
    "exchanges": [
     "XETR"
    ]
@@ -202,8 +202,8 @@
    ]
   },
   "hungary": {
-   "symbols": 109,
-   "withLogo": 108,
+   "symbols": 107,
+   "withLogo": 107,
    "exchanges": [
     "BET"
    ]
@@ -216,23 +216,23 @@
    ]
   },
   "india": {
-   "symbols": 8399,
-   "withLogo": 8206,
+   "symbols": 8415,
+   "withLogo": 8196,
    "exchanges": [
     "BSE",
     "NSE"
    ]
   },
   "indonesia": {
-   "symbols": 882,
-   "withLogo": 880,
+   "symbols": 886,
+   "withLogo": 879,
    "exchanges": [
     "IDX"
    ]
   },
   "israel": {
-   "symbols": 1040,
-   "withLogo": 1027,
+   "symbols": 1038,
+   "withLogo": 1024,
    "exchanges": [
     "TASE"
    ]
@@ -294,14 +294,14 @@
    ]
   },
   "norway": {
-   "symbols": 292,
-   "withLogo": 285,
+   "symbols": 291,
+   "withLogo": 284,
    "exchanges": [
     "OSL"
    ]
   },
   "philippines": {
-   "symbols": 266,
+   "symbols": 267,
    "withLogo": 263,
    "exchanges": [
     "PSE"
@@ -309,7 +309,7 @@
   },
   "poland": {
    "symbols": 517,
-   "withLogo": 505,
+   "withLogo": 504,
    "exchanges": [
     "GPW"
    ]
@@ -322,22 +322,22 @@
    ]
   },
   "romania": {
-   "symbols": 257,
-   "withLogo": 253,
+   "symbols": 253,
+   "withLogo": 246,
    "exchanges": [
     "BVB"
    ]
   },
   "saudiarabia": {
-   "symbols": 407,
+   "symbols": 408,
    "withLogo": 406,
    "exchanges": [
     "TADAWUL"
    ]
   },
   "singapore": {
-   "symbols": 650,
-   "withLogo": 641,
+   "symbols": 647,
+   "withLogo": 638,
    "exchanges": [
     "SGX"
    ]
@@ -350,35 +350,35 @@
    ]
   },
   "southkorea": {
-   "symbols": 4283,
+   "symbols": 4284,
    "withLogo": 4248,
    "exchanges": [
     "KRX"
    ]
   },
   "spain": {
-   "symbols": 320,
-   "withLogo": 302,
+   "symbols": 319,
+   "withLogo": 301,
    "exchanges": [
     "BME"
    ]
   },
   "sweden": {
-   "symbols": 871,
-   "withLogo": 856,
+   "symbols": 869,
+   "withLogo": 854,
    "exchanges": [
     "OMXSTO"
    ]
   },
   "switzerland": {
-   "symbols": 2487,
-   "withLogo": 2485,
+   "symbols": 2455,
+   "withLogo": 2442,
    "exchanges": [
     "SIX"
    ]
   },
   "taiwan": {
-   "symbols": 2721,
+   "symbols": 2723,
    "withLogo": 2687,
    "exchanges": [
     "TPEX",
@@ -386,7 +386,7 @@
    ]
   },
   "thailand": {
-   "symbols": 2250,
+   "symbols": 2252,
    "withLogo": 2125,
    "exchanges": [
     "SET"
@@ -418,7 +418,7 @@
   },
   "us": {
    "symbols": 12235,
-   "withLogo": 11816,
+   "withLogo": 11960,
    "exchanges": [
     "AMEX",
     "CBOE",
@@ -434,8 +434,8 @@
    ]
   },
   "vietnam": {
-   "symbols": 692,
-   "withLogo": 690,
+   "symbols": 694,
+   "withLogo": 687,
    "exchanges": [
     "HNX",
     "HOSE"

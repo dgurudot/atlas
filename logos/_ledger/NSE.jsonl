@@ -3318,3 +3318,6 @@
 {"symbol":"ZYDUSWELL","exchange":"NSE","status":"ok","logoid":"zydus-wellness-limited"}
 {"symbol":"ZUARIIND","exchange":"NSE","status":"ok","logoid":"zuari-industries-ltd"}
 {"symbol":"ZYDUSLIFE","exchange":"NSE","status":"ok","logoid":"cadila-healthcare"}
+{"symbol":"ANAWIL","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"SECL","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"ASCOM","exchange":"NSE","status":"ok","logoid":"ascom-l-and-i-ltd"}

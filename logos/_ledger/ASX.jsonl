@@ -2211,3 +2211,7 @@
 {"symbol":"ZYUS","exchange":"ASX","status":"ok","logoid":"global-x"}
 {"symbol":"ZNO","exchange":"ASX","status":"ok","logoid":"zoono-group"}
 {"symbol":"ZNC","exchange":"ASX","status":"ok","logoid":"zenith-minerals-limited"}
+{"symbol":"ELK","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"ARA","exchange":"ASX","status":"ok","logoid":"ariadne-australia-limited"}
+{"symbol":"31BB","exchange":"ASX","status":"ok","logoid":"beta-shares"}
+{"symbol":"GRPA","exchange":"ASX","status":"ok","logoid":"global-x"}

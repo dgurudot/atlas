@@ -880,3 +880,8 @@
 {"symbol":"ZONE","exchange":"IDX","status":"ok","logoid":"mega-perintis-tbk"}
 {"symbol":"ZATA","exchange":"IDX","status":"ok","logoid":"bersama-zatta-jaya-tbk"}
 {"symbol":"YUPI","exchange":"IDX","status":"ok","logoid":"yupi-indo-jellygum"}
+{"symbol":"XTRA","exchange":"IDX","status":"nologo","logoid":null}
+{"symbol":"XDES","exchange":"IDX","status":"nologo","logoid":null}
+{"symbol":"XMES","exchange":"IDX","status":"nologo","logoid":null}
+{"symbol":"XSGO","exchange":"IDX","status":"nologo","logoid":null}
+{"symbol":"XGLD","exchange":"IDX","status":"nologo","logoid":null}

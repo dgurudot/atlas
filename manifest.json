@@ -10,10 +10,10 @@
  },
  "filenameRule": "alphanumerics and . - _ pass through; every other character becomes '-'",
  "totals": {
-  "logoFiles": 99055,
+  "logoFiles": 101147,
   "symbols": 92430,
   "exchanges": 64,
-  "cryptoAssets": 5522
+  "cryptoAssets": 7614
  },
  "exchanges": {
   "ADX": 113,
@@ -80,7 +80,7 @@
   "TWSE": 1347,
   "VIE": 1417,
   "XETR": 5044,
-  "crypto": 5522
+  "crypto": 7614
  },
  "markets": {
   "argentina": {

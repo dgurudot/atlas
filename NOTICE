@@ -1,0 +1,41 @@
+NOTICE
+======
+
+This repository contains two kinds of content, under different terms.
+
+1. Metadata (symbols/)
+---------------------
+The JSON symbol reference files are factual listings data (ticker, name,
+exchange, region, currency, instrument type). Facts are not copyrightable.
+These files are provided as-is, with no warranty of accuracy, completeness or
+fitness for any purpose, and must not be relied upon for trading decisions.
+
+2. Logos and marks (logos/)
+---------------------------
+The images in logos/ are the trademarks, service marks and/or logos of their
+respective owners. They are NOT owned by, licensed to, or affiliated with the
+maintainers of this repository.
+
+They are included solely for nominative use: to identify the company, fund or
+digital asset that a given ticker symbol refers to, in the same way a
+publication prints a company's logo alongside a story about that company.
+
+  * No endorsement, sponsorship, affiliation or partnership is claimed or
+    implied between any mark owner and this repository or its maintainers.
+  * The images are unmodified representations of each owner's mark, apart from
+    format normalisation (conversion to PNG and resizing).
+  * No trademark rights are granted by this repository. Downstream use of any
+    mark remains subject to that mark owner's own terms and to applicable
+    trademark law in your jurisdiction.
+
+Removal requests
+----------------
+If you own a mark included here and want it removed, open an issue in this
+repository and it will be taken down. No justification is required.
+
+Accuracy
+--------
+Symbol-to-logo mapping is automated and imperfect. A ticker may be matched to
+the wrong entity, particularly for funds (which generally resolve to an
+issuer-level mark rather than a fund-specific one) and for tickers reused
+across exchanges. Report errors via an issue.

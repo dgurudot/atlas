@@ -1,0 +1,439 @@
+{
+ "version": 1,
+ "generated": "2026-08-09",
+ "source": "TradingView",
+ "layout": {
+  "logo": "logos/<EXCHANGE>/<SYMBOL>.png",
+  "cryptoLogo": "logos/crypto/<BASE>.png",
+  "symbolsByMarket": "symbols/<market>.json",
+  "symbolsByExchange": "symbols/by-exchange/<EXCHANGE>.json"
+ },
+ "filenameRule": "alphanumerics and . - _ pass through; every other character becomes '-'",
+ "totals": {
+  "logoFiles": 95823,
+  "symbols": 99257,
+  "exchanges": 61,
+  "cryptoAssets": 5522
+ },
+ "exchanges": {
+  "ADX": 113,
+  "AMEX": 2932,
+  "AMS": 838,
+  "ASX": 2181,
+  "ATHEX": 143,
+  "BCBA": 1405,
+  "BCS": 278,
+  "BET": 108,
+  "BIST": 629,
+  "BME": 302,
+  "BMFBOVESPA": 2271,
+  "BMV": 2114,
+  "BSE": 4943,
+  "BVB": 253,
+  "BVCV": 32,
+  "CSE": 545,
+  "DFM": 66,
+  "EBR": 115,
+  "EGX": 283,
+  "ELI": 37,
+  "EPA": 3753,
+  "GPW": 505,
+  "HKEX": 3372,
+  "HNX": 270,
+  "HOSE": 420,
+  "IDX": 880,
+  "JSE": 464,
+  "KRX": 4248,
+  "KSE": 137,
+  "LSE": 9709,
+  "MIL": 1385,
+  "MYX": 1126,
+  "NASDAQ": 4745,
+  "NSE": 3263,
+  "NYSE": 2694,
+  "NZX": 166,
+  "OMXCOP": 179,
+  "OMXHEX": 191,
+  "OMXICE": 27,
+  "OMXRSE": 11,
+  "OMXSTO": 856,
+  "OMXTSE": 31,
+  "OMXVSE": 25,
+  "OSL": 285,
+  "PSE": 263,
+  "PSECZ": 55,
+  "QSE": 55,
+  "SET": 2125,
+  "SGX": 641,
+  "SIX": 2485,
+  "SSE": 3421,
+  "SZSE": 3934,
+  "TADAWUL": 406,
+  "TASE": 1027,
+  "TPEX": 1340,
+  "TSE": 4246,
+  "TSX": 2897,
+  "TSXV": 1268,
+  "TWSE": 1347,
+  "VIE": 1417,
+  "XETR": 5044,
+  "crypto": 5522
+ },
+ "markets": {
+  "argentina": {
+   "symbols": 1411,
+   "withLogo": 1405,
+   "exchanges": [
+    "BCBA"
+   ]
+  },
+  "australia": {
+   "symbols": 2213,
+   "withLogo": 2181,
+   "exchanges": [
+    "ASX"
+   ]
+  },
+  "austria": {
+   "symbols": 1425,
+   "withLogo": 1417,
+   "exchanges": [
+    "VIE"
+   ]
+  },
+  "brazil": {
+   "symbols": 2315,
+   "withLogo": 2271,
+   "exchanges": [
+    "BMFBOVESPA"
+   ]
+  },
+  "canada": {
+   "symbols": 4814,
+   "withLogo": 4710,
+   "exchanges": [
+    "CSE",
+    "TSX",
+    "TSXV"
+   ]
+  },
+  "chile": {
+   "symbols": 312,
+   "withLogo": 278,
+   "exchanges": [
+    "BCS"
+   ]
+  },
+  "china": {
+   "symbols": 7395,
+   "withLogo": 7355,
+   "exchanges": [
+    "SSE",
+    "SZSE"
+   ]
+  },
+  "czech": {
+   "symbols": 55,
+   "withLogo": 55,
+   "exchanges": [
+    "PSECZ"
+   ]
+  },
+  "denmark": {
+   "symbols": 183,
+   "withLogo": 179,
+   "exchanges": [
+    "OMXCOP"
+   ]
+  },
+  "egypt": {
+   "symbols": 293,
+   "withLogo": 283,
+   "exchanges": [
+    "EGX"
+   ]
+  },
+  "estonia": {
+   "symbols": 31,
+   "withLogo": 31,
+   "exchanges": [
+    "OMXTSE"
+   ]
+  },
+  "euronext": {
+   "symbols": 4771,
+   "withLogo": 4743,
+   "exchanges": [
+    "AMS",
+    "EBR",
+    "ELI",
+    "EPA"
+   ]
+  },
+  "finland": {
+   "symbols": 195,
+   "withLogo": 191,
+   "exchanges": [
+    "OMXHEX"
+   ]
+  },
+  "germany": {
+   "symbols": 5073,
+   "withLogo": 5044,
+   "exchanges": [
+    "XETR"
+   ]
+  },
+  "greece": {
+   "symbols": 144,
+   "withLogo": 143,
+   "exchanges": [
+    "ATHEX"
+   ]
+  },
+  "hongkong": {
+   "symbols": 5513,
+   "withLogo": 3372,
+   "exchanges": [
+    "HKEX"
+   ]
+  },
+  "hungary": {
+   "symbols": 109,
+   "withLogo": 108,
+   "exchanges": [
+    "BET"
+   ]
+  },
+  "iceland": {
+   "symbols": 27,
+   "withLogo": 27,
+   "exchanges": [
+    "OMXICE"
+   ]
+  },
+  "india": {
+   "symbols": 8399,
+   "withLogo": 8206,
+   "exchanges": [
+    "BSE",
+    "NSE"
+   ]
+  },
+  "indonesia": {
+   "symbols": 882,
+   "withLogo": 880,
+   "exchanges": [
+    "IDX"
+   ]
+  },
+  "israel": {
+   "symbols": 1040,
+   "withLogo": 1027,
+   "exchanges": [
+    "TASE"
+   ]
+  },
+  "italy": {
+   "symbols": 1403,
+   "withLogo": 1374,
+   "exchanges": [
+    "MIL"
+   ]
+  },
+  "japan": {
+   "symbols": 4259,
+   "withLogo": 4246,
+   "exchanges": [
+    "TSE"
+   ]
+  },
+  "kuwait": {
+   "symbols": 137,
+   "withLogo": 137,
+   "exchanges": [
+    "KSE"
+   ]
+  },
+  "latvia": {
+   "symbols": 12,
+   "withLogo": 11,
+   "exchanges": [
+    "OMXRSE"
+   ]
+  },
+  "lithuania": {
+   "symbols": 25,
+   "withLogo": 25,
+   "exchanges": [
+    "OMXVSE"
+   ]
+  },
+  "malaysia": {
+   "symbols": 1144,
+   "withLogo": 1126,
+   "exchanges": [
+    "MYX"
+   ]
+  },
+  "mexico": {
+   "symbols": 2121,
+   "withLogo": 2114,
+   "exchanges": [
+    "BMV"
+   ]
+  },
+  "newzealand": {
+   "symbols": 167,
+   "withLogo": 166,
+   "exchanges": [
+    "NZX"
+   ]
+  },
+  "norway": {
+   "symbols": 292,
+   "withLogo": 285,
+   "exchanges": [
+    "OSL"
+   ]
+  },
+  "philippines": {
+   "symbols": 266,
+   "withLogo": 263,
+   "exchanges": [
+    "PSE"
+   ]
+  },
+  "poland": {
+   "symbols": 517,
+   "withLogo": 504,
+   "exchanges": [
+    "GPW"
+   ]
+  },
+  "qatar": {
+   "symbols": 55,
+   "withLogo": 55,
+   "exchanges": [
+    "QSE"
+   ]
+  },
+  "romania": {
+   "symbols": 257,
+   "withLogo": 253,
+   "exchanges": [
+    "BVB"
+   ]
+  },
+  "saudiarabia": {
+   "symbols": 407,
+   "withLogo": 406,
+   "exchanges": [
+    "TADAWUL"
+   ]
+  },
+  "singapore": {
+   "symbols": 650,
+   "withLogo": 641,
+   "exchanges": [
+    "SGX"
+   ]
+  },
+  "southafrica": {
+   "symbols": 468,
+   "withLogo": 464,
+   "exchanges": [
+    "JSE"
+   ]
+  },
+  "southkorea": {
+   "symbols": 4283,
+   "withLogo": 4248,
+   "exchanges": [
+    "KRX"
+   ]
+  },
+  "spain": {
+   "symbols": 320,
+   "withLogo": 302,
+   "exchanges": [
+    "BME"
+   ]
+  },
+  "sweden": {
+   "symbols": 871,
+   "withLogo": 856,
+   "exchanges": [
+    "OMXSTO"
+   ]
+  },
+  "switzerland": {
+   "symbols": 2487,
+   "withLogo": 2473,
+   "exchanges": [
+    "SIX"
+   ]
+  },
+  "taiwan": {
+   "symbols": 2721,
+   "withLogo": 2687,
+   "exchanges": [
+    "TPEX",
+    "TWSE"
+   ]
+  },
+  "thailand": {
+   "symbols": 2250,
+   "withLogo": 2125,
+   "exchanges": [
+    "SET"
+   ]
+  },
+  "turkey": {
+   "symbols": 643,
+   "withLogo": 629,
+   "exchanges": [
+    "BIST"
+   ]
+  },
+  "uae": {
+   "symbols": 179,
+   "withLogo": 179,
+   "exchanges": [
+    "ADX",
+    "DFM"
+   ]
+  },
+  "uk": {
+   "symbols": 15341,
+   "withLogo": 9709,
+   "exchanges": [
+    "LSE"
+   ]
+  },
+  "us": {
+   "symbols": 10658,
+   "withLogo": 10371,
+   "exchanges": [
+    "AMEX",
+    "NASDAQ",
+    "NYSE"
+   ]
+  },
+  "venezuela": {
+   "symbols": 32,
+   "withLogo": 32,
+   "exchanges": [
+    "BVCV"
+   ]
+  },
+  "vietnam": {
+   "symbols": 692,
+   "withLogo": 690,
+   "exchanges": [
+    "HNX",
+    "HOSE"
+   ]
+  }
+ }
+}

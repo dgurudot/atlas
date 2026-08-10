@@ -3,8 +3,8 @@
 Symbol reference data and identifying marks for listed equities, ETFs and
 digital assets.
 
-- **95,823** logo images across **61 exchanges** plus crypto
-- **99,257** symbols with name, exchange, region, currency and instrument type
+- **99,055** logo images across **64 exchanges** plus crypto
+- **92,430** symbols with name, exchange, region, currency and instrument type
 
 ## Layout
 
@@ -60,11 +60,10 @@ flag. Resolve a logo by joining it to the `logos/` root.
 
 | Segment | Coverage |
 | --- | --- |
-| Equities and ETFs | 90,277 / 99,257 (91.0%) |
+| Equities and ETFs | 91,006 / 92,430 (98.5%) |
 | Crypto base assets | 5,522 / 10,620 (52.0%) |
 
-Most exchanges are between 97% and 100%. Two are lower because their symbol
-lists are older than their logo pass, and crypto is lower because the long
+Most exchanges are between 97% and 100%. Crypto is lower because the long
 tail of micro-cap tokens has no published mark.
 
 `logos/_ledger/` records the outcome for every symbol attempted, including

@@ -4955,3 +4955,8 @@
 {"symbol":"ZYBT","exchange":"NASDAQ","status":"ok","logoid":"zhengye-biotechnology-limited"}
 {"symbol":"ZYME","exchange":"NASDAQ","status":"ok","logoid":"zymeworks"}
 {"symbol":"ZVRA","exchange":"NASDAQ","status":"ok","logoid":"kempharm"}
+{"symbol":"GVACU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PHOS","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"QVCG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SCATU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"WLCO","exchange":"NASDAQ","status":"nologo","logoid":null}

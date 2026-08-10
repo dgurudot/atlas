@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-08-09",
+ "generated": "2026-08-10",
  "source": "TradingView",
  "layout": {
   "logo": "logos/<EXCHANGE>/<SYMBOL>.png",
@@ -10,15 +10,16 @@
  },
  "filenameRule": "alphanumerics and . - _ pass through; every other character becomes '-'",
  "totals": {
-  "logoFiles": 95823,
-  "symbols": 99257,
-  "exchanges": 61,
+  "logoFiles": 99055,
+  "symbols": 92430,
+  "exchanges": 64,
   "cryptoAssets": 5522
  },
  "exchanges": {
   "ADX": 113,
   "AMEX": 2932,
   "AMS": 838,
+  "AQUIS": 331,
   "ASX": 2181,
   "ATHEX": 143,
   "BCBA": 1405,
@@ -31,6 +32,7 @@
   "BSE": 4943,
   "BVB": 253,
   "BVCV": 32,
+  "CBOE": 1447,
   "CSE": 545,
   "DFM": 66,
   "EBR": 115,
@@ -38,14 +40,15 @@
   "ELI": 37,
   "EPA": 3753,
   "GPW": 505,
-  "HKEX": 3372,
+  "HKEX": 3436,
   "HNX": 270,
   "HOSE": 420,
   "IDX": 880,
   "JSE": 464,
   "KRX": 4248,
   "KSE": 137,
-  "LSE": 9709,
+  "LSE": 9988,
+  "LSIN": 1111,
   "MIL": 1385,
   "MYX": 1126,
   "NASDAQ": 4745,
@@ -192,8 +195,8 @@
    ]
   },
   "hongkong": {
-   "symbols": 5513,
-   "withLogo": 3372,
+   "symbols": 3021,
+   "withLogo": 2957,
    "exchanges": [
     "HKEX"
    ]
@@ -236,7 +239,7 @@
   },
   "italy": {
    "symbols": 1403,
-   "withLogo": 1374,
+   "withLogo": 1385,
    "exchanges": [
     "MIL"
    ]
@@ -306,7 +309,7 @@
   },
   "poland": {
    "symbols": 517,
-   "withLogo": 504,
+   "withLogo": 505,
    "exchanges": [
     "GPW"
    ]
@@ -369,7 +372,7 @@
   },
   "switzerland": {
    "symbols": 2487,
-   "withLogo": 2473,
+   "withLogo": 2485,
    "exchanges": [
     "SIX"
    ]
@@ -405,17 +408,20 @@
    ]
   },
   "uk": {
-   "symbols": 15341,
-   "withLogo": 9709,
+   "symbols": 9429,
+   "withLogo": 9384,
    "exchanges": [
-    "LSE"
+    "AQUIS",
+    "LSE",
+    "LSIN"
    ]
   },
   "us": {
-   "symbols": 10658,
-   "withLogo": 10371,
+   "symbols": 12235,
+   "withLogo": 11816,
    "exchanges": [
     "AMEX",
+    "CBOE",
     "NASDAQ",
     "NYSE"
    ]

@@ -2729,3 +2729,4 @@
 {"symbol":"ZTS","exchange":"NYSE","status":"ok","logoid":"zoetis"}
 {"symbol":"ZWS","exchange":"NYSE","status":"ok","logoid":"zurn-water-solutions"}
 {"symbol":"ZVIA","exchange":"NYSE","status":"ok","logoid":"zevia-pbc"}
+{"symbol":"PORTU","exchange":"NYSE","status":"nologo","logoid":null}

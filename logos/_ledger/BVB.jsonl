@@ -255,3 +255,6 @@
 {"symbol":"VIAG","exchange":"BVB","status":"ok","logoid":"vinalcool-arges-sa-pitesti"}
 {"symbol":"WINE","exchange":"BVB","status":"ok","logoid":"purcari-wineries-pcl"}
 {"symbol":"XFOA","exchange":"BVB","status":"ok","logoid":"aoar"}
+{"symbol":"RORX","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"VITK","exchange":"BVB","status":"ok","logoid":"vitimas-sa-tecuci"}
+{"symbol":"GRIU","exchange":"BVB","status":"ok","logoid":"griul-bucuresti"}

@@ -4282,3 +4282,10 @@
 {"symbol":"950250","exchange":"KRX","status":"ok","logoid":"teraview-plc-korean-deposit-receipt-repr-1-sh"}
 {"symbol":"950210","exchange":"KRX","status":"ok","logoid":"prestige-biopharma"}
 {"symbol":"351020","exchange":"KRX","status":"ok","logoid":"miju"}
+{"symbol":"0226D0","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"0227K0","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"0228G0","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"062970","exchange":"KRX","status":"ok","logoid":"korea-advanced-materials"}
+{"symbol":"204840","exchange":"KRX","status":"ok","logoid":"gl-pharm-tech"}
+{"symbol":"369370","exchange":"KRX","status":"ok","logoid":"blitzway"}
+{"symbol":"336060","exchange":"KRX","status":"ok","logoid":"wavus"}

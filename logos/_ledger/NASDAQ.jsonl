@@ -5275,3 +5275,15 @@
 {"symbol":"YSAG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"YICCU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"YSAU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CNL","exchange":"NASDAQ","status":"ok","logoid":"collective-mining-ltd"}
+{"symbol":"GSHRU","exchange":"NASDAQ","status":"ok","logoid":"gesher-acquisition-ii"}
+{"symbol":"LATAU","exchange":"NASDAQ","status":"ok","logoid":"galata-acquisition-ii-units-cons-of-1-sh-a-1-3-red-wt"}
+{"symbol":"QVCG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MYX","exchange":"NASDAQ","status":"ok","logoid":"maywood-acquisition-2-units-cons-of-1-shs-a-1-rt-1-wt"}
+{"symbol":"NMPAU","exchange":"NASDAQ","status":"ok","logoid":"nmp-acquisition"}
+{"symbol":"WLCO","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PHOS","exchange":"NASDAQ","status":"ok","logoid":"first-phosphate"}
+{"symbol":"QUMSU","exchange":"NASDAQ","status":"ok","logoid":"quantumsphere-acquisition"}
+{"symbol":"RANGU","exchange":"NASDAQ","status":"ok","logoid":"range-capital-acquisition"}
+{"symbol":"QVCG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WLCO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

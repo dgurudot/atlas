@@ -2793,3 +2793,10 @@
 {"symbol":"SAMO.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VII","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VII.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GCPB","exchange":"NYSE","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"MTB/PL","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PSA/PT","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PSA/PU","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"MTB/PL","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PSA/PU","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PSA/PT","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

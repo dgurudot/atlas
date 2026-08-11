@@ -3040,3 +3040,8 @@
 {"symbol":"TP","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WSMD","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"YALL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ARIA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"PHOX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"UAC","exchange":"AMEX","status":"ok","logoid":"united-acquisition-i-units-cons-of-1-shs-a-1-4-red-wt"}
+{"symbol":"ARIA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PHOX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

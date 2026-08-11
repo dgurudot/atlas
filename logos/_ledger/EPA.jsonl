@@ -3787,3 +3787,15 @@
 {"symbol":"PQWD","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"TCQE-ETFP","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"WLN","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"CMSP","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BE26","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"EXCN","exchange":"EPA","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"EMIG","exchange":"EPA","status":"ok","logoid":"ubs-group"}
+{"symbol":"GCBE","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"HSGE","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"US500","exchange":"EPA","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"USFA-ETFP","exchange":"EPA","status":"ok","logoid":"vaneck"}
+{"symbol":"MLVIN","exchange":"EPA","status":"ok","logoid":"fonciere-vindi"}
+{"symbol":"MLIRF","exchange":"EPA","status":"ok","logoid":"innovative-rfk-spa"}
+{"symbol":"MLNOV","exchange":"EPA","status":"ok","logoid":"novatech-ind"}
+{"symbol":"OFIEU","exchange":"EPA","status":"ok","logoid":"global-platform-sicav-ofi-invest-emu-equity-active-ucits-etf-capitalisation-ucits-etf"}

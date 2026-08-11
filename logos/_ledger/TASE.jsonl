@@ -1038,3 +1038,6 @@
 {"symbol":"ZOOZ","exchange":"TASE","status":"ok","logoid":"zooz-power"}
 {"symbol":"ZUR","exchange":"TASE","status":"ok","logoid":"zur"}
 {"symbol":"ZPRS","exchange":"TASE","status":"ok","logoid":"zephyrus-wing-ener"}
+{"symbol":"MTF.F140","exchange":"TASE","status":"ok","logoid":"migdal-insur"}
+{"symbol":"KSM.F154","exchange":"TASE","status":"ok","logoid":"ksm-etf"}
+{"symbol":"SOLT-M","exchange":"TASE","status":"ok","logoid":"solterra-ene"}

@@ -420,3 +420,5 @@
 {"symbol":"YBM","exchange":"HOSE","status":"ok","logoid":"ctcp-khoangsan-cn-yen-bai"}
 {"symbol":"VVS","exchange":"HOSE","status":"ok","logoid":"vietnam-machine-development-investm"}
 {"symbol":"YEG","exchange":"HOSE","status":"ok","logoid":"ctcp-tap-doan-yeah1"}
+{"symbol":"FUEBFVND","exchange":"HOSE","status":"nologo","logoid":null}
+{"symbol":"TIX","exchange":"HOSE","status":"ok","logoid":"tan-binh-import-export-joint-stock"}

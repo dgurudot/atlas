@@ -2923,3 +2923,5 @@
 {"symbol":"ZZZD","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZXLY.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZXM.B","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"IBQT","exchange":"TSX","status":"ok","logoid":"ishares"}
+{"symbol":"XINT","exchange":"TSX","status":"ok","logoid":"ishares"}

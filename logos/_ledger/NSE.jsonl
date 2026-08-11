@@ -3321,3 +3321,5 @@
 {"symbol":"ANAWIL","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SECL","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"ASCOM","exchange":"NSE","status":"ok","logoid":"ascom-l-and-i-ltd"}
+{"symbol":"BURNPUR","exchange":"NSE","status":"ok","logoid":"burnpur-cement-ltd"}
+{"symbol":"TVSINVIT","exchange":"NSE","status":"ok","logoid":"tvs-infrastructure-trust"}

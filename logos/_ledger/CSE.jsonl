@@ -571,3 +571,8 @@
 {"symbol":"ZOG.X","exchange":"CSE","status":"ok","logoid":"zoglos-food"}
 {"symbol":"ZRO","exchange":"CSE","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZTE","exchange":"CSE","status":"ok","logoid":"ztest-electronics"}
+{"symbol":"BIDS","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"GCR","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"DOCT","exchange":"CSE","status":"ok","logoid":"republic-technologies-inc"}
+{"symbol":"MANN","exchange":"CSE","status":"ok","logoid":"manning-ventures"}
+{"symbol":"PLAY","exchange":"CSE","status":"ok","logoid":"playground-ventures"}

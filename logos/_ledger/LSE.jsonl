@@ -15634,3 +15634,13 @@
 {"symbol":"XLGS","exchange":"LSE","status":"ok","logoid":"leverage-shares"}
 {"symbol":"YDRM","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"YQCO","exchange":"LSE","status":"ok","logoid":"leverage-shares"}
+{"symbol":"0DNZ","exchange":"LSE","status":"ok","logoid":"dws"}
+{"symbol":"0GRO","exchange":"LSE","status":"ok","logoid":"profilgruppen-ab-b-shs"}
+{"symbol":"LION","exchange":"LSE","status":"ok","logoid":"legal-and-general"}
+{"symbol":"FTSA","exchange":"LSE","status":"ok","logoid":"ishares"}
+{"symbol":"B1GH","exchange":"LSE","status":"ok","logoid":"ishares"}
+{"symbol":"0IKL","exchange":"LSE","status":"ok","logoid":"attica-sa"}
+{"symbol":"LIOG","exchange":"LSE","status":"ok","logoid":"legal-and-general"}
+{"symbol":"0V1N","exchange":"LSE","status":"ok","logoid":"international-tower-hill-mines-ltd"}
+{"symbol":"0QCR","exchange":"LSE","status":"ok","logoid":"tie-kinetix"}
+{"symbol":"SWWD","exchange":"LSE","status":"ok","logoid":"spdr-sandp500-etf-tr"}

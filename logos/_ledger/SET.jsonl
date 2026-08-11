@@ -2248,3 +2248,11 @@
 {"symbol":"ZIJIN23","exchange":"SET","status":"ok","logoid":"zijin-mining"}
 {"symbol":"ZIJIN13","exchange":"SET","status":"ok","logoid":"zijin-mining"}
 {"symbol":"ZJINNO80","exchange":"SET","status":"ok","logoid":"zhongji-innolight"}
+{"symbol":"BIOTEC.P","exchange":"SET","status":"ok","logoid":"bio-green-energy-tech-pcl-non-voting"}
+{"symbol":"BIOTEC.Q","exchange":"SET","status":"ok","logoid":"bio-green-energy-tech-pcl-non-voting"}
+{"symbol":"BIOTEC.P.R","exchange":"SET","status":"ok","logoid":"bio-green-energy-tech-pcl-non-voting"}
+{"symbol":"NPK","exchange":"SET","status":"ok","logoid":"new-plus-knitting-co-non-voting"}
+{"symbol":"CSC.P.R","exchange":"SET","status":"ok","logoid":"crown-seal-co-non-voting"}
+{"symbol":"NPK.R","exchange":"SET","status":"ok","logoid":"new-plus-knitting-co-non-voting"}
+{"symbol":"SAF.F","exchange":"SET","status":"ok","logoid":"saf-special-steel-pcl-non-voting"}
+{"symbol":"RABBIT.Q","exchange":"SET","status":"ok","logoid":"u-city-public-company-limited"}

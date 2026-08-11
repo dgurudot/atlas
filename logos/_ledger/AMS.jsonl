@@ -1696,3 +1696,7 @@
 {"symbol":"XRPW","exchange":"AMS","status":"ok","logoid":"wisdomtree"}
 {"symbol":"XSUE","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"YCSH","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"27IT","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"IS16","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"IS17","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"VITD","exchange":"AMS","status":"ok","logoid":"vanguard"}

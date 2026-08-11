@@ -1114,3 +1114,6 @@
 {"symbol":"UZNF","exchange":"LSIN","status":"nologo","logoid":null}
 {"symbol":"YTT","exchange":"LSIN","status":"ok","logoid":"zhejiang-yongtai-technology-co-ltd-gdr-each-repr-5-a-shs-reg-s"}
 {"symbol":"ZENB","exchange":"LSIN","status":"ok","logoid":"zenith-bank-plc"}
+{"symbol":"0MNW","exchange":"LSIN","status":"ok","logoid":"ishares"}
+{"symbol":"0MN3","exchange":"LSIN","status":"ok","logoid":"pge"}
+{"symbol":"OGDC","exchange":"LSIN","status":"ok","logoid":"oil-and-gas-develop-gdr-reg-s"}

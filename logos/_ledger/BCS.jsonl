@@ -310,3 +310,9 @@
 {"symbol":"WMT","exchange":"BCS","status":"ok","logoid":"walmart"}
 {"symbol":"WATTS","exchange":"BCS","status":"ok","logoid":"watts-sa"}
 {"symbol":"ZOFRI","exchange":"BCS","status":"ok","logoid":"zona-franca-iquiqu"}
+{"symbol":"VENTANAS0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CSCO","exchange":"BCS","status":"ok","logoid":"cisco"}
+{"symbol":"SCOTIABKCL","exchange":"BCS","status":"ok","logoid":"scotiabank-chile"}
+{"symbol":"PAMPA","exchange":"BCS","status":"ok","logoid":"socd-inv-oro-blanc"}
+{"symbol":"QUILICURA","exchange":"BCS","status":"ok","logoid":"quilicura-sa"}
+{"symbol":"VAPORES1","exchange":"BCS","status":"ok","logoid":"sudamericana-vapor"}

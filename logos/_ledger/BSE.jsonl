@@ -5107,3 +5107,13 @@
 {"symbol":"TMTIND_B1","exchange":"BSE","status":"ok","logoid":"tmt-india-ltd"}
 {"symbol":"WMINIMT","exchange":"BSE","status":"ok","logoid":"western-ministil-ltd"}
 {"symbol":"VIRYA","exchange":"BSE","status":"ok","logoid":"virya-resources-limited"}
+{"symbol":"ARDEE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"DSKULKARNI","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"GVELECTRIC","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"AARSHYAM","exchange":"BSE","status":"ok","logoid":"aar-shyam-india-investment-com"}
+{"symbol":"KCSL","exchange":"BSE","status":"ok","logoid":"karnimata-cold-storage-ltd"}
+{"symbol":"MAGENTA","exchange":"BSE","status":"ok","logoid":"magenta-lifecare-limited"}
+{"symbol":"PANIDPR","exchange":"BSE","status":"ok","logoid":"panther-industrial-products-lt"}
+{"symbol":"OLYMTFI","exchange":"BSE","status":"ok","logoid":"olympic-management-and-financial-services-ltd"}
+{"symbol":"SMAUTO","exchange":"BSE","status":"ok","logoid":"sm-auto-stamping-limited"}
+{"symbol":"VKGLOBAL","exchange":"BSE","status":"ok","logoid":"sps-international-ltd"}

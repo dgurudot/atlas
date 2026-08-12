@@ -1414,3 +1414,6 @@
 {"symbol":"ULC","exchange":"BCBA","status":"ok","logoid":"unilever"}
 {"symbol":"SPYB","exchange":"BCBA","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"YELPD","exchange":"BCBA","status":"ok","logoid":"yelp"}
+{"symbol":"AIGC","exchange":"BCBA","status":"ok","logoid":"american-international-group"}
+{"symbol":"GTC","exchange":"BCBA","status":"ok","logoid":"goodyear-tire-and-rubber"}
+{"symbol":"VIVD","exchange":"BCBA","status":"ok","logoid":"telefonica"}

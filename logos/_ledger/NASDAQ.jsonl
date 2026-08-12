@@ -5287,3 +5287,13 @@
 {"symbol":"RANGU","exchange":"NASDAQ","status":"ok","logoid":"range-capital-acquisition"}
 {"symbol":"QVCG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WLCO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MPIA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PLCI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CRANU","exchange":"NASDAQ","status":"ok","logoid":"crane-harbor-acquisition"}
+{"symbol":"DBCAU","exchange":"NASDAQ","status":"ok","logoid":"d-boral-acquisition-i"}
+{"symbol":"MESHU","exchange":"NASDAQ","status":"ok","logoid":"meshflow-acquisition-units-cons-of-1-shs-a-1-3-red-wt"}
+{"symbol":"RFAIU","exchange":"NASDAQ","status":"ok","logoid":"rf-acquisition"}
+{"symbol":"TAVIU","exchange":"NASDAQ","status":"ok","logoid":"tavia-acquisition"}
+{"symbol":"XSLLU","exchange":"NASDAQ","status":"ok","logoid":"xsolla-spac-1"}
+{"symbol":"MPIA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PLCI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

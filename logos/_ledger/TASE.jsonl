@@ -1041,3 +1041,7 @@
 {"symbol":"MTF.F140","exchange":"TASE","status":"ok","logoid":"migdal-insur"}
 {"symbol":"KSM.F154","exchange":"TASE","status":"ok","logoid":"ksm-etf"}
 {"symbol":"SOLT-M","exchange":"TASE","status":"ok","logoid":"solterra-ene"}
+{"symbol":"HRL.F241","exchange":"TASE","status":"nologo","logoid":null}
+{"symbol":"BLITZ","exchange":"TASE","status":"ok","logoid":"blitz-technologies"}
+{"symbol":"MPRS","exchange":"TASE","status":"ok","logoid":"medipress-health-l"}
+{"symbol":"CNZN-M","exchange":"TASE","status":"ok","logoid":"canzon-israel-ltd"}

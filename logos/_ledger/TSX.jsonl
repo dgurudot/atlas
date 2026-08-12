@@ -2925,3 +2925,4 @@
 {"symbol":"ZXM.B","exchange":"TSX","status":"ok","logoid":"ci-global"}
 {"symbol":"IBQT","exchange":"TSX","status":"ok","logoid":"ishares"}
 {"symbol":"XINT","exchange":"TSX","status":"ok","logoid":"ishares"}
+{"symbol":"TALA","exchange":"TSX","status":"nologo","logoid":null}

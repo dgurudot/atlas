@@ -3323,3 +3323,8 @@
 {"symbol":"ASCOM","exchange":"NSE","status":"ok","logoid":"ascom-l-and-i-ltd"}
 {"symbol":"BURNPUR","exchange":"NSE","status":"ok","logoid":"burnpur-cement-ltd"}
 {"symbol":"TVSINVIT","exchange":"NSE","status":"ok","logoid":"tvs-infrastructure-trust"}
+{"symbol":"ARDEE","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"DESTINY","exchange":"NSE","status":"ok","logoid":"destiny-logistics"}
+{"symbol":"AHIMSA","exchange":"NSE","status":"ok","logoid":"ahimsa-industries"}
+{"symbol":"REXPIPES","exchange":"NSE","status":"ok","logoid":"rex-pipes-and-cables"}
+{"symbol":"WALPAR","exchange":"NSE","status":"ok","logoid":"walpar-nutritions"}

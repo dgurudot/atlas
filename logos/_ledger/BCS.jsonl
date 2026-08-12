@@ -316,3 +316,14 @@
 {"symbol":"PAMPA","exchange":"BCS","status":"ok","logoid":"socd-inv-oro-blanc"}
 {"symbol":"QUILICURA","exchange":"BCS","status":"ok","logoid":"quilicura-sa"}
 {"symbol":"VAPORES1","exchange":"BCS","status":"ok","logoid":"sudamericana-vapor"}
+{"symbol":"CFIBPRIG_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"AMDCL1","exchange":"BCS","status":"ok","logoid":"advanced-micro-devices"}
+{"symbol":"CFICONDOR","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIAMG3R_E","exchange":"BCS","status":"ok","logoid":"ameris-capital"}
+{"symbol":"CFI_NASDAQ","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIDPKP_R","exchange":"BCS","status":"ok","logoid":"avante-adm-g-de-f-deuda-privada-y-capital-r"}
+{"symbol":"LAS_CONDES0","exchange":"BCS","status":"ok","logoid":"clinica-las-condes"}
+{"symbol":"NTGCLGAS0","exchange":"BCS","status":"ok","logoid":"cge-gas-natural-sa"}
+{"symbol":"CFIMBD4C_E0","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
+{"symbol":"NAVARINO","exchange":"BCS","status":"ok","logoid":"navarino-sa"}
+{"symbol":"POLPAICO","exchange":"BCS","status":"ok","logoid":"cemento-polpaico"}

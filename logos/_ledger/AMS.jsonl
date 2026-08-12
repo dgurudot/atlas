@@ -1700,3 +1700,6 @@
 {"symbol":"IS16","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"IS17","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"VITD","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"CYUH","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"JCTA","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"FUTR","exchange":"AMS","status":"ok","logoid":"21shares"}

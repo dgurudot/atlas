@@ -2340,3 +2340,13 @@
 {"symbol":"S1RE34","exchange":"BMFBOVESPA","status":"ok","logoid":"sempra-energy"}
 {"symbol":"R1DY34","exchange":"BMFBOVESPA","status":"ok","logoid":"dr-reddys"}
 {"symbol":"TOST34","exchange":"BMFBOVESPA","status":"ok","logoid":"toast"}
+{"symbol":"E1MN34","exchange":"BMFBOVESPA","status":"ok","logoid":"eastman"}
+{"symbol":"GRAV11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"UTLI11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"DDNB34","exchange":"BMFBOVESPA","status":"ok","logoid":"dupont-de-nemours"}
+{"symbol":"H1RB34","exchange":"BMFBOVESPA","status":"ok","logoid":"block-h-and-r"}
+{"symbol":"I1TW34","exchange":"BMFBOVESPA","status":"ok","logoid":"illinois-tool-works"}
+{"symbol":"E1SS34","exchange":"BMFBOVESPA","status":"ok","logoid":"essex-property-trust"}
+{"symbol":"RBFY11","exchange":"BMFBOVESPA","status":"ok","logoid":"riobravo"}
+{"symbol":"K1IM34","exchange":"BMFBOVESPA","status":"ok","logoid":"kimco-realty-hc"}
+{"symbol":"SPGM15","exchange":"BMFBOVESPA","status":"ok","logoid":"spgm-fundo-de-investimento-imobiliario-senior"}

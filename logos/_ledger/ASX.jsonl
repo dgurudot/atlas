@@ -2222,3 +2222,7 @@
 {"symbol":"EMB","exchange":"ASX","status":"ok","logoid":"embelton-limited"}
 {"symbol":"BEL","exchange":"ASX","status":"ok","logoid":"benjamin-hornigold"}
 {"symbol":"GSUS","exchange":"ASX","status":"ok","logoid":"ausbil-active-dividend-income-fund-active-etf-exchange-traded-fund-units"}
+{"symbol":"CRB","exchange":"ASX","status":"ok","logoid":"carbine-resources-limited"}
+{"symbol":"CTE","exchange":"ASX","status":"ok","logoid":"cryosite-limited"}
+{"symbol":"WSI","exchange":"ASX","status":"ok","logoid":"weststar-industrial-limited"}
+{"symbol":"DTR","exchange":"ASX","status":"ok","logoid":"dateline-resources-limited"}

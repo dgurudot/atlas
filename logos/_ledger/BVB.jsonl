@@ -258,3 +258,7 @@
 {"symbol":"RORX","exchange":"BVB","status":"nologo","logoid":null}
 {"symbol":"VITK","exchange":"BVB","status":"ok","logoid":"vitimas-sa-tecuci"}
 {"symbol":"GRIU","exchange":"BVB","status":"ok","logoid":"griul-bucuresti"}
+{"symbol":"ELV","exchange":"BVB","status":"ok","logoid":"elvila-sa-bucuresti"}
+{"symbol":"ELER","exchange":"BVB","status":"ok","logoid":"elerom-roman"}
+{"symbol":"NUIA","exchange":"BVB","status":"ok","logoid":"abo-mix-sa"}
+{"symbol":"MESA","exchange":"BVB","status":"ok","logoid":"metalul-mesa-sa"}

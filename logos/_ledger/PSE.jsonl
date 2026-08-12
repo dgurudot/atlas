@@ -265,3 +265,6 @@
 {"symbol":"X","exchange":"PSE","status":"ok","logoid":"xurpas"}
 {"symbol":"WIN","exchange":"PSE","status":"ok","logoid":"wellex-industries"}
 {"symbol":"MAH","exchange":"PSE","status":"ok","logoid":"metro-alliance-b"}
+{"symbol":"SBS","exchange":"PSE","status":"ok","logoid":"sbs-philippines"}
+{"symbol":"FJP","exchange":"PSE","status":"ok","logoid":"fandj-prince-b"}
+{"symbol":"FJPB","exchange":"PSE","status":"ok","logoid":"fandj-prince-b"}

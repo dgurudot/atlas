@@ -3045,3 +3045,10 @@
 {"symbol":"UAC","exchange":"AMEX","status":"ok","logoid":"united-acquisition-i-units-cons-of-1-shs-a-1-4-red-wt"}
 {"symbol":"ARIA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PHOX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CSRA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MPDY","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MPIM","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SNSC","exchange":"AMEX","status":"ok","logoid":"sunscout-ltd"}
+{"symbol":"CSRA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MPIM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MPDY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

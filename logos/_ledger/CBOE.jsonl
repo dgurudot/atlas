@@ -1856,3 +1856,7 @@
 {"symbol":"MXLL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SITX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"UMCU","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MPDB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"STLL","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"MPDB","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"STLL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

@@ -333,3 +333,9 @@
 {"symbol":"VDJP.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
 {"symbol":"XSHC.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
 {"symbol":"RIOL.GB","exchange":"AQUIS","status":"ok","logoid":"amundi"}
+{"symbol":"IDTL.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ISX5.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"CFCP","exchange":"AQUIS","status":"ok","logoid":"capital-for-colleagues-plc"}
+{"symbol":"XFVT.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
+{"symbol":"VDEM.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
+{"symbol":"SXLP.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}

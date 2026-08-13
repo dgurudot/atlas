@@ -4294,3 +4294,6 @@
 {"symbol":"105550","exchange":"KRX","status":"ok","logoid":"edge-foundry"}
 {"symbol":"291650","exchange":"KRX","status":"ok","logoid":"aptamer-sciences"}
 {"symbol":"483350","exchange":"KRX","status":"ok","logoid":"dealicious-co-ltd"}
+{"symbol":"269620","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"487400","exchange":"KRX","status":"ok","logoid":"kns"}
+{"symbol":"327610","exchange":"KRX","status":"ok","logoid":"femtobiomed"}

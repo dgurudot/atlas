@@ -327,3 +327,7 @@
 {"symbol":"CFIMBD4C_E0","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
 {"symbol":"NAVARINO","exchange":"BCS","status":"ok","logoid":"navarino-sa"}
 {"symbol":"POLPAICO","exchange":"BCS","status":"ok","logoid":"cemento-polpaico"}
+{"symbol":"CFIDRE4R_E1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIBTGRE1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"VICONTO","exchange":"BCS","status":"ok","logoid":"fruticola-viconto"}
+{"symbol":"BSANTANDER0","exchange":"BCS","status":"ok","logoid":"santander"}

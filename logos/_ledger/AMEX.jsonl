@@ -3052,3 +3052,13 @@
 {"symbol":"CSRA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MPIM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MPDY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ANTW","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"DEPW","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GAIQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"OAIW","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"XAIW","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ANTW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DEPW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GAIQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OAIW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XAIW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

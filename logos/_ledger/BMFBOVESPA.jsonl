@@ -2350,3 +2350,11 @@
 {"symbol":"RBFY11","exchange":"BMFBOVESPA","status":"ok","logoid":"riobravo"}
 {"symbol":"K1IM34","exchange":"BMFBOVESPA","status":"ok","logoid":"kimco-realty-hc"}
 {"symbol":"SPGM15","exchange":"BMFBOVESPA","status":"ok","logoid":"spgm-fundo-de-investimento-imobiliario-senior"}
+{"symbol":"AMAB11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"MAPT3","exchange":"BMFBOVESPA","status":"ok","logoid":"cemepe-on"}
+{"symbol":"P1PL34","exchange":"BMFBOVESPA","status":"ok","logoid":"ppl"}
+{"symbol":"HIWP34","exchange":"BMFBOVESPA","status":"ok","logoid":"highwoods-properties"}
+{"symbol":"RZDL11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"U1MH34","exchange":"BMFBOVESPA","status":"ok","logoid":"umh-prop"}
+{"symbol":"CBEE3","exchange":"BMFBOVESPA","status":"ok","logoid":"ampla-energ-on"}
+{"symbol":"Z1TO34","exchange":"BMFBOVESPA","status":"ok","logoid":"zto-express-cayman"}

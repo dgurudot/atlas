@@ -2162,3 +2162,14 @@
 {"symbol":"XDWH/N","exchange":"BMV","status":"ok","logoid":"dws"}
 {"symbol":"OPTIMA/N","exchange":"BMV","status":"ok","logoid":"optima-bank-sa-cr"}
 {"symbol":"YETI","exchange":"BMV","status":"ok","logoid":"yeti"}
+{"symbol":"CAVA","exchange":"BMV","status":"ok","logoid":"cava"}
+{"symbol":"FEX","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"ERO/N","exchange":"BMV","status":"ok","logoid":"ero-copper"}
+{"symbol":"REM","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"IEZ","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"EXC","exchange":"BMV","status":"ok","logoid":"exelon"}
+{"symbol":"FMC1","exchange":"BMV","status":"ok","logoid":"fmc"}
+{"symbol":"WCBR1/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"FSITES/20","exchange":"BMV","status":"ok","logoid":"operadora-de-sites-mexicanos-sa-cv"}
+{"symbol":"WPAI/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"XEOU/N","exchange":"BMV","status":"ok","logoid":"dws"}

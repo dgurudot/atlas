@@ -262,3 +262,6 @@
 {"symbol":"ELER","exchange":"BVB","status":"ok","logoid":"elerom-roman"}
 {"symbol":"NUIA","exchange":"BVB","status":"ok","logoid":"abo-mix-sa"}
 {"symbol":"MESA","exchange":"BVB","status":"ok","logoid":"metalul-mesa-sa"}
+{"symbol":"METY","exchange":"BVB","status":"ok","logoid":"mecanica-rotes-targoviste"}
+{"symbol":"ELRD","exchange":"BVB","status":"ok","logoid":"electrecord-bucuresti"}
+{"symbol":"MECA","exchange":"BVB","status":"ok","logoid":"metalurgica-sa-bucuresti"}

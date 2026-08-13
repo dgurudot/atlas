@@ -1703,3 +1703,10 @@
 {"symbol":"CYUH","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"JCTA","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"FUTR","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"BNBA","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"CRON-USD","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"EHEB","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"AOPT","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"EMME","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"SYRUP-USD","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"XDCN-USD","exchange":"AMS","status":"ok","logoid":"21shares"}

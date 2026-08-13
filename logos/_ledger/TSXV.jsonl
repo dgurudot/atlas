@@ -1330,3 +1330,10 @@
 {"symbol":"CSOC.A","exchange":"TSXV","status":"ok","logoid":"canso-select-opportunities"}
 {"symbol":"WAVE","exchange":"TSXV","status":"ok","logoid":"waverley-pharma"}
 {"symbol":"YOO","exchange":"TSXV","status":"ok","logoid":"yangaroo"}
+{"symbol":"AFC.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ALTR.P","exchange":"TSXV","status":"ok","logoid":"alterego-ventures-24"}
+{"symbol":"PEZM.H","exchange":"TSXV","status":"ok","logoid":"pezm-gold"}
+{"symbol":"GUN","exchange":"TSXV","status":"ok","logoid":"gunpoint-exploration-ltd"}
+{"symbol":"SIQ.H","exchange":"TSXV","status":"ok","logoid":"siq-mountain-industries"}
+{"symbol":"BUZ.P","exchange":"TSXV","status":"ok","logoid":"buzz-capital"}
+{"symbol":"SHLL.P","exchange":"TSXV","status":"ok","logoid":"shellron-capital-ltd"}

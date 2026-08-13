@@ -581,3 +581,6 @@
 {"symbol":"PURR","exchange":"CSE","status":"ok","logoid":"gold-lion-resources"}
 {"symbol":"EYE","exchange":"CSE","status":"ok","logoid":"rise-nano-optics-ltd"}
 {"symbol":"TMED.X","exchange":"CSE","status":"ok","logoid":"egf-theramed-health"}
+{"symbol":"FOG","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"BMND","exchange":"CSE","status":"ok","logoid":"biomind-labs"}
+{"symbol":"ISFT","exchange":"CSE","status":"ok","logoid":"icesoft-technologies-canada"}

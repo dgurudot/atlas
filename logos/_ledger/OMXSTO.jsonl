@@ -871,3 +871,7 @@
 {"symbol":"ZZ_B","exchange":"OMXSTO","status":"ok","logoid":"zinzino-ab-ser-b"}
 {"symbol":"WWIO","exchange":"OMXSTO","status":"ok","logoid":"wilh-wilhelmsen-hldg-asa"}
 {"symbol":"SPACEN_B","exchange":"OMXSTO","status":"ok","logoid":"hifab-ab-ser-b"}
+{"symbol":"AQUAO","exchange":"OMXSTO","status":"ok","logoid":"abl-asa"}
+{"symbol":"PREC_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"ODFBO","exchange":"OMXSTO","status":"ok","logoid":"odfjell-se"}
+{"symbol":"SALMEO","exchange":"OMXSTO","status":"ok","logoid":"salmon-evolution-asa"}

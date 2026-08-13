@@ -2926,3 +2926,4 @@
 {"symbol":"IBQT","exchange":"TSX","status":"ok","logoid":"ishares"}
 {"symbol":"XINT","exchange":"TSX","status":"ok","logoid":"ishares"}
 {"symbol":"TALA","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"ARN","exchange":"TSX","status":"nologo","logoid":null}

@@ -2226,3 +2226,6 @@
 {"symbol":"CTE","exchange":"ASX","status":"ok","logoid":"cryosite-limited"}
 {"symbol":"WSI","exchange":"ASX","status":"ok","logoid":"weststar-industrial-limited"}
 {"symbol":"DTR","exchange":"ASX","status":"ok","logoid":"dateline-resources-limited"}
+{"symbol":"AMO","exchange":"ASX","status":"ok","logoid":"ambertech-limited"}
+{"symbol":"RIOCD","exchange":"ASX","status":"ok","logoid":"rio-tinto"}
+{"symbol":"SST","exchange":"ASX","status":"ok","logoid":"steamships-trading-company-limited"}

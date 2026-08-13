@@ -2800,3 +2800,7 @@
 {"symbol":"MTB/PL","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PSA/PU","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PSA/PT","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FOIL","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"RVII","exchange":"NYSE","status":"ok","logoid":"robinhood"}
+{"symbol":"YCY.U","exchange":"NYSE","status":"ok","logoid":"aa-mission-acquisition"}
+{"symbol":"FOIL","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

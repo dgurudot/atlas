@@ -5297,3 +5297,13 @@
 {"symbol":"XSLLU","exchange":"NASDAQ","status":"ok","logoid":"xsolla-spac-1"}
 {"symbol":"MPIA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PLCI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"COOL","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CGPT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"VOGX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"GHXI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"QADRU","exchange":"NASDAQ","status":"ok","logoid":"qdro-acquisition-units-cons-of-1-shs-a-1-2-red-wt"}
+{"symbol":"TBCVU","exchange":"NASDAQ","status":"ok","logoid":"thunder-bridge-capital-partners-v-ltd"}
+{"symbol":"CGPT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"COOL","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GHXI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VOGX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

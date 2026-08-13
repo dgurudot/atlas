@@ -1417,3 +1417,12 @@
 {"symbol":"AIGC","exchange":"BCBA","status":"ok","logoid":"american-international-group"}
 {"symbol":"GTC","exchange":"BCBA","status":"ok","logoid":"goodyear-tire-and-rubber"}
 {"symbol":"VIVD","exchange":"BCBA","status":"ok","logoid":"telefonica"}
+{"symbol":"ERICD","exchange":"BCBA","status":"ok","logoid":"ericsson"}
+{"symbol":"BAYN","exchange":"BCBA","status":"ok","logoid":"bayer"}
+{"symbol":"GLWC","exchange":"BCBA","status":"ok","logoid":"corning"}
+{"symbol":"CCL.CI","exchange":"BCBA","status":"ok","logoid":"carnival"}
+{"symbol":"ALABD","exchange":"BCBA","status":"ok","logoid":"astera-labs"}
+{"symbol":"INTCB","exchange":"BCBA","status":"ok","logoid":"intel"}
+{"symbol":"ASR.CI","exchange":"BCBA","status":"ok","logoid":"gpo-aeroportuario-del-sureste"}
+{"symbol":"SAMID","exchange":"BCBA","status":"ok","logoid":"san-miguel"}
+{"symbol":"TJXD","exchange":"BCBA","status":"ok","logoid":"tjx-cos"}

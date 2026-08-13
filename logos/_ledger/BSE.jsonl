@@ -5117,3 +5117,8 @@
 {"symbol":"OLYMTFI","exchange":"BSE","status":"ok","logoid":"olympic-management-and-financial-services-ltd"}
 {"symbol":"SMAUTO","exchange":"BSE","status":"ok","logoid":"sm-auto-stamping-limited"}
 {"symbol":"VKGLOBAL","exchange":"BSE","status":"ok","logoid":"sps-international-ltd"}
+{"symbol":"LAPL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"MUNCAPM","exchange":"BSE","status":"ok","logoid":"munoth-capital-market-ltd"}
+{"symbol":"PURITY","exchange":"BSE","status":"ok","logoid":"purity-flex-pack-ltd"}
+{"symbol":"SOLEX","exchange":"BSE","status":"ok","logoid":"solex-energy-ltd"}
+{"symbol":"SWARAJ","exchange":"BSE","status":"ok","logoid":"swaraj-suiting-ltd"}

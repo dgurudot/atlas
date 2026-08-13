@@ -3810,3 +3810,12 @@
 {"symbol":"JGBL","exchange":"EPA","status":"ok","logoid":"henderson-diversified-income"}
 {"symbol":"MLLAB","exchange":"EPA","status":"ok","logoid":"media-lab"}
 {"symbol":"SPX3S","exchange":"EPA","status":"ok","logoid":"societe-generale"}
+{"symbol":"BS29","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"AWDSR","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"HPAE","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"ICLU","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"LCEUD","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"XNZE","exchange":"EPA","status":"ok","logoid":"dws"}
+{"symbol":"MLDAM","exchange":"EPA","status":"ok","logoid":"damaris"}
+{"symbol":"ISCH","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"MLIFC","exchange":"EPA","status":"ok","logoid":"infoclip"}

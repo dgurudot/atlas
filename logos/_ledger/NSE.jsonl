@@ -3329,3 +3329,7 @@
 {"symbol":"REXPIPES","exchange":"NSE","status":"ok","logoid":"rex-pipes-and-cables"}
 {"symbol":"WALPAR","exchange":"NSE","status":"ok","logoid":"walpar-nutritions"}
 {"symbol":"SEITINVIT","exchange":"NSE","status":"ok","logoid":"sustainable-energy-infra"}
+{"symbol":"OPTIMYSTIX","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"LEAPIND","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"TECHNOCRAF","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"SHUKRAPHAR","exchange":"NSE","status":"ok","logoid":"shukra-pharmaceuticals-limited"}

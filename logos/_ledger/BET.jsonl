@@ -110,3 +110,5 @@
 {"symbol":"HU0000732029","exchange":"BET","status":"ok","logoid":"otpbknyr-gdr"}
 {"symbol":"WETH","exchange":"BET","status":"ok","logoid":"wisdomtree"}
 {"symbol":"EPROLIUSIA","exchange":"BET","status":"ok","logoid":"eprolius-ingatlan-nyrt-ordinary-share"}
+{"symbol":"IUFS","exchange":"BET","status":"ok","logoid":"ishares"}
+{"symbol":"FORRAS/OE","exchange":"BET","status":"ok","logoid":"forr-s-b-share"}

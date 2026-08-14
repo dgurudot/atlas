@@ -1426,3 +1426,11 @@
 {"symbol":"ASR.CI","exchange":"BCBA","status":"ok","logoid":"gpo-aeroportuario-del-sureste"}
 {"symbol":"SAMID","exchange":"BCBA","status":"ok","logoid":"san-miguel"}
 {"symbol":"TJXD","exchange":"BCBA","status":"ok","logoid":"tjx-cos"}
+{"symbol":"GGBC","exchange":"BCBA","status":"ok","logoid":"gerdau"}
+{"symbol":"CXC","exchange":"BCBA","status":"ok","logoid":"cemex"}
+{"symbol":"GRIM.CI","exchange":"BCBA","status":"ok","logoid":"grimoldi"}
+{"symbol":"EDSH","exchange":"BCBA","status":"ok","logoid":"edesa-sa"}
+{"symbol":"XPEVC","exchange":"BCBA","status":"ok","logoid":"xpeng"}
+{"symbol":"ALDAD","exchange":"BCBA","status":"ok","logoid":"allaria-fondos"}
+{"symbol":"TMUSC","exchange":"BCBA","status":"ok","logoid":"t-mobile"}
+{"symbol":"RIGO.CI","exchange":"BCBA","status":"ok","logoid":"rigolleau-sa"}

@@ -2229,3 +2229,7 @@
 {"symbol":"AMO","exchange":"ASX","status":"ok","logoid":"ambertech-limited"}
 {"symbol":"RIOCD","exchange":"ASX","status":"ok","logoid":"rio-tinto"}
 {"symbol":"SST","exchange":"ASX","status":"ok","logoid":"steamships-trading-company-limited"}
+{"symbol":"BH6","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"POW","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"GLL","exchange":"ASX","status":"ok","logoid":"galilee-energy-limited"}
+{"symbol":"MKAX","exchange":"ASX","status":"ok","logoid":"mon-globex-etf-units"}

@@ -2358,3 +2358,13 @@
 {"symbol":"U1MH34","exchange":"BMFBOVESPA","status":"ok","logoid":"umh-prop"}
 {"symbol":"CBEE3","exchange":"BMFBOVESPA","status":"ok","logoid":"ampla-energ-on"}
 {"symbol":"Z1TO34","exchange":"BMFBOVESPA","status":"ok","logoid":"zto-express-cayman"}
+{"symbol":"ABCB10F","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BAOM39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"EWJV39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"EUAT11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FPOR11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"TPRY34","exchange":"BMFBOVESPA","status":"ok","logoid":"tapestry"}
+{"symbol":"E1LV34","exchange":"BMFBOVESPA","status":"ok","logoid":"anthem"}
+{"symbol":"FRIO3F","exchange":"BMFBOVESPA","status":"ok","logoid":"metalfrio-on-nm"}
+{"symbol":"U1DR34","exchange":"BMFBOVESPA","status":"ok","logoid":"udr"}
+{"symbol":"RPAD6","exchange":"BMFBOVESPA","status":"ok","logoid":"alfa-holdingpna"}

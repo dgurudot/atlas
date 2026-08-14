@@ -339,3 +339,9 @@
 {"symbol":"XFVT.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
 {"symbol":"VDEM.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
 {"symbol":"SXLP.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"XSPX.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
+{"symbol":"IEML.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"SUES.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ESGB.GB","exchange":"AQUIS","status":"ok","logoid":"vaneck"}
+{"symbol":"HDLV.GB","exchange":"AQUIS","status":"ok","logoid":"invesco"}
+{"symbol":"GDH","exchange":"AQUIS","status":"ok","logoid":"gledhow-investments-plc"}

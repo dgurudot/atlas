@@ -5122,3 +5122,7 @@
 {"symbol":"PURITY","exchange":"BSE","status":"ok","logoid":"purity-flex-pack-ltd"}
 {"symbol":"SOLEX","exchange":"BSE","status":"ok","logoid":"solex-energy-ltd"}
 {"symbol":"SWARAJ","exchange":"BSE","status":"ok","logoid":"swaraj-suiting-ltd"}
+{"symbol":"LEAPIND","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"TECHNOCRAF","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"HANMAN","exchange":"BSE","status":"ok","logoid":"hanman-fit-limited"}
+{"symbol":"IGLFXPL_B","exchange":"BSE","status":"ok","logoid":"indo-gulf-industries-ltd"}

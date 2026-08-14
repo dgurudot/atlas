@@ -1337,3 +1337,10 @@
 {"symbol":"SIQ.H","exchange":"TSXV","status":"ok","logoid":"siq-mountain-industries"}
 {"symbol":"BUZ.P","exchange":"TSXV","status":"ok","logoid":"buzz-capital"}
 {"symbol":"SHLL.P","exchange":"TSXV","status":"ok","logoid":"shellron-capital-ltd"}
+{"symbol":"GCV","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"PLXX.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"FOBI","exchange":"TSXV","status":"ok","logoid":"fobi"}
+{"symbol":"KBRA","exchange":"TSXV","status":"ok","logoid":"kubera-gold"}
+{"symbol":"NAQ.P","exchange":"TSXV","status":"ok","logoid":"navigator-acquisition"}
+{"symbol":"PTFY","exchange":"TSXV","status":"ok","logoid":"plantify-foods"}
+{"symbol":"XOX.P","exchange":"TSXV","status":"ok","logoid":"planet-x-capital"}

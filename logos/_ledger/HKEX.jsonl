@@ -5614,3 +5614,5 @@
 {"symbol":"99","exchange":"HKEX","status":"ok","logoid":"wong-s-international-ltd"}
 {"symbol":"1702","exchange":"HKEX","status":"ok","logoid":"dongguang-chemical-ltd"}
 {"symbol":"287","exchange":"HKEX","status":"ok","logoid":"winfair-investment-co-ltd"}
+{"symbol":"2901","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"8310","exchange":"HKEX","status":"ok","logoid":"dafeng-port-heshun-tech-co-limited"}

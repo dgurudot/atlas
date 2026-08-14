@@ -331,3 +331,5 @@
 {"symbol":"CFIBTGRE1","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"VICONTO","exchange":"BCS","status":"ok","logoid":"fruticola-viconto"}
 {"symbol":"BSANTANDER0","exchange":"BCS","status":"ok","logoid":"santander"}
+{"symbol":"FOSFOROS","exchange":"BCS","status":"ok","logoid":"chilena-fosforos"}
+{"symbol":"CFIFALCSCA0","exchange":"BCS","status":"ok","logoid":"falcom-adm-general-de-fondos-sa-fdo-inv-falcom-chilean-fixed-income-m"}

@@ -2927,3 +2927,4 @@
 {"symbol":"XINT","exchange":"TSX","status":"ok","logoid":"ishares"}
 {"symbol":"TALA","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"ARN","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"TECY","exchange":"TSX","status":"ok","logoid":"evolve-etf"}

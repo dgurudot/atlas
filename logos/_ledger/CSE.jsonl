@@ -584,3 +584,6 @@
 {"symbol":"FOG","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"BMND","exchange":"CSE","status":"ok","logoid":"biomind-labs"}
 {"symbol":"ISFT","exchange":"CSE","status":"ok","logoid":"icesoft-technologies-canada"}
+{"symbol":"CGII","exchange":"CSE","status":"ok","logoid":"cleango-innovations"}
+{"symbol":"FNX","exchange":"CSE","status":"ok","logoid":"fnx"}
+{"symbol":"ALEN.U","exchange":"CSE","status":"ok","logoid":"aleen"}

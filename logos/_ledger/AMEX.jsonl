@@ -3062,3 +3062,8 @@
 {"symbol":"GAIQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OAIW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XAIW","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DACL","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HAWG","exchange":"AMEX","status":"ok","logoid":"hcm-defender-100-index-etf"}
+{"symbol":"MTAW","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
+{"symbol":"LEGO.U","exchange":"AMEX","status":"ok","logoid":"legato-merger-iii"}
+{"symbol":"DACL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

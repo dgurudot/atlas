@@ -5074,3 +5074,6 @@
 {"symbol":"TGTA","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MQ2","exchange":"XETR","status":"ok","logoid":"madison-square-garden"}
 {"symbol":"LQEU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"XAIG","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XBSE","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XBSK","exchange":"XETR","status":"ok","logoid":"dws"}

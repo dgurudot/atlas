@@ -875,3 +875,6 @@
 {"symbol":"PREC_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"ODFBO","exchange":"OMXSTO","status":"ok","logoid":"odfjell-se"}
 {"symbol":"SALMEO","exchange":"OMXSTO","status":"ok","logoid":"salmon-evolution-asa"}
+{"symbol":"CLOUDO","exchange":"OMXSTO","status":"ok","logoid":"cloudberry-clean-energy-asa"}
+{"symbol":"EIOFO","exchange":"OMXSTO","status":"ok","logoid":"eidesvik-offshore-asa"}
+{"symbol":"SCANAO","exchange":"OMXSTO","status":"ok","logoid":"scana-asa"}

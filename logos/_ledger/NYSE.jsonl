@@ -2804,3 +2804,5 @@
 {"symbol":"RVII","exchange":"NYSE","status":"ok","logoid":"robinhood"}
 {"symbol":"YCY.U","exchange":"NYSE","status":"ok","logoid":"aa-mission-acquisition"}
 {"symbol":"FOIL","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BEBE.U","exchange":"NYSE","status":"ok","logoid":"tge-value-creative-solutions-units-cons-of-1-shs-a-1-2-red-wt"}
+{"symbol":"SAC.U","exchange":"NYSE","status":"ok","logoid":"safeguard-acquisition-units-cons-of-1-shs-a-1-2-red-wt"}

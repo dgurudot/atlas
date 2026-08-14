@@ -265,3 +265,6 @@
 {"symbol":"METY","exchange":"BVB","status":"ok","logoid":"mecanica-rotes-targoviste"}
 {"symbol":"ELRD","exchange":"BVB","status":"ok","logoid":"electrecord-bucuresti"}
 {"symbol":"MECA","exchange":"BVB","status":"ok","logoid":"metalurgica-sa-bucuresti"}
+{"symbol":"SIRJ","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"COBU","exchange":"BVB","status":"ok","logoid":"renewable-management-sa"}
+{"symbol":"COTN","exchange":"BVB","status":"ok","logoid":"comrep-sa-ploiesti"}

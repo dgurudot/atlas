@@ -1860,3 +1860,5 @@
 {"symbol":"STLL","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"MPDB","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"STLL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"EXPN","exchange":"CBOE","status":"ok","logoid":"horizon-kinetics-inflation"}
+{"symbol":"YLDY","exchange":"CBOE","status":"ok","logoid":"hoizons"}

@@ -333,3 +333,8 @@
 {"symbol":"BSANTANDER0","exchange":"BCS","status":"ok","logoid":"santander"}
 {"symbol":"FOSFOROS","exchange":"BCS","status":"ok","logoid":"chilena-fosforos"}
 {"symbol":"CFIFALCSCA0","exchange":"BCS","status":"ok","logoid":"falcom-adm-general-de-fondos-sa-fdo-inv-falcom-chilean-fixed-income-m"}
+{"symbol":"GOOG1","exchange":"BCS","status":"ok","logoid":"alphabet"}
+{"symbol":"ILC1","exchange":"BCS","status":"ok","logoid":"inv-la-construccio"}
+{"symbol":"HABITAT1","exchange":"BCS","status":"ok","logoid":"afp-habitat-sa"}
+{"symbol":"CFI_MBPDUI0","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
+{"symbol":"CAMARONEX","exchange":"BCS","status":"ok","logoid":"pampa-camarones-spa-class-b"}

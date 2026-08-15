@@ -1862,3 +1862,4 @@
 {"symbol":"STLL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"EXPN","exchange":"CBOE","status":"ok","logoid":"horizon-kinetics-inflation"}
 {"symbol":"YLDY","exchange":"CBOE","status":"ok","logoid":"hoizons"}
+{"symbol":"BEMD","exchange":"CBOE","status":"ok","logoid":"bny-mellon-core-bond-etf"}

@@ -345,3 +345,5 @@
 {"symbol":"ESGB.GB","exchange":"AQUIS","status":"ok","logoid":"vaneck"}
 {"symbol":"HDLV.GB","exchange":"AQUIS","status":"ok","logoid":"invesco"}
 {"symbol":"GDH","exchange":"AQUIS","status":"ok","logoid":"gledhow-investments-plc"}
+{"symbol":"SPDI.GB","exchange":"AQUIS","status":"ok","logoid":"secure-property-dev-and-inv-plc-ord-eur001-di"}
+{"symbol":"TSP","exchange":"AQUIS","status":"ok","logoid":"truspine-technologies-plc"}

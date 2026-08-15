@@ -1344,3 +1344,14 @@
 {"symbol":"NAQ.P","exchange":"TSXV","status":"ok","logoid":"navigator-acquisition"}
 {"symbol":"PTFY","exchange":"TSXV","status":"ok","logoid":"plantify-foods"}
 {"symbol":"XOX.P","exchange":"TSXV","status":"ok","logoid":"planet-x-capital"}
+{"symbol":"DCY","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"GFTA","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"AIME.P","exchange":"TSXV","status":"ok","logoid":"aim5-ventures"}
+{"symbol":"PSVA","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"AUR.H","exchange":"TSXV","status":"ok","logoid":"aurora-royalties"}
+{"symbol":"OMR.H","exchange":"TSXV","status":"ok","logoid":"ord-mountain-resources"}
+{"symbol":"CAC.P","exchange":"TSXV","status":"ok","logoid":"cinaport-acquisition-iii"}
+{"symbol":"RRRL","exchange":"TSXV","status":"ok","logoid":"river-road-resources-ltd"}
+{"symbol":"VAX.H","exchange":"TSXV","status":"ok","logoid":"vantex-resources-ltd"}
+{"symbol":"SVP.H","exchange":"TSXV","status":"ok","logoid":"sceptre-ventures"}
+{"symbol":"WT.H","exchange":"TSXV","status":"ok","logoid":"wangton-capital"}

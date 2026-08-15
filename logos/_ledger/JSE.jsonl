@@ -468,3 +468,4 @@
 {"symbol":"ZED","exchange":"JSE","status":"ok","logoid":"zeder-inv-ltd"}
 {"symbol":"AMC008","exchange":"JSE","status":"ok","logoid":"sb-anchor-eq-opportunity"}
 {"symbol":"AII","exchange":"JSE","status":"ok","logoid":"aimia"}
+{"symbol":"MUETNQ","exchange":"JSE","status":"nologo","logoid":null}

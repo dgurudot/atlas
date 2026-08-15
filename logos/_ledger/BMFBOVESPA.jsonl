@@ -2368,3 +2368,12 @@
 {"symbol":"FRIO3F","exchange":"BMFBOVESPA","status":"ok","logoid":"metalfrio-on-nm"}
 {"symbol":"U1DR34","exchange":"BMFBOVESPA","status":"ok","logoid":"udr"}
 {"symbol":"RPAD6","exchange":"BMFBOVESPA","status":"ok","logoid":"alfa-holdingpna"}
+{"symbol":"ABCB10","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BSCZ39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"VVDI11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"A1ON34","exchange":"BMFBOVESPA","status":"ok","logoid":"aon"}
+{"symbol":"AXRP39","exchange":"BMFBOVESPA","status":"ok","logoid":"21shares"}
+{"symbol":"K1MX34","exchange":"BMFBOVESPA","status":"ok","logoid":"carmax"}
+{"symbol":"FSTU11","exchange":"BMFBOVESPA","status":"ok","logoid":"fiset-fl-refci"}
+{"symbol":"R1EG34","exchange":"BMFBOVESPA","status":"ok","logoid":"regency-centers"}
+{"symbol":"DVLP11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-egdb-ci"}

@@ -1434,3 +1434,8 @@
 {"symbol":"ALDAD","exchange":"BCBA","status":"ok","logoid":"allaria-fondos"}
 {"symbol":"TMUSC","exchange":"BCBA","status":"ok","logoid":"t-mobile"}
 {"symbol":"RIGO.CI","exchange":"BCBA","status":"ok","logoid":"rigolleau-sa"}
+{"symbol":"KEELC","exchange":"BCBA","status":"ok","logoid":"bitfarms"}
+{"symbol":"NEEC","exchange":"BCBA","status":"ok","logoid":"nextera-energy"}
+{"symbol":"SBSPD","exchange":"BCBA","status":"ok","logoid":"sabesp"}
+{"symbol":"KEP.CI","exchange":"BCBA","status":"ok","logoid":"korea-electric-power"}
+{"symbol":"NMR.CI","exchange":"BCBA","status":"ok","logoid":"nomura"}

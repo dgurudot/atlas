@@ -1712,3 +1712,6 @@
 {"symbol":"XDCN-USD","exchange":"AMS","status":"ok","logoid":"21shares"}
 {"symbol":"WNSF","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"WSDC","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"AXTZ","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"MAXD","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"PARI","exchange":"AMS","status":"ok","logoid":"franklin-templeton"}

@@ -3333,3 +3333,5 @@
 {"symbol":"LEAPIND","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"TECHNOCRAF","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SHUKRAPHAR","exchange":"NSE","status":"ok","logoid":"shukra-pharmaceuticals-limited"}
+{"symbol":"TRANSWIND","exchange":"NSE","status":"ok","logoid":"transwind-infrastr"}
+{"symbol":"SMVD","exchange":"NSE","status":"ok","logoid":"smvd-poly-pack-ltd"}

@@ -268,3 +268,5 @@
 {"symbol":"SIRJ","exchange":"BVB","status":"nologo","logoid":null}
 {"symbol":"COBU","exchange":"BVB","status":"ok","logoid":"renewable-management-sa"}
 {"symbol":"COTN","exchange":"BVB","status":"ok","logoid":"comrep-sa-ploiesti"}
+{"symbol":"ALV","exchange":"BVB","status":"ok","logoid":"allianz"}
+{"symbol":"CACU","exchange":"BVB","status":"ok","logoid":"comat-cluj-napoca"}

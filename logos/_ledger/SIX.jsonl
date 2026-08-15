@@ -2594,3 +2594,13 @@
 {"symbol":"WMT","exchange":"SIX","status":"ok","logoid":"walmart"}
 {"symbol":"XZSP","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"PRX","exchange":"SIX","status":"ok","logoid":"prosus"}
+{"symbol":"BYND","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"33ID.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"HEDF.EUR","exchange":"SIX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"IMBS.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"CHFO","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"HERU","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"NFLX.USD","exchange":"SIX","status":"ok","logoid":"netflix"}
+{"symbol":"IONQ","exchange":"SIX","status":"ok","logoid":"ionq"}
+{"symbol":"IOS","exchange":"SIX","status":"ok","logoid":"ionos-se"}
+{"symbol":"XIFE","exchange":"SIX","status":"ok","logoid":"dws"}

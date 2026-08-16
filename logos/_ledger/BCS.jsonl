@@ -338,3 +338,5 @@
 {"symbol":"HABITAT1","exchange":"BCS","status":"ok","logoid":"afp-habitat-sa"}
 {"symbol":"CFI_MBPDUI0","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
 {"symbol":"CAMARONEX","exchange":"BCS","status":"ok","logoid":"pampa-camarones-spa-class-b"}
+{"symbol":"CSCO1","exchange":"BCS","status":"ok","logoid":"cisco"}
+{"symbol":"CENCOSUD0","exchange":"BCS","status":"ok","logoid":"cencosud-sa"}

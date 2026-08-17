@@ -1863,3 +1863,4 @@
 {"symbol":"EXPN","exchange":"CBOE","status":"ok","logoid":"horizon-kinetics-inflation"}
 {"symbol":"YLDY","exchange":"CBOE","status":"ok","logoid":"hoizons"}
 {"symbol":"BEMD","exchange":"CBOE","status":"ok","logoid":"bny-mellon-core-bond-etf"}
+{"symbol":"SIC","exchange":"CBOE","status":"ok","logoid":"metal/silver"}

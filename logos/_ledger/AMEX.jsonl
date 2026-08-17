@@ -3068,3 +3068,5 @@
 {"symbol":"LEGO.U","exchange":"AMEX","status":"ok","logoid":"legato-merger-iii"}
 {"symbol":"DACL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HBIL","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
+{"symbol":"ZINN","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ZINN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

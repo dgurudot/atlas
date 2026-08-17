@@ -5127,3 +5127,8 @@
 {"symbol":"HANMAN","exchange":"BSE","status":"ok","logoid":"hanman-fit-limited"}
 {"symbol":"IGLFXPL_B","exchange":"BSE","status":"ok","logoid":"indo-gulf-industries-ltd"}
 {"symbol":"TAPARIA","exchange":"BSE","status":"ok","logoid":"taparia-tools-ltd"}
+{"symbol":"AIRLTD","exchange":"BSE","status":"ok","logoid":"avishkar-infra-realty-limited"}
+{"symbol":"DHOOTTRANS","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"MOLBIO","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"NIRMITEE","exchange":"BSE","status":"ok","logoid":"nirmitee-robotics-india-limite"}
+{"symbol":"OSWALOR","exchange":"BSE","status":"ok","logoid":"oswal-overseas-ltd"}

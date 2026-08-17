@@ -340,3 +340,5 @@
 {"symbol":"CAMARONEX","exchange":"BCS","status":"ok","logoid":"pampa-camarones-spa-class-b"}
 {"symbol":"CSCO1","exchange":"BCS","status":"ok","logoid":"cisco"}
 {"symbol":"CENCOSUD0","exchange":"BCS","status":"ok","logoid":"cencosud-sa"}
+{"symbol":"VCL1","exchange":"BCS","status":"ok","logoid":"visa"}
+{"symbol":"CENCOSUD1","exchange":"BCS","status":"ok","logoid":"cencosud-sa"}

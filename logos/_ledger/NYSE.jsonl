@@ -2806,3 +2806,7 @@
 {"symbol":"FOIL","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BEBE.U","exchange":"NYSE","status":"ok","logoid":"tge-value-creative-solutions-units-cons-of-1-shs-a-1-2-red-wt"}
 {"symbol":"SAC.U","exchange":"NYSE","status":"ok","logoid":"safeguard-acquisition-units-cons-of-1-shs-a-1-2-red-wt"}
+{"symbol":"DUKU","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"ALUB.U","exchange":"NYSE","status":"ok","logoid":"alussa-energy-acquisition-ii-units-cons-of-1-shs-a-1-3-red-wt"}
+{"symbol":"WPAC.U","exchange":"NYSE","status":"ok","logoid":"white-pearl-acquisition-units-cons-of-1-shs-a-1-rt"}
+{"symbol":"DUKU","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

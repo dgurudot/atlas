@@ -4258,3 +4258,4 @@
 {"symbol":"9996","exchange":"TSE","status":"ok","logoid":"satoh-and-co-ltd"}
 {"symbol":"9997","exchange":"TSE","status":"ok","logoid":"belluna-co"}
 {"symbol":"522A","exchange":"TSE","status":"ok","logoid":"coel"}
+{"symbol":"171A","exchange":"TSE","status":"nologo","logoid":null}

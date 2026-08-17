@@ -2233,3 +2233,5 @@
 {"symbol":"POW","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"GLL","exchange":"ASX","status":"ok","logoid":"galilee-energy-limited"}
 {"symbol":"MKAX","exchange":"ASX","status":"ok","logoid":"mon-globex-etf-units"}
+{"symbol":"ID8DA","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"MSI","exchange":"ASX","status":"ok","logoid":"multistack-international-limited"}

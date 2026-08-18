@@ -661,3 +661,7 @@
 {"symbol":"RCU","exchange":"SGX","status":"ok","logoid":"assurance-hc"}
 {"symbol":"CJN","exchange":"SGX","status":"ok","logoid":"british-and-malayan-limited"}
 {"symbol":"540","exchange":"SGX","status":"ok","logoid":"tung-lok-rest"}
+{"symbol":"580","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"1F0","exchange":"SGX","status":"ok","logoid":"shopper360"}
+{"symbol":"5HG","exchange":"SGX","status":"ok","logoid":"edition"}
+{"symbol":"PPC","exchange":"SGX","status":"ok","logoid":"prospercap"}

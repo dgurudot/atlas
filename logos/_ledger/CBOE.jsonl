@@ -1864,3 +1864,13 @@
 {"symbol":"YLDY","exchange":"CBOE","status":"ok","logoid":"hoizons"}
 {"symbol":"BEMD","exchange":"CBOE","status":"ok","logoid":"bny-mellon-core-bond-etf"}
 {"symbol":"SIC","exchange":"CBOE","status":"ok","logoid":"metal/silver"}
+{"symbol":"AXTQ","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"COHQ","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"IACL","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LWLX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"METQ","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"IACL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LWLX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"COHQ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"METQ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AXTQ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

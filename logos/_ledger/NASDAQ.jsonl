@@ -5337,3 +5337,16 @@
 {"symbol":"NUR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CGCF","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MRCO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AINF","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"NSAIU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AACPU","exchange":"NASDAQ","status":"ok","logoid":"apogee-acquisition"}
+{"symbol":"ARCLU","exchange":"NASDAQ","status":"ok","logoid":"arc-acquisition-i-units-cons-of-1-sh-a-1-2-red-wt"}
+{"symbol":"FSHP","exchange":"NASDAQ","status":"ok","logoid":"flag-ship-acquisition"}
+{"symbol":"IA","exchange":"NASDAQ","status":"ok","logoid":"innovative-solutions-and-support"}
+{"symbol":"XCSH","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"XTERU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NTWOU","exchange":"NASDAQ","status":"ok","logoid":"newbury-street-acquisition"}
+{"symbol":"SVAQU","exchange":"NASDAQ","status":"ok","logoid":"spring-valley-acquisition-ii"}
+{"symbol":"NSAIU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XCSH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XTERU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

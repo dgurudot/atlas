@@ -347,3 +347,11 @@
 {"symbol":"GDH","exchange":"AQUIS","status":"ok","logoid":"gledhow-investments-plc"}
 {"symbol":"SPDI.GB","exchange":"AQUIS","status":"ok","logoid":"secure-property-dev-and-inv-plc-ord-eur001-di"}
 {"symbol":"TSP","exchange":"AQUIS","status":"ok","logoid":"truspine-technologies-plc"}
+{"symbol":"EMQP.GB","exchange":"AQUIS","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"IWMO.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"NMD","exchange":"AQUIS","status":"nologo","logoid":null}
+{"symbol":"IEFV.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"WDSC.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"SUJP.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ALSP","exchange":"AQUIS","status":"ok","logoid":"ace-liberty-and-stone-plc"}
+{"symbol":"VSA","exchange":"AQUIS","status":"ok","logoid":"vsa-capital-plc"}

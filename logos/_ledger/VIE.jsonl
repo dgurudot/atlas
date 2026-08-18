@@ -1425,3 +1425,4 @@
 {"symbol":"ZAG","exchange":"VIE","status":"ok","logoid":"zumtobel-ag"}
 {"symbol":"VAS","exchange":"VIE","status":"ok","logoid":"vas-ag"}
 {"symbol":"GHC","exchange":"VIE","status":"ok","logoid":"gallmetzer-healthcare-spa"}
+{"symbol":"HUS","exchange":"VIE","status":"ok","logoid":"hutter-and-schrantz-ag"}

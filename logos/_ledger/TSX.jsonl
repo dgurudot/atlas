@@ -2928,3 +2928,5 @@
 {"symbol":"TALA","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"ARN","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"TECY","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
+{"symbol":"GIGF","exchange":"TSX","status":"ok","logoid":"guardian-capital-ltd"}
+{"symbol":"GIGF.F","exchange":"TSX","status":"ok","logoid":"guardian-capital-ltd"}

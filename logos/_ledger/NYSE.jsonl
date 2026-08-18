@@ -2810,3 +2810,5 @@
 {"symbol":"ALUB.U","exchange":"NYSE","status":"ok","logoid":"alussa-energy-acquisition-ii-units-cons-of-1-shs-a-1-3-red-wt"}
 {"symbol":"WPAC.U","exchange":"NYSE","status":"ok","logoid":"white-pearl-acquisition-units-cons-of-1-shs-a-1-rt"}
 {"symbol":"DUKU","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VMRK","exchange":"NYSE","status":"ok","logoid":"equity-residential"}
+{"symbol":"XFLH.U","exchange":"NYSE","status":"ok","logoid":"xflh-capital-units-cons-of-1-sh-1-rt"}

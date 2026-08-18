@@ -3833,3 +3833,15 @@
 {"symbol":"HUST","exchange":"EPA","status":"ok","logoid":"hsbc"}
 {"symbol":"MLHBB","exchange":"EPA","status":"ok","logoid":"hoche-bains-lbain"}
 {"symbol":"NR21","exchange":"EPA","status":"ok","logoid":"nr-21"}
+{"symbol":"AIPU","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"BSRIC-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"EXS","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"PAACE-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"MLVIE","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"HECB","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"SRIC7-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"R2EH","exchange":"EPA","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"MLINA","exchange":"EPA","status":"ok","logoid":"inmolecule-nanotech-sa"}
+{"symbol":"MLAIG","exchange":"EPA","status":"ok","logoid":"andino-inversiones-global-sa"}
+{"symbol":"JEAA","exchange":"EPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JSHE","exchange":"EPA","status":"ok","logoid":"jpmorgan"}

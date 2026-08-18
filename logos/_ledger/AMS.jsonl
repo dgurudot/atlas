@@ -1715,3 +1715,8 @@
 {"symbol":"AXTZ","exchange":"AMS","status":"ok","logoid":"21shares"}
 {"symbol":"MAXD","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"PARI","exchange":"AMS","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"MAXS","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"HDRA","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"BOLD","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"INFEA","exchange":"AMS","status":"ok","logoid":"horizon-kinetics-inflation"}
+{"symbol":"VTRX-USD","exchange":"AMS","status":"ok","logoid":"vaneck"}

@@ -342,3 +342,9 @@
 {"symbol":"CENCOSUD0","exchange":"BCS","status":"ok","logoid":"cencosud-sa"}
 {"symbol":"VCL1","exchange":"BCS","status":"ok","logoid":"visa"}
 {"symbol":"CENCOSUD1","exchange":"BCS","status":"ok","logoid":"cencosud-sa"}
+{"symbol":"CFIBTGDL0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFI_ETFEM","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"MCD1","exchange":"BCS","status":"ok","logoid":"mcdonalds"}
+{"symbol":"XOMCL1","exchange":"BCS","status":"ok","logoid":"exxon"}
+{"symbol":"NEM1","exchange":"BCS","status":"ok","logoid":"newmont"}
+{"symbol":"GOLF0","exchange":"BCS","status":"ok","logoid":"club-de-golf"}

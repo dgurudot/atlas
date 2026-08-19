@@ -665,3 +665,6 @@
 {"symbol":"1F0","exchange":"SGX","status":"ok","logoid":"shopper360"}
 {"symbol":"5HG","exchange":"SGX","status":"ok","logoid":"edition"}
 {"symbol":"PPC","exchange":"SGX","status":"ok","logoid":"prospercap"}
+{"symbol":"VK8","exchange":"SGX","status":"ok","logoid":"uob"}
+{"symbol":"40N","exchange":"SGX","status":"ok","logoid":"versalink"}
+{"symbol":"SBV","exchange":"SGX","status":"ok","logoid":"lion-ospl-china-l-s"}

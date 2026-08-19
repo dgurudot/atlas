@@ -5350,3 +5350,13 @@
 {"symbol":"NSAIU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XCSH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XTERU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CROB","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"CCAQU","exchange":"NASDAQ","status":"ok","logoid":"dune-acquisition-ii"}
+{"symbol":"KSMH","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CCIIU","exchange":"NASDAQ","status":"ok","logoid":"cohen-circle-acquisition-ii-units-cons-of-1-shs-a-1-4-red-wt"}
+{"symbol":"HVMCU","exchange":"NASDAQ","status":"ok","logoid":"highview-merger-units-cons-of-1-sh-a-1-2-red-wt"}
+{"symbol":"IPFXU","exchange":"NASDAQ","status":"ok","logoid":"maywood-acquisition"}
+{"symbol":"RDACU","exchange":"NASDAQ","status":"ok","logoid":"rising-dragon-acquisition"}
+{"symbol":"OIMAU","exchange":"NASDAQ","status":"ok","logoid":"oneim-acquisition-units-cons-of-1-shs-a-1-6-red-wt"}
+{"symbol":"UYSCU","exchange":"NASDAQ","status":"ok","logoid":"uy-scuti-acquisition"}
+{"symbol":"KSMH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

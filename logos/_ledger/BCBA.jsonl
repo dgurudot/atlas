@@ -1439,3 +1439,7 @@
 {"symbol":"SBSPD","exchange":"BCBA","status":"ok","logoid":"sabesp"}
 {"symbol":"KEP.CI","exchange":"BCBA","status":"ok","logoid":"korea-electric-power"}
 {"symbol":"NMR.CI","exchange":"BCBA","status":"ok","logoid":"nomura"}
+{"symbol":"TEVIF","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ONDSC","exchange":"BCBA","status":"ok","logoid":"ondas"}
+{"symbol":"SIDC","exchange":"BCBA","status":"ok","logoid":"companhia-siderurgica-nacional"}
+{"symbol":"ZMC","exchange":"BCBA","status":"ok","logoid":"zoom-video-communications"}

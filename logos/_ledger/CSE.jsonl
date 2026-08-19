@@ -590,3 +590,5 @@
 {"symbol":"CPIF","exchange":"CSE","status":"ok","logoid":"caldwell-us-divid-advantage"}
 {"symbol":"GPK","exchange":"CSE","status":"ok","logoid":"grand-peak-capital"}
 {"symbol":"METX","exchange":"CSE","status":"ok","logoid":"me-therapeutics-hldgs"}
+{"symbol":"LIVE","exchange":"CSE","status":"ok","logoid":"live-energy-minerals"}
+{"symbol":"VIBE","exchange":"CSE","status":"ok","logoid":"vibe-growth"}

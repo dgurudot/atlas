@@ -271,3 +271,8 @@
 {"symbol":"ALV","exchange":"BVB","status":"ok","logoid":"allianz"}
 {"symbol":"CACU","exchange":"BVB","status":"ok","logoid":"comat-cluj-napoca"}
 {"symbol":"PRIB","exchange":"BVB","status":"ok","logoid":"primcom-bucuresti"}
+{"symbol":"TRSB","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"BNAT","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"GIBXTETF","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"SCDM","exchange":"BVB","status":"ok","logoid":"unirea-shopping-center-bucuresti"}
+{"symbol":"STOF","exchange":"BVB","status":"ok","logoid":"stofe-sa-buhusi"}

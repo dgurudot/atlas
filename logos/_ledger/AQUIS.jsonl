@@ -356,3 +356,6 @@
 {"symbol":"ALSP","exchange":"AQUIS","status":"ok","logoid":"ace-liberty-and-stone-plc"}
 {"symbol":"VSA","exchange":"AQUIS","status":"ok","logoid":"vsa-capital-plc"}
 {"symbol":"UNTU","exchange":"AQUIS","status":"ok","logoid":"techfinancials-inc"}
+{"symbol":"IUVF.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"LQDE.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"XSX6.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}

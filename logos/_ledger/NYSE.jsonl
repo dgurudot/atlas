@@ -2813,3 +2813,10 @@
 {"symbol":"VMRK","exchange":"NYSE","status":"ok","logoid":"equity-residential"}
 {"symbol":"XFLH.U","exchange":"NYSE","status":"ok","logoid":"xflh-capital-units-cons-of-1-sh-1-rt"}
 {"symbol":"CLBR.U","exchange":"NYSE","status":"ok","logoid":"colombier-acquisition-iii-units-cons-of-1-shs-a-1-8-red-wt"}
+{"symbol":"LYNX","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"SNUS/PH","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"SNUS/PI","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"KPET.U","exchange":"NYSE","status":"ok","logoid":"kpet-ultra-paceline-units-const-of-1-sh-a-1-6-wt"}
+{"symbol":"SNUS/PH","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LYNX","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SNUS/PI","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

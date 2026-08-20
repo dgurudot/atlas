@@ -1048,3 +1048,6 @@
 {"symbol":"BITC","exchange":"TASE","status":"ok","logoid":"airtouch-solar-ltd"}
 {"symbol":"DRTS","exchange":"TASE","status":"ok","logoid":"alpha-tau-medical-ltd"}
 {"symbol":"KSM.F50","exchange":"TASE","status":"ok","logoid":"ksm-etf"}
+{"symbol":"TCH.F52","exchange":"TASE","status":"ok","logoid":"tachlit-indices"}
+{"symbol":"TKUN-M","exchange":"TASE","status":"ok","logoid":"tikun-olam-canb"}
+{"symbol":"NXFR.M","exchange":"TASE","status":"ok","logoid":"nextferm-technolog"}

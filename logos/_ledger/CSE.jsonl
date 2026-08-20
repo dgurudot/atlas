@@ -592,3 +592,10 @@
 {"symbol":"METX","exchange":"CSE","status":"ok","logoid":"me-therapeutics-hldgs"}
 {"symbol":"LIVE","exchange":"CSE","status":"ok","logoid":"live-energy-minerals"}
 {"symbol":"VIBE","exchange":"CSE","status":"ok","logoid":"vibe-growth"}
+{"symbol":"IRON","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"EONX","exchange":"CSE","status":"ok","logoid":"eonx-technologies"}
+{"symbol":"LLL","exchange":"CSE","status":"ok","logoid":"lanebury-growth-capital-ltd"}
+{"symbol":"GOAT","exchange":"CSE","status":"ok","logoid":"goat-industries-ltd"}
+{"symbol":"ENBI.X","exchange":"CSE","status":"ok","logoid":"entheon-biomedical"}
+{"symbol":"MY","exchange":"CSE","status":"ok","logoid":"montego-resources"}
+{"symbol":"UDA","exchange":"CSE","status":"ok","logoid":"caldwell-us-divid-advantage"}

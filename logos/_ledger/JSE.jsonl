@@ -469,3 +469,4 @@
 {"symbol":"AMC008","exchange":"JSE","status":"ok","logoid":"sb-anchor-eq-opportunity"}
 {"symbol":"AII","exchange":"JSE","status":"ok","logoid":"aimia"}
 {"symbol":"MUETNQ","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"MMETNQ","exchange":"JSE","status":"ok","logoid":"firstrand-ltd"}

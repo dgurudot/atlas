@@ -352,3 +352,8 @@
 {"symbol":"FEPASA","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"SONDA1","exchange":"BCS","status":"ok","logoid":"sonda-sa"}
 {"symbol":"ISANPA","exchange":"BCS","status":"ok","logoid":"inmobiliaria-san-patricio-sa"}
+{"symbol":"TGTCL1","exchange":"BCS","status":"ok","logoid":"target"}
+{"symbol":"COPEVAL","exchange":"BCS","status":"ok","logoid":"compania-agropecuaria-copeval-sa"}
+{"symbol":"IAM1","exchange":"BCS","status":"ok","logoid":"inversiones-aguas"}
+{"symbol":"CFICGSCH_B1","exchange":"BCS","status":"ok","logoid":"compass-small-cap-chile-fondo-de-inversion-2014-150724-series-b"}
+{"symbol":"CFI_AG3RNE","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}

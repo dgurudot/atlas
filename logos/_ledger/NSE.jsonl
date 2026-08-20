@@ -3485,3 +3485,9 @@
 {"symbol":"YOGI","exchange":"NSE","status":"ok","logoid":"yogi-limited"}
 {"symbol":"UPHOT","exchange":"NSE","status":"ok","logoid":"uphotels-ltd"}
 {"symbol":"VASA","exchange":"NSE","status":"ok","logoid":"vasa-retail-and-ov"}
+{"symbol":"CREDENT","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"GSEC10ADD","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"NIFTYJBLK","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"LARGEMID50","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"APOORVA","exchange":"NSE","status":"ok","logoid":"apoorva-leasing-finance-and-inve"}
+{"symbol":"SAMBANDAM","exchange":"NSE","status":"ok","logoid":"sambandam-spinning-mills-ltd"}

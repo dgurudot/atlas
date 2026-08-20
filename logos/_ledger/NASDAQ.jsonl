@@ -5360,3 +5360,13 @@
 {"symbol":"OIMAU","exchange":"NASDAQ","status":"ok","logoid":"oneim-acquisition-units-cons-of-1-shs-a-1-6-red-wt"}
 {"symbol":"UYSCU","exchange":"NASDAQ","status":"ok","logoid":"uy-scuti-acquisition"}
 {"symbol":"KSMH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BTLN","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"FTG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"QNBC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TREO","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CHARU","exchange":"NASDAQ","status":"ok","logoid":"charlton-aria-acquisition"}
+{"symbol":"FSHPU","exchange":"NASDAQ","status":"ok","logoid":"flag-ship-acquisition"}
+{"symbol":"BTLN","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"QNBC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FTG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"TREO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

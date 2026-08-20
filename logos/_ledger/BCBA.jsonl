@@ -1443,3 +1443,5 @@
 {"symbol":"ONDSC","exchange":"BCBA","status":"ok","logoid":"ondas"}
 {"symbol":"SIDC","exchange":"BCBA","status":"ok","logoid":"companhia-siderurgica-nacional"}
 {"symbol":"ZMC","exchange":"BCBA","status":"ok","logoid":"zoom-video-communications"}
+{"symbol":"NFLXB","exchange":"BCBA","status":"ok","logoid":"netflix"}
+{"symbol":"GCLAC","exchange":"BCBA","status":"ok","logoid":"grupo-clarin-sa"}

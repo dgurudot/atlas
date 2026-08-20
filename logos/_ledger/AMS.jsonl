@@ -1720,3 +1720,6 @@
 {"symbol":"BOLD","exchange":"AMS","status":"ok","logoid":"21shares"}
 {"symbol":"INFEA","exchange":"AMS","status":"ok","logoid":"horizon-kinetics-inflation"}
 {"symbol":"VTRX-USD","exchange":"AMS","status":"ok","logoid":"vaneck"}
+{"symbol":"B1UH","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"HAMO","exchange":"AMS","status":"ok","logoid":"hashdex"}
+{"symbol":"USEB","exchange":"AMS","status":"ok","logoid":"ishares"}

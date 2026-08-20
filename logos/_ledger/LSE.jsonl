@@ -15685,3 +15685,8 @@
 {"symbol":"0O2Z","exchange":"LSE","status":"ok","logoid":"muehlbauer-ag"}
 {"symbol":"0R4T","exchange":"LSE","status":"ok","logoid":"eph-spa-npv-post-rev-splt"}
 {"symbol":"47IE","exchange":"LSE","status":"ok","logoid":"s-and-u-315-cum-prf-12-1-2p"}
+{"symbol":"VAST","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0EO8","exchange":"LSE","status":"ok","logoid":"sparebank-1-smn"}
+{"symbol":"0LOA","exchange":"LSE","status":"ok","logoid":"vanguard"}
+{"symbol":"0KA1","exchange":"LSE","status":"ok","logoid":"intralot-sa-cr"}
+{"symbol":"MODE","exchange":"LSE","status":"ok","logoid":"mode-global-plc"}

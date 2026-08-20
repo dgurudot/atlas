@@ -2275,3 +2275,5 @@
 {"symbol":"RGTI23","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"TONGFU23","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"YOFC23","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"PHAT.R","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"PHAT","exchange":"SET","status":"ok","logoid":"phatra-public-co-ltd"}

@@ -879,3 +879,5 @@
 {"symbol":"EIOFO","exchange":"OMXSTO","status":"ok","logoid":"eidesvik-offshore-asa"}
 {"symbol":"SCANAO","exchange":"OMXSTO","status":"ok","logoid":"scana-asa"}
 {"symbol":"CMBTOO","exchange":"OMXSTO","status":"ok","logoid":"euronav"}
+{"symbol":"CLS_BTU_B","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"KIDO","exchange":"OMXSTO","status":"ok","logoid":"kid-asa"}

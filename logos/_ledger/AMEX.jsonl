@@ -3071,3 +3071,9 @@
 {"symbol":"ZINN","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"ZINN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ZDIS","exchange":"AMEX","status":"ok","logoid":"infracap-mlp"}
+{"symbol":"BBLS","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"AHBM","exchange":"AMEX","status":"ok","logoid":"amplify"}
+{"symbol":"XWNG","exchange":"AMEX","status":"ok","logoid":"amplify"}
+{"symbol":"KAIT","exchange":"AMEX","status":"ok","logoid":"kraneshares"}
+{"symbol":"XQBT","exchange":"AMEX","status":"ok","logoid":"amplify"}
+{"symbol":"BBLS","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

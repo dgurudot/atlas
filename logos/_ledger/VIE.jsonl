@@ -1428,3 +1428,4 @@
 {"symbol":"HUS","exchange":"VIE","status":"ok","logoid":"hutter-and-schrantz-ag"}
 {"symbol":"MWB","exchange":"VIE","status":"ok","logoid":"mwb-ag"}
 {"symbol":"RWT","exchange":"VIE","status":"ok","logoid":"rwt-ag"}
+{"symbol":"BYN2","exchange":"VIE","status":"nologo","logoid":null}

@@ -2932,3 +2932,5 @@
 {"symbol":"GIGF.F","exchange":"TSX","status":"ok","logoid":"guardian-capital-ltd"}
 {"symbol":"TBCK","exchange":"TSX","status":"ok","logoid":"td-active-gbl"}
 {"symbol":"HISU.V","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
+{"symbol":"CAMO.B","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"CAMO","exchange":"TSX","status":"nologo","logoid":null}

@@ -357,3 +357,9 @@
 {"symbol":"IAM1","exchange":"BCS","status":"ok","logoid":"inversiones-aguas"}
 {"symbol":"CFICGSCH_B1","exchange":"BCS","status":"ok","logoid":"compass-small-cap-chile-fondo-de-inversion-2014-150724-series-b"}
 {"symbol":"CFI_AG3RNE","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}
+{"symbol":"CFIQDIA0","exchange":"BCS","status":"ok","logoid":"quest-administradora-general-fdos-quest-inv-de-impacto-fi-a"}
+{"symbol":"IAM0","exchange":"BCS","status":"ok","logoid":"inversiones-aguas"}
+{"symbol":"ORCLCL1","exchange":"BCS","status":"ok","logoid":"oracle"}
+{"symbol":"EMBONOR_A","exchange":"BCS","status":"ok","logoid":"coca-cola"}
+{"symbol":"ENTEL0","exchange":"BCS","status":"ok","logoid":"emp-nac-telecomuni"}
+{"symbol":"SOFRUCO","exchange":"BCS","status":"ok","logoid":"sociedad-agricola-la-rosa-sofruco-sa"}

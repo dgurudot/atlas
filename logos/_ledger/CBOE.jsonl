@@ -1892,3 +1892,9 @@
 {"symbol":"STMX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XVTS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XVNV","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HIAI","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"MEGX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"USLX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"HIAI","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MEGX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"USLX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

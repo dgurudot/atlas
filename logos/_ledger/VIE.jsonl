@@ -1429,3 +1429,7 @@
 {"symbol":"MWB","exchange":"VIE","status":"ok","logoid":"mwb-ag"}
 {"symbol":"RWT","exchange":"VIE","status":"ok","logoid":"rwt-ag"}
 {"symbol":"BYN2","exchange":"VIE","status":"nologo","logoid":null}
+{"symbol":"FRE2","exchange":"VIE","status":"nologo","logoid":null}
+{"symbol":"HODL","exchange":"VIE","status":"ok","logoid":"21shares"}
+{"symbol":"CH0454664001","exchange":"VIE","status":"ok","logoid":"21shares"}
+{"symbol":"ICG","exchange":"VIE","status":"ok","logoid":"incergo-sa"}

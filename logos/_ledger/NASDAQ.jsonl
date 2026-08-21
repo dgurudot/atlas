@@ -5370,3 +5370,15 @@
 {"symbol":"QNBC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"FTG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TREO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BEAGU","exchange":"NASDAQ","status":"ok","logoid":"bold-eagle-acquisition"}
+{"symbol":"CHTRP","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"OSPR","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CUBWU","exchange":"NASDAQ","status":"ok","logoid":"lionheart"}
+{"symbol":"FBDT","exchange":"NASDAQ","status":"ok","logoid":"first-breach"}
+{"symbol":"DYORU","exchange":"NASDAQ","status":"ok","logoid":"insight-digital-partners-ii"}
+{"symbol":"IRHOU","exchange":"NASDAQ","status":"ok","logoid":"iron-horse-acquisitions-ii-units-const-of-1-shs-1-2-wt-1-rt"}
+{"symbol":"SEPQ","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TVACU","exchange":"NASDAQ","status":"ok","logoid":"texas-ventures-acquisition-iii"}
+{"symbol":"OSPR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CHTRP","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SEPQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

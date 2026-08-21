@@ -644,3 +644,5 @@
 {"symbol":"ISKUR","exchange":"BIST","status":"ok","logoid":"is-bankasi"}
 {"symbol":"CITAS","exchange":"BIST","status":"nologo","logoid":null}
 {"symbol":"IPBIR","exchange":"BIST","status":"nologo","logoid":null}
+{"symbol":"VEYAS","exchange":"BIST","status":"nologo","logoid":null}
+{"symbol":"TKNKA","exchange":"BIST","status":"nologo","logoid":null}

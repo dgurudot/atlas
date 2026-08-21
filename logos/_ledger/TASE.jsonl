@@ -1051,3 +1051,5 @@
 {"symbol":"TCH.F52","exchange":"TASE","status":"ok","logoid":"tachlit-indices"}
 {"symbol":"TKUN-M","exchange":"TASE","status":"ok","logoid":"tikun-olam-canb"}
 {"symbol":"NXFR.M","exchange":"TASE","status":"ok","logoid":"nextferm-technolog"}
+{"symbol":"HMAM","exchange":"TASE","status":"ok","logoid":"hamama"}
+{"symbol":"KSM.F140","exchange":"TASE","status":"ok","logoid":"ksm-etf"}

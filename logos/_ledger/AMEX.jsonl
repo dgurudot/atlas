@@ -3077,3 +3077,4 @@
 {"symbol":"KAIT","exchange":"AMEX","status":"ok","logoid":"kraneshares"}
 {"symbol":"XQBT","exchange":"AMEX","status":"ok","logoid":"amplify"}
 {"symbol":"BBLS","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ROBX","exchange":"AMEX","status":"ok","logoid":"amplify"}

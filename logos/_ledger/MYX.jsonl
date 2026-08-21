@@ -1143,3 +1143,4 @@
 {"symbol":"ZECON","exchange":"MYX","status":"ok","logoid":"zecon-bhd"}
 {"symbol":"ZELAN","exchange":"MYX","status":"ok","logoid":"zelan-bhd"}
 {"symbol":"KLCI1XI","exchange":"MYX","status":"ok","logoid":"kenanga-klci-daily"}
+{"symbol":"HPI","exchange":"MYX","status":"ok","logoid":"hydropipes-berhad"}

@@ -1373,3 +1373,7 @@
 {"symbol":"ZCT","exchange":"TSXV","status":"ok","logoid":"zero-candida-technologies"}
 {"symbol":"MPTH.H","exchange":"TSXV","status":"ok","logoid":"mapath-capital"}
 {"symbol":"ZENI.P","exchange":"TSXV","status":"ok","logoid":"zenith-capital"}
+{"symbol":"BPR","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"BUZH.P","exchange":"TSXV","status":"ok","logoid":"buzz-capital"}
+{"symbol":"GHR.H","exchange":"TSXV","status":"ok","logoid":"golden-harp-resources"}
+{"symbol":"SHRP","exchange":"TSXV","status":"ok","logoid":"sherpa-ii"}

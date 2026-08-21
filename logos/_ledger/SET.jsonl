@@ -2277,3 +2277,7 @@
 {"symbol":"YOFC23","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"PHAT.R","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"PHAT","exchange":"SET","status":"ok","logoid":"phatra-public-co-ltd"}
+{"symbol":"COLOUR.R","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"COLOUR","exchange":"SET","status":"ok","logoid":"salee-colour-pcl-non-voting"}
+{"symbol":"NEW.R","exchange":"SET","status":"ok","logoid":"wattana-karnpaet-non-voting"}
+{"symbol":"NEW","exchange":"SET","status":"ok","logoid":"wattana-karnpaet-non-voting"}

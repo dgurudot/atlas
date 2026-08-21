@@ -3853,3 +3853,17 @@
 {"symbol":"GIGX","exchange":"EPA","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
 {"symbol":"GLOBE","exchange":"EPA","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"GLOEU","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"BS26","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"OCGP","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"VALL-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"JIGG","exchange":"EPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"BBLOK","exchange":"EPA","status":"ok","logoid":"most-diversified-portfolio-sicav-tobam-global-blockchain-equity-fund-ucits-etf-capitalisation"}
+{"symbol":"HAMO-EUR","exchange":"EPA","status":"ok","logoid":"hashdex"}
+{"symbol":"TCQE","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"IQEE-ETFP","exchange":"EPA","status":"ok","logoid":"indexiq-iq-global-equity"}
+{"symbol":"VXUS-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"VSML-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"WEXUS","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"XAIG","exchange":"EPA","status":"ok","logoid":"dws"}
+{"symbol":"XAHY","exchange":"EPA","status":"ok","logoid":"dws"}
+{"symbol":"VTRX","exchange":"EPA","status":"ok","logoid":"vaneck"}

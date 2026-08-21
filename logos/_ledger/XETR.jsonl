@@ -5079,3 +5079,11 @@
 {"symbol":"XBSK","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"RN7","exchange":"XETR","status":"ok","logoid":"regions-financial"}
 {"symbol":"0Q30","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"NYSX","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"NOEA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"VGLA","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VGSA","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VGLD","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VXUD","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VGSD","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VXUS","exchange":"XETR","status":"ok","logoid":"vanguard"}

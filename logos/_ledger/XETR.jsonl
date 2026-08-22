@@ -5087,3 +5087,6 @@
 {"symbol":"VXUD","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"VGSD","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"VXUS","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"IQSW","exchange":"XETR","status":"ok","logoid":"invesco"}
+{"symbol":"GTH","exchange":"XETR","status":"ok","logoid":"sgt-german-private-equity-gmbh"}
+{"symbol":"1GBS","exchange":"XETR","status":"ok","logoid":"gbs-software-ag"}

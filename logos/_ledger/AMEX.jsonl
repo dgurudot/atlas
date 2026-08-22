@@ -3078,3 +3078,13 @@
 {"symbol":"XQBT","exchange":"AMEX","status":"ok","logoid":"amplify"}
 {"symbol":"BBLS","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ROBX","exchange":"AMEX","status":"ok","logoid":"amplify"}
+{"symbol":"GCLO","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GEEQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HXA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HXC","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HXE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GEEQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HXC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HXE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GCLO","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HXA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

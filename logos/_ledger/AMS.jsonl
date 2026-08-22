@@ -1726,3 +1726,9 @@
 {"symbol":"ETHC","exchange":"AMS","status":"ok","logoid":"21shares"}
 {"symbol":"USPA","exchange":"AMS","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"VLDS-XAMS","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"UEFF","exchange":"AMS","status":"ok","logoid":"ubs-group"}
+{"symbol":"ADAVE-XAMS","exchange":"AMS","status":"ok","logoid":"valour-cardano"}
+{"symbol":"VALLD","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"VALL","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"VXUD","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"VXUS","exchange":"AMS","status":"ok","logoid":"vanguard"}

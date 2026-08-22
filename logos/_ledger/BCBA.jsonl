@@ -1447,3 +1447,9 @@
 {"symbol":"GCLAC","exchange":"BCBA","status":"ok","logoid":"grupo-clarin-sa"}
 {"symbol":"SPGIC","exchange":"BCBA","status":"ok","logoid":"s-and-p-global"}
 {"symbol":"URBND","exchange":"BCBA","status":"ok","logoid":"urban-outfitters"}
+{"symbol":"CC","exchange":"BCBA","status":"ok","logoid":"citigroup"}
+{"symbol":"CCLC","exchange":"BCBA","status":"ok","logoid":"carnival"}
+{"symbol":"PMC","exchange":"BCBA","status":"ok","logoid":"philip-morris"}
+{"symbol":"CLSC","exchange":"BCBA","status":"ok","logoid":"celestica"}
+{"symbol":"MOSC","exchange":"BCBA","status":"ok","logoid":"mosaic"}
+{"symbol":"PRIO3.CI","exchange":"BCBA","status":"ok","logoid":"petrorio-on-nm"}

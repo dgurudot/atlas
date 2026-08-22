@@ -881,3 +881,6 @@
 {"symbol":"CMBTOO","exchange":"OMXSTO","status":"ok","logoid":"euronav"}
 {"symbol":"CLS_BTU_B","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"KIDO","exchange":"OMXSTO","status":"ok","logoid":"kid-asa"}
+{"symbol":"CI_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"BUY_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"DPHA","exchange":"OMXSTO","status":"ok","logoid":"guard-therapeutics-international-ab"}

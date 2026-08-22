@@ -1898,3 +1898,12 @@
 {"symbol":"HIAI","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MEGX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"USLX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BRZL","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"JPND","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"TAWN","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"BRZD","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"JPNU","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"TPEI","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"USMX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
+{"symbol":"USSX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
+{"symbol":"USGX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}

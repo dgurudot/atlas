@@ -3867,3 +3867,7 @@
 {"symbol":"XAIG","exchange":"EPA","status":"ok","logoid":"dws"}
 {"symbol":"XAHY","exchange":"EPA","status":"ok","logoid":"dws"}
 {"symbol":"VTRX","exchange":"EPA","status":"ok","logoid":"vaneck"}
+{"symbol":"SCTB","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"IQAW","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"ALECR","exchange":"EPA","status":"ok","logoid":"eurofins-cerep-sa"}
+{"symbol":"BMAC","exchange":"EPA","status":"ok","logoid":"dda-crypto-select-10-etp"}

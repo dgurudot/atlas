@@ -604,3 +604,5 @@
 {"symbol":"MLCO","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"NVPC","exchange":"CSE","status":"ok","logoid":"nova-lithium"}
 {"symbol":"STAR","exchange":"CSE","status":"ok","logoid":"starmet-ventures"}
+{"symbol":"TANA","exchange":"CSE","status":"ok","logoid":"tana-resources"}
+{"symbol":"CMP","exchange":"CSE","status":"ok","logoid":"cmp-mining"}

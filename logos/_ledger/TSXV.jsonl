@@ -1377,3 +1377,8 @@
 {"symbol":"BUZH.P","exchange":"TSXV","status":"ok","logoid":"buzz-capital"}
 {"symbol":"GHR.H","exchange":"TSXV","status":"ok","logoid":"golden-harp-resources"}
 {"symbol":"SHRP","exchange":"TSXV","status":"ok","logoid":"sherpa-ii"}
+{"symbol":"ACS","exchange":"TSXV","status":"ok","logoid":"archon-minerals"}
+{"symbol":"ABZ","exchange":"TSXV","status":"ok","logoid":"asiabasemetals"}
+{"symbol":"GENX","exchange":"TSXV","status":"ok","logoid":"genix-pharmaceuticals"}
+{"symbol":"OCAP.P","exchange":"TSXV","status":"ok","logoid":"ocean-shore-capital"}
+{"symbol":"ADR.H","exchange":"TSXV","status":"ok","logoid":"arcland-resource"}

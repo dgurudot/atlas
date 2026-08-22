@@ -363,3 +363,5 @@
 {"symbol":"EMBONOR_A","exchange":"BCS","status":"ok","logoid":"coca-cola"}
 {"symbol":"ENTEL0","exchange":"BCS","status":"ok","logoid":"emp-nac-telecomuni"}
 {"symbol":"SOFRUCO","exchange":"BCS","status":"ok","logoid":"sociedad-agricola-la-rosa-sofruco-sa"}
+{"symbol":"ITAUCL1","exchange":"BCS","status":"ok","logoid":"itau-unibanco"}
+{"symbol":"HWMCL","exchange":"BCS","status":"ok","logoid":"howmet-aerospace"}

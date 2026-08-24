@@ -3088,3 +3088,5 @@
 {"symbol":"HXE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"GCLO","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HXA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"EDVA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"EDVA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

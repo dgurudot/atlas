@@ -5382,3 +5382,5 @@
 {"symbol":"OSPR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CHTRP","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SEPQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MIAC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MIAC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

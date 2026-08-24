@@ -2241,3 +2241,5 @@
 {"symbol":"OBT","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"SCX","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"WLC","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"WAG","exchange":"ASX","status":"ok","logoid":"the-australian-wealth-advisors-limited"}
+{"symbol":"FSCF","exchange":"ASX","status":"ok","logoid":"mitsubishi-group"}

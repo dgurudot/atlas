@@ -5384,3 +5384,8 @@
 {"symbol":"SEPQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MIAC","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"MIAC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"YRAM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ADBT","exchange":"NASDAQ","status":"ok","logoid":"advasa"}
+{"symbol":"QETA","exchange":"NASDAQ","status":"ok","logoid":"quetta-acquisition"}
+{"symbol":"PAACU","exchange":"NASDAQ","status":"ok","logoid":"proem-acquisition-i"}
+{"symbol":"YRAM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

@@ -2323,3 +2323,11 @@
 {"symbol":"RSPC","exchange":"BMV","status":"ok","logoid":"invesco"}
 {"symbol":"UFOX","exchange":"BMV","status":"ok","logoid":"differential-series-solutions"}
 {"symbol":"MTN","exchange":"BMV","status":"ok","logoid":"vail-resorts"}
+{"symbol":"ADIG","exchange":"BMV","status":"nologo","logoid":null}
+{"symbol":"GMAB1/N","exchange":"BMV","status":"ok","logoid":"genmab-a-s"}
+{"symbol":"CBRS","exchange":"BMV","status":"ok","logoid":"cerebras-systems"}
+{"symbol":"DKS","exchange":"BMV","status":"ok","logoid":"dicks-sporting-goods"}
+{"symbol":"HSIC","exchange":"BMV","status":"ok","logoid":"henry-schein"}
+{"symbol":"QURE/N","exchange":"BMV","status":"ok","logoid":"uniqure-n-v"}
+{"symbol":"SKYU/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"GCT/N","exchange":"BMV","status":"ok","logoid":"gigacloud-technology"}

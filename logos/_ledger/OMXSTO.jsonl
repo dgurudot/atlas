@@ -884,3 +884,5 @@
 {"symbol":"CI_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"BUY_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"DPHA","exchange":"OMXSTO","status":"ok","logoid":"guard-therapeutics-international-ab"}
+{"symbol":"POLO","exchange":"OMXSTO","status":"ok","logoid":"polaris-media-asa"}
+{"symbol":"LINKO","exchange":"OMXSTO","status":"ok","logoid":"link-mobility-asa"}

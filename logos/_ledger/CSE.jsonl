@@ -606,3 +606,5 @@
 {"symbol":"STAR","exchange":"CSE","status":"ok","logoid":"starmet-ventures"}
 {"symbol":"TANA","exchange":"CSE","status":"ok","logoid":"tana-resources"}
 {"symbol":"CMP","exchange":"CSE","status":"ok","logoid":"cmp-mining"}
+{"symbol":"KRIT","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"MJRX.X","exchange":"CSE","status":"nologo","logoid":null}

@@ -366,3 +366,7 @@
 {"symbol":"ITAUCL1","exchange":"BCS","status":"ok","logoid":"itau-unibanco"}
 {"symbol":"HWMCL","exchange":"BCS","status":"ok","logoid":"howmet-aerospace"}
 {"symbol":"BCI1","exchange":"BCS","status":"ok","logoid":"bco-credito-invers"}
+{"symbol":"CFIFYNDEPA0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"INDISA1","exchange":"BCS","status":"ok","logoid":"inst-diagnostico"}
+{"symbol":"INGEVEC1","exchange":"BCS","status":"ok","logoid":"ingevec-sa"}
+{"symbol":"ABC1","exchange":"BCS","status":"ok","logoid":"empresas-la-polar-sa"}

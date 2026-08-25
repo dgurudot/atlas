@@ -673,3 +673,6 @@
 {"symbol":"AWM","exchange":"SGX","status":"ok","logoid":"shanghai-turbo-watch-list"}
 {"symbol":"51O","exchange":"SGX","status":"ok","logoid":"msmintl"}
 {"symbol":"SJY","exchange":"SGX","status":"ok","logoid":"megroup"}
+{"symbol":"CXN","exchange":"SGX","status":"ok","logoid":"nikko"}
+{"symbol":"5VC","exchange":"SGX","status":"ok","logoid":"kori"}
+{"symbol":"HKB","exchange":"SGX","status":"ok","logoid":"amtd-ib-ov"}

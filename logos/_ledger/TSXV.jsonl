@@ -1382,3 +1382,7 @@
 {"symbol":"GENX","exchange":"TSXV","status":"ok","logoid":"genix-pharmaceuticals"}
 {"symbol":"OCAP.P","exchange":"TSXV","status":"ok","logoid":"ocean-shore-capital"}
 {"symbol":"ADR.H","exchange":"TSXV","status":"ok","logoid":"arcland-resource"}
+{"symbol":"AMYA.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ASTN.P","exchange":"TSXV","status":"ok","logoid":"auston-capital"}
+{"symbol":"VYC.H","exchange":"TSXV","status":"ok","logoid":"vanity-capital"}
+{"symbol":"WAV.H","exchange":"TSXV","status":"ok","logoid":"pepcap-res"}

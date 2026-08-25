@@ -1907,3 +1907,4 @@
 {"symbol":"USMX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
 {"symbol":"USSX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
 {"symbol":"USGX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
+{"symbol":"SQBA","exchange":"CBOE","status":"ok","logoid":"first-trust"}

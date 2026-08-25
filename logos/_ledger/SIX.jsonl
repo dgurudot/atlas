@@ -2712,3 +2712,9 @@
 {"symbol":"VALLD.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
 {"symbol":"XBTI.USD","exchange":"SIX","status":"ok","logoid":"iconic-funds-btc-etn-gmbh"}
 {"symbol":"XCO2D","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"ID37.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"IITB.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"FOHW.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"WEWE.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"VSML.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"XDJX","exchange":"SIX","status":"ok","logoid":"dws"}

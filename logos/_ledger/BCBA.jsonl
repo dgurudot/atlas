@@ -1453,3 +1453,5 @@
 {"symbol":"CLSC","exchange":"BCBA","status":"ok","logoid":"celestica"}
 {"symbol":"MOSC","exchange":"BCBA","status":"ok","logoid":"mosaic"}
 {"symbol":"PRIO3.CI","exchange":"BCBA","status":"ok","logoid":"petrorio-on-nm"}
+{"symbol":"GSKC","exchange":"BCBA","status":"ok","logoid":"glaxosmithkline"}
+{"symbol":"NGC","exchange":"BCBA","status":"ok","logoid":"novagold-resources"}

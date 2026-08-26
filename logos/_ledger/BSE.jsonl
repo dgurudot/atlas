@@ -5160,3 +5160,7 @@
 {"symbol":"RAJVIR","exchange":"BSE","status":"ok","logoid":"rajvir-industries-ltd"}
 {"symbol":"KDML","exchange":"BSE","status":"ok","logoid":"khemani-distributors-and-marketi"}
 {"symbol":"NATURO","exchange":"BSE","status":"ok","logoid":"naturo-indiabull-limited"}
+{"symbol":"GAJA","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"MOPSHOP","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"DHANWEL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"TAVEXIA","exchange":"BSE","status":"nologo","logoid":null}

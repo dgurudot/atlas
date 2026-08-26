@@ -364,3 +364,7 @@
 {"symbol":"BSP","exchange":"AQUIS","status":"ok","logoid":"black-sea-property-plc"}
 {"symbol":"ALH","exchange":"AQUIS","status":"ok","logoid":"amirose-london-plc"}
 {"symbol":"CSUK.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"IHYU.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"WHEA.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"IUSP.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ARBN","exchange":"AQUIS","status":"ok","logoid":"arbuthnot-banking-plc-ord-gbp001"}

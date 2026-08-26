@@ -370,3 +370,6 @@
 {"symbol":"INDISA1","exchange":"BCS","status":"ok","logoid":"inst-diagnostico"}
 {"symbol":"INGEVEC1","exchange":"BCS","status":"ok","logoid":"ingevec-sa"}
 {"symbol":"ABC1","exchange":"BCS","status":"ok","logoid":"empresas-la-polar-sa"}
+{"symbol":"ECL0","exchange":"BCS","status":"ok","logoid":"engie-energia"}
+{"symbol":"CMPC0","exchange":"BCS","status":"ok","logoid":"empresas-cmpc-sa"}
+{"symbol":"RIPLEY1","exchange":"BCS","status":"ok","logoid":"ripley-sa"}

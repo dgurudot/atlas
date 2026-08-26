@@ -1455,3 +1455,9 @@
 {"symbol":"PRIO3.CI","exchange":"BCBA","status":"ok","logoid":"petrorio-on-nm"}
 {"symbol":"GSKC","exchange":"BCBA","status":"ok","logoid":"glaxosmithkline"}
 {"symbol":"NGC","exchange":"BCBA","status":"ok","logoid":"novagold-resources"}
+{"symbol":"CIBR.CI","exchange":"BCBA","status":"ok","logoid":"first-trust"}
+{"symbol":"AGROD","exchange":"BCBA","status":"ok","logoid":"agrometal"}
+{"symbol":"HALC","exchange":"BCBA","status":"ok","logoid":"halliburton"}
+{"symbol":"REITC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"HOODC","exchange":"BCBA","status":"ok","logoid":"robinhood"}
+{"symbol":"ITA.CI","exchange":"BCBA","status":"ok","logoid":"barclays"}

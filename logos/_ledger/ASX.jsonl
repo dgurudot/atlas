@@ -2244,3 +2244,6 @@
 {"symbol":"WAG","exchange":"ASX","status":"ok","logoid":"the-australian-wealth-advisors-limited"}
 {"symbol":"FSCF","exchange":"ASX","status":"ok","logoid":"mitsubishi-group"}
 {"symbol":"GGM","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"VFLT","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"NUC","exchange":"ASX","status":"ok","logoid":"nuchev-limited"}
+{"symbol":"OEQ","exchange":"ASX","status":"ok","logoid":"orion-equities-limited"}

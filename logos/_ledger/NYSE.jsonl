@@ -2823,3 +2823,5 @@
 {"symbol":"BCSS.U","exchange":"NYSE","status":"ok","logoid":"bain-capital-asia-fund-ii-lp"}
 {"symbol":"MTAL.U","exchange":"NYSE","status":"ok","logoid":"metals-acquisition-ii-units-cons-of-1-shs-a-1-3-red-wt"}
 {"symbol":"MZYX.U","exchange":"NYSE","status":"ok","logoid":"mozayyx-acquisition-units-cons-of-1-shs-a-1-4-red-wt"}
+{"symbol":"OTAX","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"OTAX","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

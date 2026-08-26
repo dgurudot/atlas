@@ -1386,3 +1386,5 @@
 {"symbol":"ASTN.P","exchange":"TSXV","status":"ok","logoid":"auston-capital"}
 {"symbol":"VYC.H","exchange":"TSXV","status":"ok","logoid":"vanity-capital"}
 {"symbol":"WAV.H","exchange":"TSXV","status":"ok","logoid":"pepcap-res"}
+{"symbol":"GVR","exchange":"TSXV","status":"ok","logoid":"grosvenor-resource"}
+{"symbol":"IMPT","exchange":"TSXV","status":"ok","logoid":"impact-development"}

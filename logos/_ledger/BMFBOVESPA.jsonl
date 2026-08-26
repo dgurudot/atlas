@@ -2422,3 +2422,12 @@
 {"symbol":"HDOF11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-hofficeici"}
 {"symbol":"K1RC34","exchange":"BMFBOVESPA","status":"ok","logoid":"kroger"}
 {"symbol":"PDBM11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-plural-lci-er"}
+{"symbol":"BTHD39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"PPLI34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"KONG11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"C1MS34","exchange":"BMFBOVESPA","status":"ok","logoid":"cms-energy"}
+{"symbol":"VMRK34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"D2KS34","exchange":"BMFBOVESPA","status":"ok","logoid":"dicks-sporting-goods"}
+{"symbol":"RBLG11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"RCFA11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"X1EL34","exchange":"BMFBOVESPA","status":"ok","logoid":"xcel-energy"}

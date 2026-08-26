@@ -5389,3 +5389,11 @@
 {"symbol":"QETA","exchange":"NASDAQ","status":"ok","logoid":"quetta-acquisition"}
 {"symbol":"PAACU","exchange":"NASDAQ","status":"ok","logoid":"proem-acquisition-i"}
 {"symbol":"YRAM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JTTT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"INACU","exchange":"NASDAQ","status":"ok","logoid":"indigo-acquisition"}
+{"symbol":"AEAQU","exchange":"NASDAQ","status":"ok","logoid":"activate-energy-acquisition"}
+{"symbol":"TGRZ","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SCATU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"JTTT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SCATU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"TGRZ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

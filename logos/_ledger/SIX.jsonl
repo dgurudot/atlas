@@ -2718,3 +2718,12 @@
 {"symbol":"WEWE.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"VSML.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
 {"symbol":"XDJX","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"CAKS","exchange":"SIX","status":"ok","logoid":"calamp"}
+{"symbol":"EMUPA.EUR","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"SLNC","exchange":"SIX","status":"ok","logoid":"coinshares"}
+{"symbol":"GREENE.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"JAUH.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JMBS.USD","exchange":"SIX","status":"ok","logoid":"janus-henderson"}
+{"symbol":"VSMLD.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"WMT.USD","exchange":"SIX","status":"ok","logoid":"walmart"}
+{"symbol":"VXUS.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}

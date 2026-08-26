@@ -676,3 +676,5 @@
 {"symbol":"CXN","exchange":"SGX","status":"ok","logoid":"nikko"}
 {"symbol":"5VC","exchange":"SGX","status":"ok","logoid":"kori"}
 {"symbol":"HKB","exchange":"SGX","status":"ok","logoid":"amtd-ib-ov"}
+{"symbol":"DRX","exchange":"SGX","status":"ok","logoid":"st-food"}
+{"symbol":"CYX","exchange":"SGX","status":"ok","logoid":"icbc-csop-cgb"}

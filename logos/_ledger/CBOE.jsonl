@@ -1908,3 +1908,8 @@
 {"symbol":"USSX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
 {"symbol":"USGX","exchange":"CBOE","status":"ok","logoid":"corgi-funds"}
 {"symbol":"SQBA","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"CAPA","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"PSOX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LBOX","exchange":"CBOE","status":"ok","logoid":"graniteshares"}
+{"symbol":"CAPA","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PSOX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

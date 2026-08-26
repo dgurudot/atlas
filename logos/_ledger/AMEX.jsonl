@@ -3092,3 +3092,12 @@
 {"symbol":"EDVA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ZCSH","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"ZCSH","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BTA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"JULV","exchange":"AMEX","status":"ok","logoid":"vaneck"}
+{"symbol":"MUNF","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MUNG","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MUNH","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MUNH","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BTA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MUNF","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MUNG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

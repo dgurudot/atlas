@@ -5090,3 +5090,5 @@
 {"symbol":"IQSW","exchange":"XETR","status":"ok","logoid":"invesco"}
 {"symbol":"GTH","exchange":"XETR","status":"ok","logoid":"sgt-german-private-equity-gmbh"}
 {"symbol":"1GBS","exchange":"XETR","status":"ok","logoid":"gbs-software-ag"}
+{"symbol":"BW9","exchange":"XETR","status":"ok","logoid":"sandisk"}
+{"symbol":"MY8","exchange":"XETR","status":"ok","logoid":"mastec"}

@@ -5397,3 +5397,13 @@
 {"symbol":"JTTT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SCATU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TGRZ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IPXG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"VAI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MLAAU","exchange":"NASDAQ","status":"ok","logoid":"mountain-lake-acquisition"}
+{"symbol":"XTER","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SVCCU","exchange":"NASDAQ","status":"ok","logoid":"stellar-v-capital"}
+{"symbol":"TPGXL","exchange":"NASDAQ","status":"ok","logoid":"tpg-partners"}
+{"symbol":"XELLL","exchange":"NASDAQ","status":"ok","logoid":"xcel-energy"}
+{"symbol":"IPXG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XTER","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

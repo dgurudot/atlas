@@ -1734,3 +1734,7 @@
 {"symbol":"VXUS","exchange":"AMS","status":"ok","logoid":"vanguard"}
 {"symbol":"VSML","exchange":"AMS","status":"ok","logoid":"vanguard"}
 {"symbol":"VSMLD","exchange":"AMS","status":"ok","logoid":"vanguard"}
+{"symbol":"BTC0E-XAMS","exchange":"AMS","status":"ok","logoid":"valour-cardano"}
+{"symbol":"FTSA","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"WSTI","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"AINJ","exchange":"AMS","status":"ok","logoid":"21shares"}

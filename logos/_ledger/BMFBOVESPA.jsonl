@@ -2431,3 +2431,15 @@
 {"symbol":"RBLG11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
 {"symbol":"RCFA11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
 {"symbol":"X1EL34","exchange":"BMFBOVESPA","status":"ok","logoid":"xcel-energy"}
+{"symbol":"BQQW39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
+{"symbol":"BQCL39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
+{"symbol":"ESUT11F","exchange":"BMFBOVESPA","status":"ok","logoid":"fip-ie-iii-ci"}
+{"symbol":"G1PC34","exchange":"BMFBOVESPA","status":"ok","logoid":"gpc"}
+{"symbol":"B2UR34","exchange":"BMFBOVESPA","status":"ok","logoid":"burlington"}
+{"symbol":"SELI11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"PLTB11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"H1SI34","exchange":"BMFBOVESPA","status":"ok","logoid":"henry-schein"}
+{"symbol":"J1KH34","exchange":"BMFBOVESPA","status":"ok","logoid":"henry-jack-and-associates"}
+{"symbol":"L1EN34","exchange":"BMFBOVESPA","status":"ok","logoid":"lennar"}
+{"symbol":"S1BA34","exchange":"BMFBOVESPA","status":"ok","logoid":"sba-communications"}
+{"symbol":"VSOL39","exchange":"BMFBOVESPA","status":"ok","logoid":"valour-cardano"}

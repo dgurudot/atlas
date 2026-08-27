@@ -518,3 +518,4 @@
 {"symbol":"MQR","exchange":"GPW","status":"ok","logoid":"pure"}
 {"symbol":"BDF","exchange":"GPW","status":"ok","logoid":"capital"}
 {"symbol":"EUC","exchange":"GPW","status":"ok","logoid":"euco"}
+{"symbol":"SPCX","exchange":"GPW","status":"ok","logoid":"spacex"}

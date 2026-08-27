@@ -1913,3 +1913,8 @@
 {"symbol":"LBOX","exchange":"CBOE","status":"ok","logoid":"graniteshares"}
 {"symbol":"CAPA","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PSOX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DSPC","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"PRAM","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XVSP","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"PRAM","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DSPC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

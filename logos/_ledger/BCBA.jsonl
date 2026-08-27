@@ -1461,3 +1461,8 @@
 {"symbol":"REITC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"HOODC","exchange":"BCBA","status":"ok","logoid":"robinhood"}
 {"symbol":"ITA.CI","exchange":"BCBA","status":"ok","logoid":"barclays"}
+{"symbol":"AKO.B.CI","exchange":"BCBA","status":"ok","logoid":"embotelladora-andina"}
+{"symbol":"IJHC","exchange":"BCBA","status":"ok","logoid":"ishares"}
+{"symbol":"TXNC","exchange":"BCBA","status":"ok","logoid":"texas-instruments"}
+{"symbol":"SIEGY","exchange":"BCBA","status":"ok","logoid":"siemens"}
+{"symbol":"WFCC","exchange":"BCBA","status":"ok","logoid":"wells-fargo"}

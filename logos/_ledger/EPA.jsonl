@@ -3880,3 +3880,7 @@
 {"symbol":"EMUPA","exchange":"EPA","status":"ok","logoid":"ubs-group"}
 {"symbol":"EURPA","exchange":"EPA","status":"ok","logoid":"ubs-group"}
 {"symbol":"ADOT-EUR","exchange":"EPA","status":"ok","logoid":"21shares"}
+{"symbol":"MA13","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"DOTVE-XPAR","exchange":"EPA","status":"ok","logoid":"valour-cardano"}
+{"symbol":"GGE","exchange":"EPA","status":"ok","logoid":"ubs-group"}
+{"symbol":"MLONL","exchange":"EPA","status":"ok","logoid":"onlineformapro"}

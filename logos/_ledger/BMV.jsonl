@@ -2347,3 +2347,8 @@
 {"symbol":"VIK/N","exchange":"BMV","status":"ok","logoid":"viking-ltd"}
 {"symbol":"SSYS/N","exchange":"BMV","status":"ok","logoid":"stratasys"}
 {"symbol":"WAT","exchange":"BMV","status":"ok","logoid":"waters"}
+{"symbol":"VTG","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"DINO","exchange":"BMV","status":"ok","logoid":"hf-sinclair"}
+{"symbol":"XBAM/N","exchange":"BMV","status":"ok","logoid":"dws"}
+{"symbol":"EXR","exchange":"BMV","status":"ok","logoid":"extra-space-storage"}
+{"symbol":"OMC","exchange":"BMV","status":"ok","logoid":"omnicom-group"}

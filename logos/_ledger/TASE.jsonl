@@ -1053,3 +1053,4 @@
 {"symbol":"NXFR.M","exchange":"TASE","status":"ok","logoid":"nextferm-technolog"}
 {"symbol":"HMAM","exchange":"TASE","status":"ok","logoid":"hamama"}
 {"symbol":"KSM.F140","exchange":"TASE","status":"ok","logoid":"ksm-etf"}
+{"symbol":"FLYS-M","exchange":"TASE","status":"ok","logoid":"flying-spark-ltd"}

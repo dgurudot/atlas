@@ -2825,3 +2825,14 @@
 {"symbol":"MZYX.U","exchange":"NYSE","status":"ok","logoid":"mozayyx-acquisition-units-cons-of-1-shs-a-1-4-red-wt"}
 {"symbol":"OTAX","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"OTAX","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AAC","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"CMSA","exchange":"NYSE","status":"ok","logoid":"cms-energy"}
+{"symbol":"CMSD","exchange":"NYSE","status":"ok","logoid":"cms-energy"}
+{"symbol":"DTK","exchange":"NYSE","status":"ok","logoid":"dte-energy"}
+{"symbol":"PFH","exchange":"NYSE","status":"ok","logoid":"prudential"}
+{"symbol":"ENJ","exchange":"NYSE","status":"ok","logoid":"entergy-new-orleans-llc-first-mortgage-bonds-550-series-due-april-1-2066"}
+{"symbol":"ENO","exchange":"NYSE","status":"ok","logoid":"entergy-new-orleans-llc-first-mortgage-bonds-550-series-due-april-1-2066"}
+{"symbol":"PRS","exchange":"NYSE","status":"ok","logoid":"prudential"}
+{"symbol":"SOJE","exchange":"NYSE","status":"ok","logoid":"southern"}
+{"symbol":"SOJD","exchange":"NYSE","status":"ok","logoid":"southern"}
+{"symbol":"AAC","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

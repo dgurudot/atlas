@@ -1388,3 +1388,6 @@
 {"symbol":"WAV.H","exchange":"TSXV","status":"ok","logoid":"pepcap-res"}
 {"symbol":"GVR","exchange":"TSXV","status":"ok","logoid":"grosvenor-resource"}
 {"symbol":"IMPT","exchange":"TSXV","status":"ok","logoid":"impact-development"}
+{"symbol":"SRGE","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"EK","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ISGI","exchange":"TSXV","status":"ok","logoid":"insuraguest-technologies"}

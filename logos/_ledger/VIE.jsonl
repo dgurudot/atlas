@@ -1433,3 +1433,4 @@
 {"symbol":"HODL","exchange":"VIE","status":"ok","logoid":"21shares"}
 {"symbol":"CH0454664001","exchange":"VIE","status":"ok","logoid":"21shares"}
 {"symbol":"ICG","exchange":"VIE","status":"ok","logoid":"incergo-sa"}
+{"symbol":"ACA2","exchange":"VIE","status":"nologo","logoid":null}

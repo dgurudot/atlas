@@ -1918,3 +1918,5 @@
 {"symbol":"XVSP","exchange":"CBOE","status":"ok","logoid":"first-trust"}
 {"symbol":"PRAM","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"DSPC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"KPO","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"KPO","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

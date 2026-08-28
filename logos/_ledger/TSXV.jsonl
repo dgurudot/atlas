@@ -1391,3 +1391,5 @@
 {"symbol":"SRGE","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"EK","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"ISGI","exchange":"TSXV","status":"ok","logoid":"insuraguest-technologies"}
+{"symbol":"RGI","exchange":"TSXV","status":"ok","logoid":"reco-international"}
+{"symbol":"EBCD.P","exchange":"TSXV","status":"ok","logoid":"eureka-capital"}

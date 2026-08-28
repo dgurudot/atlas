@@ -2836,3 +2836,4 @@
 {"symbol":"SOJE","exchange":"NYSE","status":"ok","logoid":"southern"}
 {"symbol":"SOJD","exchange":"NYSE","status":"ok","logoid":"southern"}
 {"symbol":"AAC","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JENA.U","exchange":"NYSE","status":"ok","logoid":"jena-acquisition-ii"}

@@ -3116,3 +3116,9 @@
 {"symbol":"AEMC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"AESL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HBIT","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MNGU","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MUNJ","exchange":"AMEX","status":"ok","logoid":"northern-trust"}
+{"symbol":"TIPE","exchange":"AMEX","status":"ok","logoid":"northern-trust"}
+{"symbol":"TIPH","exchange":"AMEX","status":"ok","logoid":"northern-trust"}
+{"symbol":"TIPG","exchange":"AMEX","status":"ok","logoid":"northern-trust"}
+{"symbol":"MNGU","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

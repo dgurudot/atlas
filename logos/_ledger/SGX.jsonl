@@ -678,3 +678,5 @@
 {"symbol":"HKB","exchange":"SGX","status":"ok","logoid":"amtd-ib-ov"}
 {"symbol":"DRX","exchange":"SGX","status":"ok","logoid":"st-food"}
 {"symbol":"CYX","exchange":"SGX","status":"ok","logoid":"icbc-csop-cgb"}
+{"symbol":"GRU","exchange":"SGX","status":"ok","logoid":"fullgoal-fund-management-co"}
+{"symbol":"STC","exchange":"SGX","status":"ok","logoid":"comba"}

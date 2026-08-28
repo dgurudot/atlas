@@ -1466,3 +1466,5 @@
 {"symbol":"TXNC","exchange":"BCBA","status":"ok","logoid":"texas-instruments"}
 {"symbol":"SIEGY","exchange":"BCBA","status":"ok","logoid":"siemens"}
 {"symbol":"WFCC","exchange":"BCBA","status":"ok","logoid":"wells-fargo"}
+{"symbol":"ECL.CI","exchange":"BCBA","status":"ok","logoid":"ecolab"}
+{"symbol":"SNOWC","exchange":"BCBA","status":"ok","logoid":"snowflake"}

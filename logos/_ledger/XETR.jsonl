@@ -5092,3 +5092,6 @@
 {"symbol":"1GBS","exchange":"XETR","status":"ok","logoid":"gbs-software-ag"}
 {"symbol":"BW9","exchange":"XETR","status":"ok","logoid":"sandisk"}
 {"symbol":"MY8","exchange":"XETR","status":"ok","logoid":"mastec"}
+{"symbol":"CEMX","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"OSLU","exchange":"XETR","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"LIV","exchange":"XETR","status":"ok","logoid":"autoliv"}

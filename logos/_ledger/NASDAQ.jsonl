@@ -5407,3 +5407,12 @@
 {"symbol":"IPXG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XTER","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HWGV","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PSQL","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RNAQU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ITHAU","exchange":"NASDAQ","status":"ok","logoid":"ithax-acquisition-iii"}
+{"symbol":"XLAB","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RNAQU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PSQL","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XLAB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HWGV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

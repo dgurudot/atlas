@@ -608,3 +608,4 @@
 {"symbol":"CMP","exchange":"CSE","status":"ok","logoid":"cmp-mining"}
 {"symbol":"KRIT","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"MJRX.X","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"SBD.X","exchange":"CSE","status":"ok","logoid":"sbd-capital"}

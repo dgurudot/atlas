@@ -2443,3 +2443,14 @@
 {"symbol":"L1EN34","exchange":"BMFBOVESPA","status":"ok","logoid":"lennar"}
 {"symbol":"S1BA34","exchange":"BMFBOVESPA","status":"ok","logoid":"sba-communications"}
 {"symbol":"VSOL39","exchange":"BMFBOVESPA","status":"ok","logoid":"valour-cardano"}
+{"symbol":"BDVE39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"INHF11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"A1LK34","exchange":"BMFBOVESPA","status":"ok","logoid":"alaska-air"}
+{"symbol":"FIEI3","exchange":"BMFBOVESPA","status":"ok","logoid":"fica-on"}
+{"symbol":"BLTP39","exchange":"BMFBOVESPA","status":"ok","logoid":"pimco"}
+{"symbol":"RZEO11","exchange":"BMFBOVESPA","status":"ok","logoid":"banco-do-brasil"}
+{"symbol":"VRSN34","exchange":"BMFBOVESPA","status":"ok","logoid":"verisign"}
+{"symbol":"PRSN11","exchange":"BMFBOVESPA","status":"ok","logoid":"personale-i-fundo"}
+{"symbol":"AETH39","exchange":"BMFBOVESPA","status":"ok","logoid":"21shares"}
+{"symbol":"S1NN34","exchange":"BMFBOVESPA","status":"ok","logoid":"smith-and-nephew"}
+{"symbol":"XRAY34","exchange":"BMFBOVESPA","status":"ok","logoid":"dentsply-sirona"}

@@ -374,3 +374,8 @@
 {"symbol":"CMPC0","exchange":"BCS","status":"ok","logoid":"empresas-cmpc-sa"}
 {"symbol":"RIPLEY1","exchange":"BCS","status":"ok","logoid":"ripley-sa"}
 {"symbol":"DISCL","exchange":"BCS","status":"ok","logoid":"walt-disney"}
+{"symbol":"SQM_B0","exchange":"BCS","status":"ok","logoid":"sqm"}
+{"symbol":"LLYCL1","exchange":"BCS","status":"ok","logoid":"eli-lilly"}
+{"symbol":"UNESPA","exchange":"BCS","status":"ok","logoid":"inv-unespa-sa"}
+{"symbol":"MINERA0","exchange":"BCS","status":"ok","logoid":"minera-valparaiso"}
+{"symbol":"ADBECL1","exchange":"BCS","status":"ok","logoid":"adobe"}

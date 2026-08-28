@@ -2935,3 +2935,10 @@
 {"symbol":"CAMO.B","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"CAMO","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"NFGC","exchange":"TSX","status":"ok","logoid":"new-found-gold"}
+{"symbol":"BILP.PR.A","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"CAGR","exchange":"TSX","status":"ok","logoid":"avantis-core-fixed-income"}
+{"symbol":"CAGX","exchange":"TSX","status":"ok","logoid":"cibc"}
+{"symbol":"CAKE","exchange":"TSX","status":"ok","logoid":"avantis-core-fixed-income"}
+{"symbol":"ZABS","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZABS.U","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZABS.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}

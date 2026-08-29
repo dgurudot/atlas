@@ -290,3 +290,4 @@
 {"symbol":"YAR","exchange":"OSL","status":"ok","logoid":"yara-international"}
 {"symbol":"ZENA","exchange":"OSL","status":"ok","logoid":"zenith-energy-ltd"}
 {"symbol":"ZLNA","exchange":"OSL","status":"ok","logoid":"ultimovacs-asa"}
+{"symbol":"OMC","exchange":"OSL","status":"nologo","logoid":null}

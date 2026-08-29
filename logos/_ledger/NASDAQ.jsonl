@@ -5416,3 +5416,7 @@
 {"symbol":"PSQL","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XLAB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HWGV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IPHXU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"EGHAU","exchange":"NASDAQ","status":"ok","logoid":"egh-acquisition"}
+{"symbol":"DRDBU","exchange":"NASDAQ","status":"ok","logoid":"roman-dbdr-acquisition-ii"}
+{"symbol":"IPHXU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

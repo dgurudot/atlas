@@ -609,3 +609,5 @@
 {"symbol":"KRIT","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"MJRX.X","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"SBD.X","exchange":"CSE","status":"ok","logoid":"sbd-capital"}
+{"symbol":"SYN","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"CPTR","exchange":"CSE","status":"ok","logoid":"captor-capital"}

@@ -889,3 +889,7 @@
 {"symbol":"BIOSGN_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"HPURO","exchange":"OMXSTO","status":"ok","logoid":"hexagon-purus-asa"}
 {"symbol":"JINO","exchange":"OMXSTO","status":"ok","logoid":"jinhui-shipping-and-transporta"}
+{"symbol":"NICO_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"ZALO","exchange":"OMXSTO","status":"ok","logoid":"zalaris-asa"}
+{"symbol":"ARRO","exchange":"OMXSTO","status":"ok","logoid":"arribatec-asa-nok280"}
+{"symbol":"ATIN","exchange":"OMXSTO","status":"ok","logoid":"athanase-innovation-ab"}

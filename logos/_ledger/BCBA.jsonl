@@ -1468,3 +1468,7 @@
 {"symbol":"WFCC","exchange":"BCBA","status":"ok","logoid":"wells-fargo"}
 {"symbol":"ECL.CI","exchange":"BCBA","status":"ok","logoid":"ecolab"}
 {"symbol":"SNOWC","exchange":"BCBA","status":"ok","logoid":"snowflake"}
+{"symbol":"BOLTD","exchange":"BCBA","status":"ok","logoid":"boldt-sa"}
+{"symbol":"EC","exchange":"BCBA","status":"ok","logoid":"eni"}
+{"symbol":"JOYYD","exchange":"BCBA","status":"ok","logoid":"yy-inc"}
+{"symbol":"OKLOC","exchange":"BCBA","status":"ok","logoid":"altc"}

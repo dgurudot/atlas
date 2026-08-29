@@ -2367,3 +2367,14 @@
 {"symbol":"PUB/N","exchange":"BMV","status":"ok","logoid":"publicis-groupe-sa"}
 {"symbol":"LENB","exchange":"BMV","status":"ok","logoid":"lennar"}
 {"symbol":"RH","exchange":"BMV","status":"ok","logoid":"rh"}
+{"symbol":"EEMA","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"KIE","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"RNEC/N","exchange":"BMV","status":"ok","logoid":"renesas-electronics"}
+{"symbol":"MLM","exchange":"BMV","status":"ok","logoid":"martin-marietta"}
+{"symbol":"TMV","exchange":"BMV","status":"ok","logoid":"direxion"}
+{"symbol":"VBK","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"QDIV","exchange":"BMV","status":"ok","logoid":"global-x"}
+{"symbol":"LEGR","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"PCTY","exchange":"BMV","status":"ok","logoid":"paylocity"}
+{"symbol":"VUKG/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"YEXT","exchange":"BMV","status":"ok","logoid":"yext"}

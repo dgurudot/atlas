@@ -1740,3 +1740,5 @@
 {"symbol":"AINJ","exchange":"AMS","status":"ok","logoid":"21shares"}
 {"symbol":"B1TA","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"XBTI-XAMS","exchange":"AMS","status":"ok","logoid":"iconic-funds-btc-etn-gmbh"}
+{"symbol":"SETH","exchange":"AMS","status":"ok","logoid":"seba-swiss"}
+{"symbol":"PYTH","exchange":"AMS","status":"ok","logoid":"21shares"}

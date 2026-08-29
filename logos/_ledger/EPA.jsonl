@@ -3889,3 +3889,9 @@
 {"symbol":"MLSRP","exchange":"EPA","status":"ok","logoid":"speed-rabbit-pizza"}
 {"symbol":"XBTI","exchange":"EPA","status":"ok","logoid":"iconic-funds-btc-etn-gmbh"}
 {"symbol":"MLSTR","exchange":"EPA","status":"ok","logoid":"streit-mecanique"}
+{"symbol":"FTEW","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"GSSBO","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"ST4R","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"THEW","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"JAEU","exchange":"EPA","status":"ok","logoid":"blackrock"}
+{"symbol":"SOLVE-XPAR","exchange":"EPA","status":"ok","logoid":"valour-cardano"}

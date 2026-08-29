@@ -2249,3 +2249,4 @@
 {"symbol":"OEQ","exchange":"ASX","status":"ok","logoid":"orion-equities-limited"}
 {"symbol":"SAN","exchange":"ASX","status":"ok","logoid":"sagalio-energy-limited"}
 {"symbol":"NX1","exchange":"ASX","status":"ok","logoid":"nexalis-therapeutics-limited"}
+{"symbol":"AMK","exchange":"ASX","status":"nologo","logoid":null}

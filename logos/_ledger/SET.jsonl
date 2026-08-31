@@ -2281,3 +2281,9 @@
 {"symbol":"COLOUR","exchange":"SET","status":"ok","logoid":"salee-colour-pcl-non-voting"}
 {"symbol":"NEW.R","exchange":"SET","status":"ok","logoid":"wattana-karnpaet-non-voting"}
 {"symbol":"NEW","exchange":"SET","status":"ok","logoid":"wattana-karnpaet-non-voting"}
+{"symbol":"NETEASE11","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"BABA11","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"KUAISH11","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"PINGAN11","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"POPMART11","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"XIAOMI11","exchange":"SET","status":"nologo","logoid":null}

@@ -292,3 +292,7 @@
 {"symbol":"WATP","exchange":"EGX","status":"ok","logoid":"modern-co-for-water-proofing"}
 {"symbol":"ZEOT","exchange":"EGX","status":"ok","logoid":"extracted-oils"}
 {"symbol":"EGS659O1C015","exchange":"EGX","status":"ok","logoid":"misr-kuwait-investment-and-trading-co"}
+{"symbol":"EGS924K1C018","exchange":"EGX","status":"nologo","logoid":null}
+{"symbol":"EGS220N1C016","exchange":"EGX","status":"nologo","logoid":null}
+{"symbol":"EGS66DU1C015","exchange":"EGX","status":"nologo","logoid":null}
+{"symbol":"TOUR","exchange":"EGX","status":"nologo","logoid":null}

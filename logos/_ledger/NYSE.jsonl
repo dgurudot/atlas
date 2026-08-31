@@ -2838,3 +2838,5 @@
 {"symbol":"AAC","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"JENA.U","exchange":"NYSE","status":"ok","logoid":"jena-acquisition-ii"}
 {"symbol":"QRED.U","exchange":"NYSE","status":"ok","logoid":"quasaredge-acquisition-units-cons-of-1-shs-1-rt"}
+{"symbol":"SAMO","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"SAMO","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

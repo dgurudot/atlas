@@ -2250,3 +2250,5 @@
 {"symbol":"SAN","exchange":"ASX","status":"ok","logoid":"sagalio-energy-limited"}
 {"symbol":"NX1","exchange":"ASX","status":"ok","logoid":"nexalis-therapeutics-limited"}
 {"symbol":"AMK","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"EF2","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"4DS","exchange":"ASX","status":"ok","logoid":"4ds-memory-limited"}

@@ -3123,3 +3123,8 @@
 {"symbol":"TIPG","exchange":"AMEX","status":"ok","logoid":"northern-trust"}
 {"symbol":"MNGU","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"REIX","exchange":"AMEX","status":"ok","logoid":"new-york-life-global-funding-025-snr-sec-nts-04-10-2028-eur100000"}
+{"symbol":"FRUT","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"PAAI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GLU/PA","exchange":"AMEX","status":"ok","logoid":"gabelli-etfs-trust"}
+{"symbol":"PAAI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FRUT","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

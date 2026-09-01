@@ -2378,3 +2378,8 @@
 {"symbol":"PCTY","exchange":"BMV","status":"ok","logoid":"paylocity"}
 {"symbol":"VUKG/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"YEXT","exchange":"BMV","status":"ok","logoid":"yext"}
+{"symbol":"RYAN","exchange":"BMV","status":"ok","logoid":"ryan-specialty-group"}
+{"symbol":"FLBR","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"COUR","exchange":"BMV","status":"ok","logoid":"coursera"}
+{"symbol":"CZR1","exchange":"BMV","status":"ok","logoid":"caesars"}
+{"symbol":"VDCP/N","exchange":"BMV","status":"ok","logoid":"vanguard"}

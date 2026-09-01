@@ -5424,3 +5424,5 @@
 {"symbol":"OPAD","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"ATLQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OPAD","exchange":"NASDAQ","status":"ok","logoid":null,"source":"polygon"}
+{"symbol":"SGLD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SGLD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

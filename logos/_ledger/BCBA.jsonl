@@ -1472,3 +1472,5 @@
 {"symbol":"EC","exchange":"BCBA","status":"ok","logoid":"eni"}
 {"symbol":"JOYYD","exchange":"BCBA","status":"ok","logoid":"yy-inc"}
 {"symbol":"OKLOC","exchange":"BCBA","status":"ok","logoid":"altc"}
+{"symbol":"XYZC","exchange":"BCBA","status":"ok","logoid":"block"}
+{"symbol":"UALC","exchange":"BCBA","status":"ok","logoid":"united-airlines"}

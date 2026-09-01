@@ -2774,3 +2774,12 @@
 {"symbol":"VDOT","exchange":"SIX","status":"ok","logoid":"vaneck"}
 {"symbol":"LDUK.EUR","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
 {"symbol":"MYJFX.EUR","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"CECFI","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"CEBE.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"TRYP","exchange":"SIX","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"FTAW","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"ADBE","exchange":"SIX","status":"ok","logoid":"adobe"}
+{"symbol":"USCHF","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"S2HGBD.GBP","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"SILVC","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"XNZE","exchange":"SIX","status":"ok","logoid":"dws"}

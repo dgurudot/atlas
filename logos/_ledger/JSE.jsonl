@@ -473,3 +473,6 @@
 {"symbol":"PWMEXI","exchange":"JSE","status":"nologo","logoid":null}
 {"symbol":"BACC","exchange":"JSE","status":"ok","logoid":"altvest-capital-ltd"}
 {"symbol":"UPL","exchange":"JSE","status":"ok","logoid":"universal-partners"}
+{"symbol":"AON","exchange":"JSE","status":"ok","logoid":"african-over-ent"}
+{"symbol":"JAETNQ","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"EXETNQ","exchange":"JSE","status":"ok","logoid":"firstrand-ltd"}

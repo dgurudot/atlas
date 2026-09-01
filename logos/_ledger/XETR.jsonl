@@ -5095,3 +5095,4 @@
 {"symbol":"CEMX","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"OSLU","exchange":"XETR","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
 {"symbol":"LIV","exchange":"XETR","status":"ok","logoid":"autoliv"}
+{"symbol":"3SAA","exchange":"XETR","status":"ok","logoid":"leverage-shares"}

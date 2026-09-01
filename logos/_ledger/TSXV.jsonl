@@ -1395,3 +1395,6 @@
 {"symbol":"EBCD.P","exchange":"TSXV","status":"ok","logoid":"eureka-capital"}
 {"symbol":"VDO.H","exchange":"TSXV","status":"ok","logoid":"nevado-resources"}
 {"symbol":"LILL.P","exchange":"TSXV","status":"ok","logoid":"little-fish-acquisition-i"}
+{"symbol":"CENT","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"IPD","exchange":"TSXV","status":"ok","logoid":"intl-parkside-products"}
+{"symbol":"OEG.H","exchange":"TSXV","status":"ok","logoid":"onenergy"}

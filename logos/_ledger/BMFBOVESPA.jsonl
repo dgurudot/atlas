@@ -2456,3 +2456,6 @@
 {"symbol":"XRAY34","exchange":"BMFBOVESPA","status":"ok","logoid":"dentsply-sirona"}
 {"symbol":"BFBI39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
 {"symbol":"P1VH34","exchange":"BMFBOVESPA","status":"ok","logoid":"pvh"}
+{"symbol":"FASA3F","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FASA3","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BIYM39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}

@@ -2783,3 +2783,17 @@
 {"symbol":"S2HGBD.GBP","exchange":"SIX","status":"ok","logoid":"ubs-group"}
 {"symbol":"SILVC","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
 {"symbol":"XNZE","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"3D3D","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"AMD","exchange":"SIX","status":"ok","logoid":"advanced-micro-devices"}
+{"symbol":"EMUS","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"CEBD.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"DIVW.USD","exchange":"SIX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"TRSC","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"HD","exchange":"SIX","status":"ok","logoid":"home-depot"}
+{"symbol":"HAMO","exchange":"SIX","status":"ok","logoid":"hashdex"}
+{"symbol":"FGGB.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"HAMO.GBP","exchange":"SIX","status":"ok","logoid":"hashdex"}
+{"symbol":"PFE.USD","exchange":"SIX","status":"ok","logoid":"pfizer"}
+{"symbol":"OXY","exchange":"SIX","status":"ok","logoid":"occidental-petroleum"}
+{"symbol":"WXUSD.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"XGBE","exchange":"SIX","status":"ok","logoid":"dws"}

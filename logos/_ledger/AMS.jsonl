@@ -1742,3 +1742,6 @@
 {"symbol":"XBTI-XAMS","exchange":"AMS","status":"ok","logoid":"iconic-funds-btc-etn-gmbh"}
 {"symbol":"SETH","exchange":"AMS","status":"ok","logoid":"seba-swiss"}
 {"symbol":"PYTH","exchange":"AMS","status":"ok","logoid":"21shares"}
+{"symbol":"FLRG","exchange":"AMS","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"UIMY","exchange":"AMS","status":"ok","logoid":"ubs-group"}
+{"symbol":"WMSC","exchange":"AMS","status":"ok","logoid":"ishares"}

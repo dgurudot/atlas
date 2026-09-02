@@ -3899,3 +3899,11 @@
 {"symbol":"SPAH","exchange":"EPA","status":"ok","logoid":"global-x"}
 {"symbol":"MLAPX","exchange":"EPA","status":"ok","logoid":"apex-critical-metals"}
 {"symbol":"SRID7","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"3BUS","exchange":"EPA","status":"ok","logoid":"wisdomtree"}
+{"symbol":"CMOC","exchange":"EPA","status":"ok","logoid":"invesco"}
+{"symbol":"JOFE","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"SRIC7","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"BUI","exchange":"EPA","status":"ok","logoid":"barbara-bui"}
+{"symbol":"PRINT-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"PRIND","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"RMBS","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}

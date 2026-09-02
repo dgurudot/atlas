@@ -893,3 +893,6 @@
 {"symbol":"ZALO","exchange":"OMXSTO","status":"ok","logoid":"zalaris-asa"}
 {"symbol":"ARRO","exchange":"OMXSTO","status":"ok","logoid":"arribatec-asa-nok280"}
 {"symbol":"ATIN","exchange":"OMXSTO","status":"ok","logoid":"athanase-innovation-ab"}
+{"symbol":"IWSO","exchange":"OMXSTO","status":"ok","logoid":"integrated-wind-solutions-asa"}
+{"symbol":"DFENSO","exchange":"OMXSTO","status":"ok","logoid":"fjord-defence-asa"}
+{"symbol":"INQ","exchange":"OMXSTO","status":"ok","logoid":"anoto-ab"}

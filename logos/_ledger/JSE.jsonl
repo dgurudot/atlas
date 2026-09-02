@@ -476,3 +476,5 @@
 {"symbol":"AON","exchange":"JSE","status":"ok","logoid":"african-over-ent"}
 {"symbol":"JAETNQ","exchange":"JSE","status":"nologo","logoid":null}
 {"symbol":"EXETNQ","exchange":"JSE","status":"ok","logoid":"firstrand-ltd"}
+{"symbol":"CATP","exchange":"JSE","status":"ok","logoid":"caxton-ctp-publish-print"}
+{"symbol":"MHB","exchange":"JSE","status":"ok","logoid":"mahube-infrastructure"}

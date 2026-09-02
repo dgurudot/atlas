@@ -1398,3 +1398,7 @@
 {"symbol":"CENT","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"IPD","exchange":"TSXV","status":"ok","logoid":"intl-parkside-products"}
 {"symbol":"OEG.H","exchange":"TSXV","status":"ok","logoid":"onenergy"}
+{"symbol":"LUKA.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"QIT.H","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"BRL.H","exchange":"TSXV","status":"ok","logoid":"bearclaw-capital"}
+{"symbol":"SGLD","exchange":"TSXV","status":"ok","logoid":"scorpio-gold"}

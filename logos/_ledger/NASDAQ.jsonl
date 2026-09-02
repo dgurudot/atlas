@@ -5426,3 +5426,13 @@
 {"symbol":"OPAD","exchange":"NASDAQ","status":"ok","logoid":null,"source":"polygon"}
 {"symbol":"SGLD","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"SGLD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ATLQU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NSAI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"GIXI","exchange":"NASDAQ","status":"ok","logoid":"gix-internet-ltd"}
+{"symbol":"ISRL","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"YFOR","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TLACU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ATLQU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"TLACU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NSAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"YFOR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

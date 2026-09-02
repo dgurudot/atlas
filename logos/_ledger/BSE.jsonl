@@ -5183,3 +5183,7 @@
 {"symbol":"NOVATEOR","exchange":"BSE","status":"ok","logoid":"novateor-research-laboratories"}
 {"symbol":"NOVYRA","exchange":"BSE","status":"ok","logoid":"bansisons-tea-industries-ltd"}
 {"symbol":"TACENT","exchange":"BSE","status":"ok","logoid":"rahul-merchandising-ltd"}
+{"symbol":"BETALA","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ANNU","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ENERGYAXIS","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"QUINT_RE1","exchange":"BSE","status":"nologo","logoid":null}

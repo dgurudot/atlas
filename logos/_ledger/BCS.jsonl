@@ -391,3 +391,5 @@
 {"symbol":"COVADONGA","exchange":"BCS","status":"ok","logoid":"inv-covadonga"}
 {"symbol":"ESTACIONAM","exchange":"BCS","status":"ok","logoid":"inmobiliaria-cntrl-de-estac-agustas"}
 {"symbol":"INVIESPA","exchange":"BCS","status":"ok","logoid":"inv-union-espanola"}
+{"symbol":"ADBECL","exchange":"BCS","status":"ok","logoid":"adobe"}
+{"symbol":"MCDCL1","exchange":"BCS","status":"ok","logoid":"mcdonalds"}

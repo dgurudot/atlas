@@ -1474,3 +1474,8 @@
 {"symbol":"OKLOC","exchange":"BCBA","status":"ok","logoid":"altc"}
 {"symbol":"XYZC","exchange":"BCBA","status":"ok","logoid":"block"}
 {"symbol":"UALC","exchange":"BCBA","status":"ok","logoid":"united-airlines"}
+{"symbol":"INAG","exchange":"BCBA","status":"ok","logoid":"insumos-agroquimicos-sa"}
+{"symbol":"DRABF","exchange":"BCBA","status":"ok","logoid":"dracma-sa"}
+{"symbol":"NTESC","exchange":"BCBA","status":"ok","logoid":"netease"}
+{"symbol":"DOME.CI","exchange":"BCBA","status":"ok","logoid":"domec-sa"}
+{"symbol":"VISTB","exchange":"BCBA","status":"ok","logoid":"vista-oil-and-gas"}

@@ -3132,3 +3132,9 @@
 {"symbol":"AELV","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
 {"symbol":"MATR","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
 {"symbol":"AGGM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HXF","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"UCBG","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"VOOY","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"UCBG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HXF","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VOOY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

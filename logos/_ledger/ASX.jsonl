@@ -2253,3 +2253,7 @@
 {"symbol":"EF2","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"4DS","exchange":"ASX","status":"ok","logoid":"4ds-memory-limited"}
 {"symbol":"KAN","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"EAU","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"AXR","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"ATHO","exchange":"ASX","status":"ok","logoid":"alterity-therapeutics-limited"}
+{"symbol":"STG","exchange":"ASX","status":"ok","logoid":"straker-limited"}

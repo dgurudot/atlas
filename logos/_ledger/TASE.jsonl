@@ -1054,3 +1054,5 @@
 {"symbol":"HMAM","exchange":"TASE","status":"ok","logoid":"hamama"}
 {"symbol":"KSM.F140","exchange":"TASE","status":"ok","logoid":"ksm-etf"}
 {"symbol":"FLYS-M","exchange":"TASE","status":"ok","logoid":"flying-spark-ltd"}
+{"symbol":"GIXI","exchange":"TASE","status":"ok","logoid":"gix-internet-ltd"}
+{"symbol":"MNRA-M","exchange":"TASE","status":"ok","logoid":"menara-ventures-xl"}

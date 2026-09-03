@@ -1402,3 +1402,8 @@
 {"symbol":"QIT.H","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"BRL.H","exchange":"TSXV","status":"ok","logoid":"bearclaw-capital"}
 {"symbol":"SGLD","exchange":"TSXV","status":"ok","logoid":"scorpio-gold"}
+{"symbol":"MOGL","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"GAR.H","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"REH","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"TRV.P","exchange":"TSXV","status":"ok","logoid":"treviso-capital"}
+{"symbol":"TIDE.P","exchange":"TSXV","status":"ok","logoid":"intertidal-capital"}

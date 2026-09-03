@@ -3907,3 +3907,4 @@
 {"symbol":"PRINT-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"PRIND","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"RMBS","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"SERA","exchange":"EPA","status":"nologo","logoid":null}

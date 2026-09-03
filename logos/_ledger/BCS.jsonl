@@ -393,3 +393,8 @@
 {"symbol":"INVIESPA","exchange":"BCS","status":"ok","logoid":"inv-union-espanola"}
 {"symbol":"ADBECL","exchange":"BCS","status":"ok","logoid":"adobe"}
 {"symbol":"MCDCL1","exchange":"BCS","status":"ok","logoid":"mcdonalds"}
+{"symbol":"CFIFTMPP_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIFTMPI_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CONSOGRAL","exchange":"BCS","status":"ok","logoid":"chilena-consolidad"}
+{"symbol":"CFIFTCLP_E0","exchange":"BCS","status":"ok","logoid":"frontal-trust-adm-gen-de-fondos-sa-frontal-trust-xepelin-deu-mex-fi-usd-f"}
+{"symbol":"CFIFTCLP_E1","exchange":"BCS","status":"ok","logoid":"frontal-trust-adm-gen-de-fondos-sa-frontal-trust-xepelin-deu-mex-fi-usd-f"}

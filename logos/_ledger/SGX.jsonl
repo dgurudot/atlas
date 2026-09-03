@@ -682,3 +682,4 @@
 {"symbol":"STC","exchange":"SGX","status":"ok","logoid":"comba"}
 {"symbol":"1A0","exchange":"SGX","status":"ok","logoid":"katrina"}
 {"symbol":"CXO","exchange":"SGX","status":"ok","logoid":"nikko"}
+{"symbol":"Q50","exchange":"SGX","status":"nologo","logoid":null}

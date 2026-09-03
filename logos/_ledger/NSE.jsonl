@@ -3518,3 +3518,5 @@
 {"symbol":"ENERGYAXIS","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SUMAX","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"AVSL","exchange":"NSE","status":"ok","logoid":"avsl-industries-ltd"}
+{"symbol":"LUMINO","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"KDGREEN","exchange":"NSE","status":"ok","logoid":"kd-green-industries-limited"}

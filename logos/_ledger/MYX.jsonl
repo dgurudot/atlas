@@ -1144,3 +1144,4 @@
 {"symbol":"ZELAN","exchange":"MYX","status":"ok","logoid":"zelan-bhd"}
 {"symbol":"KLCI1XI","exchange":"MYX","status":"ok","logoid":"kenanga-klci-daily"}
 {"symbol":"HPI","exchange":"MYX","status":"ok","logoid":"hydropipes-berhad"}
+{"symbol":"LAND33","exchange":"MYX","status":"nologo","logoid":null}

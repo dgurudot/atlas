@@ -2290,3 +2290,9 @@
 {"symbol":"FLE.R","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"FLE","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"KOREA01","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"GLAND","exchange":"SET","status":"ok","logoid":"grand-canal-land-pcl-non-voting"}
+{"symbol":"GLAND.R","exchange":"SET","status":"ok","logoid":"grand-canal-land-pcl-non-voting"}
+{"symbol":"CIMBT.R","exchange":"SET","status":"ok","logoid":"cimb-thai-bank-public-company-limited"}
+{"symbol":"CIMBT","exchange":"SET","status":"ok","logoid":"cimb-thai-bank-public-company-limited"}
+{"symbol":"LRH","exchange":"SET","status":"ok","logoid":"laguna-resorts-and-hotels-non-voting"}
+{"symbol":"LRH.R","exchange":"SET","status":"ok","logoid":"laguna-resorts-and-hotels-non-voting"}

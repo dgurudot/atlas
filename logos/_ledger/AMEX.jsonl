@@ -3138,3 +3138,7 @@
 {"symbol":"UCBG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HXF","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VOOY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DIVH","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"TSCZ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"DIVH","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"TSCZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

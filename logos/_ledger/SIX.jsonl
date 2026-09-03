@@ -2797,3 +2797,8 @@
 {"symbol":"OXY","exchange":"SIX","status":"ok","logoid":"occidental-petroleum"}
 {"symbol":"WXUSD.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
 {"symbol":"XGBE","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"JGEV.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"PEF","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"GME.USD","exchange":"SIX","status":"ok","logoid":"gamestop"}
+{"symbol":"XBEC","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"MRVL.USD","exchange":"SIX","status":"ok","logoid":"marvell-tech"}

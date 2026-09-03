@@ -5096,3 +5096,8 @@
 {"symbol":"OSLU","exchange":"XETR","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
 {"symbol":"LIV","exchange":"XETR","status":"ok","logoid":"autoliv"}
 {"symbol":"3SAA","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
+{"symbol":"S3RA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"45C","exchange":"XETR","status":"ok","logoid":"crowdstrike"}
+{"symbol":"SUUE","exchange":"XETR","status":"ok","logoid":"schroders-plc"}
+{"symbol":"SJEA","exchange":"XETR","status":"ok","logoid":"schroders-plc"}
+{"symbol":"VAD","exchange":"XETR","status":"ok","logoid":"pantaflix-ag"}

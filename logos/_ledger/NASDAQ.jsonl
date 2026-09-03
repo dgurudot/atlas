@@ -5436,3 +5436,6 @@
 {"symbol":"TLACU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"NSAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"YFOR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JONE","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TRBG","exchange":"NASDAQ","status":"ok","logoid":"turbogen"}
+{"symbol":"JONE","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

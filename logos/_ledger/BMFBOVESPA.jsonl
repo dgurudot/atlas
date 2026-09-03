@@ -2470,3 +2470,16 @@
 {"symbol":"CRIN34","exchange":"BMFBOVESPA","status":"ok","logoid":"carters"}
 {"symbol":"YEES11","exchange":"BMFBOVESPA","status":"ok","logoid":"hedge-yees-habitacoes-economicas-fundo-de-investimento-imobiliario-de-responsabilidade-limitada"}
 {"symbol":"BTSI11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-btsp-ii-ci"}
+{"symbol":"AGGX11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BEZA39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"BIAI39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"BPFV39","exchange":"BMFBOVESPA","status":"ok","logoid":"global-x"}
+{"symbol":"DINF11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"GPOS11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"IDUA11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"C1CO34","exchange":"BMFBOVESPA","status":"ok","logoid":"amerisourcebergen"}
+{"symbol":"G2NT34","exchange":"BMFBOVESPA","status":"ok","logoid":"gentex"}
+{"symbol":"L1NE34","exchange":"BMFBOVESPA","status":"ok","logoid":"lineage"}
+{"symbol":"CPAY34","exchange":"BMFBOVESPA","status":"ok","logoid":"fleetcor-technologies"}
+{"symbol":"MSPA4","exchange":"BMFBOVESPA","status":"ok","logoid":"melhor-sp-pn"}
+{"symbol":"P2NB34","exchange":"BMFBOVESPA","status":"ok","logoid":"penumbra"}

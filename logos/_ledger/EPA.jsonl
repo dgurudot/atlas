@@ -3908,3 +3908,6 @@
 {"symbol":"PRIND","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"RMBS","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"SERA","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"GRCTB","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"HYDUS","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"OATS5","exchange":"EPA","status":"ok","logoid":"societe-generale"}

@@ -2483,3 +2483,6 @@
 {"symbol":"CPAY34","exchange":"BMFBOVESPA","status":"ok","logoid":"fleetcor-technologies"}
 {"symbol":"MSPA4","exchange":"BMFBOVESPA","status":"ok","logoid":"melhor-sp-pn"}
 {"symbol":"P2NB34","exchange":"BMFBOVESPA","status":"ok","logoid":"penumbra"}
+{"symbol":"BAUH4","exchange":"BMFBOVESPA","status":"ok","logoid":"excelsior-pn"}
+{"symbol":"VANG11","exchange":"BMFBOVESPA","status":"ok","logoid":"bradesco"}
+{"symbol":"ESTR3F","exchange":"BMFBOVESPA","status":"ok","logoid":"estrela-pn"}

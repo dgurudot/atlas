@@ -5196,3 +5196,10 @@
 {"symbol":"W5DP","exchange":"BSE","status":"ok","logoid":"nippon-life-india-asset"}
 {"symbol":"SWORDEDGE","exchange":"BSE","status":"ok","logoid":"sword-edge-commercials-limited"}
 {"symbol":"WITS","exchange":"BSE","status":"ok","logoid":"wherrelz-it-solutions-limited"}
+{"symbol":"CSML","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ESDS","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PALUCK","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"BENARA","exchange":"BSE","status":"ok","logoid":"benara-bearings-and-pistons-li"}
+{"symbol":"PRIORITY","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"BINDALEXPO","exchange":"BSE","status":"ok","logoid":"bindal-exports-limited"}
+{"symbol":"THAKKERS","exchange":"BSE","status":"ok","logoid":"thakkers-limited"}

@@ -2842,3 +2842,5 @@
 {"symbol":"SAMO","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HOS","exchange":"NYSE","status":"ok","logoid":"hornbeck-offshore-services"}
 {"symbol":"MVPA","exchange":"NYSE","status":"ok","logoid":"advisor-managed-portfolios-miller-value-partners-leverage-etf"}
+{"symbol":"XTND","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"XTND","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

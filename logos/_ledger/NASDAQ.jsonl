@@ -5439,3 +5439,12 @@
 {"symbol":"JONE","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"TRBG","exchange":"NASDAQ","status":"ok","logoid":"turbogen"}
 {"symbol":"JONE","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HQDG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SGRX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"COLAU","exchange":"NASDAQ","status":"ok","logoid":"columbus-acquisition"}
+{"symbol":"SCIIU","exchange":"NASDAQ","status":"ok","logoid":"sc-ii-acquisition-units-cons-of-1-shs-a-1-rt"}
+{"symbol":"QSEAU","exchange":"NASDAQ","status":"ok","logoid":"quartzsea-acquisition"}
+{"symbol":"SPKLU","exchange":"NASDAQ","status":"ok","logoid":"spark-i-acquisition"}
+{"symbol":"TMTSU","exchange":"NASDAQ","status":"ok","logoid":"spartacus-acquisition-ii-units-cons-of-1-shs-a-1-3-red-wt"}
+{"symbol":"HQDG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SGRX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

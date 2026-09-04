@@ -1407,3 +1407,5 @@
 {"symbol":"REH","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"TRV.P","exchange":"TSXV","status":"ok","logoid":"treviso-capital"}
 {"symbol":"TIDE.P","exchange":"TSXV","status":"ok","logoid":"intertidal-capital"}
+{"symbol":"REBL.P","exchange":"TSXV","status":"ok","logoid":"genesis-acquisition"}
+{"symbol":"ZIGY","exchange":"TSXV","status":"ok","logoid":"stardust-metal"}

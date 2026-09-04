@@ -898,3 +898,5 @@
 {"symbol":"INQ","exchange":"OMXSTO","status":"ok","logoid":"anoto-ab"}
 {"symbol":"SNTIAO","exchange":"OMXSTO","status":"ok","logoid":"sentia-asa"}
 {"symbol":"BORO","exchange":"OMXSTO","status":"ok","logoid":"borgestad-asa"}
+{"symbol":"TENEO_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"STROO","exchange":"OMXSTO","status":"ok","logoid":"strongpoint-asa"}

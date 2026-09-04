@@ -5101,3 +5101,5 @@
 {"symbol":"SUUE","exchange":"XETR","status":"ok","logoid":"schroders-plc"}
 {"symbol":"SJEA","exchange":"XETR","status":"ok","logoid":"schroders-plc"}
 {"symbol":"VAD","exchange":"XETR","status":"ok","logoid":"pantaflix-ag"}
+{"symbol":"DHE1","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TCS","exchange":"XETR","status":"ok","logoid":"axon-enterprise"}

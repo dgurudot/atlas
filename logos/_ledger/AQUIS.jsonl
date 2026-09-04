@@ -373,3 +373,7 @@
 {"symbol":"GWIN","exchange":"AQUIS","status":"ok","logoid":"gowin-new-energy-group-limited"}
 {"symbol":"CPXJ.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"VHYD.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
+{"symbol":"IDNA.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"EMBE.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"VDNR.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
+{"symbol":"SXLF.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}

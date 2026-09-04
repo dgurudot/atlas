@@ -2802,3 +2802,15 @@
 {"symbol":"GME.USD","exchange":"SIX","status":"ok","logoid":"gamestop"}
 {"symbol":"XBEC","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"MRVL.USD","exchange":"SIX","status":"ok","logoid":"marvell-tech"}
+{"symbol":"EJAH.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"ABLDS","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"AVAV","exchange":"SIX","status":"ok","logoid":"aerovironment"}
+{"symbol":"CLOD","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"GIGE","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"SPEUS","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"JRWE.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JRUB.USD","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JMBA.USD","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"SGBE.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"SYB3","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"KRN","exchange":"SIX","status":"ok","logoid":"krones-ag-o-n"}

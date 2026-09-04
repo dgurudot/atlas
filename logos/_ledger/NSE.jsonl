@@ -3520,3 +3520,5 @@
 {"symbol":"AVSL","exchange":"NSE","status":"ok","logoid":"avsl-industries-ltd"}
 {"symbol":"LUMINO","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"KDGREEN","exchange":"NSE","status":"ok","logoid":"kd-green-industries-limited"}
+{"symbol":"ESDS","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"PRIORITY","exchange":"NSE","status":"nologo","logoid":null}

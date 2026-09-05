@@ -2814,3 +2814,15 @@
 {"symbol":"SGBE.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"SYB3","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"KRN","exchange":"SIX","status":"ok","logoid":"krones-ag-o-n"}
+{"symbol":"BE29.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"ID26.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"AG","exchange":"SIX","status":"ok","logoid":"first-majestic-silver"}
+{"symbol":"EROX","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"CLOEUA","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"LCWLD.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FGLV.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"USMUFE.EUR","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"NOW.USD","exchange":"SIX","status":"ok","logoid":"servicenow"}
+{"symbol":"SCOR.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"SNOW","exchange":"SIX","status":"ok","logoid":"snowflake"}
+{"symbol":"WDAY.USD","exchange":"SIX","status":"ok","logoid":"workday"}

@@ -5103,3 +5103,13 @@
 {"symbol":"VAD","exchange":"XETR","status":"ok","logoid":"pantaflix-ag"}
 {"symbol":"DHE1","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"TCS","exchange":"XETR","status":"ok","logoid":"axon-enterprise"}
+{"symbol":"CMEA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"49G","exchange":"XETR","status":"ok","logoid":"on-holding"}
+{"symbol":"DYI","exchange":"XETR","status":"ok","logoid":"dycom-industries"}
+{"symbol":"MPCG","exchange":"XETR","status":"ok","logoid":"mpc-capital-ag"}
+{"symbol":"NXZ","exchange":"XETR","status":"ok","logoid":"nexstar-media"}
+{"symbol":"QREX","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"QREM","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"QRMW","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"QRMD","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"PEN","exchange":"XETR","status":"ok","logoid":"pbf-energy"}

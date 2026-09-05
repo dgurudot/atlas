@@ -2486,3 +2486,7 @@
 {"symbol":"BAUH4","exchange":"BMFBOVESPA","status":"ok","logoid":"excelsior-pn"}
 {"symbol":"VANG11","exchange":"BMFBOVESPA","status":"ok","logoid":"bradesco"}
 {"symbol":"ESTR3F","exchange":"BMFBOVESPA","status":"ok","logoid":"estrela-pn"}
+{"symbol":"BHYC39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"BIJT39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"BBUS39","exchange":"BMFBOVESPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"REIT11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}

@@ -1747,3 +1747,5 @@
 {"symbol":"WMSC","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"400X","exchange":"AMS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"IFXL","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"HCAM","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"SDOT-USD","exchange":"AMS","status":"ok","logoid":"seba-swiss"}

@@ -1409,3 +1409,4 @@
 {"symbol":"TIDE.P","exchange":"TSXV","status":"ok","logoid":"intertidal-capital"}
 {"symbol":"REBL.P","exchange":"TSXV","status":"ok","logoid":"genesis-acquisition"}
 {"symbol":"ZIGY","exchange":"TSXV","status":"ok","logoid":"stardust-metal"}
+{"symbol":"FCLX","exchange":"TSXV","status":"nologo","logoid":null}

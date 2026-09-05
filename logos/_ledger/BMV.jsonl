@@ -2445,3 +2445,6 @@
 {"symbol":"VV","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"VTS","exchange":"BMV","status":"ok","logoid":"vitesse-energy"}
 {"symbol":"XRX","exchange":"BMV","status":"ok","logoid":"xerox"}
+{"symbol":"BBUSA/N","exchange":"BMV","status":"ok","logoid":"jpmorgan"}
+{"symbol":"FTXO","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"PNGAY/N","exchange":"BMV","status":"ok","logoid":"ping-an"}

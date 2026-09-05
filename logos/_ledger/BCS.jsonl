@@ -400,3 +400,7 @@
 {"symbol":"CFIFTCLP_E1","exchange":"BCS","status":"ok","logoid":"frontal-trust-adm-gen-de-fondos-sa-frontal-trust-xepelin-deu-mex-fi-usd-f"}
 {"symbol":"OSOJI_X","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"AVGOCL1","exchange":"BCS","status":"ok","logoid":"broadcom"}
+{"symbol":"CFIFCREB_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFICHEQA_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIFCREA_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"NEMCL","exchange":"BCS","status":"ok","logoid":"newmont"}

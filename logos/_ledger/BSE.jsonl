@@ -5203,3 +5203,5 @@
 {"symbol":"PRIORITY","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"BINDALEXPO","exchange":"BSE","status":"ok","logoid":"bindal-exports-limited"}
 {"symbol":"THAKKERS","exchange":"BSE","status":"ok","logoid":"thakkers-limited"}
+{"symbol":"KTKFMP100D","exchange":"BSE","status":"ok","logoid":"kotak-mahindra-ast"}
+{"symbol":"NFHXXVI14G","exchange":"BSE","status":"ok","logoid":"nippon-life-india-asset"}

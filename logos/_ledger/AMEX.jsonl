@@ -3143,3 +3143,4 @@
 {"symbol":"DIVH","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TSCZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PJIN","exchange":"AMEX","status":"ok","logoid":"pgim-active-aggregate-bond-etf"}
+{"symbol":"PJSM","exchange":"AMEX","status":"ok","logoid":"pgim-active-aggregate-bond-etf"}

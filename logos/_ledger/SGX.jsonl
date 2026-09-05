@@ -683,3 +683,5 @@
 {"symbol":"1A0","exchange":"SGX","status":"ok","logoid":"katrina"}
 {"symbol":"CXO","exchange":"SGX","status":"ok","logoid":"nikko"}
 {"symbol":"Q50","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"9PQ","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"EVD","exchange":"SGX","status":"ok","logoid":"nikko"}

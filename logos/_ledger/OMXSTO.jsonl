@@ -900,3 +900,4 @@
 {"symbol":"BORO","exchange":"OMXSTO","status":"ok","logoid":"borgestad-asa"}
 {"symbol":"TENEO_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"STROO","exchange":"OMXSTO","status":"ok","logoid":"strongpoint-asa"}
+{"symbol":"IS_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}

@@ -3459,3 +3459,5 @@
 {"symbol":"561530","exchange":"SSE","status":"ok","logoid":"yinhua"}
 {"symbol":"526060","exchange":"SSE","status":"ok","logoid":"huatai-securities-coltd"}
 {"symbol":"589430","exchange":"SSE","status":"ok","logoid":"hwabao"}
+{"symbol":"603448","exchange":"SSE","status":"nologo","logoid":null}
+{"symbol":"561690","exchange":"SSE","status":"nologo","logoid":null}

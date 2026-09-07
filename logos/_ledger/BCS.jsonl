@@ -405,3 +405,12 @@
 {"symbol":"CFIFCREA_E0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"NEMCL","exchange":"BCS","status":"ok","logoid":"newmont"}
 {"symbol":"CCU1","exchange":"BCS","status":"ok","logoid":"compania-cervecerias-unidas"}
+{"symbol":"CFICCVB2_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"PAMPA1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CVXCL1","exchange":"BCS","status":"ok","logoid":"chevron"}
+{"symbol":"ENELCHILE0","exchange":"BCS","status":"ok","logoid":"enel"}
+{"symbol":"BESALCO0","exchange":"BCS","status":"ok","logoid":"besalco-sa"}
+{"symbol":"CMPC1","exchange":"BCS","status":"ok","logoid":"empresas-cmpc-sa"}
+{"symbol":"FALABELLA1","exchange":"BCS","status":"ok","logoid":"falabella"}
+{"symbol":"ZEROQ1","exchange":"BCS","status":"ok","logoid":"panther-management-spa"}
+{"symbol":"CCU0","exchange":"BCS","status":"ok","logoid":"compania-cervecerias-unidas"}

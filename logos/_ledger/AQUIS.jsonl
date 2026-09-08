@@ -378,3 +378,6 @@
 {"symbol":"VDNR.GB","exchange":"AQUIS","status":"ok","logoid":"vanguard"}
 {"symbol":"SXLF.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"NASD.GB","exchange":"AQUIS","status":"ok","logoid":"amundi"}
+{"symbol":"FGQI.GB","exchange":"AQUIS","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"USLV.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"XRSU.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}

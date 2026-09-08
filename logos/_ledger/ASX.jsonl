@@ -2261,3 +2261,5 @@
 {"symbol":"CTD","exchange":"ASX","status":"ok","logoid":"corporate-travel-management"}
 {"symbol":"GLE","exchange":"ASX","status":"ok","logoid":"glg-ltd"}
 {"symbol":"TIA","exchange":"ASX","status":"ok","logoid":"tian-an-china-investments-co"}
+{"symbol":"EVRO","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"BPP","exchange":"ASX","status":"ok","logoid":"babylon-pump-and-power-limited"}

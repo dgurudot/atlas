@@ -5448,3 +5448,7 @@
 {"symbol":"TMTSU","exchange":"NASDAQ","status":"ok","logoid":"spartacus-acquisition-ii-units-cons-of-1-shs-a-1-3-red-wt"}
 {"symbol":"HQDG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SGRX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AMAC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CHAD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AMAC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CHAD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

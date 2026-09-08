@@ -1532,3 +1532,4 @@
 {"symbol":"SLVB","exchange":"BCBA","status":"ok","logoid":"ishares"}
 {"symbol":"VIV.CI","exchange":"BCBA","status":"ok","logoid":"telefonica"}
 {"symbol":"YPDDB","exchange":"BCBA","status":"ok","logoid":"ypf"}
+{"symbol":"PLDC","exchange":"BCBA","status":"nologo","logoid":null}

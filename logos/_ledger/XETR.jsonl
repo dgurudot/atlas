@@ -5113,3 +5113,12 @@
 {"symbol":"QRMW","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
 {"symbol":"QRMD","exchange":"XETR","status":"ok","logoid":"ameriprise-financial"}
 {"symbol":"PEN","exchange":"XETR","status":"ok","logoid":"pbf-energy"}
+{"symbol":"NA9A","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"3HY","exchange":"XETR","status":"ok","logoid":"sirius-xm"}
+{"symbol":"8W80","exchange":"XETR","status":"ok","logoid":"allbirds"}
+{"symbol":"EDMB","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"HFF","exchange":"XETR","status":"ok","logoid":"hartford-financial-services-grp"}
+{"symbol":"X600","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XEST","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XESU","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XSXX","exchange":"XETR","status":"ok","logoid":"dws"}

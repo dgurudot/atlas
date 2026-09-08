@@ -55,3 +55,4 @@
 {"symbol":"WPS","exchange":"PSECZ","status":"ok","logoid":"wag-payment-solutions"}
 {"symbol":"SKAB","exchange":"PSECZ","status":"ok","logoid":"skanska-ab-ser-b"}
 {"symbol":"ENRGA","exchange":"PSECZ","status":"ok","logoid":"energoaqua-as"}
+{"symbol":"PXETF","exchange":"PSECZ","status":"nologo","logoid":null}

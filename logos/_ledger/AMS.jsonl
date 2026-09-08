@@ -1749,3 +1749,4 @@
 {"symbol":"IFXL","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"HCAM","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"SDOT-USD","exchange":"AMS","status":"ok","logoid":"seba-swiss"}
+{"symbol":"VSCE","exchange":"AMS","status":"ok","logoid":"vanguard"}

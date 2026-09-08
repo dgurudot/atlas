@@ -685,3 +685,4 @@
 {"symbol":"Q50","exchange":"SGX","status":"nologo","logoid":null}
 {"symbol":"9PQ","exchange":"SGX","status":"nologo","logoid":null}
 {"symbol":"EVD","exchange":"SGX","status":"ok","logoid":"nikko"}
+{"symbol":"MCS","exchange":"SGX","status":"ok","logoid":"phil-cu-ms-china-a50-s"}

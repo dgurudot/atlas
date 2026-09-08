@@ -2448,3 +2448,6 @@
 {"symbol":"BBUSA/N","exchange":"BMV","status":"ok","logoid":"jpmorgan"}
 {"symbol":"FTXO","exchange":"BMV","status":"ok","logoid":"first-trust"}
 {"symbol":"PNGAY/N","exchange":"BMV","status":"ok","logoid":"ping-an"}
+{"symbol":"VEUD/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"EOAN/N","exchange":"BMV","status":"ok","logoid":"e-on"}
+{"symbol":"WCLD1/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}

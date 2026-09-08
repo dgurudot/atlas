@@ -2826,3 +2826,12 @@
 {"symbol":"SCOR.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"SNOW","exchange":"SIX","status":"ok","logoid":"snowflake"}
 {"symbol":"WDAY.USD","exchange":"SIX","status":"ok","logoid":"workday"}
+{"symbol":"27IT.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"D26A.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"29IT.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"JPM","exchange":"SIX","status":"ok","logoid":"jpmorgan-chase"}
+{"symbol":"CHOO","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"BCCMG.GBP","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"KHC","exchange":"SIX","status":"ok","logoid":"kraft-heinz"}
+{"symbol":"SPAB","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"MAXS.USD","exchange":"SIX","status":"ok","logoid":"ishares"}

@@ -414,3 +414,5 @@
 {"symbol":"FALABELLA1","exchange":"BCS","status":"ok","logoid":"falabella"}
 {"symbol":"ZEROQ1","exchange":"BCS","status":"ok","logoid":"panther-management-spa"}
 {"symbol":"CCU0","exchange":"BCS","status":"ok","logoid":"compania-cervecerias-unidas"}
+{"symbol":"CFICDR3A_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"LITORALTX","exchange":"BCS","status":"ok","logoid":"litoral-transmision-sa"}

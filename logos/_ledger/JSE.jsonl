@@ -479,3 +479,4 @@
 {"symbol":"CATP","exchange":"JSE","status":"ok","logoid":"caxton-ctp-publish-print"}
 {"symbol":"MHB","exchange":"JSE","status":"ok","logoid":"mahube-infrastructure"}
 {"symbol":"TBIGTF","exchange":"JSE","status":"ok","logoid":"tbi-global-targeted-yield-ucits-fund"}
+{"symbol":"RTN","exchange":"JSE","status":"ok","logoid":"rex-trueform"}

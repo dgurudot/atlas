@@ -5213,3 +5213,7 @@
 {"symbol":"MOMSBELIEF","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"JIYAECO","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"LADIAMO","exchange":"BSE","status":"ok","logoid":"laser-diamonds-ltd"}
+{"symbol":"FINANCE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PECOS","exchange":"BSE","status":"ok","logoid":"ubs-group"}
+{"symbol":"GANGAPHARM","exchange":"BSE","status":"ok","logoid":"ganga-pharmaceuticals-limited"}
+{"symbol":"JAINMARMO","exchange":"BSE","status":"ok","logoid":"jain-marmo-industries-ltd"}

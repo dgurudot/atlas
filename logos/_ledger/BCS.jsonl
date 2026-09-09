@@ -416,3 +416,16 @@
 {"symbol":"CCU0","exchange":"BCS","status":"ok","logoid":"compania-cervecerias-unidas"}
 {"symbol":"CFICDR3A_E0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"LITORALTX","exchange":"BCS","status":"ok","logoid":"litoral-transmision-sa"}
+{"symbol":"MSCL","exchange":"BCS","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"GOOG","exchange":"BCS","status":"ok","logoid":"alphabet"}
+{"symbol":"PFE","exchange":"BCS","status":"ok","logoid":"pfizer"}
+{"symbol":"MOCL","exchange":"BCS","status":"ok","logoid":"altria"}
+{"symbol":"ORCL","exchange":"BCS","status":"ok","logoid":"oracle"}
+{"symbol":"INTC","exchange":"BCS","status":"ok","logoid":"intel"}
+{"symbol":"GOOGL","exchange":"BCS","status":"ok","logoid":"alphabet"}
+{"symbol":"CCL","exchange":"BCS","status":"ok","logoid":"citigroup"}
+{"symbol":"BOLSASTGO","exchange":"BCS","status":"ok","logoid":"bolsa-de-comercio"}
+{"symbol":"JNJCL","exchange":"BCS","status":"ok","logoid":"johnson-and-johnson"}
+{"symbol":"SBUX","exchange":"BCS","status":"ok","logoid":"starbucks"}
+{"symbol":"MRK","exchange":"BCS","status":"ok","logoid":"merck-and-co"}
+{"symbol":"V","exchange":"BCS","status":"ok","logoid":"visa"}

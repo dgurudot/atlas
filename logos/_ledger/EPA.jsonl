@@ -3917,3 +3917,12 @@
 {"symbol":"EAAA","exchange":"EPA","status":"ok","logoid":"fair-oaks-income"}
 {"symbol":"MLBBO","exchange":"EPA","status":"ok","logoid":"bebo-health"}
 {"symbol":"BTPS1","exchange":"EPA","status":"ok","logoid":"societe-generale"}
+{"symbol":"DAX5","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"SLV3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"ALHYF","exchange":"EPA","status":"ok","logoid":"lhyfe-sa"}
+{"symbol":"SLVS","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"DAXS","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"LYTE","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"ALPER","exchange":"EPA","status":"ok","logoid":"gerard-perrier-electric"}
+{"symbol":"QQL3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"SPY3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}

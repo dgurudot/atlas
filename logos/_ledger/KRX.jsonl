@@ -4336,3 +4336,8 @@
 {"symbol":"610112","exchange":"KRX","status":"nologo","logoid":null}
 {"symbol":"006380","exchange":"KRX","status":"nologo","logoid":null}
 {"symbol":"0238P0","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"70600002","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"70600004","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"71900002","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"71900004","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"279060","exchange":"KRX","status":"ok","logoid":"innovex"}

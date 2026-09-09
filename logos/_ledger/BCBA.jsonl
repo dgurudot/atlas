@@ -1533,3 +1533,10 @@
 {"symbol":"VIV.CI","exchange":"BCBA","status":"ok","logoid":"telefonica"}
 {"symbol":"YPDDB","exchange":"BCBA","status":"ok","logoid":"ypf"}
 {"symbol":"PLDC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"GEVC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"EMBJC","exchange":"BCBA","status":"ok","logoid":"embraer"}
+{"symbol":"ETSYC","exchange":"BCBA","status":"ok","logoid":"etsy"}
+{"symbol":"NSAN","exchange":"BCBA","status":"ok","logoid":"nissan"}
+{"symbol":"SHW.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"WDCC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"WELL.CI","exchange":"BCBA","status":"nologo","logoid":null}

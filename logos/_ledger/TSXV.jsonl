@@ -1410,3 +1410,6 @@
 {"symbol":"REBL.P","exchange":"TSXV","status":"ok","logoid":"genesis-acquisition"}
 {"symbol":"ZIGY","exchange":"TSXV","status":"ok","logoid":"stardust-metal"}
 {"symbol":"FCLX","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ARO","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"MCT.P","exchange":"TSXV","status":"ok","logoid":"m3-capital"}
+{"symbol":"CES.P","exchange":"TSXV","status":"ok","logoid":"celestial-acquisition"}

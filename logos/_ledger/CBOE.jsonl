@@ -1922,3 +1922,9 @@
 {"symbol":"KPO","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SKHQ","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"SKHQ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DICE","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"KATT","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"TRXS","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"TRXS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"KATT","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DICE","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

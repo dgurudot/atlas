@@ -5452,3 +5452,10 @@
 {"symbol":"CHAD","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"AMAC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CHAD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"KRSA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CCML","exchange":"NASDAQ","status":"ok","logoid":"roundhmetave-aeoa"}
+{"symbol":"RML","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NXAT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RML","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NXAT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"KRSA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

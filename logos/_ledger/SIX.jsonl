@@ -2835,3 +2835,7 @@
 {"symbol":"KHC","exchange":"SIX","status":"ok","logoid":"kraft-heinz"}
 {"symbol":"SPAB","exchange":"SIX","status":"ok","logoid":"global-x"}
 {"symbol":"MAXS.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"XT01","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"JGSA.GBP","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"DXCM.USD","exchange":"SIX","status":"ok","logoid":"dexcom"}
+{"symbol":"CLIMA.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}

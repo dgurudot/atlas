@@ -5122,3 +5122,6 @@
 {"symbol":"XEST","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"XESU","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"XSXX","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"EEA1","exchange":"XETR","status":"ok","logoid":"paribas"}
+{"symbol":"EEAZ","exchange":"XETR","status":"ok","logoid":"paribas"}
+{"symbol":"CHQ1","exchange":"XETR","status":"ok","logoid":"cheniere-energy-partners"}

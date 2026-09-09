@@ -686,3 +686,6 @@
 {"symbol":"9PQ","exchange":"SGX","status":"nologo","logoid":null}
 {"symbol":"EVD","exchange":"SGX","status":"ok","logoid":"nikko"}
 {"symbol":"MCS","exchange":"SGX","status":"ok","logoid":"phil-cu-ms-china-a50-s"}
+{"symbol":"BAC","exchange":"SGX","status":"ok","logoid":"camsing-hc-watch-list"}
+{"symbol":"P74","exchange":"SGX","status":"ok","logoid":"china-kangda-food-company-limited"}
+{"symbol":"1J7","exchange":"SGX","status":"ok","logoid":"jawala"}

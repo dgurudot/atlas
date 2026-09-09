@@ -4269,3 +4269,5 @@
 {"symbol":"615A","exchange":"TSE","status":"nologo","logoid":null}
 {"symbol":"626A","exchange":"TSE","status":"ok","logoid":"daiwa-securities-group"}
 {"symbol":"630A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"632A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"633A","exchange":"TSE","status":"ok","logoid":"global-x"}

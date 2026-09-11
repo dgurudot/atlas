@@ -3146,3 +3146,11 @@
 {"symbol":"PJSM","exchange":"AMEX","status":"ok","logoid":"pgim-active-aggregate-bond-etf"}
 {"symbol":"AUXX","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"AUXX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MFSD","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HLSQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MFSX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"NRAM","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HLSQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NRAM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MFSX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MFSD","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

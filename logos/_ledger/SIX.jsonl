@@ -2839,3 +2839,15 @@
 {"symbol":"JGSA.GBP","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
 {"symbol":"DXCM.USD","exchange":"SIX","status":"ok","logoid":"dexcom"}
 {"symbol":"CLIMA.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"APP.USD","exchange":"SIX","status":"ok","logoid":"applovin-cdr-cad-hedged"}
+{"symbol":"ARAY.USD","exchange":"SIX","status":"ok","logoid":"21shares"}
+{"symbol":"ARAY.EUR","exchange":"SIX","status":"ok","logoid":"21shares"}
+{"symbol":"JHES.EUR","exchange":"SIX","status":"ok","logoid":"henderson-diversified-income"}
+{"symbol":"CT500.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"EMUGB.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FYUI.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"ZBH","exchange":"SIX","status":"ok","logoid":"zimmer-biomet"}
+{"symbol":"TTWO.USD","exchange":"SIX","status":"ok","logoid":"take-two-interactive-software"}
+{"symbol":"MDLZ.USD","exchange":"SIX","status":"ok","logoid":"mondelez"}
+{"symbol":"LGUK.GBP","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"T","exchange":"SIX","status":"ok","logoid":"at-and-t"}

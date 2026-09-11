@@ -906,3 +906,6 @@
 {"symbol":"HAVIO","exchange":"OMXSTO","status":"ok","logoid":"havila-shipping-asa"}
 {"symbol":"NRCO","exchange":"OMXSTO","status":"ok","logoid":"nrc-asa"}
 {"symbol":"NORCOO","exchange":"OMXSTO","status":"ok","logoid":"norconsult-asa"}
+{"symbol":"S2M_BTU_B","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"VETT_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"SAGAO","exchange":"OMXSTO","status":"ok","logoid":"saga-pure-asa"}

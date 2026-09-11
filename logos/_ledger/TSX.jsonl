@@ -2942,3 +2942,9 @@
 {"symbol":"ZABS","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZABS.U","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZABS.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"TPUT","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"VCOR","exchange":"TSX","status":"ok","logoid":"vanguard"}
+{"symbol":"ROSY","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"WHYP","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
+{"symbol":"ROSY.U","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"WHYP.U","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}

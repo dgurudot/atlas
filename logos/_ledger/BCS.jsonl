@@ -429,3 +429,6 @@
 {"symbol":"SBUX","exchange":"BCS","status":"ok","logoid":"starbucks"}
 {"symbol":"MRK","exchange":"BCS","status":"ok","logoid":"merck-and-co"}
 {"symbol":"V","exchange":"BCS","status":"ok","logoid":"visa"}
+{"symbol":"BKNGCL","exchange":"BCS","status":"ok","logoid":"booking"}
+{"symbol":"CVS","exchange":"BCS","status":"ok","logoid":"cvs-health"}
+{"symbol":"FCXCL1","exchange":"BCS","status":"ok","logoid":"freeport-mcmoran"}

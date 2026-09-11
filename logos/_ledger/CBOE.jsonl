@@ -1928,3 +1928,11 @@
 {"symbol":"TRXS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"KATT","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"DICE","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MLCC","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"VEGX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XLCD","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"XLPU","exchange":"CBOE","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"XLPD","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"XLCU","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
+{"symbol":"MLCC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VEGX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

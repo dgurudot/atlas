@@ -4271,3 +4271,6 @@
 {"symbol":"630A","exchange":"TSE","status":"nologo","logoid":null}
 {"symbol":"632A","exchange":"TSE","status":"nologo","logoid":null}
 {"symbol":"633A","exchange":"TSE","status":"ok","logoid":"global-x"}
+{"symbol":"636A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"635A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"618A","exchange":"TSE","status":"ok","logoid":"kompeito"}

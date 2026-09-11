@@ -5459,3 +5459,17 @@
 {"symbol":"RML","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"NXAT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"KRSA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BRTM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AIFR","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"AIMG","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"CRAM","exchange":"NASDAQ","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"ACBH","exchange":"NASDAQ","status":"ok","logoid":"pacer-american-energy"}
+{"symbol":"ATTT","exchange":"NASDAQ","status":"ok","logoid":"raytech-limited"}
+{"symbol":"OCLT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"DYNCU","exchange":"NASDAQ","status":"ok","logoid":"dynamix"}
+{"symbol":"EOCN","exchange":"NASDAQ","status":"ok","logoid":"galmed-pharmaceuticals-ltd"}
+{"symbol":"ACBE","exchange":"NASDAQ","status":"ok","logoid":"pacer-american-energy"}
+{"symbol":"VEEM","exchange":"NASDAQ","status":"ok","logoid":"vaneck"}
+{"symbol":"SWRD","exchange":"NASDAQ","status":"ok","logoid":"favo-capital"}
+{"symbol":"BRTM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OCLT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

@@ -382,3 +382,5 @@
 {"symbol":"USLV.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"XRSU.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
 {"symbol":"SUSM.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"IFSW.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"IUQA.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}

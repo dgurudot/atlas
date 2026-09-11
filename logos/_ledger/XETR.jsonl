@@ -5125,3 +5125,6 @@
 {"symbol":"EEA1","exchange":"XETR","status":"ok","logoid":"paribas"}
 {"symbol":"EEAZ","exchange":"XETR","status":"ok","logoid":"paribas"}
 {"symbol":"CHQ1","exchange":"XETR","status":"ok","logoid":"cheniere-energy-partners"}
+{"symbol":"MO0E","exchange":"XETR","status":"ok","logoid":"vaneck"}
+{"symbol":"CSXE","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"IV1","exchange":"XETR","status":"ok","logoid":"independent-bank-group"}

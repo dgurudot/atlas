@@ -480,3 +480,4 @@
 {"symbol":"MHB","exchange":"JSE","status":"ok","logoid":"mahube-infrastructure"}
 {"symbol":"TBIGTF","exchange":"JSE","status":"ok","logoid":"tbi-global-targeted-yield-ucits-fund"}
 {"symbol":"RTN","exchange":"JSE","status":"ok","logoid":"rex-trueform"}
+{"symbol":"PPR","exchange":"JSE","status":"ok","logoid":"putprop-ltd"}

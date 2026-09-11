@@ -1540,3 +1540,10 @@
 {"symbol":"SHW.CI","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"WDCC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"WELL.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ABTC","exchange":"BCBA","status":"ok","logoid":"abbott"}
+{"symbol":"CAT.B","exchange":"BCBA","status":"ok","logoid":"caterpillar"}
+{"symbol":"EBAYC","exchange":"BCBA","status":"ok","logoid":"ebay"}
+{"symbol":"NVSC","exchange":"BCBA","status":"ok","logoid":"novartis"}
+{"symbol":"ECOGB","exchange":"BCBA","status":"ok","logoid":"dgce"}
+{"symbol":"GSB","exchange":"BCBA","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"FISVC","exchange":"BCBA","status":"ok","logoid":"fiserv"}

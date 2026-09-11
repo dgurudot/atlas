@@ -3926,3 +3926,12 @@
 {"symbol":"ALPER","exchange":"EPA","status":"ok","logoid":"gerard-perrier-electric"}
 {"symbol":"QQL3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
 {"symbol":"SPY3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"EJEGSS","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"MOO","exchange":"EPA","status":"ok","logoid":"vaneck"}
+{"symbol":"USCBH","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"VDOT","exchange":"EPA","status":"ok","logoid":"vaneck"}
+{"symbol":"IQEC-ETFP","exchange":"EPA","status":"ok","logoid":"indexiq-iq-global-equity"}
+{"symbol":"MLGAI","exchange":"EPA","status":"ok","logoid":"gai"}
+{"symbol":"MLVST","exchange":"EPA","status":"ok","logoid":"televista"}
+{"symbol":"SJEA","exchange":"EPA","status":"ok","logoid":"schroders-plc"}
+{"symbol":"SEUE","exchange":"EPA","status":"ok","logoid":"schroders-plc"}

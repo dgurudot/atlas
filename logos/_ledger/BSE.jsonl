@@ -5217,3 +5217,7 @@
 {"symbol":"PECOS","exchange":"BSE","status":"ok","logoid":"ubs-group"}
 {"symbol":"GANGAPHARM","exchange":"BSE","status":"ok","logoid":"ganga-pharmaceuticals-limited"}
 {"symbol":"JAINMARMO","exchange":"BSE","status":"ok","logoid":"jain-marmo-industries-ltd"}
+{"symbol":"ADVMULT","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"RRSECUR","exchange":"BSE","status":"ok","logoid":"rrsecurities-ltd"}
+{"symbol":"TRANWAY21","exchange":"BSE","status":"ok","logoid":"tranway-technologies-limited"}
+{"symbol":"DOLLEX","exchange":"BSE","status":"ok","logoid":"dollex-agrotech-ltd"}

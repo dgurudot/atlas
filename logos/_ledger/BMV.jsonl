@@ -2477,3 +2477,10 @@
 {"symbol":"TECK/N","exchange":"BMV","status":"ok","logoid":"teck-resources"}
 {"symbol":"VCLT","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"WELL1/N","exchange":"BMV","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"6960/N","exchange":"BMV","status":"ok","logoid":"fukuda-denshi-co"}
+{"symbol":"AEE","exchange":"BMV","status":"ok","logoid":"ameren"}
+{"symbol":"QLTA","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"UHS","exchange":"BMV","status":"ok","logoid":"universal-health-services"}
+{"symbol":"EXPD","exchange":"BMV","status":"ok","logoid":"expeditors"}
+{"symbol":"VECA/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"FFIV","exchange":"BMV","status":"ok","logoid":"f5-network"}

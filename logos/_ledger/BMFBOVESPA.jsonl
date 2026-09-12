@@ -2513,3 +2513,6 @@
 {"symbol":"TXRX4","exchange":"BMFBOVESPA","status":"ok","logoid":"tex-renaux-on"}
 {"symbol":"S2GI34","exchange":"BMFBOVESPA","status":"ok","logoid":"tempur-sealy-international"}
 {"symbol":"W1YN34","exchange":"BMFBOVESPA","status":"ok","logoid":"wynn-resorts"}
+{"symbol":"BBEU39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BRIA11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"F1LS34","exchange":"BMFBOVESPA","status":"ok","logoid":"flowserve"}

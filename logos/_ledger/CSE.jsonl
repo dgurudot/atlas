@@ -619,3 +619,5 @@
 {"symbol":"NASA","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"IMPR","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"AURM","exchange":"CSE","status":"ok","logoid":"aureum-exploration"}
+{"symbol":"AXN","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"TTC","exchange":"CSE","status":"ok","logoid":"titan-technology"}

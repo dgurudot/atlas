@@ -1418,3 +1418,6 @@
 {"symbol":"GUF","exchange":"TSXV","status":"ok","logoid":"gulf-and-pacific-equities"}
 {"symbol":"NTB","exchange":"TSXV","status":"ok","logoid":"new-tymbal-resources-ltd"}
 {"symbol":"MBI.H","exchange":"TSXV","status":"ok","logoid":"many-bright-ideas-technologies"}
+{"symbol":"MFA.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"MDK.P","exchange":"TSXV","status":"ok","logoid":"mdk-acquisition"}
+{"symbol":"CWV.H","exchange":"TSXV","status":"ok","logoid":"crown-point-energy"}

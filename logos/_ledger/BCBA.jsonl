@@ -1547,3 +1547,7 @@
 {"symbol":"ECOGB","exchange":"BCBA","status":"ok","logoid":"dgce"}
 {"symbol":"GSB","exchange":"BCBA","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
 {"symbol":"FISVC","exchange":"BCBA","status":"ok","logoid":"fiserv"}
+{"symbol":"SKHYC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ECLC","exchange":"BCBA","status":"ok","logoid":"ecolab"}
+{"symbol":"DALC","exchange":"BCBA","status":"ok","logoid":"delta-air-lines"}
+{"symbol":"RENT3.CI","exchange":"BCBA","status":"ok","logoid":"localiza"}

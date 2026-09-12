@@ -5128,3 +5128,5 @@
 {"symbol":"MO0E","exchange":"XETR","status":"ok","logoid":"vaneck"}
 {"symbol":"CSXE","exchange":"XETR","status":"ok","logoid":"amundi"}
 {"symbol":"IV1","exchange":"XETR","status":"ok","logoid":"independent-bank-group"}
+{"symbol":"AZIV","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"AZC0","exchange":"XETR","status":"nologo","logoid":null}

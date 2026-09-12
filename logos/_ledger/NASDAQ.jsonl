@@ -5473,3 +5473,4 @@
 {"symbol":"SWRD","exchange":"NASDAQ","status":"ok","logoid":"favo-capital"}
 {"symbol":"BRTM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OCLT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GEMQ","exchange":"NASDAQ","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}

@@ -3935,3 +3935,6 @@
 {"symbol":"MLVST","exchange":"EPA","status":"ok","logoid":"televista"}
 {"symbol":"SJEA","exchange":"EPA","status":"ok","logoid":"schroders-plc"}
 {"symbol":"SEUE","exchange":"EPA","status":"ok","logoid":"schroders-plc"}
+{"symbol":"AZCO","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"AZGV","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"MLIDS","exchange":"EPA","status":"ok","logoid":"ids"}

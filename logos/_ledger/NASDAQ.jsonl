@@ -5474,3 +5474,5 @@
 {"symbol":"BRTM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OCLT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"GEMQ","exchange":"NASDAQ","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"NFEGP","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NFEGP","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

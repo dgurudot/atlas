@@ -1421,3 +1421,5 @@
 {"symbol":"MFA.P","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"MDK.P","exchange":"TSXV","status":"ok","logoid":"mdk-acquisition"}
 {"symbol":"CWV.H","exchange":"TSXV","status":"ok","logoid":"crown-point-energy"}
+{"symbol":"QNTA","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ZYUS","exchange":"TSXV","status":"ok","logoid":"zyus-life-sciences"}

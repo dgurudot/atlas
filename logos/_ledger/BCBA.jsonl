@@ -1551,3 +1551,6 @@
 {"symbol":"ECLC","exchange":"BCBA","status":"ok","logoid":"ecolab"}
 {"symbol":"DALC","exchange":"BCBA","status":"ok","logoid":"delta-air-lines"}
 {"symbol":"RENT3.CI","exchange":"BCBA","status":"ok","logoid":"localiza"}
+{"symbol":"VXXC","exchange":"BCBA","status":"ok","logoid":"ishares"}
+{"symbol":"PSQC","exchange":"BCBA","status":"ok","logoid":"proshares"}
+{"symbol":"GGALB","exchange":"BCBA","status":"ok","logoid":"gpo-fin-galicia"}

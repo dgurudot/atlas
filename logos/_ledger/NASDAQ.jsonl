@@ -5476,3 +5476,10 @@
 {"symbol":"GEMQ","exchange":"NASDAQ","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
 {"symbol":"NFEGP","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"NFEGP","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AFDM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RNAQ","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"XUSM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AFEM","exchange":"NASDAQ","status":"ok","logoid":"first-trust"}
+{"symbol":"XUSM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"RNAQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AFDM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

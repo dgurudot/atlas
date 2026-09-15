@@ -15804,3 +15804,7 @@
 {"symbol":"SEUP","exchange":"LSE","status":"ok","logoid":"schroders-plc"}
 {"symbol":"UKEN","exchange":"LSE","status":"ok","logoid":"uk-oil-and-gas-plc-ord-gbp0000001"}
 {"symbol":"0RQK","exchange":"LSE","status":"ok","logoid":"balta"}
+{"symbol":"0HCX","exchange":"LSE","status":"ok","logoid":"ubs-group"}
+{"symbol":"0ADK","exchange":"LSE","status":"ok","logoid":"deckers-outdoor"}
+{"symbol":"0NCF","exchange":"LSE","status":"ok","logoid":"keyrus"}
+{"symbol":"ZOYO","exchange":"LSE","status":"ok","logoid":"zoyo-limited-ord-gbp001-di"}

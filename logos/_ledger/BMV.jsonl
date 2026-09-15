@@ -2484,3 +2484,12 @@
 {"symbol":"EXPD","exchange":"BMV","status":"ok","logoid":"expeditors"}
 {"symbol":"VECA/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"FFIV","exchange":"BMV","status":"ok","logoid":"f5-network"}
+{"symbol":"5713/N","exchange":"BMV","status":"ok","logoid":"sumitomo-metal-mining"}
+{"symbol":"GRE/N","exchange":"BMV","status":"ok","logoid":"grenergy-renovables"}
+{"symbol":"FLEE","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"CSC/N","exchange":"BMV","status":"ok","logoid":"capstone-mining"}
+{"symbol":"SUSB","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"HTWO/N","exchange":"BMV","status":"ok","logoid":"legal-and-general"}
+{"symbol":"KGX/N","exchange":"BMV","status":"ok","logoid":"kion-group-ag"}
+{"symbol":"SPCX","exchange":"BMV","status":"ok","logoid":"spacex"}
+{"symbol":"NG/N","exchange":"BMV","status":"ok","logoid":"novagold-resources"}

@@ -2866,3 +2866,10 @@
 {"symbol":"MO","exchange":"SIX","status":"ok","logoid":"altria"}
 {"symbol":"HODL.GBP","exchange":"SIX","status":"ok","logoid":"21shares"}
 {"symbol":"UUUU.USD","exchange":"SIX","status":"ok","logoid":"energy-fuels"}
+{"symbol":"EMGH.EUR","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"CEG","exchange":"SIX","status":"ok","logoid":"constellation-energy-cad-hedged-cibc-cdr"}
+{"symbol":"JEHY.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"MOOO","exchange":"SIX","status":"ok","logoid":"vaneck"}
+{"symbol":"XDG3","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"CL","exchange":"SIX","status":"ok","logoid":"colgate-palmolive"}
+{"symbol":"OP7E.EUR","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}

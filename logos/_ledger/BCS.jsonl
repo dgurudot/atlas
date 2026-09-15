@@ -433,3 +433,5 @@
 {"symbol":"CVS","exchange":"BCS","status":"ok","logoid":"cvs-health"}
 {"symbol":"FCXCL1","exchange":"BCS","status":"ok","logoid":"freeport-mcmoran"}
 {"symbol":"NUAM0","exchange":"BCS","status":"ok","logoid":"hbr-sa-bursatil-regional-sa"}
+{"symbol":"BRKBCL","exchange":"BCS","status":"ok","logoid":"berkshire-hathaway"}
+{"symbol":"SOCOVESA1","exchange":"BCS","status":"ok","logoid":"socovesa-sa"}

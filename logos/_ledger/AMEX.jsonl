@@ -3170,3 +3170,8 @@
 {"symbol":"ZZZTS","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ZZZTT","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ZZZTX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"KCHP","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ABND","exchange":"AMEX","status":"ok","logoid":"american-century-diversified"}
+{"symbol":"SALI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"KCHP","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SALI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

@@ -2948,3 +2948,5 @@
 {"symbol":"WHYP","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
 {"symbol":"ROSY.U","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"WHYP.U","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
+{"symbol":"USHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
+{"symbol":"SPLT.U","exchange":"TSX","status":"ok","logoid":"blue-ribbon-income-fund"}

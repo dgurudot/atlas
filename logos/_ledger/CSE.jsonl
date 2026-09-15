@@ -621,3 +621,5 @@
 {"symbol":"AURM","exchange":"CSE","status":"ok","logoid":"aureum-exploration"}
 {"symbol":"AXN","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"TTC","exchange":"CSE","status":"ok","logoid":"titan-technology"}
+{"symbol":"AZCU","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"LCU","exchange":"CSE","status":"nologo","logoid":null}

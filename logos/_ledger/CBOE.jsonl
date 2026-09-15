@@ -1936,3 +1936,5 @@
 {"symbol":"XLCU","exchange":"CBOE","status":"ok","logoid":"rex-microsectors"}
 {"symbol":"MLCC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VEGX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PCPC","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"PCPC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

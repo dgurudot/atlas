@@ -5222,3 +5222,5 @@
 {"symbol":"TRANWAY21","exchange":"BSE","status":"ok","logoid":"tranway-technologies-limited"}
 {"symbol":"DOLLEX","exchange":"BSE","status":"ok","logoid":"dollex-agrotech-ltd"}
 {"symbol":"NAVIGANT","exchange":"BSE","status":"ok","logoid":"navigant-corporate-advisors-li"}
+{"symbol":"APANA","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PRANAV","exchange":"BSE","status":"nologo","logoid":null}

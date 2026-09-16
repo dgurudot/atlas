@@ -435,3 +435,10 @@
 {"symbol":"NUAM0","exchange":"BCS","status":"ok","logoid":"hbr-sa-bursatil-regional-sa"}
 {"symbol":"BRKBCL","exchange":"BCS","status":"ok","logoid":"berkshire-hathaway"}
 {"symbol":"SOCOVESA1","exchange":"BCS","status":"ok","logoid":"socovesa-sa"}
+{"symbol":"CFI_BPCRER1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIVCCLB_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFI_CPD6IE1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"NKE1","exchange":"BCS","status":"ok","logoid":"nike"}
+{"symbol":"GOLF","exchange":"BCS","status":"ok","logoid":"club-de-golf"}
+{"symbol":"BUYDEPAX","exchange":"BCS","status":"ok","logoid":"buydepax"}
+{"symbol":"ESVAL_A","exchange":"BCS","status":"ok","logoid":"esval-sa"}

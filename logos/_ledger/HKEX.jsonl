@@ -5646,3 +5646,6 @@
 {"symbol":"2922","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"3014","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"3059","exchange":"HKEX","status":"ok","logoid":"global-x"}
+{"symbol":"3408","exchange":"HKEX","status":"ok","logoid":"global-x"}
+{"symbol":"9408","exchange":"HKEX","status":"ok","logoid":"global-x"}
+{"symbol":"852","exchange":"HKEX","status":"ok","logoid":"strong-petrochemical-ltd"}

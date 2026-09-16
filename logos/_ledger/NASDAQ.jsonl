@@ -5483,3 +5483,12 @@
 {"symbol":"XUSM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"RNAQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"AFDM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AICH","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"JINT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"IQGR","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NUIB","exchange":"NASDAQ","status":"ok","logoid":"nuveen-dividend-growth"}
+{"symbol":"WCCB","exchange":"NASDAQ","status":"ok","logoid":"west-coast-community-bancorp"}
+{"symbol":"TRT","exchange":"NASDAQ","status":"ok","logoid":"trio-tech"}
+{"symbol":"AICH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JINT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IQGR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

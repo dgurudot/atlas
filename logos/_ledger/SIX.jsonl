@@ -2873,3 +2873,13 @@
 {"symbol":"XDG3","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"CL","exchange":"SIX","status":"ok","logoid":"colgate-palmolive"}
 {"symbol":"OP7E.EUR","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"BCT1.EUR","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PDWX","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PQED","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PQWD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"ENI","exchange":"SIX","status":"ok","logoid":"eni"}
+{"symbol":"FLXXA.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"XNZW","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"CASL.USD","exchange":"SIX","status":"ok","logoid":"cardano-ada-staking-by-liqwid"}
+{"symbol":"SUSC","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"POLY.GBP","exchange":"SIX","status":"ok","logoid":"21shares"}

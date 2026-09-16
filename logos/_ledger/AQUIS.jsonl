@@ -386,3 +386,13 @@
 {"symbol":"IUQA.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"ECAR.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"XLEP.GB","exchange":"AQUIS","status":"ok","logoid":"invesco"}
+{"symbol":"BTEC.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"EMV.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"LOCK.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"INFR.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"HDLG.GB","exchange":"AQUIS","status":"ok","logoid":"invesco"}
+{"symbol":"ROBE.GB","exchange":"AQUIS","status":"ok","logoid":"legal-and-general"}
+{"symbol":"XMME.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
+{"symbol":"XRSG.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
+{"symbol":"SPMV.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"XMMS.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}

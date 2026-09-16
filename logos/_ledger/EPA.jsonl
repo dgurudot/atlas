@@ -3939,3 +3939,6 @@
 {"symbol":"AZGV","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"MLIDS","exchange":"EPA","status":"ok","logoid":"ids"}
 {"symbol":"MLMUT","exchange":"EPA","status":"ok","logoid":"mutter-ventures-sa"}
+{"symbol":"AGSE","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"QEIG","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"QGLOE","exchange":"EPA","status":"ok","logoid":"paribas"}

@@ -5224,3 +5224,8 @@
 {"symbol":"NAVIGANT","exchange":"BSE","status":"ok","logoid":"navigant-corporate-advisors-li"}
 {"symbol":"APANA","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"PRANAV","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KANOHAR","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"GLASSWALL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PRASOLCHEM","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KLGCAP","exchange":"BSE","status":"ok","logoid":"klg-capital-services-ltd"}
+{"symbol":"ASYL","exchange":"BSE","status":"ok","logoid":"advance-syntex-limited"}

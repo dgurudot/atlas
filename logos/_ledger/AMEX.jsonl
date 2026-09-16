@@ -3175,3 +3175,5 @@
 {"symbol":"SALI","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"KCHP","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SALI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LPSV","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"LPSV","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

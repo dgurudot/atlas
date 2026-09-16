@@ -1423,3 +1423,5 @@
 {"symbol":"CWV.H","exchange":"TSXV","status":"ok","logoid":"crown-point-energy"}
 {"symbol":"QNTA","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"ZYUS","exchange":"TSXV","status":"ok","logoid":"zyus-life-sciences"}
+{"symbol":"NAIA","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"DLC","exchange":"TSXV","status":"ok","logoid":"dlc"}

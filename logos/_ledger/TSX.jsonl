@@ -2950,3 +2950,6 @@
 {"symbol":"WHYP.U","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
 {"symbol":"USHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
 {"symbol":"SPLT.U","exchange":"TSX","status":"ok","logoid":"blue-ribbon-income-fund"}
+{"symbol":"CMIG","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"CMIG.U","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"EDHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}

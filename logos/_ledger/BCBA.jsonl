@@ -1554,3 +1554,5 @@
 {"symbol":"VXXC","exchange":"BCBA","status":"ok","logoid":"ishares"}
 {"symbol":"PSQC","exchange":"BCBA","status":"ok","logoid":"proshares"}
 {"symbol":"GGALB","exchange":"BCBA","status":"ok","logoid":"gpo-fin-galicia"}
+{"symbol":"HAVAD","exchange":"BCBA","status":"ok","logoid":"havanna-sa"}
+{"symbol":"LARC","exchange":"BCBA","status":"ok","logoid":"lithium-americas"}

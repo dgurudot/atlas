@@ -5131,3 +5131,4 @@
 {"symbol":"AZIV","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"AZC0","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MIGA","exchange":"XETR","status":"ok","logoid":"strategy-cad-hedged-cibc-cdr"}
+{"symbol":"AGSE","exchange":"XETR","status":"nologo","logoid":null}

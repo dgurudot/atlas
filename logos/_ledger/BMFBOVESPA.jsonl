@@ -2527,3 +2527,7 @@
 {"symbol":"F1EC34","exchange":"BMFBOVESPA","status":"ok","logoid":"firstenergy"}
 {"symbol":"WABC34","exchange":"BMFBOVESPA","status":"ok","logoid":"western-alliance-bancorp"}
 {"symbol":"LSOI11","exchange":"BMFBOVESPA","status":"ok","logoid":"lcp-special-opportunities-i-fundo-de-investimento-imobiliario-responsabilidade-limitada"}
+{"symbol":"GLMP11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"DLTR34","exchange":"BMFBOVESPA","status":"ok","logoid":"dollar-tree"}
+{"symbol":"L1AM34","exchange":"BMFBOVESPA","status":"ok","logoid":"lamar-advertising-company"}
+{"symbol":"EQPA7","exchange":"BMFBOVESPA","status":"ok","logoid":"eqtl-para-on"}

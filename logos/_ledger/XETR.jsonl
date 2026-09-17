@@ -5132,3 +5132,7 @@
 {"symbol":"AZC0","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MIGA","exchange":"XETR","status":"ok","logoid":"strategy-cad-hedged-cibc-cdr"}
 {"symbol":"AGSE","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"FFLG","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"FD5BL","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"WEEK","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"QQ3S","exchange":"XETR","status":"ok","logoid":"leverage-shares"}

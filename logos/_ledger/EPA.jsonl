@@ -3942,3 +3942,5 @@
 {"symbol":"AGSE","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"QEIG","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"QGLOE","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"GE01","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"BTPS5","exchange":"EPA","status":"ok","logoid":"societe-generale"}

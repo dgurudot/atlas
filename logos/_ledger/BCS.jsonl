@@ -442,3 +442,7 @@
 {"symbol":"GOLF","exchange":"BCS","status":"ok","logoid":"club-de-golf"}
 {"symbol":"BUYDEPAX","exchange":"BCS","status":"ok","logoid":"buydepax"}
 {"symbol":"ESVAL_A","exchange":"BCS","status":"ok","logoid":"esval-sa"}
+{"symbol":"C1","exchange":"BCS","status":"ok","logoid":"citigroup"}
+{"symbol":"IBMCL1","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}
+{"symbol":"HAL1","exchange":"BCS","status":"ok","logoid":"halliburton"}
+{"symbol":"CFI_BTGHLA0","exchange":"BCS","status":"ok","logoid":"btgp"}

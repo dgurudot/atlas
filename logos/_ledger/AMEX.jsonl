@@ -3177,3 +3177,7 @@
 {"symbol":"SALI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"LPSV","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"LPSV","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HUMM","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"PWRX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HUMM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PWRX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

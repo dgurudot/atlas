@@ -57,3 +57,4 @@
 {"symbol":"ENRGA","exchange":"PSECZ","status":"ok","logoid":"energoaqua-as"}
 {"symbol":"PXETF","exchange":"PSECZ","status":"nologo","logoid":null}
 {"symbol":"CPI","exchange":"PSECZ","status":"ok","logoid":"iiaav"}
+{"symbol":"VOE","exchange":"PSECZ","status":"ok","logoid":"voestalpine-ag"}

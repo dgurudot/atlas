@@ -2845,3 +2845,7 @@
 {"symbol":"XTND","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"XTND","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"KHC","exchange":"NYSE","status":"ok","logoid":"kraft-heinz"}
+{"symbol":"ASBH","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"HYAC.U","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"HYAC.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ASBH","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

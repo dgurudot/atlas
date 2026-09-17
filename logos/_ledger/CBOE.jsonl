@@ -1959,3 +1959,5 @@
 {"symbol":"QSE","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SEPC","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SCSE","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CGFS","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"CGFS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

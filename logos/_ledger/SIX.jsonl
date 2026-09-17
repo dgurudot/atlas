@@ -2883,3 +2883,10 @@
 {"symbol":"CASL.USD","exchange":"SIX","status":"ok","logoid":"cardano-ada-staking-by-liqwid"}
 {"symbol":"SUSC","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"POLY.GBP","exchange":"SIX","status":"ok","logoid":"21shares"}
+{"symbol":"C","exchange":"SIX","status":"ok","logoid":"citigroup"}
+{"symbol":"PQWX","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"FAPR","exchange":"SIX","status":"ok","logoid":"first-trust"}
+{"symbol":"GLW.USD","exchange":"SIX","status":"ok","logoid":"corning"}
+{"symbol":"NDX1","exchange":"SIX","status":"ok","logoid":"nordex"}
+{"symbol":"MXEU.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"WALT.EUR","exchange":"SIX","status":"ok","logoid":"wisdomtree"}

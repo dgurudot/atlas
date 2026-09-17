@@ -1425,3 +1425,4 @@
 {"symbol":"ZYUS","exchange":"TSXV","status":"ok","logoid":"zyus-life-sciences"}
 {"symbol":"NAIA","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"DLC","exchange":"TSXV","status":"ok","logoid":"dlc"}
+{"symbol":"AMG.P","exchange":"TSXV","status":"ok","logoid":"wen-acquisition"}

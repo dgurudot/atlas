@@ -1481,3 +1481,4 @@
 {"symbol":"URI","exchange":"VIE","status":"ok","logoid":"united-rentals"}
 {"symbol":"WDAY","exchange":"VIE","status":"ok","logoid":"workday"}
 {"symbol":"WELL","exchange":"VIE","status":"ok","logoid":"welltower-indrn"}
+{"symbol":"OKE2","exchange":"VIE","status":"nologo","logoid":null}

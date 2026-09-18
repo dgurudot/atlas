@@ -2531,3 +2531,6 @@
 {"symbol":"DLTR34","exchange":"BMFBOVESPA","status":"ok","logoid":"dollar-tree"}
 {"symbol":"L1AM34","exchange":"BMFBOVESPA","status":"ok","logoid":"lamar-advertising-company"}
 {"symbol":"EQPA7","exchange":"BMFBOVESPA","status":"ok","logoid":"eqtl-para-on"}
+{"symbol":"CINF34","exchange":"BMFBOVESPA","status":"ok","logoid":"cincinnati-financial"}
+{"symbol":"RVDI11","exchange":"BMFBOVESPA","status":"ok","logoid":"paribas"}
+{"symbol":"D1OV34","exchange":"BMFBOVESPA","status":"ok","logoid":"dover"}

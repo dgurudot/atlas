@@ -1755,3 +1755,5 @@
 {"symbol":"HCEM","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"VRTC-USD","exchange":"AMS","status":"ok","logoid":"virtune"}
 {"symbol":"IGBD","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"BRGV","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"VITS-XAMS","exchange":"AMS","status":"ok","logoid":"vanguard"}

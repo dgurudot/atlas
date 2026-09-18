@@ -4277,3 +4277,7 @@
 {"symbol":"621A","exchange":"TSE","status":"ok","logoid":"audiostock"}
 {"symbol":"619A","exchange":"TSE","status":"ok","logoid":"oliver"}
 {"symbol":"625A","exchange":"TSE","status":"ok","logoid":"skyfall"}
+{"symbol":"620A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"622A","exchange":"TSE","status":"ok","logoid":"techno-craft"}
+{"symbol":"623A","exchange":"TSE","status":"ok","logoid":"vertex-co-ltd"}
+{"symbol":"627A","exchange":"TSE","status":"ok","logoid":"akippa"}

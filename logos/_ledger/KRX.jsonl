@@ -4353,3 +4353,8 @@
 {"symbol":"0227L0","exchange":"KRX","status":"ok","logoid":"nh-amundi"}
 {"symbol":"0239Y0","exchange":"KRX","status":"ok","logoid":"hanwha"}
 {"symbol":"0238F0","exchange":"KRX","status":"ok","logoid":"kodex"}
+{"symbol":"520103","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"520104","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"520106","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"520105","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"530148","exchange":"KRX","status":"nologo","logoid":null}

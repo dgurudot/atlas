@@ -1557,3 +1557,15 @@
 {"symbol":"HAVAD","exchange":"BCBA","status":"ok","logoid":"havanna-sa"}
 {"symbol":"LARC","exchange":"BCBA","status":"ok","logoid":"lithium-americas"}
 {"symbol":"EFXC","exchange":"BCBA","status":"ok","logoid":"equifax"}
+{"symbol":"BBCAD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"CORN","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"BBAX","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"BBCA","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"GSG","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"CORND","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"GSGD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"SOYB","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"SOYBD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"UPSTC","exchange":"BCBA","status":"ok","logoid":"upstart"}
+{"symbol":"METAB","exchange":"BCBA","status":"ok","logoid":"meta-platforms"}
+{"symbol":"SANC","exchange":"BCBA","status":"ok","logoid":"santander"}

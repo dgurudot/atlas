@@ -5508,3 +5508,7 @@
 {"symbol":"TMID","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TLAC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TSEE","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DTSQU","exchange":"NASDAQ","status":"ok","logoid":"dt-cloud-star-acquisition"}
+{"symbol":"XIII","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PCTTU","exchange":"NASDAQ","status":"ok","logoid":"purecycle-technologies"}
+{"symbol":"XIII","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

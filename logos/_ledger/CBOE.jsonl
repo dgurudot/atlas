@@ -1961,3 +1961,5 @@
 {"symbol":"SCSE","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CGFS","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"CGFS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ASSX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"ASSX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

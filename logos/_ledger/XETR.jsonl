@@ -5136,3 +5136,6 @@
 {"symbol":"FD5BL","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"WEEK","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"QQ3S","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
+{"symbol":"ACT0","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"XS346785446","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"ASWS","exchange":"XETR","status":"nologo","logoid":null}

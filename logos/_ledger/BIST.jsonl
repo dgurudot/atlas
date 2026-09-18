@@ -651,3 +651,6 @@
 {"symbol":"USHOL","exchange":"BIST","status":"ok","logoid":"marka-yatirim-holding"}
 {"symbol":"BKRGY","exchange":"BIST","status":"nologo","logoid":null}
 {"symbol":"ISMDL","exchange":"BIST","status":"nologo","logoid":null}
+{"symbol":"ZPMDK","exchange":"BIST","status":"nologo","logoid":null}
+{"symbol":"ZPMDL","exchange":"BIST","status":"nologo","logoid":null}
+{"symbol":"NETGL","exchange":"BIST","status":"nologo","logoid":null}

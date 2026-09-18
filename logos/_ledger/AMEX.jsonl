@@ -3181,3 +3181,7 @@
 {"symbol":"PWRX","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"HUMM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PWRX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HOST","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MNGZ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HOST","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MNGZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

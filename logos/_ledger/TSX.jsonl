@@ -2953,3 +2953,4 @@
 {"symbol":"CMIG","exchange":"TSX","status":"ok","logoid":"ci-global"}
 {"symbol":"CMIG.U","exchange":"TSX","status":"ok","logoid":"ci-global"}
 {"symbol":"EDHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
+{"symbol":"TQID","exchange":"TSX","status":"ok","logoid":"td-active-gbl"}

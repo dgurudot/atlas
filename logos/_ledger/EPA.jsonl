@@ -3944,3 +3944,5 @@
 {"symbol":"QGLOE","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"GE01","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"BTPS5","exchange":"EPA","status":"ok","logoid":"societe-generale"}
+{"symbol":"SPYC","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"LION","exchange":"EPA","status":"ok","logoid":"legal-and-general"}

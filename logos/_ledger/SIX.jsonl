@@ -2890,3 +2890,8 @@
 {"symbol":"NDX1","exchange":"SIX","status":"ok","logoid":"nordex"}
 {"symbol":"MXEU.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
 {"symbol":"WALT.EUR","exchange":"SIX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"PDWD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"IB26.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"PDWD.USD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PRIND","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"H2TEC","exchange":"SIX","status":"ok","logoid":"baloise-n"}

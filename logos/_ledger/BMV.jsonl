@@ -2506,3 +2506,12 @@
 {"symbol":"USPY/N","exchange":"BMV","status":"ok","logoid":"legal-and-general"}
 {"symbol":"MSRUSB/N","exchange":"BMV","status":"ok","logoid":"ubs-group"}
 {"symbol":"NWG/N","exchange":"BMV","status":"ok","logoid":"natwest-group"}
+{"symbol":"CODL/N","exchange":"BMV","status":"ok","logoid":"leverage-shares"}
+{"symbol":"EMLB/N","exchange":"BMV","status":"ok","logoid":"pimco"}
+{"symbol":"CNYAU","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"GVI","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"HYDR","exchange":"BMV","status":"ok","logoid":"global-x"}
+{"symbol":"FXF","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"SEIC","exchange":"BMV","status":"ok","logoid":"sei-investment"}
+{"symbol":"TRLA/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"FTAI/N","exchange":"BMV","status":"ok","logoid":"first-trust"}

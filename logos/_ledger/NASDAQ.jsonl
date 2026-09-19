@@ -5512,3 +5512,10 @@
 {"symbol":"XIII","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"PCTTU","exchange":"NASDAQ","status":"ok","logoid":"purecycle-technologies"}
 {"symbol":"XIII","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ETRA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"OIG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ADACU","exchange":"NASDAQ","status":"ok","logoid":"american-drive-acquisition-company-units-cons-of-1-shs-a-1-3-red-wt"}
+{"symbol":"CAPNU","exchange":"NASDAQ","status":"ok","logoid":"cayson-acquisition"}
+{"symbol":"LEDRU","exchange":"NASDAQ","status":"ok","logoid":"leaders-advantage-acquisition"}
+{"symbol":"ETRA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OIG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

@@ -1427,3 +1427,5 @@
 {"symbol":"DLC","exchange":"TSXV","status":"ok","logoid":"dlc"}
 {"symbol":"AMG.P","exchange":"TSXV","status":"ok","logoid":"wen-acquisition"}
 {"symbol":"AVTS","exchange":"TSXV","status":"ok","logoid":"westaim-the"}
+{"symbol":"OAC.P","exchange":"TSXV","status":"ok","logoid":"oa-cap"}
+{"symbol":"AZC.P","exchange":"TSXV","status":"ok","logoid":"a2zcryptocap"}

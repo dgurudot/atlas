@@ -1569,3 +1569,5 @@
 {"symbol":"UPSTC","exchange":"BCBA","status":"ok","logoid":"upstart"}
 {"symbol":"METAB","exchange":"BCBA","status":"ok","logoid":"meta-platforms"}
 {"symbol":"SANC","exchange":"BCBA","status":"ok","logoid":"santander"}
+{"symbol":"HLC","exchange":"BCBA","status":"ok","logoid":"hecla-mining"}
+{"symbol":"ESGUC","exchange":"BCBA","status":"ok","logoid":"ishares"}

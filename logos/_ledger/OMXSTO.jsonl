@@ -911,3 +911,7 @@
 {"symbol":"SAGAO","exchange":"OMXSTO","status":"ok","logoid":"saga-pure-asa"}
 {"symbol":"NETEL_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"SCST_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"SVEAF_B","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"ATORX_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"ONCOZ_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"SBOO","exchange":"OMXSTO","status":"ok","logoid":"selvaag-bolig-as"}

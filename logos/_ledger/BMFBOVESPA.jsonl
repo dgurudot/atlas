@@ -2534,3 +2534,5 @@
 {"symbol":"CINF34","exchange":"BMFBOVESPA","status":"ok","logoid":"cincinnati-financial"}
 {"symbol":"RVDI11","exchange":"BMFBOVESPA","status":"ok","logoid":"paribas"}
 {"symbol":"D1OV34","exchange":"BMFBOVESPA","status":"ok","logoid":"dover"}
+{"symbol":"BKXI39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"P1PG34","exchange":"BMFBOVESPA","status":"ok","logoid":"ppg-industries"}

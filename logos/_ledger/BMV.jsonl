@@ -2515,3 +2515,16 @@
 {"symbol":"SEIC","exchange":"BMV","status":"ok","logoid":"sei-investment"}
 {"symbol":"TRLA/N","exchange":"BMV","status":"ok","logoid":"invesco"}
 {"symbol":"FTAI/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"CQQQ1/N","exchange":"BMV","status":"ok","logoid":"ubs-group"}
+{"symbol":"DAO/N","exchange":"BMV","status":"ok","logoid":"youdao-adr"}
+{"symbol":"EDU/N","exchange":"BMV","status":"ok","logoid":"new-oriental"}
+{"symbol":"EMHY","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"GNR","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"IWR","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"GTX","exchange":"BMV","status":"ok","logoid":"garrett-motion"}
+{"symbol":"TIT","exchange":"BMV","status":"nologo","logoid":null}
+{"symbol":"FRO1/N","exchange":"BMV","status":"ok","logoid":"frontline"}
+{"symbol":"KRC","exchange":"BMV","status":"ok","logoid":"kilroy-realty"}
+{"symbol":"HSAI/N","exchange":"BMV","status":"ok","logoid":"hesai_group"}
+{"symbol":"TEVA1/N","exchange":"BMV","status":"ok","logoid":"teva"}
+{"symbol":"ZLAB/N","exchange":"BMV","status":"ok","logoid":"zai-lab"}

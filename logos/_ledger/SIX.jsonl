@@ -2895,3 +2895,10 @@
 {"symbol":"PDWD.USD","exchange":"SIX","status":"nologo","logoid":null}
 {"symbol":"PRIND","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"H2TEC","exchange":"SIX","status":"ok","logoid":"baloise-n"}
+{"symbol":"SEAP.EUR","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"PQWD.USD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"3DUS","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"CCJ.USD","exchange":"SIX","status":"ok","logoid":"cameco"}
+{"symbol":"RGSC","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"HOOD","exchange":"SIX","status":"ok","logoid":"robinhood"}
+{"symbol":"WEMTE.USD","exchange":"SIX","status":"ok","logoid":"paribas"}

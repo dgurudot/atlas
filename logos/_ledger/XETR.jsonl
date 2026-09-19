@@ -5139,3 +5139,5 @@
 {"symbol":"ACT0","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"XS346785446","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"ASWS","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"AZFE","exchange":"XETR","status":"ok","logoid":"allianz"}
+{"symbol":"AZBE","exchange":"XETR","status":"ok","logoid":"allianz"}

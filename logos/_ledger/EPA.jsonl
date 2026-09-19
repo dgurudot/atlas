@@ -3946,3 +3946,5 @@
 {"symbol":"BTPS5","exchange":"EPA","status":"ok","logoid":"societe-generale"}
 {"symbol":"SPYC","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"LION","exchange":"EPA","status":"ok","logoid":"legal-and-general"}
+{"symbol":"MLPRI","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"SPLU","exchange":"EPA","status":"ok","logoid":"pimco"}

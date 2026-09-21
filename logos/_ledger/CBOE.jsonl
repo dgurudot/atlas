@@ -1963,3 +1963,5 @@
 {"symbol":"CGFS","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ASSX","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"ASSX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DQSE","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"SECA","exchange":"CBOE","status":"ok","logoid":"main-thematic-innovation-etf"}

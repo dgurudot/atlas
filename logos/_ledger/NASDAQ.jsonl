@@ -5519,3 +5519,4 @@
 {"symbol":"LEDRU","exchange":"NASDAQ","status":"ok","logoid":"leaders-advantage-acquisition"}
 {"symbol":"ETRA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OIG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VNMEU","exchange":"NASDAQ","status":"ok","logoid":"vendome-acquisition-i"}

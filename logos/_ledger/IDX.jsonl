@@ -892,3 +892,4 @@
 {"symbol":"XPFT","exchange":"IDX","status":"ok","logoid":"pinnacle"}
 {"symbol":"GTBO","exchange":"IDX","status":"ok","logoid":"garda-tujuh-buana"}
 {"symbol":"TRUE","exchange":"IDX","status":"ok","logoid":"waran-seri-i-triniti-dinamik-tbk"}
+{"symbol":"XKGS","exchange":"IDX","status":"nologo","logoid":null}

@@ -1571,3 +1571,8 @@
 {"symbol":"SANC","exchange":"BCBA","status":"ok","logoid":"santander"}
 {"symbol":"HLC","exchange":"BCBA","status":"ok","logoid":"hecla-mining"}
 {"symbol":"ESGUC","exchange":"BCBA","status":"ok","logoid":"ishares"}
+{"symbol":"BBAXD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"CLC","exchange":"BCBA","status":"ok","logoid":"colgate-palmolive"}
+{"symbol":"JPMB","exchange":"BCBA","status":"ok","logoid":"jpmorgan-chase"}
+{"symbol":"YPFDB","exchange":"BCBA","status":"ok","logoid":"ypf"}
+{"symbol":"PDDC","exchange":"BCBA","status":"ok","logoid":"pinduoduo"}

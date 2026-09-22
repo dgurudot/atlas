@@ -447,3 +447,5 @@
 {"symbol":"HAL1","exchange":"BCS","status":"ok","logoid":"halliburton"}
 {"symbol":"CFI_BTGHLA0","exchange":"BCS","status":"ok","logoid":"btgp"}
 {"symbol":"BRKBCL1","exchange":"BCS","status":"ok","logoid":"berkshire-hathaway"}
+{"symbol":"GECL1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"PFE1","exchange":"BCS","status":"ok","logoid":"pfizer"}

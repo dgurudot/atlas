@@ -5141,3 +5141,6 @@
 {"symbol":"ASWS","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"AZFE","exchange":"XETR","status":"ok","logoid":"allianz"}
 {"symbol":"AZBE","exchange":"XETR","status":"ok","logoid":"allianz"}
+{"symbol":"A1O","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"FGZJ","exchange":"XETR","status":"ok","logoid":"ubs-group"}
+{"symbol":"FGZK","exchange":"XETR","status":"ok","logoid":"ubs-group"}

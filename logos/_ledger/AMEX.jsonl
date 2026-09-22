@@ -3185,3 +3185,6 @@
 {"symbol":"MNGZ","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"HOST","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MNGZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GCPU","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"CTAG","exchange":"AMEX","status":"ok","logoid":"calamp"}
+{"symbol":"GCPU","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

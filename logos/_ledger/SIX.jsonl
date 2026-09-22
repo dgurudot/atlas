@@ -2902,3 +2902,11 @@
 {"symbol":"RGSC","exchange":"SIX","status":"ok","logoid":"orix"}
 {"symbol":"HOOD","exchange":"SIX","status":"ok","logoid":"robinhood"}
 {"symbol":"WEMTE.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"ADSIC","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"AQUST.USD","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"MAXM.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"FBIU.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"COIN","exchange":"SIX","status":"ok","logoid":"coinbase"}
+{"symbol":"SETH","exchange":"SIX","status":"ok","logoid":"seba-swiss"}
+{"symbol":"JMAM.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"ZM.USD","exchange":"SIX","status":"ok","logoid":"zoom-video-communications"}

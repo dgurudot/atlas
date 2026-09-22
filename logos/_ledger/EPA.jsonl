@@ -3948,3 +3948,5 @@
 {"symbol":"LION","exchange":"EPA","status":"ok","logoid":"legal-and-general"}
 {"symbol":"MLPRI","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"SPLU","exchange":"EPA","status":"ok","logoid":"pimco"}
+{"symbol":"ALREE","exchange":"EPA","status":"ok","logoid":"realites"}
+{"symbol":"MA35","exchange":"EPA","status":"ok","logoid":"amundi"}

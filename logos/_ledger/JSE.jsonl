@@ -482,3 +482,5 @@
 {"symbol":"RTN","exchange":"JSE","status":"ok","logoid":"rex-trueform"}
 {"symbol":"PPR","exchange":"JSE","status":"ok","logoid":"putprop-ltd"}
 {"symbol":"ANI","exchange":"JSE","status":"ok","logoid":"afine-investments"}
+{"symbol":"SQRL","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"AOO","exchange":"JSE","status":"ok","logoid":"african-over-ent"}

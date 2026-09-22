@@ -1758,3 +1758,4 @@
 {"symbol":"BRGV","exchange":"AMS","status":"nologo","logoid":null}
 {"symbol":"VITS-XAMS","exchange":"AMS","status":"ok","logoid":"vanguard"}
 {"symbol":"HSOV","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"ECSH","exchange":"AMS","status":"ok","logoid":"ishares"}

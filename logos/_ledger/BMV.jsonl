@@ -2528,3 +2528,10 @@
 {"symbol":"HSAI/N","exchange":"BMV","status":"ok","logoid":"hesai_group"}
 {"symbol":"TEVA1/N","exchange":"BMV","status":"ok","logoid":"teva"}
 {"symbol":"ZLAB/N","exchange":"BMV","status":"ok","logoid":"zai-lab"}
+{"symbol":"ALGN","exchange":"BMV","status":"ok","logoid":"align-technology"}
+{"symbol":"2382/N","exchange":"BMV","status":"ok","logoid":"sunny-optical"}
+{"symbol":"IWO","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"METG/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"NXTGU/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"QQQA/N","exchange":"BMV","status":"ok","logoid":"ubs-group"}
+{"symbol":"FRT1","exchange":"BMV","status":"ok","logoid":"federal-realty-investment-trust"}

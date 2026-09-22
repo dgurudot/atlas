@@ -2536,3 +2536,10 @@
 {"symbol":"D1OV34","exchange":"BMFBOVESPA","status":"ok","logoid":"dover"}
 {"symbol":"BKXI39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
 {"symbol":"P1PG34","exchange":"BMFBOVESPA","status":"ok","logoid":"ppg-industries"}
+{"symbol":"ABCB10L","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"LLBR11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"R1HP34","exchange":"BMFBOVESPA","status":"ok","logoid":"ryman-hospitality-properties-reit"}
+{"symbol":"G1LL34","exchange":"BMFBOVESPA","status":"ok","logoid":"globe-life"}
+{"symbol":"CTKA3F","exchange":"BMFBOVESPA","status":"ok","logoid":"karsten-pn"}
+{"symbol":"MGEL3F","exchange":"BMFBOVESPA","status":"ok","logoid":"mangels-indlpn"}
+{"symbol":"VALO11","exchange":"BMFBOVESPA","status":"ok","logoid":"fiagro-vhfa-ci-er"}

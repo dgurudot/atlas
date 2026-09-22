@@ -2328,3 +2328,5 @@
 {"symbol":"IQQ23","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"SOXX23","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"GOLDM23","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"META","exchange":"SET","status":"ok","logoid":"meta-pcl-non-voting"}
+{"symbol":"META.R","exchange":"SET","status":"ok","logoid":"meta-pcl-non-voting"}

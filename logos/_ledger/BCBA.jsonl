@@ -1576,3 +1576,6 @@
 {"symbol":"JPMB","exchange":"BCBA","status":"ok","logoid":"jpmorgan-chase"}
 {"symbol":"YPFDB","exchange":"BCBA","status":"ok","logoid":"ypf"}
 {"symbol":"PDDC","exchange":"BCBA","status":"ok","logoid":"pinduoduo"}
+{"symbol":"LEDED","exchange":"BCBA","status":"ok","logoid":"ledesma-agricola"}
+{"symbol":"A3B","exchange":"BCBA","status":"ok","logoid":"matba-rofex-sa"}
+{"symbol":"GGADB","exchange":"BCBA","status":"ok","logoid":"gpo-fin-galicia"}

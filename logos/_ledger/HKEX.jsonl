@@ -5652,3 +5652,6 @@
 {"symbol":"3499","exchange":"HKEX","status":"ok","logoid":"csop-asset"}
 {"symbol":"6727","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"9856","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"8567","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"2915","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"83196","exchange":"HKEX","status":"ok","logoid":"bosera-asset-mgt-intl-co-ltd-bosera-star-50-index-etf-cny"}

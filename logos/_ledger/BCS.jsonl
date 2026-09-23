@@ -449,3 +449,6 @@
 {"symbol":"BRKBCL1","exchange":"BCS","status":"ok","logoid":"berkshire-hathaway"}
 {"symbol":"GECL1","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"PFE1","exchange":"BCS","status":"ok","logoid":"pfizer"}
+{"symbol":"METACL1","exchange":"BCS","status":"ok","logoid":"meta-platforms"}
+{"symbol":"CFI_FYNMAE","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"NFLX","exchange":"BCS","status":"ok","logoid":"netflix"}

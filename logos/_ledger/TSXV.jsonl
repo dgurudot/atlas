@@ -1430,3 +1430,6 @@
 {"symbol":"OAC.P","exchange":"TSXV","status":"ok","logoid":"oa-cap"}
 {"symbol":"AZC.P","exchange":"TSXV","status":"ok","logoid":"a2zcryptocap"}
 {"symbol":"MEGO.P","exchange":"TSXV","status":"ok","logoid":"amego-capital"}
+{"symbol":"CATX","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"GGL","exchange":"TSXV","status":"ok","logoid":"ggl-resources"}
+{"symbol":"AVII.P","exchange":"TSXV","status":"ok","logoid":"antera-ventures-ii"}

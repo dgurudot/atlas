@@ -2955,3 +2955,13 @@
 {"symbol":"EDHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
 {"symbol":"TQID","exchange":"TSX","status":"ok","logoid":"td-active-gbl"}
 {"symbol":"SCZ","exchange":"TSX","status":"ok","logoid":"santacruz-silver-mining-ltd"}
+{"symbol":"AGGX","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"KORX.U","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"ACHP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"KORX","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"GCIG","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"CNDC","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"DRAM","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"TMTX","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"TMTX.F","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"TMTX.U","exchange":"TSX","status":"ok","logoid":"global-x"}

@@ -2910,3 +2910,5 @@
 {"symbol":"SETH","exchange":"SIX","status":"ok","logoid":"seba-swiss"}
 {"symbol":"JMAM.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
 {"symbol":"ZM.USD","exchange":"SIX","status":"ok","logoid":"zoom-video-communications"}
+{"symbol":"SJEA","exchange":"SIX","status":"ok","logoid":"schroders-plc"}
+{"symbol":"DPAY","exchange":"SIX","status":"ok","logoid":"legal-and-general"}

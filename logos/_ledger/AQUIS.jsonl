@@ -400,3 +400,5 @@
 {"symbol":"IDAP.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"QDIV.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"INQO","exchange":"AQUIS","status":"ok","logoid":"inqo-investments-ltd"}
+{"symbol":"AGED.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"HMEM.GB","exchange":"AQUIS","status":"ok","logoid":"hsbc"}

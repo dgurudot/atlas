@@ -1966,3 +1966,11 @@
 {"symbol":"DQSE","exchange":"CBOE","status":"ok","logoid":"first-trust"}
 {"symbol":"SECA","exchange":"CBOE","status":"ok","logoid":"main-thematic-innovation-etf"}
 {"symbol":"QQBF","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"DCAP","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XVAD","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"XVMS","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"XVAZ","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"XVPT","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"XVGL","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"XVMT","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"DCAP","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

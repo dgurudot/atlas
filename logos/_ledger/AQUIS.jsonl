@@ -402,3 +402,6 @@
 {"symbol":"INQO","exchange":"AQUIS","status":"ok","logoid":"inqo-investments-ltd"}
 {"symbol":"AGED.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"HMEM.GB","exchange":"AQUIS","status":"ok","logoid":"hsbc"}
+{"symbol":"TIP5.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"XDNS.GB","exchange":"AQUIS","status":"ok","logoid":"dws"}
+{"symbol":"ZNT","exchange":"AQUIS","status":"ok","logoid":"zentra-plc-ord-gbp001"}

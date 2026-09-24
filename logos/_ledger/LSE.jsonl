@@ -15842,3 +15842,7 @@
 {"symbol":"ASIA","exchange":"LSE","status":"ok","logoid":"asia-strategic-limited-ord-npv-di"}
 {"symbol":"0NZS","exchange":"LSE","status":"ok","logoid":"moury-construct"}
 {"symbol":"HSKG","exchange":"LSE","status":"ok","logoid":"hsbc"}
+{"symbol":"MWDP","exchange":"LSE","status":"ok","logoid":"invesco"}
+{"symbol":"US4D","exchange":"LSE","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"MWDD","exchange":"LSE","status":"ok","logoid":"invesco"}
+{"symbol":"0Y4N","exchange":"LSE","status":"ok","logoid":"wisdomtree"}

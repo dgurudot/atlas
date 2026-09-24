@@ -1483,3 +1483,4 @@
 {"symbol":"WELL","exchange":"VIE","status":"ok","logoid":"welltower-indrn"}
 {"symbol":"OKE2","exchange":"VIE","status":"nologo","logoid":null}
 {"symbol":"BTX","exchange":"VIE","status":"ok","logoid":"indices/bulgarian-traded-index-in-eur"}
+{"symbol":"ACT2","exchange":"VIE","status":"nologo","logoid":null}

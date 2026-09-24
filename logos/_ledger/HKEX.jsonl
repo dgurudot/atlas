@@ -5655,3 +5655,6 @@
 {"symbol":"8567","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"2915","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"83196","exchange":"HKEX","status":"ok","logoid":"bosera-asset-mgt-intl-co-ltd-bosera-star-50-index-etf-cny"}
+{"symbol":"3516","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"4335","exchange":"HKEX","status":"ok","logoid":"intel"}
+{"symbol":"6623","exchange":"HKEX","status":"ok","logoid":"lufax-holding"}

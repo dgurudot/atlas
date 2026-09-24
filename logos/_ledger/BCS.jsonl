@@ -452,3 +452,5 @@
 {"symbol":"METACL1","exchange":"BCS","status":"ok","logoid":"meta-platforms"}
 {"symbol":"CFI_FYNMAE","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"NFLX","exchange":"BCS","status":"ok","logoid":"netflix"}
+{"symbol":"JPMCL1","exchange":"BCS","status":"ok","logoid":"jpmorgan-chase"}
+{"symbol":"CMCSACL1","exchange":"BCS","status":"ok","logoid":"comcast"}

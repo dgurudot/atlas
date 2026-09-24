@@ -5261,3 +5261,6 @@
 {"symbol":"HEROMOTORS","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"SSRETAIL","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"DWSFTS50BG","exchange":"BSE","status":"ok","logoid":"dws-group"}
+{"symbol":"NSE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KROWNIQ","exchange":"BSE","status":"ok","logoid":"lykis-limited"}
+{"symbol":"SONA","exchange":"BSE","status":"ok","logoid":"sona-blw-precision"}

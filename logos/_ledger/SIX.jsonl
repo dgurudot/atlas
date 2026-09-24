@@ -2912,3 +2912,15 @@
 {"symbol":"ZM.USD","exchange":"SIX","status":"ok","logoid":"zoom-video-communications"}
 {"symbol":"SJEA","exchange":"SIX","status":"ok","logoid":"schroders-plc"}
 {"symbol":"DPAY","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"CNAA.USD","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"AZUQ.USD","exchange":"SIX","status":"ok","logoid":"allianz"}
+{"symbol":"DHER","exchange":"SIX","status":"ok","logoid":"delivery-hero"}
+{"symbol":"BTCA.EUR","exchange":"SIX","status":"ok","logoid":"15-ficas-active-crypto-etp"}
+{"symbol":"LRCX.USD","exchange":"SIX","status":"ok","logoid":"lam-research"}
+{"symbol":"QREM","exchange":"SIX","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"QMAR","exchange":"SIX","status":"ok","logoid":"first-trust"}
+{"symbol":"PAACU.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"QREM.USD","exchange":"SIX","status":"ok","logoid":"ameriprise-financial"}
+{"symbol":"PUM","exchange":"SIX","status":"ok","logoid":"puma"}
+{"symbol":"SPEEU.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"SRIC.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}

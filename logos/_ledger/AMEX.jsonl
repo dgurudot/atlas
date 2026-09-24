@@ -3188,3 +3188,11 @@
 {"symbol":"GCPU","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"CTAG","exchange":"AMEX","status":"ok","logoid":"calamp"}
 {"symbol":"GCPU","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AIBF","exchange":"AMEX","status":"ok","logoid":"ishares"}
+{"symbol":"MNGB","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"NECK","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ENRG","exchange":"AMEX","status":"ok","logoid":"ninepoint-alternative"}
+{"symbol":"VAIC","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MNGB","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NECK","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VAIC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

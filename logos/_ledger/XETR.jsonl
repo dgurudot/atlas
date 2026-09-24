@@ -5145,3 +5145,5 @@
 {"symbol":"FGZJ","exchange":"XETR","status":"ok","logoid":"ubs-group"}
 {"symbol":"FGZK","exchange":"XETR","status":"ok","logoid":"ubs-group"}
 {"symbol":"MWDD","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"AMX","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"REE","exchange":"XETR","status":"nologo","logoid":null}

@@ -3975,3 +3975,4 @@
 {"symbol":"MLHBP","exchange":"EPA","status":"ok","logoid":"hoteles-bestprice"}
 {"symbol":"SPEH","exchange":"EPA","status":"ok","logoid":"pimco"}
 {"symbol":"UNI3S","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"OBUS","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}

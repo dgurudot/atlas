@@ -2924,3 +2924,11 @@
 {"symbol":"PUM","exchange":"SIX","status":"ok","logoid":"puma"}
 {"symbol":"SPEEU.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"SRIC.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"BPDU","exchange":"SIX","status":"ok","logoid":"nordea-bank-abp"}
+{"symbol":"FCX.USD","exchange":"SIX","status":"ok","logoid":"freeport-mcmoran"}
+{"symbol":"FWRLD.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"GEV","exchange":"SIX","status":"ok","logoid":"ge-verona"}
+{"symbol":"GINCD.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"GINC.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"MER","exchange":"SIX","status":"ok","logoid":"merck-kgaa"}
+{"symbol":"SEUE","exchange":"SIX","status":"ok","logoid":"schroders-plc"}

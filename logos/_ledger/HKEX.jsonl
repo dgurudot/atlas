@@ -5658,3 +5658,6 @@
 {"symbol":"3516","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"4335","exchange":"HKEX","status":"ok","logoid":"intel"}
 {"symbol":"6623","exchange":"HKEX","status":"ok","logoid":"lufax-holding"}
+{"symbol":"3149","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"2811","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"9104","exchange":"HKEX","status":"ok","logoid":"global-x"}

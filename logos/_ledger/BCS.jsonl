@@ -454,3 +454,5 @@
 {"symbol":"NFLX","exchange":"BCS","status":"ok","logoid":"netflix"}
 {"symbol":"JPMCL1","exchange":"BCS","status":"ok","logoid":"jpmorgan-chase"}
 {"symbol":"CMCSACL1","exchange":"BCS","status":"ok","logoid":"comcast"}
+{"symbol":"MCD","exchange":"BCS","status":"ok","logoid":"mcdonalds"}
+{"symbol":"CRMCL","exchange":"BCS","status":"ok","logoid":"salesforce"}

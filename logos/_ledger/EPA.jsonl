@@ -3976,3 +3976,7 @@
 {"symbol":"SPEH","exchange":"EPA","status":"ok","logoid":"pimco"}
 {"symbol":"UNI3S","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"OBUS","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"QQQI","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"REXC","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"LUNA","exchange":"EPA","status":"ok","logoid":"global-x"}
+{"symbol":"ALEAC","exchange":"EPA","status":"ok","logoid":"ediliziacrobatica-spa"}

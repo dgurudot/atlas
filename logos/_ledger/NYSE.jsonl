@@ -2849,3 +2849,5 @@
 {"symbol":"HYAC.U","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"HYAC.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ASBH","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

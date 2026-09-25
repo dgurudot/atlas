@@ -1763,3 +1763,4 @@
 {"symbol":"LATM","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"SOLVE","exchange":"AMS","status":"ok","logoid":"valour-cardano"}
 {"symbol":"ZETH-USD","exchange":"AMS","status":"ok","logoid":"bitwise-crypto-industry"}
+{"symbol":"ELTC","exchange":"AMS","status":"ok","logoid":"bitwise-crypto-industry"}

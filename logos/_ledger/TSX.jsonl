@@ -2965,3 +2965,6 @@
 {"symbol":"TMTX","exchange":"TSX","status":"ok","logoid":"global-x"}
 {"symbol":"TMTX.F","exchange":"TSX","status":"ok","logoid":"global-x"}
 {"symbol":"TMTX.U","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"ZACU","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZACU.U","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZACU.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}

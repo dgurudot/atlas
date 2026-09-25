@@ -5552,3 +5552,6 @@
 {"symbol":"CHIP","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TORK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ONEN","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BRRKU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ATCX","exchange":"NASDAQ","status":"ok","logoid":"atlas-critical-minerals"}
+{"symbol":"BRRKU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

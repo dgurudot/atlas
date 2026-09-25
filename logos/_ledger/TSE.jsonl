@@ -4281,3 +4281,5 @@
 {"symbol":"622A","exchange":"TSE","status":"ok","logoid":"techno-craft"}
 {"symbol":"623A","exchange":"TSE","status":"ok","logoid":"vertex-co-ltd"}
 {"symbol":"627A","exchange":"TSE","status":"ok","logoid":"akippa"}
+{"symbol":"634A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"628A","exchange":"TSE","status":"ok","logoid":"cado-co-ltd"}

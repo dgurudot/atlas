@@ -15846,3 +15846,10 @@
 {"symbol":"US4D","exchange":"LSE","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"MWDD","exchange":"LSE","status":"ok","logoid":"invesco"}
 {"symbol":"0Y4N","exchange":"LSE","status":"ok","logoid":"wisdomtree"}
+{"symbol":"REXX","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0MTQ","exchange":"LSE","status":"ok","logoid":"invesco"}
+{"symbol":"REXC","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0EG7","exchange":"LSE","status":"ok","logoid":"fernheizwerk-neukoelln-ag"}
+{"symbol":"JPAE","exchange":"LSE","status":"ok","logoid":"jpmorgan"}
+{"symbol":"0QLS","exchange":"LSE","status":"ok","logoid":"private-equity-holding"}
+{"symbol":"QDE","exchange":"LSE","status":"ok","logoid":"mast-energy-developments-plc-ord-gbp0001"}

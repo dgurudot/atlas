@@ -3196,3 +3196,6 @@
 {"symbol":"MNGB","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"NECK","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VAIC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MGIN","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"TLIE","exchange":"AMEX","status":"ok","logoid":"american-beacon"}
+{"symbol":"MGIN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

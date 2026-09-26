@@ -2560,3 +2560,13 @@
 {"symbol":"METE/N","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"URE","exchange":"BMV","status":"ok","logoid":"proshares"}
 {"symbol":"HEXAB/N","exchange":"BMV","status":"ok","logoid":"hexagon-ab"}
+{"symbol":"A01M/N","exchange":"BMV","status":"ok","logoid":"paribas"}
+{"symbol":"HYEM","exchange":"BMV","status":"ok","logoid":"vaneck"}
+{"symbol":"PONY/N","exchange":"BMV","status":"ok","logoid":"pony-ai"}
+{"symbol":"AHR","exchange":"BMV","status":"ok","logoid":"american-healthcare-reit"}
+{"symbol":"SBIO/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"SPIB","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"QRVO","exchange":"BMV","status":"ok","logoid":"qorvo"}
+{"symbol":"RVLV","exchange":"BMV","status":"ok","logoid":"revolve"}
+{"symbol":"STAR/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"SAM","exchange":"BMV","status":"ok","logoid":"boston-beer-co"}

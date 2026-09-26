@@ -1437,3 +1437,6 @@
 {"symbol":"TOTC","exchange":"TSXV","status":"ok","logoid":"totec-resources-ltd"}
 {"symbol":"CAPL.P","exchange":"TSXV","status":"ok","logoid":"caplink-ventures"}
 {"symbol":"AXET.P","exchange":"TSXV","status":"ok","logoid":"axe2-acquisitions"}
+{"symbol":"ALX","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"FUSE","exchange":"TSXV","status":"ok","logoid":"fuse-battery-metals"}
+{"symbol":"STR.H","exchange":"TSXV","status":"ok","logoid":"santa-rosa-resources"}

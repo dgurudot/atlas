@@ -2932,3 +2932,8 @@
 {"symbol":"GINC.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
 {"symbol":"MER","exchange":"SIX","status":"ok","logoid":"merck-kgaa"}
 {"symbol":"SEUE","exchange":"SIX","status":"ok","logoid":"schroders-plc"}
+{"symbol":"EONS.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"BKNG","exchange":"SIX","status":"ok","logoid":"booking"}
+{"symbol":"USGOV.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"HODLX.GBP","exchange":"SIX","status":"ok","logoid":"21shares"}
+{"symbol":"OP5H.EUR","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}

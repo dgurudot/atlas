@@ -630,3 +630,6 @@
 {"symbol":"ALLG","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"GRHK.X","exchange":"CSE","status":"ok","logoid":"greenhawk-res"}
 {"symbol":"LAI.X","exchange":"CSE","status":"ok","logoid":"la-imperial-resources"}
+{"symbol":"NSHS.X","exchange":"CSE","status":"ok","logoid":"nanosphere-health-sciences"}
+{"symbol":"ULTA.X","exchange":"CSE","status":"ok","logoid":"ultra-brands-ltd"}
+{"symbol":"PLAY.X","exchange":"CSE","status":"ok","logoid":"playground-ventures"}

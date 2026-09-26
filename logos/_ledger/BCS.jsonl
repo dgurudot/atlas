@@ -456,3 +456,4 @@
 {"symbol":"CMCSACL1","exchange":"BCS","status":"ok","logoid":"comcast"}
 {"symbol":"MCD","exchange":"BCS","status":"ok","logoid":"mcdonalds"}
 {"symbol":"CRMCL","exchange":"BCS","status":"ok","logoid":"salesforce"}
+{"symbol":"PAMPA0","exchange":"BCS","status":"nologo","logoid":null}

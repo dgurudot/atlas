@@ -5555,3 +5555,12 @@
 {"symbol":"BRRKU","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"ATCX","exchange":"NASDAQ","status":"ok","logoid":"atlas-critical-minerals"}
 {"symbol":"BRRKU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ADRX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PBUB","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PBCS","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PBWN","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AACIU","exchange":"NASDAQ","status":"ok","logoid":"armada-acquisition-ii"}
+{"symbol":"PBUB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ADRX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PBCS","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PBWN","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

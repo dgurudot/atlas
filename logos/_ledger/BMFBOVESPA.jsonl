@@ -2545,3 +2545,4 @@
 {"symbol":"VALO11","exchange":"BMFBOVESPA","status":"ok","logoid":"fiagro-vhfa-ci-er"}
 {"symbol":"BUZZ39","exchange":"BMFBOVESPA","status":"ok","logoid":"vaneck"}
 {"symbol":"ESUD11F","exchange":"BMFBOVESPA","status":"ok","logoid":"fip-ie-ii-ci"}
+{"symbol":"PICE12","exchange":"BMFBOVESPA","status":"nologo","logoid":null}

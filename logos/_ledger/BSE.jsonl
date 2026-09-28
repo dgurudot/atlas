@@ -5265,3 +5265,8 @@
 {"symbol":"KROWNIQ","exchange":"BSE","status":"ok","logoid":"lykis-limited"}
 {"symbol":"SONA","exchange":"BSE","status":"ok","logoid":"sona-blw-precision"}
 {"symbol":"DWSFTS50AG","exchange":"BSE","status":"ok","logoid":"dws-group"}
+{"symbol":"FXML","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ROBOKIDZ","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ASCOTTPP","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"VIVEKANAND","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"AAPLUSTRAD","exchange":"BSE","status":"ok","logoid":"aa-plus-tradelink-limited"}

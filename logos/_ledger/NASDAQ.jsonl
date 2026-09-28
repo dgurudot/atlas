@@ -5564,3 +5564,7 @@
 {"symbol":"ADRX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PBCS","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PBWN","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FGC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"GOW","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"FGC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GOW","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

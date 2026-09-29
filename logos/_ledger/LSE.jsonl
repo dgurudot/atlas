@@ -15880,3 +15880,6 @@
 {"symbol":"SPTD","exchange":"LSE","status":"ok","logoid":"paribas"}
 {"symbol":"SMIB","exchange":"LSE","status":"ok","logoid":"leverage-shares"}
 {"symbol":"WETG","exchange":"LSE","status":"ok","logoid":"paribas"}
+{"symbol":"1947","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"QQQI","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"QQQP","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}

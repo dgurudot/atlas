@@ -1583,3 +1583,6 @@
 {"symbol":"FDXC","exchange":"BCBA","status":"ok","logoid":"fedex"}
 {"symbol":"IBKRC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"AMXC","exchange":"BCBA","status":"ok","logoid":"america-movil"}
+{"symbol":"GMC","exchange":"BCBA","status":"ok","logoid":"general-motors"}
+{"symbol":"CAR.C","exchange":"BCBA","status":"ok","logoid":"avis-budget-group"}
+{"symbol":"TMOC","exchange":"BCBA","status":"ok","logoid":"thermo-fisher-scientific"}

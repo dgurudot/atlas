@@ -633,3 +633,5 @@
 {"symbol":"NSHS.X","exchange":"CSE","status":"ok","logoid":"nanosphere-health-sciences"}
 {"symbol":"ULTA.X","exchange":"CSE","status":"ok","logoid":"ultra-brands-ltd"}
 {"symbol":"PLAY.X","exchange":"CSE","status":"ok","logoid":"playground-ventures"}
+{"symbol":"BANQ","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"MARY.X","exchange":"CSE","status":"ok","logoid":"mary-agrotechnologies"}

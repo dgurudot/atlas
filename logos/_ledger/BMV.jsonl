@@ -2570,3 +2570,9 @@
 {"symbol":"RVLV","exchange":"BMV","status":"ok","logoid":"revolve"}
 {"symbol":"STAR/N","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"SAM","exchange":"BMV","status":"ok","logoid":"boston-beer-co"}
+{"symbol":"JEF","exchange":"BMV","status":"ok","logoid":"jefferies-financial"}
+{"symbol":"ZBH","exchange":"BMV","status":"ok","logoid":"zimmer-biomet"}
+{"symbol":"SUPV/N","exchange":"BMV","status":"ok","logoid":"grupo-supervielle"}
+{"symbol":"CDRO/N","exchange":"BMV","status":"ok","logoid":"codere-online-luxembourg-sa"}
+{"symbol":"LYV","exchange":"BMV","status":"ok","logoid":"live-nation"}
+{"symbol":"INGR","exchange":"BMV","status":"ok","logoid":"ingredion"}

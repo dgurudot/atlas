@@ -5568,3 +5568,5 @@
 {"symbol":"GOW","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"FGC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"GOW","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FGCPP","exchange":"NASDAQ","status":"ok","logoid":"fg-financial-800-cumulative-series-a-preferred-stock"}
+{"symbol":"MUY","exchange":"NASDAQ","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}

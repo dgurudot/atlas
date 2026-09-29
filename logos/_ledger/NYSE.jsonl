@@ -2851,3 +2851,4 @@
 {"symbol":"ASBH","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"COPL.U","exchange":"NYSE","status":"ok","logoid":"copley-acquisition"}

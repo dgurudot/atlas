@@ -2937,3 +2937,13 @@
 {"symbol":"USGOV.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"HODLX.GBP","exchange":"SIX","status":"ok","logoid":"21shares"}
 {"symbol":"OP5H.EUR","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"GEV.USD","exchange":"SIX","status":"ok","logoid":"ge-verona"}
+{"symbol":"IG34.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"MWDD","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"JEIG.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"ETHPI.USD","exchange":"SIX","status":"ok","logoid":"etp-on-solana-staking-index"}
+{"symbol":"POWR","exchange":"SIX","status":"ok","logoid":"etp-on-smart-all-world-index"}
+{"symbol":"BAC","exchange":"SIX","status":"ok","logoid":"bank-of-america"}
+{"symbol":"EURON.EUR","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"SEMR.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"TER.USD","exchange":"SIX","status":"ok","logoid":"teradyne"}

@@ -5682,3 +5682,12 @@
 {"symbol":"41599","exchange":"HKEX","status":"ok","logoid":"gf-securities"}
 {"symbol":"83566","exchange":"HKEX","status":"ok","logoid":"gf-securities"}
 {"symbol":"41520","exchange":"HKEX","status":"ok","logoid":"citic-sec"}
+{"symbol":"2938","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"3459","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"3479","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"3500","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"3590","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"2362","exchange":"HKEX","status":"ok","logoid":"jinchuan-intl-res-co-ltd"}
+{"symbol":"9197","exchange":"HKEX","status":"ok","logoid":"hai-tong-asset-management-hk-ltd-msci-china-a-esg-etf-usd"}
+{"symbol":"3510","exchange":"HKEX","status":"ok","logoid":"ping-an"}
+{"symbol":"6802","exchange":"HKEX","status":"ok","logoid":"shenzhen-camsense-technologies-co-ltd-class-h"}

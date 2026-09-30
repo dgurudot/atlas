@@ -2973,3 +2973,9 @@
 {"symbol":"NICC","exchange":"TSX","status":"ok","logoid":"nbi-active-canadian"}
 {"symbol":"NUST","exchange":"TSX","status":"ok","logoid":"nbi-active-canadian"}
 {"symbol":"NUCC","exchange":"TSX","status":"ok","logoid":"nbi-active-canadian"}
+{"symbol":"CORB","exchange":"TSX","status":"ok","logoid":"manulife"}
+{"symbol":"MBND","exchange":"TSX","status":"ok","logoid":"manulife"}
+{"symbol":"MEQP","exchange":"TSX","status":"ok","logoid":"manulife"}
+{"symbol":"MAGF","exchange":"TSX","status":"ok","logoid":"middlefield-global-real-asset"}
+{"symbol":"IDUV.U","exchange":"TSX","status":"ok","logoid":"manulife"}
+{"symbol":"MGFI","exchange":"TSX","status":"ok","logoid":"middlefield-global-real-asset"}

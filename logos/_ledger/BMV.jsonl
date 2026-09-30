@@ -2576,3 +2576,9 @@
 {"symbol":"CDRO/N","exchange":"BMV","status":"ok","logoid":"codere-online-luxembourg-sa"}
 {"symbol":"LYV","exchange":"BMV","status":"ok","logoid":"live-nation"}
 {"symbol":"INGR","exchange":"BMV","status":"ok","logoid":"ingredion"}
+{"symbol":"FLCH","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"PS","exchange":"BMV","status":"nologo","logoid":null}
+{"symbol":"HEZU","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"FAN","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"LUTAX/N","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"SCHA","exchange":"BMV","status":"ok","logoid":"schwab"}

@@ -5153,3 +5153,7 @@
 {"symbol":"FVUAA","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"GQWX","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"GQXU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"EEA3","exchange":"XETR","status":"ok","logoid":"paribas"}
+{"symbol":"IQGU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"IQSM","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"IQJA","exchange":"XETR","status":"ok","logoid":"invesco"}

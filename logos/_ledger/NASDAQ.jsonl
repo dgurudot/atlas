@@ -5570,3 +5570,8 @@
 {"symbol":"GOW","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"FGCPP","exchange":"NASDAQ","status":"ok","logoid":"fg-financial-800-cumulative-series-a-preferred-stock"}
 {"symbol":"MUY","exchange":"NASDAQ","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}
+{"symbol":"ICMO","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RZAI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"FFR","exchange":"NASDAQ","status":"ok","logoid":"qualigen-therapeutics"}
+{"symbol":"ICMO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"RZAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

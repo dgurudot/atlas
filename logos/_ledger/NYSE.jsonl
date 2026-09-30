@@ -2852,3 +2852,7 @@
 {"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"PNAQ","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"COPL.U","exchange":"NYSE","status":"ok","logoid":"copley-acquisition"}
+{"symbol":"LCIV","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"IVAI","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"LCIV","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IVAI","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

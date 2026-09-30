@@ -2947,3 +2947,6 @@
 {"symbol":"EURON.EUR","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
 {"symbol":"SEMR.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"TER.USD","exchange":"SIX","status":"ok","logoid":"teradyne"}
+{"symbol":"CATH","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"GEU3C.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"AQLS.USD","exchange":"SIX","status":"ok","logoid":"leonteq-n"}

@@ -1974,3 +1974,7 @@
 {"symbol":"XVGL","exchange":"CBOE","status":"ok","logoid":"first-trust"}
 {"symbol":"XVMT","exchange":"CBOE","status":"ok","logoid":"first-trust"}
 {"symbol":"DCAP","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACIG","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"ACSM","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"ACSM","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACIG","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

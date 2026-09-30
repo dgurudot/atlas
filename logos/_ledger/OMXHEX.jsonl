@@ -193,3 +193,4 @@
 {"symbol":"YIT","exchange":"OMXHEX","status":"ok","logoid":"yit"}
 {"symbol":"WUF1V","exchange":"OMXHEX","status":"ok","logoid":"wulff-plc"}
 {"symbol":"WRT1V","exchange":"OMXHEX","status":"ok","logoid":"wartsila"}
+{"symbol":"REG1VN0126","exchange":"OMXHEX","status":"nologo","logoid":null}

@@ -3203,3 +3203,7 @@
 {"symbol":"PFRX","exchange":"AMEX","status":"ok","logoid":"putnam-focused-large-cap-growth"}
 {"symbol":"NRR","exchange":"AMEX","status":"ok","logoid":"bitwise-crypto-industry"}
 {"symbol":"LUNC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JQTY","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"AVNC","exchange":"AMEX","status":"ok","logoid":"avantis-core-fixed-income"}
+{"symbol":"DBAR","exchange":"AMEX","status":"ok","logoid":"imgp"}
+{"symbol":"JQTY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

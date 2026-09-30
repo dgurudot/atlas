@@ -458,3 +458,6 @@
 {"symbol":"CRMCL","exchange":"BCS","status":"ok","logoid":"salesforce"}
 {"symbol":"PAMPA0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"QCOM","exchange":"BCS","status":"ok","logoid":"qualcomm"}
+{"symbol":"CLUBUNION","exchange":"BCS","status":"ok","logoid":"union-inmobiliaria"}
+{"symbol":"CFIAFE3F1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
+{"symbol":"CFIAFE2R1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}

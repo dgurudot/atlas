@@ -15883,3 +15883,7 @@
 {"symbol":"1947","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"QQQI","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"QQQP","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"0GD5","exchange":"LSE","status":"ok","logoid":"ubm-development-ag"}
+{"symbol":"0FOA","exchange":"LSE","status":"ok","logoid":"exacompta-clairefontaine"}
+{"symbol":"0P30","exchange":"LSE","status":"ok","logoid":"patrimoine-et-commerce-regr"}
+{"symbol":"DVT","exchange":"LSE","status":"ok","logoid":"davictus-plc-ord-npv"}

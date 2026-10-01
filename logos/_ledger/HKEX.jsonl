@@ -5691,3 +5691,6 @@
 {"symbol":"9197","exchange":"HKEX","status":"ok","logoid":"hai-tong-asset-management-hk-ltd-msci-china-a-esg-etf-usd"}
 {"symbol":"3510","exchange":"HKEX","status":"ok","logoid":"ping-an"}
 {"symbol":"6802","exchange":"HKEX","status":"ok","logoid":"shenzhen-camsense-technologies-co-ltd-class-h"}
+{"symbol":"83585","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"9459","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"83459","exchange":"HKEX","status":"nologo","logoid":null}

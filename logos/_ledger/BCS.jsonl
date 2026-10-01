@@ -461,3 +461,5 @@
 {"symbol":"CLUBUNION","exchange":"BCS","status":"ok","logoid":"union-inmobiliaria"}
 {"symbol":"CFIAFE3F1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
 {"symbol":"CFIAFE2R1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
+{"symbol":"ENELAM1","exchange":"BCS","status":"ok","logoid":"enel"}
+{"symbol":"REBRISA_A","exchange":"BCS","status":"ok","logoid":"rebrisa-sa"}

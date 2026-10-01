@@ -5575,3 +5575,10 @@
 {"symbol":"FFR","exchange":"NASDAQ","status":"ok","logoid":"qualigen-therapeutics"}
 {"symbol":"ICMO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"RZAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ENHE","exchange":"NASDAQ","status":"ok","logoid":"ishares"}
+{"symbol":"TDEM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ALISU","exchange":"NASDAQ","status":"ok","logoid":"calisa-acquisition"}
+{"symbol":"ACCV","exchange":"NASDAQ","status":"ok","logoid":"accelevation"}
+{"symbol":"OPNW","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TDEM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OPNW","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

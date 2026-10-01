@@ -3991,3 +3991,6 @@
 {"symbol":"CHSR","exchange":"EPA","status":"ok","logoid":"chausseria"}
 {"symbol":"GGRI","exchange":"EPA","status":"ok","logoid":"wisdomtree"}
 {"symbol":"SDOT","exchange":"EPA","status":"ok","logoid":"seba-swiss"}
+{"symbol":"DRTN","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"WDRT","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"INTS","exchange":"EPA","status":"ok","logoid":"leverage-shares"}

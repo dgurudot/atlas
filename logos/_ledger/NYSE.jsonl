@@ -2856,3 +2856,7 @@
 {"symbol":"IVAI","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"LCIV","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"IVAI","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VYLR","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PORT.U","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PORT.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VYLR","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

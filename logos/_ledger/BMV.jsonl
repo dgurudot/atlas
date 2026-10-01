@@ -2582,3 +2582,5 @@
 {"symbol":"FAN","exchange":"BMV","status":"ok","logoid":"first-trust"}
 {"symbol":"LUTAX/N","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"SCHA","exchange":"BMV","status":"ok","logoid":"schwab"}
+{"symbol":"MRP","exchange":"BMV","status":"ok","logoid":"millrose-properties"}
+{"symbol":"TI5MX/N","exchange":"BMV","status":"ok","logoid":"ishares"}

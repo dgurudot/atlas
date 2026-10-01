@@ -4373,3 +4373,7 @@
 {"symbol":"0099X0","exchange":"KRX","status":"ok","logoid":"ibks-no24-special-purpose-acquisition-company"}
 {"symbol":"498390","exchange":"KRX","status":"ok","logoid":"hanwha"}
 {"symbol":"266690","exchange":"KRX","status":"ok","logoid":"duksan-navcours-coltd"}
+{"symbol":"570128","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"570130","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"570129","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"468670","exchange":"KRX","status":"nologo","logoid":null}

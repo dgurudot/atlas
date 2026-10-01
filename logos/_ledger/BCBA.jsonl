@@ -1587,3 +1587,6 @@
 {"symbol":"CAR.C","exchange":"BCBA","status":"ok","logoid":"avis-budget-group"}
 {"symbol":"TMOC","exchange":"BCBA","status":"ok","logoid":"thermo-fisher-scientific"}
 {"symbol":"BKRC","exchange":"BCBA","status":"ok","logoid":"baker-hughes"}
+{"symbol":"UNPC","exchange":"BCBA","status":"ok","logoid":"union-pacific"}
+{"symbol":"PCARC","exchange":"BCBA","status":"ok","logoid":"paccar"}
+{"symbol":"MIRGC","exchange":"BCBA","status":"ok","logoid":"mirgor-sa"}

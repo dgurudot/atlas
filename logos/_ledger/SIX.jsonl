@@ -2950,3 +2950,6 @@
 {"symbol":"CATH","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"GEU3C.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"AQLS.USD","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"EUGO.EUR","exchange":"SIX","status":"ok","logoid":"pimco"}
+{"symbol":"EGRA.EUR","exchange":"SIX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"VLED.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}

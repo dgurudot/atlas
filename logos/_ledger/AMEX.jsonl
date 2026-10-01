@@ -3207,3 +3207,13 @@
 {"symbol":"AVNC","exchange":"AMEX","status":"ok","logoid":"avantis-core-fixed-income"}
 {"symbol":"DBAR","exchange":"AMEX","status":"ok","logoid":"imgp"}
 {"symbol":"JQTY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MMHI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"OCTI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"TRIL","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"XX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"OCT","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MMHI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OCTI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OCT","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"TRIL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

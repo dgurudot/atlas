@@ -2860,3 +2860,5 @@
 {"symbol":"PORT.U","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"PORT.U","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VYLR","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DX/PD","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"DX/PD","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

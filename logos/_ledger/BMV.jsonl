@@ -2584,3 +2584,8 @@
 {"symbol":"SCHA","exchange":"BMV","status":"ok","logoid":"schwab"}
 {"symbol":"MRP","exchange":"BMV","status":"ok","logoid":"millrose-properties"}
 {"symbol":"TI5MX/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"GENB","exchange":"BMV","status":"ok","logoid":"generate-biomedicines"}
+{"symbol":"MANH","exchange":"BMV","status":"ok","logoid":"manhattan-associates"}
+{"symbol":"JOYY/N","exchange":"BMV","status":"ok","logoid":"yy-inc"}
+{"symbol":"SMHX","exchange":"BMV","status":"ok","logoid":"vaneck"}
+{"symbol":"PACB","exchange":"BMV","status":"ok","logoid":"pacific-biosciences"}

@@ -3994,3 +3994,6 @@
 {"symbol":"DRTN","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"WDRT","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"INTS","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"EUESRI","exchange":"EPA","status":"ok","logoid":"ubs-group"}
+{"symbol":"INCE","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"WDRD","exchange":"EPA","status":"nologo","logoid":null}

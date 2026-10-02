@@ -1978,3 +1978,9 @@
 {"symbol":"ACSM","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"ACSM","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ACIG","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LLMA","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"TRIL","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"TRIL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LLMA","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

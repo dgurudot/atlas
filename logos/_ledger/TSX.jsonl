@@ -2979,3 +2979,17 @@
 {"symbol":"MAGF","exchange":"TSX","status":"ok","logoid":"middlefield-global-real-asset"}
 {"symbol":"IDUV.U","exchange":"TSX","status":"ok","logoid":"manulife"}
 {"symbol":"MGFI","exchange":"TSX","status":"ok","logoid":"middlefield-global-real-asset"}
+{"symbol":"BRKE","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
+{"symbol":"INTE","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
+{"symbol":"ASME","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
+{"symbol":"HONE","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
+{"symbol":"FGQE","exchange":"TSX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"MGEG","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMGL","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMCY","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMDC","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMSD","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMDF","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMDU","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MMEA","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
+{"symbol":"MUHE","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}

@@ -1590,3 +1590,4 @@
 {"symbol":"UNPC","exchange":"BCBA","status":"ok","logoid":"union-pacific"}
 {"symbol":"PCARC","exchange":"BCBA","status":"ok","logoid":"paccar"}
 {"symbol":"MIRGC","exchange":"BCBA","status":"ok","logoid":"mirgor-sa"}
+{"symbol":"BNGC","exchange":"BCBA","status":"ok","logoid":"bunge"}

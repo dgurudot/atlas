@@ -2555,3 +2555,6 @@
 {"symbol":"CASN3F","exchange":"BMFBOVESPA","status":"ok","logoid":"casan-on"}
 {"symbol":"RRES11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
 {"symbol":"VSUI39","exchange":"BMFBOVESPA","status":"ok","logoid":"valour-cardano"}
+{"symbol":"LTMG11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"RJDA11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"N1TR34","exchange":"BMFBOVESPA","status":"ok","logoid":"northern-trust"}

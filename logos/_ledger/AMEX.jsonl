@@ -3217,3 +3217,8 @@
 {"symbol":"OCT","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TRIL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MN","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"NSTR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"BCOM","exchange":"AMEX","status":"ok","logoid":"bloomberg-commodity"}
+{"symbol":"MN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NSTR","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

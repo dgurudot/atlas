@@ -15900,3 +15900,8 @@
 {"symbol":"SAT1","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"IQSX","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"IQBX","exchange":"LSE","status":"ok","logoid":"invesco"}
+{"symbol":"GBTC","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0A9C","exchange":"LSE","status":"ok","logoid":"mawson-gold-ltd"}
+{"symbol":"0NE2","exchange":"LSE","status":"ok","logoid":"mondo-tv-spa"}
+{"symbol":"AII","exchange":"LSE","status":"ok","logoid":"aimia"}
+{"symbol":"0P6E","exchange":"LSE","status":"ok","logoid":"first-quantum-minerals"}

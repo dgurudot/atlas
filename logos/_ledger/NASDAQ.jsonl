@@ -5582,3 +5582,5 @@
 {"symbol":"OPNW","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"TDEM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OPNW","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CHWM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CHWM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

@@ -3997,3 +3997,8 @@
 {"symbol":"EUESRI","exchange":"EPA","status":"ok","logoid":"ubs-group"}
 {"symbol":"INCE","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"WDRD","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BSRID","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"FGLY","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"FUSY","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"DRTD","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"AUEU","exchange":"EPA","status":"ok","logoid":"wisdomtree"}

@@ -5165,3 +5165,10 @@
 {"symbol":"WDRD","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"FLDE","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"DZGB","exchange":"XETR","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"FGLY","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"FUSY","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"XAIB","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"XGTI","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XMIT","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XMNG","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"XMES","exchange":"XETR","status":"ok","logoid":"dws"}

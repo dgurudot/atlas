@@ -1442,3 +1442,5 @@
 {"symbol":"STR.H","exchange":"TSXV","status":"ok","logoid":"santa-rosa-resources"}
 {"symbol":"TWY.H","exchange":"TSXV","status":"ok","logoid":"twyford-ventures"}
 {"symbol":"WSTR","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"ESKR","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"MVD.H","exchange":"TSXV","status":"ok","logoid":"mega-view-digital-entertainment"}

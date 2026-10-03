@@ -2558,3 +2558,7 @@
 {"symbol":"LTMG11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"RJDA11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"N1TR34","exchange":"BMFBOVESPA","status":"ok","logoid":"northern-trust"}
+{"symbol":"BBCA39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"P1EG34","exchange":"BMFBOVESPA","status":"ok","logoid":"public-service-enterprise"}
+{"symbol":"MAPT4","exchange":"BMFBOVESPA","status":"ok","logoid":"cemepe-on"}
+{"symbol":"BMLT11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-bmlt-ci"}

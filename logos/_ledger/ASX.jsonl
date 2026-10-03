@@ -2279,3 +2279,5 @@
 {"symbol":"CHI","exchange":"ASX","status":"ok","logoid":"nz-refining-co-npv"}
 {"symbol":"OSS","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"AGT","exchange":"ASX","status":"ok","logoid":"straker-limited"}
+{"symbol":"AECV","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"GECV","exchange":"ASX","status":"nologo","logoid":null}

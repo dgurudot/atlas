@@ -485,3 +485,6 @@
 {"symbol":"SQRL","exchange":"JSE","status":"nologo","logoid":null}
 {"symbol":"AOO","exchange":"JSE","status":"ok","logoid":"african-over-ent"}
 {"symbol":"EXP","exchange":"JSE","status":"ok","logoid":"exemplar-reitail"}
+{"symbol":"INPP","exchange":"JSE","status":"ok","logoid":"investec-plc-ord-gbp0-0002"}
+{"symbol":"DSBP","exchange":"JSE","status":"ok","logoid":"discovery-ltd"}
+{"symbol":"CPIP","exchange":"JSE","status":"ok","logoid":"capitec-bank-hldgs-ltd"}

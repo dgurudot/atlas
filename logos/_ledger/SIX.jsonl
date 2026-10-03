@@ -2969,3 +2969,13 @@
 {"symbol":"USINC.USD","exchange":"SIX","status":"nologo","logoid":null}
 {"symbol":"USHYC","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"XOM","exchange":"SIX","status":"ok","logoid":"exxon"}
+{"symbol":"CALNE","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"OKE","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PQUS","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"AGYC","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"ACES.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FUWEP","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"AZCO","exchange":"SIX","status":"ok","logoid":"allianz"}
+{"symbol":"EVK","exchange":"SIX","status":"ok","logoid":"evonik-industries-na-o-n"}
+{"symbol":"BPDU.USD","exchange":"SIX","status":"ok","logoid":"nordea-bank-abp"}
+{"symbol":"SRIC7.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}

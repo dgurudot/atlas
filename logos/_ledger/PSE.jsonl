@@ -275,3 +275,4 @@
 {"symbol":"BH","exchange":"PSE","status":"ok","logoid":"bhi"}
 {"symbol":"PHR","exchange":"PSE","status":"ok","logoid":"ph-resorts"}
 {"symbol":"LTL","exchange":"PSE","status":"nologo","logoid":null}
+{"symbol":"ALCPH","exchange":"PSE","status":"nologo","logoid":null}

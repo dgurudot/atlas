@@ -2862,3 +2862,4 @@
 {"symbol":"VYLR","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"DX/PD","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"DX/PD","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"JACS.U","exchange":"NYSE","status":"ok","logoid":"jackson-acquisition-company-ii"}

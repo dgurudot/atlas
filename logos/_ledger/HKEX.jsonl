@@ -5697,3 +5697,6 @@
 {"symbol":"8583","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"3592","exchange":"HKEX","status":"ok","logoid":"citic-sec"}
 {"symbol":"83592","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"3520","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"41590","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"83590","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}

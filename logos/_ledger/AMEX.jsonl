@@ -3242,3 +3242,9 @@
 {"symbol":"SUNC","exchange":"AMEX","status":"ok","logoid":null,"source":"polygon"}
 {"symbol":"VJET","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"USAC","exchange":"AMEX","status":"ok","logoid":null,"source":"polygon"}
+{"symbol":"HFIX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"DDS","exchange":"AMEX","status":"ok","logoid":"dillards"}
+{"symbol":"ET","exchange":"AMEX","status":"ok","logoid":"energy-transfer"}
+{"symbol":"SUN","exchange":"AMEX","status":"ok","logoid":"sunoco"}
+{"symbol":"SUNC","exchange":"AMEX","status":"ok","logoid":"sunococorp-llc"}
+{"symbol":"HFIX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

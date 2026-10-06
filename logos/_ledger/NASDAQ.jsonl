@@ -5594,3 +5594,4 @@
 {"symbol":"IPHX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TBCV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WQEY","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LUMN","exchange":"NASDAQ","status":"ok","logoid":"lumen"}

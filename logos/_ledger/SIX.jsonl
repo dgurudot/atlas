@@ -2979,3 +2979,14 @@
 {"symbol":"EVK","exchange":"SIX","status":"ok","logoid":"evonik-industries-na-o-n"}
 {"symbol":"BPDU.USD","exchange":"SIX","status":"ok","logoid":"nordea-bank-abp"}
 {"symbol":"SRIC7.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FOCT","exchange":"SIX","status":"ok","logoid":"first-trust"}
+{"symbol":"BLDS.EUR","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"GMAY","exchange":"SIX","status":"ok","logoid":"first-trust"}
+{"symbol":"IQSM","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"THRW.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"DG","exchange":"SIX","status":"ok","logoid":"vinci"}
+{"symbol":"AG.USD","exchange":"SIX","status":"ok","logoid":"first-majestic-silver"}
+{"symbol":"WQEY","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"SCORA.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"TMUS","exchange":"SIX","status":"ok","logoid":"t-mobile"}
+{"symbol":"RDYN","exchange":"SIX","status":"ok","logoid":"orix"}

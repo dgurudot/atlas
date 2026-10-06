@@ -2595,3 +2595,11 @@
 {"symbol":"HMCD/N","exchange":"BMV","status":"ok","logoid":"hsbc"}
 {"symbol":"ANTA/N","exchange":"BMV","status":"ok","logoid":"anta-sports"}
 {"symbol":"PRGS","exchange":"BMV","status":"ok","logoid":"progress-software"}
+{"symbol":"KBE","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"FTXL","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"RPM","exchange":"BMV","status":"ok","logoid":"rpm-international"}
+{"symbol":"SAMPO/N","exchange":"BMV","status":"ok","logoid":"sampo-plc-a"}
+{"symbol":"GNW","exchange":"BMV","status":"ok","logoid":"genworth-financial"}
+{"symbol":"VGEA/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"AD/N","exchange":"BMV","status":"ok","logoid":"ahold-delhaize"}
+{"symbol":"UPBD","exchange":"BMV","status":"ok","logoid":"rent-a-center"}

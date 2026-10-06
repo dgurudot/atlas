@@ -5700,3 +5700,6 @@
 {"symbol":"3520","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
 {"symbol":"41590","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
 {"symbol":"83590","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"2934","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"8572","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"9472","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}

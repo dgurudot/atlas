@@ -15911,3 +15911,5 @@
 {"symbol":"0Q9Y","exchange":"LSE","status":"ok","logoid":"kernel"}
 {"symbol":"0A6F","exchange":"LSE","status":"ok","logoid":"lattice-semiconductor"}
 {"symbol":"0HC8","exchange":"LSE","status":"ok","logoid":"roularta"}
+{"symbol":"0F99","exchange":"LSE","status":"ok","logoid":"miko"}
+{"symbol":"MOL","exchange":"LSE","status":"ok","logoid":"vulcan-two-plc"}

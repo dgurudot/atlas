@@ -1059,3 +1059,4 @@
 {"symbol":"BHST","exchange":"TASE","status":"ok","logoid":"bioharvest-sciences"}
 {"symbol":"PSHM","exchange":"TASE","status":"nologo","logoid":null}
 {"symbol":"PIKA","exchange":"TASE","status":"ok","logoid":"trucknet"}
+{"symbol":"GIBUI","exchange":"TASE","status":"nologo","logoid":null}

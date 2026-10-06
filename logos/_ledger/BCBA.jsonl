@@ -1591,3 +1591,7 @@
 {"symbol":"PCARC","exchange":"BCBA","status":"ok","logoid":"paccar"}
 {"symbol":"MIRGC","exchange":"BCBA","status":"ok","logoid":"mirgor-sa"}
 {"symbol":"BNGC","exchange":"BCBA","status":"ok","logoid":"bunge"}
+{"symbol":"CORNC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"DELLC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"BXC","exchange":"BCBA","status":"ok","logoid":"blackstone"}
+{"symbol":"NGG.CI","exchange":"BCBA","status":"ok","logoid":"national-grid"}

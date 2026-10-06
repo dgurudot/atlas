@@ -2562,3 +2562,9 @@
 {"symbol":"P1EG34","exchange":"BMFBOVESPA","status":"ok","logoid":"public-service-enterprise"}
 {"symbol":"MAPT4","exchange":"BMFBOVESPA","status":"ok","logoid":"cemepe-on"}
 {"symbol":"BMLT11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-bmlt-ci"}
+{"symbol":"BFIW39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
+{"symbol":"L1TM34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"XVAL11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BEWM39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"BIAK39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"U1NM34","exchange":"BMFBOVESPA","status":"ok","logoid":"unum-group"}

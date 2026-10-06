@@ -4002,3 +4002,7 @@
 {"symbol":"FUSY","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"DRTD","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"AUEU","exchange":"EPA","status":"ok","logoid":"wisdomtree"}
+{"symbol":"STEN-EUR","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"AZUE","exchange":"EPA","status":"ok","logoid":"allianz"}
+{"symbol":"FUT3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"MINE","exchange":"EPA","status":"ok","logoid":"coinshares"}

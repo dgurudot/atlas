@@ -1987,3 +1987,5 @@
 {"symbol":"EAFH","exchange":"CBOE","status":"ok","logoid":"dws"}
 {"symbol":"OCTI","exchange":"CBOE","status":"ok","logoid":"allianz"}
 {"symbol":"BCOM","exchange":"CBOE","status":"ok","logoid":"bloomberg-commodity"}
+{"symbol":"MN","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"MN","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

@@ -121,3 +121,5 @@
 {"symbol":"ALLIANZ","exchange":"BET","status":"ok","logoid":"allianz"}
 {"symbol":"CSPXJ","exchange":"BET","status":"ok","logoid":"ishares"}
 {"symbol":"XSSX","exchange":"BET","status":"ok","logoid":"dws"}
+{"symbol":"HU0000739347","exchange":"BET","status":"nologo","logoid":null}
+{"symbol":"SYB5","exchange":"BET","status":"ok","logoid":"spdr-sandp500-etf-tr"}

@@ -1989,3 +1989,5 @@
 {"symbol":"BCOM","exchange":"CBOE","status":"ok","logoid":"bloomberg-commodity"}
 {"symbol":"MN","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"MN","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SLVI","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"SLVI","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

@@ -15913,3 +15913,8 @@
 {"symbol":"0HC8","exchange":"LSE","status":"ok","logoid":"roularta"}
 {"symbol":"0F99","exchange":"LSE","status":"ok","logoid":"miko"}
 {"symbol":"MOL","exchange":"LSE","status":"ok","logoid":"vulcan-two-plc"}
+{"symbol":"STEN","exchange":"LSE","status":"ok","logoid":"ishares"}
+{"symbol":"FGLG","exchange":"LSE","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"FGLY","exchange":"LSE","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"FUSG","exchange":"LSE","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"FUSY","exchange":"LSE","status":"ok","logoid":"fidelity-advantage"}

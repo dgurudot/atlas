@@ -5595,3 +5595,9 @@
 {"symbol":"TBCV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WQEY","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"LUMN","exchange":"NASDAQ","status":"ok","logoid":"lumen"}
+{"symbol":"BBCI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"WORX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PAXGU","exchange":"NASDAQ","status":"ok","logoid":"pine-tree-acquisition"}
+{"symbol":"PALOU","exchange":"NASDAQ","status":"ok","logoid":"paloma-acquisition-i-units-cons-of-1-shs-a-1-2-red-wt"}
+{"symbol":"BBCI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WORX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

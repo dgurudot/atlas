@@ -3248,3 +3248,13 @@
 {"symbol":"SUN","exchange":"AMEX","status":"ok","logoid":"sunoco"}
 {"symbol":"SUNC","exchange":"AMEX","status":"ok","logoid":"sunococorp-llc"}
 {"symbol":"HFIX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACYB","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"OAKL","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SPXP","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SMTJ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GMAC","exchange":"AMEX","status":"ok","logoid":"simplify-exchange-traded-funds"}
+{"symbol":"UBIQ","exchange":"AMEX","status":"ok","logoid":"aam-low-duration-preferred"}
+{"symbol":"SPXP","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACYB","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OAKL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SMTJ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

@@ -4006,3 +4006,5 @@
 {"symbol":"AZUE","exchange":"EPA","status":"ok","logoid":"allianz"}
 {"symbol":"FUT3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
 {"symbol":"MINE","exchange":"EPA","status":"ok","logoid":"coinshares"}
+{"symbol":"OFIUS","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"GBEU","exchange":"EPA","status":"ok","logoid":"wisdomtree"}

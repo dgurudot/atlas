@@ -5703,3 +5703,8 @@
 {"symbol":"2934","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"8572","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"9472","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"2921","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"8585","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"3587","exchange":"HKEX","status":"ok","logoid":"icbc-turkey"}
+{"symbol":"41592","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"83587","exchange":"HKEX","status":"ok","logoid":"icbc-turkey"}

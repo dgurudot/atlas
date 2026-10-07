@@ -2990,3 +2990,11 @@
 {"symbol":"SCORA.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"TMUS","exchange":"SIX","status":"ok","logoid":"t-mobile"}
 {"symbol":"RDYN","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"BTCAI","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PPGNE","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"AFX","exchange":"SIX","status":"ok","logoid":"carl-zeiss-meditec"}
+{"symbol":"GCPA","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"GIBO","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"XDGS","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"JEN","exchange":"SIX","status":"ok","logoid":"jenoptik-ag"}
+{"symbol":"U100E.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}

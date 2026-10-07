@@ -2603,3 +2603,11 @@
 {"symbol":"VGEA/N","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"AD/N","exchange":"BMV","status":"ok","logoid":"ahold-delhaize"}
 {"symbol":"UPBD","exchange":"BMV","status":"ok","logoid":"rent-a-center"}
+{"symbol":"PALX/22","exchange":"BMV","status":"nologo","logoid":null}
+{"symbol":"BAB","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"AGCO","exchange":"BMV","status":"ok","logoid":"agco"}
+{"symbol":"BSY","exchange":"BMV","status":"ok","logoid":"bentley-systems"}
+{"symbol":"VYLR","exchange":"BMV","status":"nologo","logoid":null}
+{"symbol":"SX7EEX/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"SIND","exchange":"BMV","status":"ok","logoid":"sinda-limited"}
+{"symbol":"GLNG/N","exchange":"BMV","status":"ok","logoid":"golar-lng-limited"}

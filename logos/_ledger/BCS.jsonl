@@ -467,3 +467,8 @@
 {"symbol":"CFIVMI2B_E0","exchange":"BCS","status":"ok","logoid":"volcomcapital"}
 {"symbol":"UNION_GOLF","exchange":"BCS","status":"ok","logoid":"union-el-golf-sa"}
 {"symbol":"SMSAAM0","exchange":"BCS","status":"ok","logoid":"sociedad-matriz-sa"}
+{"symbol":"CFIALRAI_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"MMMCL1","exchange":"BCS","status":"ok","logoid":"3m"}
+{"symbol":"CONCHATORO0","exchange":"BCS","status":"ok","logoid":"vina-concha-y-toro"}
+{"symbol":"PEP1","exchange":"BCS","status":"ok","logoid":"pepsico"}
+{"symbol":"CFIPIONERO","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}

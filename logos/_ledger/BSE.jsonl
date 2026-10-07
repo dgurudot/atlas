@@ -5302,3 +5302,8 @@
 {"symbol":"SRIT","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"SHIVCHEM","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"PIND","exchange":"BSE","status":"ok","logoid":"pi-industries"}
+{"symbol":"BLACKOPAL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"INSURADD","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"NOVAMAT","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"VANS","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"WOODSVILA","exchange":"BSE","status":"ok","logoid":"woodsvilla-ltd"}

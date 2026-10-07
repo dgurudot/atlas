@@ -2568,3 +2568,7 @@
 {"symbol":"BEWM39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
 {"symbol":"BIAK39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
 {"symbol":"U1NM34","exchange":"BMFBOVESPA","status":"ok","logoid":"unum-group"}
+{"symbol":"JGLO39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"JIVE39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BDRE39","exchange":"BMFBOVESPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"XRPV39","exchange":"BMFBOVESPA","status":"ok","logoid":"valour-cardano"}

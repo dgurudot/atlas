@@ -637,3 +637,6 @@
 {"symbol":"MARY.X","exchange":"CSE","status":"ok","logoid":"mary-agrotechnologies"}
 {"symbol":"GORD","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"MAGA","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"GGF","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"GSMI","exchange":"CSE","status":"nologo","logoid":null}
+{"symbol":"VSBY","exchange":"CSE","status":"ok","logoid":"vsblty-groupe"}

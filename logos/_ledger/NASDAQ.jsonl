@@ -5601,3 +5601,5 @@
 {"symbol":"PALOU","exchange":"NASDAQ","status":"ok","logoid":"paloma-acquisition-i-units-cons-of-1-shs-a-1-2-red-wt"}
 {"symbol":"BBCI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WORX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SCAT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SCAT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

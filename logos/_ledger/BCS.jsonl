@@ -472,3 +472,5 @@
 {"symbol":"CONCHATORO0","exchange":"BCS","status":"ok","logoid":"vina-concha-y-toro"}
 {"symbol":"PEP1","exchange":"BCS","status":"ok","logoid":"pepsico"}
 {"symbol":"CFIPIONERO","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
+{"symbol":"UNPCL","exchange":"BCS","status":"ok","logoid":"union-pacific"}
+{"symbol":"ANDINA_A0","exchange":"BCS","status":"ok","logoid":"embotelladora-andina"}

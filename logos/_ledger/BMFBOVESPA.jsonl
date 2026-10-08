@@ -2572,3 +2572,8 @@
 {"symbol":"JIVE39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"BDRE39","exchange":"BMFBOVESPA","status":"ok","logoid":"jpmorgan"}
 {"symbol":"XRPV39","exchange":"BMFBOVESPA","status":"ok","logoid":"valour-cardano"}
+{"symbol":"CEDO3","exchange":"BMFBOVESPA","status":"ok","logoid":"cedro-on-n1"}
+{"symbol":"R2GE34","exchange":"BMFBOVESPA","status":"ok","logoid":"repligen"}
+{"symbol":"NAUI11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-naui-ci"}
+{"symbol":"T1FX34","exchange":"BMFBOVESPA","status":"ok","logoid":"teleflex"}
+{"symbol":"W1LT34","exchange":"BMFBOVESPA","status":"ok","logoid":"willis-towers-watson"}

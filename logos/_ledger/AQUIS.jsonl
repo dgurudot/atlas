@@ -412,3 +412,6 @@
 {"symbol":"IDFF.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"IEMA.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"CSX5.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"IAEX.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ISEU.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"GLDV.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}

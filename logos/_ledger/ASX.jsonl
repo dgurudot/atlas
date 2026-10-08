@@ -2283,3 +2283,5 @@
 {"symbol":"GECV","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"NMD","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"NRL","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"EUZ","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"VRC","exchange":"ASX","status":"ok","logoid":"volt-resources-ltd"}

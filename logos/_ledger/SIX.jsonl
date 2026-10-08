@@ -2998,3 +2998,8 @@
 {"symbol":"XDGS","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"JEN","exchange":"SIX","status":"ok","logoid":"jenoptik-ag"}
 {"symbol":"U100E.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"JEGC","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"NYSX","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"JEAA.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"UST71.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"MCD","exchange":"SIX","status":"ok","logoid":"mcdonalds"}

@@ -474,3 +474,6 @@
 {"symbol":"CFIPIONERO","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
 {"symbol":"UNPCL","exchange":"BCS","status":"ok","logoid":"union-pacific"}
 {"symbol":"ANDINA_A0","exchange":"BCS","status":"ok","logoid":"embotelladora-andina"}
+{"symbol":"XOMCL","exchange":"BCS","status":"ok","logoid":"exxon"}
+{"symbol":"SPORTFRAN","exchange":"BCS","status":"ok","logoid":"inmobiliaria-sport-francals"}
+{"symbol":"FORUS0","exchange":"BCS","status":"ok","logoid":"forus-sa"}

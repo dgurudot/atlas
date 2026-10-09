@@ -2994,3 +2994,6 @@
 {"symbol":"MMEA","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
 {"symbol":"MUHE","exchange":"TSX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
 {"symbol":"HSTR","exchange":"TSX","status":"ok","logoid":"heliostar-metals-ltd"}
+{"symbol":"ZCRB","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZEMB","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZLAT","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}

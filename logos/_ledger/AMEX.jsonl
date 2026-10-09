@@ -3263,3 +3263,7 @@
 {"symbol":"TCBI","exchange":"AMEX","status":"ok","logoid":"texas-capital-bancshares"}
 {"symbol":"TCBI/PB","exchange":"AMEX","status":"ok","logoid":"texas-capital-bancshares"}
 {"symbol":"RINK","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VGTX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"WTAL","exchange":"AMEX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"WSLS","exchange":"AMEX","status":"ok","logoid":"wisdomtree"}
+{"symbol":"VGTX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

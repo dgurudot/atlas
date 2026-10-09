@@ -3003,3 +3003,5 @@
 {"symbol":"JEAA.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
 {"symbol":"UST71.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"MCD","exchange":"SIX","status":"ok","logoid":"mcdonalds"}
+{"symbol":"XB29","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"400X.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}

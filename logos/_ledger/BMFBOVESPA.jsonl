@@ -2577,3 +2577,7 @@
 {"symbol":"NAUI11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-naui-ci"}
 {"symbol":"T1FX34","exchange":"BMFBOVESPA","status":"ok","logoid":"teleflex"}
 {"symbol":"W1LT34","exchange":"BMFBOVESPA","status":"ok","logoid":"willis-towers-watson"}
+{"symbol":"EAGL11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"GPAR3","exchange":"BMFBOVESPA","status":"ok","logoid":"celgpar-on"}
+{"symbol":"SNSY3","exchange":"BMFBOVESPA","status":"ok","logoid":"sansuy-on"}
+{"symbol":"S1AK34","exchange":"BMFBOVESPA","status":"ok","logoid":"shake-shack"}

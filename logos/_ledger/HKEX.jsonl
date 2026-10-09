@@ -5710,3 +5710,4 @@
 {"symbol":"83587","exchange":"HKEX","status":"ok","logoid":"icbc-turkey"}
 {"symbol":"9014","exchange":"HKEX","status":"ok","logoid":"global-x"}
 {"symbol":"41525","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"1256","exchange":"HKEX","status":"nologo","logoid":null}

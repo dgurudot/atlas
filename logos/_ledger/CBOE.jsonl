@@ -1991,3 +1991,9 @@
 {"symbol":"MN","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SLVI","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"SLVI","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OPTO","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XXQQ","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XXSP","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"XXQQ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XXSP","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OPTO","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

@@ -923,3 +923,4 @@
 {"symbol":"GIGA_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"SCIB_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"ALZ_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"ENTRAO","exchange":"OMXSTO","status":"ok","logoid":"entra-asa"}

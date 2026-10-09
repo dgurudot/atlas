@@ -5173,3 +5173,9 @@
 {"symbol":"XMNG","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"XMES","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"STEN","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"ERW","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"PFS0","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TRPG","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TRPU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"VUYA","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VUYD","exchange":"XETR","status":"ok","logoid":"vanguard"}

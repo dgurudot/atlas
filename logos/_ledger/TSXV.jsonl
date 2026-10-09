@@ -1449,3 +1449,6 @@
 {"symbol":"GRMI","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"APL","exchange":"TSXV","status":"ok","logoid":"appulse"}
 {"symbol":"RUCC.P","exchange":"TSXV","status":"ok","logoid":"ruperts-crossing-capital"}
+{"symbol":"RGM.H","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"FFP","exchange":"TSXV","status":"ok","logoid":"consolidated-firstfund-capital"}
+{"symbol":"JPWR.H","exchange":"TSXV","status":"ok","logoid":"jade-power-trust"}

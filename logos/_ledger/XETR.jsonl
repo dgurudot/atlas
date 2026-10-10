@@ -5179,3 +5179,9 @@
 {"symbol":"TRPU","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"VUYA","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"VUYD","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"3TSA","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
+{"symbol":"TCQU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"SSPY","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
+{"symbol":"TCQW","exchange":"XETR","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"SAMD","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
+{"symbol":"HNSC","exchange":"XETR","status":"ok","logoid":"hsbc"}

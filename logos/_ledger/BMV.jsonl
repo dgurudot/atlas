@@ -2632,3 +2632,11 @@
 {"symbol":"4516/N","exchange":"BMV","status":"ok","logoid":"nippon-shinyaku"}
 {"symbol":"ITEH/N","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"KOD","exchange":"BMV","status":"ok","logoid":"kodiak-sciences"}
+{"symbol":"ADM1/N","exchange":"BMV","status":"ok","logoid":"admiral-group"}
+{"symbol":"IAT","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"ID34/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"SPEU","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"IPGP","exchange":"BMV","status":"ok","logoid":"ipg-photonics"}
+{"symbol":"RTO/N","exchange":"BMV","status":"ok","logoid":"rentokil-initial"}
+{"symbol":"CR","exchange":"BMV","status":"ok","logoid":"crane"}
+{"symbol":"XSPU1/N","exchange":"BMV","status":"ok","logoid":"dws"}

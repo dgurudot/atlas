@@ -5607,3 +5607,5 @@
 {"symbol":"AIOK","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"BDAI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"AIOK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"RTSN","exchange":"NASDAQ","status":"ok","logoid":"retension-pharmaceuticals"}
+{"symbol":"TRXB","exchange":"NASDAQ","status":"ok","logoid":"trex-bio"}

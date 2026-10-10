@@ -477,3 +477,5 @@
 {"symbol":"XOMCL","exchange":"BCS","status":"ok","logoid":"exxon"}
 {"symbol":"SPORTFRAN","exchange":"BCS","status":"ok","logoid":"inmobiliaria-sport-francals"}
 {"symbol":"FORUS0","exchange":"BCS","status":"ok","logoid":"forus-sa"}
+{"symbol":"CFIACP4R_E","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"MSFT0","exchange":"BCS","status":"ok","logoid":"microsoft"}

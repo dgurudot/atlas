@@ -1598,3 +1598,5 @@
 {"symbol":"FMXC","exchange":"BCBA","status":"ok","logoid":"femsa"}
 {"symbol":"RTXC","exchange":"BCBA","status":"ok","logoid":"raytheon"}
 {"symbol":"RICHD","exchange":"BCBA","status":"ok","logoid":"lab-richmond"}
+{"symbol":"MOLID","exchange":"BCBA","status":"ok","logoid":"molinos-rio-plata"}
+{"symbol":"PSXC","exchange":"BCBA","status":"ok","logoid":"phillips-66"}

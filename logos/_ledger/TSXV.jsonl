@@ -1452,3 +1452,6 @@
 {"symbol":"RGM.H","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"FFP","exchange":"TSXV","status":"ok","logoid":"consolidated-firstfund-capital"}
 {"symbol":"JPWR.H","exchange":"TSXV","status":"ok","logoid":"jade-power-trust"}
+{"symbol":"GOST.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"SEGN","exchange":"TSXV","status":"ok","logoid":"seegnal"}
+{"symbol":"WWA.P","exchange":"TSXV","status":"ok","logoid":"whitewater-acquisition"}

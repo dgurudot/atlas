@@ -4010,3 +4010,9 @@
 {"symbol":"GBEU","exchange":"EPA","status":"ok","logoid":"wisdomtree"}
 {"symbol":"MLBON","exchange":"EPA","status":"ok","logoid":"bonyf"}
 {"symbol":"PANDA","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"GSSBD","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"TCQU-ETFP","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"VUYA-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"VUYD-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"TCQW-ETFP","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"SSPY-ETFP","exchange":"EPA","status":"ok","logoid":"leverage-shares"}

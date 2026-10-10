@@ -2581,3 +2581,6 @@
 {"symbol":"GPAR3","exchange":"BMFBOVESPA","status":"ok","logoid":"celgpar-on"}
 {"symbol":"SNSY3","exchange":"BMFBOVESPA","status":"ok","logoid":"sansuy-on"}
 {"symbol":"S1AK34","exchange":"BMFBOVESPA","status":"ok","logoid":"shake-shack"}
+{"symbol":"VTOT11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"C1NP34","exchange":"BMFBOVESPA","status":"ok","logoid":"centerpoint-energy"}
+{"symbol":"SEED11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}

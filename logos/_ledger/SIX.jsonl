@@ -3005,3 +3005,7 @@
 {"symbol":"MCD","exchange":"SIX","status":"ok","logoid":"mcdonalds"}
 {"symbol":"XB29","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"400X.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"STEN.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"CRCL","exchange":"SIX","status":"ok","logoid":"circle-internet-group-inc"}
+{"symbol":"LUNA","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"CASL.EUR","exchange":"SIX","status":"ok","logoid":"cardano-ada-staking-by-liqwid"}

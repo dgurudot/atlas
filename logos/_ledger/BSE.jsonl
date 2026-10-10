@@ -5318,3 +5318,5 @@
 {"symbol":"PARASYNTEX","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"TNA","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"ACMERAIL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"SHIVAUM","exchange":"BSE","status":"ok","logoid":"shiv-aum-steels-ltd"}
+{"symbol":"GLAAMUP","exchange":"BSE","status":"ok","logoid":"gleam-fabmat-limited"}

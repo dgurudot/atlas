@@ -22399,3 +22399,17 @@
 {"symbol":"QINU","exchange":"crypto","status":"nologo","logoid":null}
 {"symbol":"BLIPAY07","exchange":"crypto","status":"nologo","logoid":null}
 {"symbol":"REZULTZ03","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"CLAUDIA","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"YVE","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"REROC","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"RHONA","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"RKSPI","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"JEANPHIL","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"HIGGS","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"ZAMIC","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"RERIC","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"CRWDB","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"MRNAB","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"SDEV","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"IBVM","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"MSP","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}

@@ -2864,3 +2864,5 @@
 {"symbol":"DX/PD","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"JACS.U","exchange":"NYSE","status":"ok","logoid":"jackson-acquisition-company-ii"}
 {"symbol":"SKYD","exchange":"NYSE","status":"ok","logoid":"viacomcbs"}
+{"symbol":"SAGU.U","exchange":"NYSE","status":"ok","logoid":"shreya-acquisition"}
+{"symbol":"RAC.U","exchange":"NYSE","status":"ok","logoid":"rithm-acquisition"}

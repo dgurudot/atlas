@@ -2335,3 +2335,5 @@
 {"symbol":"GST","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"TIPAK","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"TIPAK.R","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"AKS","exchange":"SET","status":"ok","logoid":"aks-pcl-non-voting"}
+{"symbol":"AKS.R","exchange":"SET","status":"ok","logoid":"aks-pcl-non-voting"}

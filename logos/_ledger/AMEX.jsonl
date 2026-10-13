@@ -3267,3 +3267,4 @@
 {"symbol":"WTAL","exchange":"AMEX","status":"ok","logoid":"wisdomtree"}
 {"symbol":"WSLS","exchange":"AMEX","status":"ok","logoid":"wisdomtree"}
 {"symbol":"VGTX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"OBK","exchange":"AMEX","status":"ok","logoid":"origin-bancorp"}

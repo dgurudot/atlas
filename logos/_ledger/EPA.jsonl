@@ -4016,3 +4016,7 @@
 {"symbol":"VUYD-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
 {"symbol":"TCQW-ETFP","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"SSPY-ETFP","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"FAMMAJ","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"FAMTEJ","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"FAMMWJ","exchange":"EPA","status":"ok","logoid":"finecobank"}
+{"symbol":"MLORQ","exchange":"EPA","status":"ok","logoid":"orinoquia-real-estate-socimi-sa"}

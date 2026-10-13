@@ -4381,3 +4381,7 @@
 {"symbol":"0200G0","exchange":"KRX","status":"ok","logoid":"korea-no17-special-purpose-acquisition-co-ltd"}
 {"symbol":"0246X0","exchange":"KRX","status":"nologo","logoid":null}
 {"symbol":"71900001","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"0243M0","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"0254W0","exchange":"KRX","status":"ok","logoid":"kim"}
+{"symbol":"0247S0","exchange":"KRX","status":"ok","logoid":"kiwoom"}
+{"symbol":"0241D0","exchange":"KRX","status":"ok","logoid":"kodex"}

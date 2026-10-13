@@ -2640,3 +2640,10 @@
 {"symbol":"RTO/N","exchange":"BMV","status":"ok","logoid":"rentokil-initial"}
 {"symbol":"CR","exchange":"BMV","status":"ok","logoid":"crane"}
 {"symbol":"XSPU1/N","exchange":"BMV","status":"ok","logoid":"dws"}
+{"symbol":"IU29/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"BP1/N","exchange":"BMV","status":"ok","logoid":"bp"}
+{"symbol":"FBTU/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"HSPA/N","exchange":"BMV","status":"ok","logoid":"hsbc"}
+{"symbol":"HRMY","exchange":"BMV","status":"ok","logoid":"harmony-biosciences"}
+{"symbol":"POST","exchange":"BMV","status":"ok","logoid":"post-holdings"}
+{"symbol":"SLX","exchange":"BMV","status":"ok","logoid":"vaneck"}

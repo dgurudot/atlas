@@ -291,3 +291,6 @@
 {"symbol":"GALF","exchange":"BVB","status":"ok","logoid":"galfinband-sa"}
 {"symbol":"MALI","exchange":"BVB","status":"ok","logoid":"comalim-arad"}
 {"symbol":"EMTL","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"ICWIGETF","exchange":"BVB","status":"nologo","logoid":null}
+{"symbol":"ANTA","exchange":"BVB","status":"ok","logoid":"romanta-estival-2002-sa"}
+{"symbol":"RANT","exchange":"BVB","status":"ok","logoid":"granitul-bucuresti"}

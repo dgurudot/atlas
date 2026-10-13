@@ -479,3 +479,5 @@
 {"symbol":"FORUS0","exchange":"BCS","status":"ok","logoid":"forus-sa"}
 {"symbol":"CFIACP4R_E","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"MSFT0","exchange":"BCS","status":"ok","logoid":"microsoft"}
+{"symbol":"CFMCCMPLZB0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFMBCICPAP0","exchange":"BCS","status":"ok","logoid":"fondo-mutuo-bci-competitivo-series-ap"}

@@ -3009,3 +3009,9 @@
 {"symbol":"CRCL","exchange":"SIX","status":"ok","logoid":"circle-internet-group-inc"}
 {"symbol":"LUNA","exchange":"SIX","status":"ok","logoid":"global-x"}
 {"symbol":"CASL.EUR","exchange":"SIX","status":"ok","logoid":"cardano-ada-staking-by-liqwid"}
+{"symbol":"EUTA","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"VALL","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"VUYA.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"EYLA.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"JAEE.USD","exchange":"SIX","status":"ok","logoid":"blackrock"}
+{"symbol":"YUM","exchange":"SIX","status":"ok","logoid":"yum-brands"}

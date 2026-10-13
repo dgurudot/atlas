@@ -5611,3 +5611,5 @@
 {"symbol":"TRXB","exchange":"NASDAQ","status":"ok","logoid":"trex-bio"}
 {"symbol":"IRLA","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"IRLA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AXNX","exchange":"NASDAQ","status":"ok","logoid":"mint-incorporation-limited-class-a"}
+{"symbol":"RNTZ","exchange":"NASDAQ","status":"ok","logoid":"skk-limited-class-a"}

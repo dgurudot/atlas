@@ -1455,3 +1455,6 @@
 {"symbol":"GOST.P","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"SEGN","exchange":"TSXV","status":"ok","logoid":"seegnal"}
 {"symbol":"WWA.P","exchange":"TSXV","status":"ok","logoid":"whitewater-acquisition"}
+{"symbol":"COMP","exchange":"TSXV","status":"ok","logoid":"uniserve-communications"}
+{"symbol":"RSC.P","exchange":"TSXV","status":"ok","logoid":"rockmount-capital"}
+{"symbol":"DAT.H","exchange":"TSXV","status":"ok","logoid":"datum-ventures"}

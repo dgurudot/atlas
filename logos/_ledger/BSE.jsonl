@@ -5323,3 +5323,7 @@
 {"symbol":"DHARTI","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"TRIVENIPT","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"SILVERAXIS","exchange":"BSE","status":"ok","logoid":"axis-bank"}
+{"symbol":"BIRLACOT","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"NXT100CASE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"BNKETFAXIS","exchange":"BSE","status":"ok","logoid":"axis-bank"}
+{"symbol":"MUZALI","exchange":"BSE","status":"ok","logoid":"muzali-arts-limited"}

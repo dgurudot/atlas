@@ -15947,3 +15947,9 @@
 {"symbol":"J501","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"TCQW","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"TCW","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"MTR","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"TCQU","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"TCU","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0JPI","exchange":"LSE","status":"ok","logoid":"panostaja-oyj"}
+{"symbol":"OKP","exchange":"LSE","status":"ok","logoid":"keras-resources-plc-ord-gbp001"}
+{"symbol":"RHAI","exchange":"LSE","status":"ok","logoid":"roundhouse-digital-ltd"}

@@ -5186,3 +5186,4 @@
 {"symbol":"SAMD","exchange":"XETR","status":"ok","logoid":"leverage-shares"}
 {"symbol":"HNSC","exchange":"XETR","status":"ok","logoid":"hsbc"}
 {"symbol":"FSYBK","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"ANSQ","exchange":"XETR","status":"ok","logoid":"amundi"}

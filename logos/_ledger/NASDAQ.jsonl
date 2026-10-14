@@ -5613,3 +5613,10 @@
 {"symbol":"IRLA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"AXNX","exchange":"NASDAQ","status":"ok","logoid":"mint-incorporation-limited-class-a"}
 {"symbol":"RNTZ","exchange":"NASDAQ","status":"ok","logoid":"skk-limited-class-a"}
+{"symbol":"FLSC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PEPT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NXDR","exchange":"NASDAQ","status":"ok","logoid":"nextdoor-holdings"}
+{"symbol":"MGOL","exchange":"NASDAQ","status":"ok","logoid":"leverage-shares"}
+{"symbol":"RTHY","exchange":"NASDAQ","status":"ok","logoid":"fm"}
+{"symbol":"FLSC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PEPT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

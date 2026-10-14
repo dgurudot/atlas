@@ -3015,3 +3015,12 @@
 {"symbol":"EYLA.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
 {"symbol":"JAEE.USD","exchange":"SIX","status":"ok","logoid":"blackrock"}
 {"symbol":"YUM","exchange":"SIX","status":"ok","logoid":"yum-brands"}
+{"symbol":"VALLD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"VUYA","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"ABBV","exchange":"SIX","status":"ok","logoid":"abbvie"}
+{"symbol":"FVEM.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"VUYD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"VSMLD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"BOSS","exchange":"SIX","status":"ok","logoid":"hugo-boss"}
+{"symbol":"VXUD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"VUYD.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}

@@ -2584,3 +2584,8 @@
 {"symbol":"VTOT11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"C1NP34","exchange":"BMFBOVESPA","status":"ok","logoid":"centerpoint-energy"}
 {"symbol":"SEED11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"ICDI11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"R1EL34","exchange":"BMFBOVESPA","status":"ok","logoid":"relx"}
+{"symbol":"HUSC11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"R1MD34","exchange":"BMFBOVESPA","status":"ok","logoid":"resmed"}
+{"symbol":"F1BH34","exchange":"BMFBOVESPA","status":"ok","logoid":"fortune-brands-home-and-security"}

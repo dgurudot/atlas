@@ -2663,3 +2663,8 @@
 {"symbol":"SKHY/N","exchange":"BMV","status":"ok","logoid":"sk-telecom"}
 {"symbol":"PNR/N","exchange":"BMV","status":"ok","logoid":"pentair"}
 {"symbol":"BBIO","exchange":"BMV","status":"ok","logoid":"bridgebio-pharma"}
+{"symbol":"ONDS","exchange":"BMV","status":"ok","logoid":"ondas"}
+{"symbol":"TAK/N","exchange":"BMV","status":"ok","logoid":"takeda"}
+{"symbol":"DSY/N","exchange":"BMV","status":"ok","logoid":"dassault-systemes"}
+{"symbol":"WRDUSW/N","exchange":"BMV","status":"ok","logoid":"ubs-group"}
+{"symbol":"FGQI/N","exchange":"BMV","status":"ok","logoid":"fidelity-advantage"}

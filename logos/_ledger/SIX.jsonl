@@ -3024,3 +3024,8 @@
 {"symbol":"BOSS","exchange":"SIX","status":"ok","logoid":"hugo-boss"}
 {"symbol":"VXUD","exchange":"SIX","status":"ok","logoid":"vanguard"}
 {"symbol":"VUYD.USD","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"JIGG.USD","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"RMS","exchange":"SIX","status":"ok","logoid":"hermes"}
+{"symbol":"VSML","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"EIB5.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"SEUC","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}

@@ -4295,3 +4295,6 @@
 {"symbol":"638A","exchange":"TSE","status":"nologo","logoid":null}
 {"symbol":"645A","exchange":"TSE","status":"ok","logoid":"digitalberry-coltd"}
 {"symbol":"647A","exchange":"TSE","status":"ok","logoid":"tokyo-mirai-real-estate-coltd"}
+{"symbol":"650A","exchange":"TSE","status":"nologo","logoid":null}
+{"symbol":"651A","exchange":"TSE","status":"ok","logoid":"global-x"}
+{"symbol":"648A","exchange":"TSE","status":"ok","logoid":"lecre"}

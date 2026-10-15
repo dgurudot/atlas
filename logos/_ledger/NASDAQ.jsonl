@@ -5620,3 +5620,9 @@
 {"symbol":"RTHY","exchange":"NASDAQ","status":"ok","logoid":"fm"}
 {"symbol":"FLSC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PEPT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACHP","exchange":"NASDAQ","status":"ok","logoid":"global-x"}
+{"symbol":"FBYDP","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"DFGV","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"BMMX","exchange":"NASDAQ","status":"ok","logoid":"black-mammoth-metals"}
+{"symbol":"FBYDP","exchange":"NASDAQ","status":"ok","logoid":null,"source":"polygon"}
+{"symbol":"DFGV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

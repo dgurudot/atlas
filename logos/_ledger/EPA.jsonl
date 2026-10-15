@@ -4021,3 +4021,6 @@
 {"symbol":"FAMMWJ","exchange":"EPA","status":"ok","logoid":"finecobank"}
 {"symbol":"MLORQ","exchange":"EPA","status":"ok","logoid":"orinoquia-real-estate-socimi-sa"}
 {"symbol":"CMEM","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"PQEM","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"VRME","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"GQWX","exchange":"EPA","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}

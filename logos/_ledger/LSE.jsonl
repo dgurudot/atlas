@@ -15953,3 +15953,6 @@
 {"symbol":"0JPI","exchange":"LSE","status":"ok","logoid":"panostaja-oyj"}
 {"symbol":"OKP","exchange":"LSE","status":"ok","logoid":"keras-resources-plc-ord-gbp001"}
 {"symbol":"RHAI","exchange":"LSE","status":"ok","logoid":"roundhouse-digital-ltd"}
+{"symbol":"MORE","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0Q6H","exchange":"LSE","status":"ok","logoid":"hofseth-biocare-asa"}
+{"symbol":"0EEA","exchange":"LSE","status":"ok","logoid":"euwax-ag"}

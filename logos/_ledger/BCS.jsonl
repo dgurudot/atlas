@@ -482,3 +482,5 @@
 {"symbol":"CFMCCMPLZB0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"CFMBCICPAP0","exchange":"BCS","status":"ok","logoid":"fondo-mutuo-bci-competitivo-series-ap"}
 {"symbol":"WMT1","exchange":"BCS","status":"ok","logoid":"walmart"}
+{"symbol":"SOPROCAL","exchange":"BCS","status":"ok","logoid":"soprocal-calerias"}
+{"symbol":"ESPANOLA","exchange":"BCS","status":"ok","logoid":"compania-de-inversiones-la-espanola-sa"}

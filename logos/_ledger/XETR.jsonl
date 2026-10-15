@@ -5187,3 +5187,8 @@
 {"symbol":"HNSC","exchange":"XETR","status":"ok","logoid":"hsbc"}
 {"symbol":"FSYBK","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"ANSQ","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"PFUS","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"PQEM","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"AWOR","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"TSH0","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"CSPS","exchange":"XETR","status":"ok","logoid":"amundi"}

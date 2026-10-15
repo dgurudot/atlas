@@ -2999,3 +2999,12 @@
 {"symbol":"ZLAT","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"CORS","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"XBAI","exchange":"TSX","status":"ok","logoid":"ishares"}
+{"symbol":"GOOP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"AMZP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"NVDP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"AAPP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"TSLP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"SPCP","exchange":"TSX","status":"ok","logoid":"global-x"}
+{"symbol":"PCD.UN","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"BSRT.UN","exchange":"TSX","status":"ok","logoid":"bsr-real-estate-invt-tr"}
+{"symbol":"NAGF","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}

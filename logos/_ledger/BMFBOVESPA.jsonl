@@ -2589,3 +2589,6 @@
 {"symbol":"HUSC11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
 {"symbol":"R1MD34","exchange":"BMFBOVESPA","status":"ok","logoid":"resmed"}
 {"symbol":"F1BH34","exchange":"BMFBOVESPA","status":"ok","logoid":"fortune-brands-home-and-security"}
+{"symbol":"S1BK11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FLEM11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FIGE3","exchange":"BMFBOVESPA","status":"ok","logoid":"invest-bemgeon"}

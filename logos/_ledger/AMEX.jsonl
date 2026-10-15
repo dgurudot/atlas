@@ -3268,3 +3268,10 @@
 {"symbol":"WSLS","exchange":"AMEX","status":"ok","logoid":"wisdomtree"}
 {"symbol":"VGTX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OBK","exchange":"AMEX","status":"ok","logoid":"origin-bancorp"}
+{"symbol":"SMRZ","exchange":"AMEX","status":"ok","logoid":"global-x"}
+{"symbol":"XLEM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"XLPM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"GANZ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"XLKM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"XLYM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"GANZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

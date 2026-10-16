@@ -5626,3 +5626,6 @@
 {"symbol":"BMMX","exchange":"NASDAQ","status":"ok","logoid":"black-mammoth-metals"}
 {"symbol":"FBYDP","exchange":"NASDAQ","status":"ok","logoid":null,"source":"polygon"}
 {"symbol":"DFGV","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AMRO","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"IAM","exchange":"NASDAQ","status":"ok","logoid":"iambic-therapeutics"}
+{"symbol":"AMRO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

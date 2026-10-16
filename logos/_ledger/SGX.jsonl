@@ -700,3 +700,9 @@
 {"symbol":"XWR","exchange":"SGX","status":"ok","logoid":"dws"}
 {"symbol":"EUS","exchange":"SGX","status":"ok","logoid":"dws"}
 {"symbol":"XND","exchange":"SGX","status":"ok","logoid":"dws"}
+{"symbol":"HMED","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"UNXD","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"OBR","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"UTSD","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"HZJD","exchange":"SGX","status":"nologo","logoid":null}
+{"symbol":"HZAD","exchange":"SGX","status":"nologo","logoid":null}

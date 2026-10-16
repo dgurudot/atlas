@@ -2365,3 +2365,5 @@
 {"symbol":"ZS03","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"VRT03","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"TXN03","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"IBM03","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"KLAC03","exchange":"SET","status":"nologo","logoid":null}

@@ -488,3 +488,4 @@
 {"symbol":"INPP","exchange":"JSE","status":"ok","logoid":"investec-plc-ord-gbp0-0002"}
 {"symbol":"DSBP","exchange":"JSE","status":"ok","logoid":"discovery-ltd"}
 {"symbol":"CPIP","exchange":"JSE","status":"ok","logoid":"capitec-bank-hldgs-ltd"}
+{"symbol":"SDM001","exchange":"JSE","status":"nologo","logoid":null}

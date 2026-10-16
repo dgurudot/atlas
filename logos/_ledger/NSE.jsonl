@@ -3589,3 +3589,6 @@
 {"symbol":"BELDING","exchange":"NSE","status":"ok","logoid":"synthiko-foils-limited"}
 {"symbol":"NXT100CASE","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"PATTECH","exchange":"NSE","status":"ok","logoid":"pattech-fitwell-tu"}
+{"symbol":"FARBEES","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"HFTSEINDIA","exchange":"NSE","status":"ok","logoid":"hdfc-bank"}
+{"symbol":"TIKONA","exchange":"NSE","status":"ok","logoid":"grand-foundry-ltd"}

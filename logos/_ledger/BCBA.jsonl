@@ -1600,3 +1600,4 @@
 {"symbol":"RICHD","exchange":"BCBA","status":"ok","logoid":"lab-richmond"}
 {"symbol":"MOLID","exchange":"BCBA","status":"ok","logoid":"molinos-rio-plata"}
 {"symbol":"PSXC","exchange":"BCBA","status":"ok","logoid":"phillips-66"}
+{"symbol":"SPCXC","exchange":"BCBA","status":"ok","logoid":"spacex"}

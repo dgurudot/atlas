@@ -5329,3 +5329,6 @@
 {"symbol":"MUZALI","exchange":"BSE","status":"ok","logoid":"muzali-arts-limited"}
 {"symbol":"TEMBO","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"DATAKOSA","exchange":"BSE","status":"ok","logoid":"bodhtree-consulting-limited"}
+{"symbol":"VELOX","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"HFTSEINDIA","exchange":"BSE","status":"ok","logoid":"hdfc-bank"}
+{"symbol":"TIKONA","exchange":"BSE","status":"ok","logoid":"grand-foundry-ltd"}

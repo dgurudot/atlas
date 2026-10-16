@@ -2668,3 +2668,6 @@
 {"symbol":"DSY/N","exchange":"BMV","status":"ok","logoid":"dassault-systemes"}
 {"symbol":"WRDUSW/N","exchange":"BMV","status":"ok","logoid":"ubs-group"}
 {"symbol":"FGQI/N","exchange":"BMV","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"IJK","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"IJJ","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"MDLN","exchange":"BMV","status":"ok","logoid":"medline"}

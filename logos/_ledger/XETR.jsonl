@@ -5192,3 +5192,7 @@
 {"symbol":"AWOR","exchange":"XETR","status":"ok","logoid":"amundi"}
 {"symbol":"TSH0","exchange":"XETR","status":"ok","logoid":"amundi"}
 {"symbol":"CSPS","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"2TCB","exchange":"XETR","status":"ok","logoid":"vaneck"}
+{"symbol":"2TCC","exchange":"XETR","status":"ok","logoid":"vaneck"}
+{"symbol":"2TCD","exchange":"XETR","status":"ok","logoid":"vaneck"}
+{"symbol":"GXLD","exchange":"XETR","status":"nologo","logoid":null}

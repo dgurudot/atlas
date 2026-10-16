@@ -4024,3 +4024,6 @@
 {"symbol":"PQEM","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"VRME","exchange":"EPA","status":"ok","logoid":"vanguard"}
 {"symbol":"GQWX","exchange":"EPA","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"DFEU-XPAR","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"STOR-EUR","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"HEAL-XPAR","exchange":"EPA","status":"ok","logoid":"ishares"}

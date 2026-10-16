@@ -3275,3 +3275,10 @@
 {"symbol":"XLKM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"XLYM","exchange":"AMEX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"GANZ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WBEM","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HOID","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"WBIE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"AVUC","exchange":"AMEX","status":"ok","logoid":"avantis-core-fixed-income"}
+{"symbol":"WBEM","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WBIE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HOID","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

@@ -3029,3 +3029,14 @@
 {"symbol":"VSML","exchange":"SIX","status":"ok","logoid":"vanguard"}
 {"symbol":"EIB5.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
 {"symbol":"SEUC","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"OBUS","exchange":"SIX","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"AGYU.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"VPOL","exchange":"SIX","status":"ok","logoid":"vaneck"}
+{"symbol":"BKR.USD","exchange":"SIX","status":"ok","logoid":"baker-hughes"}
+{"symbol":"ABBV.USD","exchange":"SIX","status":"ok","logoid":"abbvie"}
+{"symbol":"NOEJ","exchange":"SIX","status":"ok","logoid":"norma-se"}
+{"symbol":"PRFC","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"SPAH","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"WM.USD","exchange":"SIX","status":"ok","logoid":"waste-management"}
+{"symbol":"WPM","exchange":"SIX","status":"ok","logoid":"wheaton-precious-metals"}
+{"symbol":"TXN.USD","exchange":"SIX","status":"ok","logoid":"texas-instruments"}

@@ -3008,3 +3008,9 @@
 {"symbol":"PCD.UN","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"BSRT.UN","exchange":"TSX","status":"ok","logoid":"bsr-real-estate-invt-tr"}
 {"symbol":"NAGF","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
+{"symbol":"CCAF","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"CCAF.U","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"BRC","exchange":"TSX","status":"ok","logoid":"blackrock-silver"}
+{"symbol":"CLSF","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"PVS.PR.N","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"CLSF.U","exchange":"TSX","status":"ok","logoid":"ci-global"}

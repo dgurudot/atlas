@@ -1998,3 +1998,6 @@
 {"symbol":"XXSP","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"OPTO","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ACMG","exchange":"CBOE","status":"ok","logoid":"american-century-diversified"}
+{"symbol":"GANZ","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"SMRZ","exchange":"CBOE","status":"ok","logoid":"global-x"}
+{"symbol":"GANZ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

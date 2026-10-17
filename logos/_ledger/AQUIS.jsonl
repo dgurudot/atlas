@@ -422,3 +422,4 @@
 {"symbol":"CRBU.GB","exchange":"AQUIS","status":"ok","logoid":"amundi"}
 {"symbol":"CSUS.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"SVN","exchange":"AQUIS","status":"ok","logoid":"vault-cs-put-str-n21-26-76"}
+{"symbol":"MCJ","exchange":"AQUIS","status":"ok","logoid":"majestic-plc"}

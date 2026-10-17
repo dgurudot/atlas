@@ -2671,3 +2671,9 @@
 {"symbol":"IJK","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"IJJ","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"MDLN","exchange":"BMV","status":"ok","logoid":"medline"}
+{"symbol":"ESWP/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"8802/N","exchange":"BMV","status":"ok","logoid":"mitsubishi"}
+{"symbol":"SCHG","exchange":"BMV","status":"ok","logoid":"schwab"}
+{"symbol":"RDVYU/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"GALD/N","exchange":"BMV","status":"ok","logoid":"galderma-ag"}
+{"symbol":"XIU","exchange":"BMV","status":"ok","logoid":"ishares"}

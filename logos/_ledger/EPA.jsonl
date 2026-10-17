@@ -4027,3 +4027,5 @@
 {"symbol":"DFEU-XPAR","exchange":"EPA","status":"ok","logoid":"ishares"}
 {"symbol":"STOR-EUR","exchange":"EPA","status":"ok","logoid":"ishares"}
 {"symbol":"HEAL-XPAR","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"ICOM","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"LGGM","exchange":"EPA","status":"ok","logoid":"legal-and-general"}

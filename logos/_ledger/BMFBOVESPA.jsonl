@@ -2593,3 +2593,7 @@
 {"symbol":"FLEM11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"FIGE3","exchange":"BMFBOVESPA","status":"ok","logoid":"invest-bemgeon"}
 {"symbol":"CTBA11BL","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"SK1D34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BRKM5L","exchange":"BMFBOVESPA","status":"ok","logoid":"braskem"}
+{"symbol":"BRKM3L","exchange":"BMFBOVESPA","status":"ok","logoid":"braskem"}
+{"symbol":"K1EY34","exchange":"BMFBOVESPA","status":"ok","logoid":"keycorp"}

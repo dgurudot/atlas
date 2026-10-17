@@ -3040,3 +3040,6 @@
 {"symbol":"WM.USD","exchange":"SIX","status":"ok","logoid":"waste-management"}
 {"symbol":"WPM","exchange":"SIX","status":"ok","logoid":"wheaton-precious-metals"}
 {"symbol":"TXN.USD","exchange":"SIX","status":"ok","logoid":"texas-instruments"}
+{"symbol":"VXUS","exchange":"SIX","status":"ok","logoid":"vanguard"}
+{"symbol":"TSLY.USD","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"UONS.USD","exchange":"SIX","status":"ok","logoid":"invesco"}

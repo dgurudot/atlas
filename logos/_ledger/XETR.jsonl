@@ -5196,3 +5196,8 @@
 {"symbol":"2TCC","exchange":"XETR","status":"ok","logoid":"vaneck"}
 {"symbol":"2TCD","exchange":"XETR","status":"ok","logoid":"vaneck"}
 {"symbol":"GXLD","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"EDMC","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"T05B","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"UQV1","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"UQV2","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"LMGE","exchange":"XETR","status":"ok","logoid":"legal-and-general"}

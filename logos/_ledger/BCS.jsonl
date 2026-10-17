@@ -485,3 +485,6 @@
 {"symbol":"SOPROCAL","exchange":"BCS","status":"ok","logoid":"soprocal-calerias"}
 {"symbol":"ESPANOLA","exchange":"BCS","status":"ok","logoid":"compania-de-inversiones-la-espanola-sa"}
 {"symbol":"NKE","exchange":"BCS","status":"ok","logoid":"nike"}
+{"symbol":"ACN","exchange":"BCS","status":"ok","logoid":"accenture"}
+{"symbol":"CFISANRR_A","exchange":"BCS","status":"ok","logoid":"santander"}
+{"symbol":"SALFACORP0","exchange":"BCS","status":"ok","logoid":"salfacorp-sa"}

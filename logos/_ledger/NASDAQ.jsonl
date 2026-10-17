@@ -5629,3 +5629,7 @@
 {"symbol":"AMRO","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"IAM","exchange":"NASDAQ","status":"ok","logoid":"iambic-therapeutics"}
 {"symbol":"AMRO","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CTY","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TCXB","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CTY","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"TCXB","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

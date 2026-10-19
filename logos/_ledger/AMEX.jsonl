@@ -3325,3 +3325,11 @@
 {"symbol":"LTB","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"LIGB","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SVTN","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CECO","exchange":"AMEX","status":"ok","logoid":"ceco-environmental"}
+{"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"IBOC","exchange":"AMEX","status":"ok","logoid":"international-bancshares-corp"}
+{"symbol":"AIED","exchange":"AMEX","status":"ok","logoid":"qraft-ai-enhanced-us-high-dividend"}
+{"symbol":"DCM","exchange":"AMEX","status":"ok","logoid":"universal-security-instruments"}
+{"symbol":"WINC","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"WINC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

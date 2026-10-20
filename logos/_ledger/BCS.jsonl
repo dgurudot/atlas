@@ -488,3 +488,4 @@
 {"symbol":"ACN","exchange":"BCS","status":"ok","logoid":"accenture"}
 {"symbol":"CFISANRR_A","exchange":"BCS","status":"ok","logoid":"santander"}
 {"symbol":"SALFACORP0","exchange":"BCS","status":"ok","logoid":"salfacorp-sa"}
+{"symbol":"BESALCO1","exchange":"BCS","status":"ok","logoid":"besalco-sa"}

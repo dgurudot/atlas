@@ -2597,3 +2597,6 @@
 {"symbol":"BRKM5L","exchange":"BMFBOVESPA","status":"ok","logoid":"braskem"}
 {"symbol":"BRKM3L","exchange":"BMFBOVESPA","status":"ok","logoid":"braskem"}
 {"symbol":"K1EY34","exchange":"BMFBOVESPA","status":"ok","logoid":"keycorp"}
+{"symbol":"REAL11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"INBR34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"J1EG34","exchange":"BMFBOVESPA","status":"ok","logoid":"jacobs-engineering"}

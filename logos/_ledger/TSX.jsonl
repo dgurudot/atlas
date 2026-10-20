@@ -3014,3 +3014,6 @@
 {"symbol":"CLSF","exchange":"TSX","status":"ok","logoid":"ci-global"}
 {"symbol":"PVS.PR.N","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"CLSF.U","exchange":"TSX","status":"ok","logoid":"ci-global"}
+{"symbol":"SNDY","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"PAYB","exchange":"TSX","status":"ok","logoid":"blue-ribbon-income-fund"}
+{"symbol":"PAYT","exchange":"TSX","status":"ok","logoid":"blue-ribbon-income-fund"}

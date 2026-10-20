@@ -1604,3 +1604,4 @@
 {"symbol":"CRWVC","exchange":"BCBA","status":"ok","logoid":"coreweave"}
 {"symbol":"CVSC","exchange":"BCBA","status":"ok","logoid":"cvs-health"}
 {"symbol":"VRTXC","exchange":"BCBA","status":"ok","logoid":"vertex-pharmaceutical"}
+{"symbol":"ALAAC","exchange":"BCBA","status":"nologo","logoid":null}

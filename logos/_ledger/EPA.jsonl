@@ -4029,3 +4029,5 @@
 {"symbol":"HEAL-XPAR","exchange":"EPA","status":"ok","logoid":"ishares"}
 {"symbol":"ICOM","exchange":"EPA","status":"ok","logoid":"ishares"}
 {"symbol":"LGGM","exchange":"EPA","status":"ok","logoid":"legal-and-general"}
+{"symbol":"IFRA","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"MLAGI","exchange":"EPA","status":"ok","logoid":"ag3i"}

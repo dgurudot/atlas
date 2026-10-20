@@ -1458,3 +1458,8 @@
 {"symbol":"COMP","exchange":"TSXV","status":"ok","logoid":"uniserve-communications"}
 {"symbol":"RSC.P","exchange":"TSXV","status":"ok","logoid":"rockmount-capital"}
 {"symbol":"DAT.H","exchange":"TSXV","status":"ok","logoid":"datum-ventures"}
+{"symbol":"COLT","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"FRLX","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"RII.H","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"DRAX.P","exchange":"TSXV","status":"ok","logoid":"draxos-capital"}
+{"symbol":"RAC.P","exchange":"TSXV","status":"ok","logoid":"riverwalk-acquisition"}

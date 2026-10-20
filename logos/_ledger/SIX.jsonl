@@ -3043,3 +3043,9 @@
 {"symbol":"VXUS","exchange":"SIX","status":"ok","logoid":"vanguard"}
 {"symbol":"TSLY.USD","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
 {"symbol":"UONS.USD","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"SMIEW","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"3DCG.USD","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"USTCH.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"FGHU.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"JSHY.USD","exchange":"SIX","status":"ok","logoid":"henderson-diversified-income"}
+{"symbol":"VTRS","exchange":"SIX","status":"ok","logoid":"viatris"}

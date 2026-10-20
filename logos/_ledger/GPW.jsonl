@@ -855,3 +855,5 @@
 {"symbol":"F51","exchange":"GPW","status":"ok","logoid":"the-farm-51"}
 {"symbol":"ETNHAN2SBT","exchange":"GPW","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"ETNHAN2LBT","exchange":"GPW","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"LGL","exchange":"GPW","status":"ok","logoid":"less"}
+{"symbol":"EGO","exchange":"GPW","status":"ok","logoid":"pgfgroup"}

@@ -423,3 +423,5 @@
 {"symbol":"CSUS.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
 {"symbol":"SVN","exchange":"AQUIS","status":"ok","logoid":"vault-cs-put-str-n21-26-76"}
 {"symbol":"MCJ","exchange":"AQUIS","status":"ok","logoid":"majestic-plc"}
+{"symbol":"CASC","exchange":"AQUIS","status":"nologo","logoid":null}
+{"symbol":"IUSZ.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}

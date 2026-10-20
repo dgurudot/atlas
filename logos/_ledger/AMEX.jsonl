@@ -3333,3 +3333,5 @@
 {"symbol":"WINC","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"WINC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

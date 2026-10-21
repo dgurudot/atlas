@@ -2708,3 +2708,7 @@
 {"symbol":"XJSE/N","exchange":"BMV","status":"ok","logoid":"dws"}
 {"symbol":"XFNT/N","exchange":"BMV","status":"ok","logoid":"dws"}
 {"symbol":"XUHAX/N","exchange":"BMV","status":"ok","logoid":"dws"}
+{"symbol":"AT1/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"1913/N","exchange":"BMV","status":"ok","logoid":"prada-group"}
+{"symbol":"SNI/N","exchange":"BMV","status":"ok","logoid":"sharkninja"}
+{"symbol":"EXPN/N","exchange":"BMV","status":"ok","logoid":"experian"}

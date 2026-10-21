@@ -489,3 +489,9 @@
 {"symbol":"CFISANRR_A","exchange":"BCS","status":"ok","logoid":"santander"}
 {"symbol":"SALFACORP0","exchange":"BCS","status":"ok","logoid":"salfacorp-sa"}
 {"symbol":"BESALCO1","exchange":"BCS","status":"ok","logoid":"besalco-sa"}
+{"symbol":"CFIAD3A_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"VZCL1","exchange":"BCS","status":"ok","logoid":"verizon"}
+{"symbol":"RTXCL1","exchange":"BCS","status":"ok","logoid":"raytheon"}
+{"symbol":"AAISA0","exchange":"BCS","status":"ok","logoid":"adm-americana-de-i"}
+{"symbol":"ENELCHILE1","exchange":"BCS","status":"ok","logoid":"enel"}
+{"symbol":"CFIMRVCHA","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}

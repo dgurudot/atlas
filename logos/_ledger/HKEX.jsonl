@@ -5719,3 +5719,6 @@
 {"symbol":"2947","exchange":"HKEX","status":"nologo","logoid":null}
 {"symbol":"41510","exchange":"HKEX","status":"ok","logoid":"ping-an"}
 {"symbol":"277","exchange":"HKEX","status":"ok","logoid":"tern-properties-co-ltd"}
+{"symbol":"8552","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"9156","exchange":"HKEX","status":"ok","logoid":"bosera-asset-mgt-intl-co-ltd-bosera-star-50-index-etf-cny"}
+{"symbol":"247","exchange":"HKEX","status":"ok","logoid":"tsim-sha-tsui-properties"}

@@ -145,3 +145,4 @@
 {"symbol":"OPTRON","exchange":"ATHEX","status":"ok","logoid":"optronics-technologies-sa"}
 {"symbol":"SBLK","exchange":"ATHEX","status":"ok","logoid":"star-bulk-carriers"}
 {"symbol":"VRLS","exchange":"ATHEX","status":"nologo","logoid":null}
+{"symbol":"CMFC","exchange":"ATHEX","status":"nologo","logoid":null}

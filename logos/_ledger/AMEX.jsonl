@@ -3335,3 +3335,12 @@
 {"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"POMG","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"AIBN","exchange":"AMEX","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"RBTX","exchange":"AMEX","status":"ok","logoid":"ishares"}
+{"symbol":"SCIN","exchange":"AMEX","status":"ok","logoid":"schwab"}
+{"symbol":"GMIE","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"POMG","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

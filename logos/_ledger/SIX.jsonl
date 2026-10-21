@@ -3049,3 +3049,5 @@
 {"symbol":"FGHU.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
 {"symbol":"JSHY.USD","exchange":"SIX","status":"ok","logoid":"henderson-diversified-income"}
 {"symbol":"VTRS","exchange":"SIX","status":"ok","logoid":"viatris"}
+{"symbol":"TTWO","exchange":"SIX","status":"ok","logoid":"take-two-interactive-software"}
+{"symbol":"VENC.USD","exchange":"SIX","status":"nologo","logoid":null}

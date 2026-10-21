@@ -2367,3 +2367,5 @@
 {"symbol":"TXN03","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"IBM03","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"KLAC03","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"QUICK","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"QUICK.R","exchange":"SET","status":"nologo","logoid":null}

@@ -5652,3 +5652,9 @@
 {"symbol":"SATS","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SRTM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"TCXB","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SATS","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"TCXB","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SATS","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"TCXB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

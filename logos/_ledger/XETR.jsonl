@@ -5532,3 +5532,16 @@
 {"symbol":"W3U","exchange":"XETR","status":"ok","logoid":"western-union-company"}
 {"symbol":"ZV5","exchange":"XETR","status":"ok","logoid":"lithium-americas"}
 {"symbol":"YO9","exchange":"XETR","status":"ok","logoid":"rumble"}
+{"symbol":"0USU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"EQAE","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"EQAZ","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"EQAW","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"0IK","exchange":"XETR","status":"ok","logoid":"raspberry-pi-plc"}
+{"symbol":"FUSB","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"64K","exchange":"XETR","status":"ok","logoid":"volex-plc"}
+{"symbol":"7MP","exchange":"XETR","status":"ok","logoid":"m-and-g-plc-ord-5"}
+{"symbol":"FJC11","exchange":"XETR","status":"ok","logoid":"ubs-group"}
+{"symbol":"FGLB","exchange":"XETR","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"XE3","exchange":"XETR","status":"ok","logoid":"ithaca-energy-plc"}
+{"symbol":"IOOA","exchange":"XETR","status":"ok","logoid":"ip-plc"}
+{"symbol":"H3M","exchange":"XETR","status":"ok","logoid":"hochschild-mining-plc"}

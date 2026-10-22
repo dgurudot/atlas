@@ -2869,3 +2869,7 @@
 {"symbol":"BSRT","exchange":"NYSE","status":"ok","logoid":"bsr-real-estate-invt-tr"}
 {"symbol":"IIPR/PB","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"IIPR/PB","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MSGK/I","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"MSGR/I","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"MSGK/I","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MSGR/I","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

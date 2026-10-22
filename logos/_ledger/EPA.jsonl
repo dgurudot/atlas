@@ -4032,3 +4032,9 @@
 {"symbol":"IFRA","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"MLAGI","exchange":"EPA","status":"ok","logoid":"ag3i"}
 {"symbol":"U13HK","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"MLHCF","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"CR1T","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"ACDC","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"HROB","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"NYSX","exchange":"EPA","status":"ok","logoid":"global-x"}
+{"symbol":"SP4C","exchange":"EPA","status":"ok","logoid":"amundi"}

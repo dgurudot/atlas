@@ -2712,3 +2712,8 @@
 {"symbol":"1913/N","exchange":"BMV","status":"ok","logoid":"prada-group"}
 {"symbol":"SNI/N","exchange":"BMV","status":"ok","logoid":"sharkninja"}
 {"symbol":"EXPN/N","exchange":"BMV","status":"ok","logoid":"experian"}
+{"symbol":"AIUU/N","exchange":"BMV","status":"ok","logoid":"paribas"}
+{"symbol":"RWX","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"CSL/N","exchange":"BMV","status":"ok","logoid":"csl"}
+{"symbol":"LII","exchange":"BMV","status":"ok","logoid":"lennox-international"}
+{"symbol":"OZK","exchange":"BMV","status":"ok","logoid":"bank-ozk"}

@@ -3594,3 +3594,6 @@
 {"symbol":"TIKONA","exchange":"NSE","status":"ok","logoid":"grand-foundry-ltd"}
 {"symbol":"HDFIRE","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"LOANFRONT","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"FUSIONCX","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"RAVITA","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"IIRM","exchange":"NSE","status":"ok","logoid":"iirm-india-limited"}

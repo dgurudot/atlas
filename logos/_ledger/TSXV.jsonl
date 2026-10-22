@@ -1463,3 +1463,5 @@
 {"symbol":"RII.H","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"DRAX.P","exchange":"TSXV","status":"ok","logoid":"draxos-capital"}
 {"symbol":"RAC.P","exchange":"TSXV","status":"ok","logoid":"riverwalk-acquisition"}
+{"symbol":"LUNX","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"TOP.P","exchange":"TSXV","status":"nologo","logoid":null}

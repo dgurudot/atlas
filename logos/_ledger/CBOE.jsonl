@@ -2047,3 +2047,13 @@
 {"symbol":"FTN","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"LIGB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"LTB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"ANG","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"FTN","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"IGB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LIGB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LTB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"FTN","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ANG","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"IGB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"LIGB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"LTB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}

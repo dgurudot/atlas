@@ -1605,3 +1605,4 @@
 {"symbol":"CVSC","exchange":"BCBA","status":"ok","logoid":"cvs-health"}
 {"symbol":"VRTXC","exchange":"BCBA","status":"ok","logoid":"vertex-pharmaceutical"}
 {"symbol":"ALAAC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"SCCOD","exchange":"BCBA","status":"ok","logoid":"southern-copper"}

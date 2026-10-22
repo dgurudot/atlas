@@ -15986,3 +15986,6 @@
 {"symbol":"CAS","exchange":"LSE","status":"ok","logoid":"insig-ai-plc-ord-gbp001"}
 {"symbol":"ANAU","exchange":"LSE","status":"ok","logoid":"paribas"}
 {"symbol":"0A26","exchange":"LSE","status":"ok","logoid":"ellington-financial-6750-series-a-fixed-to-floating-rate-cumulative-redeemable-preferred-stock"}
+{"symbol":"ANAG","exchange":"LSE","status":"ok","logoid":"paribas"}
+{"symbol":"NVYB","exchange":"LSE","status":"ok","logoid":"graniteshares"}
+{"symbol":"NVYP","exchange":"LSE","status":"ok","logoid":"graniteshares"}

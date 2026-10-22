@@ -3344,3 +3344,12 @@
 {"symbol":"GMIE","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"POMG","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SEQ","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"POMG","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ICOM","exchange":"AMEX","status":"ok","logoid":"tema-etf-trust-tema-monopolies-and-oligopolies-etf"}
+{"symbol":"FIFT","exchange":"AMEX","status":"ok","logoid":"hcm-defender-100-index-etf"}
+{"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"THRU","exchange":"AMEX","status":"ok","logoid":"tema-etf-trust-tema-monopolies-and-oligopolies-etf"}
+{"symbol":"GMIE","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"POMG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

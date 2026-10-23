@@ -3053,3 +3053,9 @@
 {"symbol":"VENC.USD","exchange":"SIX","status":"nologo","logoid":null}
 {"symbol":"UFUF.EUR","exchange":"SIX","status":"nologo","logoid":null}
 {"symbol":"EBND","exchange":"SIX","status":"ok","logoid":"alliancebernstein-holding"}
+{"symbol":"HL","exchange":"SIX","status":"ok","logoid":"hecla-mining"}
+{"symbol":"IQJA","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"ECHM","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"JMEX.USD","exchange":"SIX","status":"ok","logoid":"henderson-diversified-income"}
+{"symbol":"RHYG","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"RHYG.USD","exchange":"SIX","status":"ok","logoid":"orix"}

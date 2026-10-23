@@ -2717,3 +2717,11 @@
 {"symbol":"CSL/N","exchange":"BMV","status":"ok","logoid":"csl"}
 {"symbol":"LII","exchange":"BMV","status":"ok","logoid":"lennox-international"}
 {"symbol":"OZK","exchange":"BMV","status":"ok","logoid":"bank-ozk"}
+{"symbol":"CRS","exchange":"BMV","status":"ok","logoid":"carpenter-technology"}
+{"symbol":"5108/N","exchange":"BMV","status":"ok","logoid":"bridgestone"}
+{"symbol":"CCK","exchange":"BMV","status":"ok","logoid":"crown-holdings"}
+{"symbol":"DJIA","exchange":"BMV","status":"ok","logoid":"global-x"}
+{"symbol":"EMPA1/N","exchange":"BMV","status":"ok","logoid":"empire-company"}
+{"symbol":"SMMT","exchange":"BMV","status":"ok","logoid":"summit-therapeutics"}
+{"symbol":"KBR","exchange":"BMV","status":"ok","logoid":"kbr"}
+{"symbol":"EDP/N","exchange":"BMV","status":"ok","logoid":"energias-br-on-nm"}

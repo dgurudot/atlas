@@ -495,3 +495,10 @@
 {"symbol":"AAISA0","exchange":"BCS","status":"ok","logoid":"adm-americana-de-i"}
 {"symbol":"ENELCHILE1","exchange":"BCS","status":"ok","logoid":"enel"}
 {"symbol":"CFIMRVCHA","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
+{"symbol":"MCDCL","exchange":"BCS","status":"ok","logoid":"mcdonalds"}
+{"symbol":"CFITDPX1_E","exchange":"BCS","status":"ok","logoid":"toesca-sa-adm-general-de-fondos-rentas-inmobiliarias-pt-fi"}
+{"symbol":"PG1","exchange":"BCS","status":"ok","logoid":"procter-and-gamble"}
+{"symbol":"MACL","exchange":"BCS","status":"ok","logoid":"mastercard"}
+{"symbol":"CFIPIONERO0","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
+{"symbol":"IBM1","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}
+{"symbol":"IBM","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}

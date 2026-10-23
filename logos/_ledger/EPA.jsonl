@@ -4038,3 +4038,5 @@
 {"symbol":"HROB","exchange":"EPA","status":"ok","logoid":"hsbc"}
 {"symbol":"NYSX","exchange":"EPA","status":"ok","logoid":"global-x"}
 {"symbol":"SP4C","exchange":"EPA","status":"ok","logoid":"amundi"}
+{"symbol":"0UCA","exchange":"EPA","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"TIGE","exchange":"EPA","status":"ok","logoid":"rowe-price"}

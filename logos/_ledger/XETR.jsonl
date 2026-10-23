@@ -5545,3 +5545,4 @@
 {"symbol":"XE3","exchange":"XETR","status":"ok","logoid":"ithaca-energy-plc"}
 {"symbol":"IOOA","exchange":"XETR","status":"ok","logoid":"ip-plc"}
 {"symbol":"H3M","exchange":"XETR","status":"ok","logoid":"hochschild-mining-plc"}
+{"symbol":"1T4","exchange":"XETR","status":"ok","logoid":"torm"}

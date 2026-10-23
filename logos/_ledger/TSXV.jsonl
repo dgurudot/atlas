@@ -1465,3 +1465,6 @@
 {"symbol":"RAC.P","exchange":"TSXV","status":"ok","logoid":"riverwalk-acquisition"}
 {"symbol":"LUNX","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"TOP.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"NSKY","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"JUNO","exchange":"TSXV","status":"ok","logoid":"trail-blazer-capital"}
+{"symbol":"RTO.P","exchange":"TSXV","status":"ok","logoid":"chrysalis-12"}

@@ -325,3 +325,10 @@
 {"symbol":"SCGCS","exchange":"BME","status":"ok","logoid":"galil-capital-re-spain-socimi-sa"}
 {"symbol":"S1013","exchange":"BME","status":"ok","logoid":"cotizado-armonizado"}
 {"symbol":"SCEOL","exchange":"BME","status":"nologo","logoid":null}
+{"symbol":"SCIN3","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN2","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN4","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN1","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN7","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN8","exchange":"BME","status":"ok","logoid":"inbest-prime"}
+{"symbol":"SCIN6","exchange":"BME","status":"ok","logoid":"inbest-prime"}

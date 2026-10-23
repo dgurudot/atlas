@@ -857,3 +857,4 @@
 {"symbol":"ETNHAN2LBT","exchange":"GPW","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"LGL","exchange":"GPW","status":"ok","logoid":"less"}
 {"symbol":"EGO","exchange":"GPW","status":"ok","logoid":"pgfgroup"}
+{"symbol":"HYP","exchange":"GPW","status":"nologo","logoid":null}

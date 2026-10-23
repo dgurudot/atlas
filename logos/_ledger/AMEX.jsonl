@@ -3353,3 +3353,5 @@
 {"symbol":"GMIE","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SEQ","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"POMG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

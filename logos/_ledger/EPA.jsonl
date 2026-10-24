@@ -4040,3 +4040,7 @@
 {"symbol":"SP4C","exchange":"EPA","status":"ok","logoid":"amundi"}
 {"symbol":"0UCA","exchange":"EPA","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
 {"symbol":"TIGE","exchange":"EPA","status":"ok","logoid":"rowe-price"}
+{"symbol":"FGLB","exchange":"EPA","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"OBAA","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"TCQU","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BGO","exchange":"EPA","status":"ok","logoid":"chargeurs"}

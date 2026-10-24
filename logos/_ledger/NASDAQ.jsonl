@@ -5690,3 +5690,16 @@
 {"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SMNG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"APXC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AHIC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"DAVI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"LYCA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MMTXU","exchange":"NASDAQ","status":"ok","logoid":"miluna-acquisition"}
+{"symbol":"DAVI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AHIC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"APXC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"LYCA","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

@@ -502,3 +502,5 @@
 {"symbol":"CFIPIONERO0","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
 {"symbol":"IBM1","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}
 {"symbol":"IBM","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}
+{"symbol":"MA","exchange":"BCS","status":"ok","logoid":"mastercard"}
+{"symbol":"ADPCL","exchange":"BCS","status":"ok","logoid":"automatic-data-processing"}

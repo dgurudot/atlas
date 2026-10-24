@@ -2725,3 +2725,6 @@
 {"symbol":"SMMT","exchange":"BMV","status":"ok","logoid":"summit-therapeutics"}
 {"symbol":"KBR","exchange":"BMV","status":"ok","logoid":"kbr"}
 {"symbol":"EDP/N","exchange":"BMV","status":"ok","logoid":"energias-br-on-nm"}
+{"symbol":"XLVS/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"FTCSU/N","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"RNG","exchange":"BMV","status":"ok","logoid":"ringcentral"}

@@ -3059,3 +3059,7 @@
 {"symbol":"JMEX.USD","exchange":"SIX","status":"ok","logoid":"henderson-diversified-income"}
 {"symbol":"RHYG","exchange":"SIX","status":"ok","logoid":"orix"}
 {"symbol":"RHYG.USD","exchange":"SIX","status":"ok","logoid":"orix"}
+{"symbol":"USINM.USD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"FUSR","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"5OGU.USD","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"USESGA.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}

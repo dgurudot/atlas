@@ -1606,3 +1606,4 @@
 {"symbol":"VRTXC","exchange":"BCBA","status":"ok","logoid":"vertex-pharmaceutical"}
 {"symbol":"ALAAC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"SCCOD","exchange":"BCBA","status":"ok","logoid":"southern-copper"}
+{"symbol":"HSIM","exchange":"BCBA","status":"nologo","logoid":null}

@@ -2069,3 +2069,12 @@
 {"symbol":"LIGB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"OVQ","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"QQDH","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ANG","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LIGB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"IGB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"LTB","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"OVQ","exchange":"CBOE","status":"ok","logoid":"overlay-shares-core-bond-etf"}
+{"symbol":"ANG","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IGB","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LIGB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"LTB","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}

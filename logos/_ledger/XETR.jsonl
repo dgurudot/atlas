@@ -5546,3 +5546,5 @@
 {"symbol":"IOOA","exchange":"XETR","status":"ok","logoid":"ip-plc"}
 {"symbol":"H3M","exchange":"XETR","status":"ok","logoid":"hochschild-mining-plc"}
 {"symbol":"1T4","exchange":"XETR","status":"ok","logoid":"torm"}
+{"symbol":"CENB","exchange":"XETR","status":"ok","logoid":"centrica"}
+{"symbol":"PV3B","exchange":"XETR","status":"ok","logoid":"eyepoint-pharmaceuticals"}

@@ -60,3 +60,4 @@
 {"symbol":"VOE","exchange":"PSECZ","status":"ok","logoid":"voestalpine-ag"}
 {"symbol":"VOLVB","exchange":"PSECZ","status":"ok","logoid":"volvo-car"}
 {"symbol":"ULVR","exchange":"PSECZ","status":"ok","logoid":"unilever"}
+{"symbol":"DOOR","exchange":"PSECZ","status":"nologo","logoid":null}

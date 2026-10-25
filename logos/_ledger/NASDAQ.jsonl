@@ -5703,3 +5703,11 @@
 {"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"LYCA","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"LYCA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"APXC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"LYCA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"APXC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

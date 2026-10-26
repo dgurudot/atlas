@@ -5711,3 +5711,11 @@
 {"symbol":"APXC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"MTGG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"APXC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AETR","exchange":"NASDAQ","status":"ok","logoid":"westport-fuel-systems"}
+{"symbol":"FCDH","exchange":"NASDAQ","status":"ok","logoid":"vs-media-limited"}
+{"symbol":"APXC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

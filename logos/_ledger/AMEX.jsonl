@@ -3355,3 +3355,7 @@
 {"symbol":"POMG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null}
 {"symbol":"GMIE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"GUNN","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"CAYN","exchange":"AMEX","status":"ok","logoid":"calamp"}
+{"symbol":"PTIV","exchange":"AMEX","status":"ok","logoid":"pineapple-financial"}
+{"symbol":"GUNN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

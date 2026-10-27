@@ -1607,3 +1607,7 @@
 {"symbol":"ALAAC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"SCCOD","exchange":"BCBA","status":"ok","logoid":"southern-copper"}
 {"symbol":"HSIM","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ABE3C","exchange":"BCBA","status":"ok","logoid":"ambev"}
+{"symbol":"HSBCD","exchange":"BCBA","status":"ok","logoid":"hsbc"}
+{"symbol":"BBDCC","exchange":"BCBA","status":"ok","logoid":"bradesco"}
+{"symbol":"GFID","exchange":"BCBA","status":"ok","logoid":"gold-fields"}

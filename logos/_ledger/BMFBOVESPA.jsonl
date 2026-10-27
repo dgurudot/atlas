@@ -2628,3 +2628,10 @@
 {"symbol":"ESUU11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"BAOK39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
 {"symbol":"BIDN39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"GRSO11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"XF3711","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"XF3311","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"BBGR39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"C1DP34","exchange":"BMFBOVESPA","status":"ok","logoid":"corporate-office-properties-trust"}
+{"symbol":"N1VR34","exchange":"BMFBOVESPA","status":"ok","logoid":"nvr"}
+{"symbol":"CASN3","exchange":"BMFBOVESPA","status":"ok","logoid":"casan-on"}

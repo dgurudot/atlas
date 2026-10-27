@@ -3033,3 +3033,8 @@
 {"symbol":"BN.PF.N","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"NEGP","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"NESB","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"AETR","exchange":"TSX","status":"ok","logoid":"westport-fuel-systems"}
+{"symbol":"DSCA","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"DSAM","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"DSIT","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"LTCE","exchange":"TSX","status":"ok","logoid":"lysander"}

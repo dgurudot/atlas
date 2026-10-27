@@ -293,3 +293,4 @@
 {"symbol":"OMC","exchange":"OSL","status":"nologo","logoid":null}
 {"symbol":"OUTLT","exchange":"OSL","status":"nologo","logoid":null}
 {"symbol":"VLCC","exchange":"OSL","status":"nologo","logoid":null}
+{"symbol":"AJAXR","exchange":"OSL","status":"ok","logoid":"ajax-resources-plc-ord-gbp001"}

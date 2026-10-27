@@ -5719,3 +5719,9 @@
 {"symbol":"APXC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"MTGG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PAXG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SCQCU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RADD","exchange":"NASDAQ","status":"ok","logoid":"alliancebernstein-holding"}
+{"symbol":"YSKH","exchange":"NASDAQ","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}
+{"symbol":"SCQCU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

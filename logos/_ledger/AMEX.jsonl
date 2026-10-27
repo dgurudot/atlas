@@ -3359,3 +3359,4 @@
 {"symbol":"CAYN","exchange":"AMEX","status":"ok","logoid":"calamp"}
 {"symbol":"PTIV","exchange":"AMEX","status":"ok","logoid":"pineapple-financial"}
 {"symbol":"GUNN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WBMO","exchange":"AMEX","status":"ok","logoid":"vaneck"}

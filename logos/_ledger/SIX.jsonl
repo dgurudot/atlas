@@ -3063,3 +3063,10 @@
 {"symbol":"FUSR","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
 {"symbol":"5OGU.USD","exchange":"SIX","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
 {"symbol":"USESGA.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"HBOT","exchange":"SIX","status":"ok","logoid":"hsbc"}
+{"symbol":"PQEM","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"FGLY","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"PYPL","exchange":"SIX","status":"ok","logoid":"paypal"}
+{"symbol":"SMHC","exchange":"SIX","status":"ok","logoid":"vaneck"}
+{"symbol":"KO","exchange":"SIX","status":"ok","logoid":"coca-cola"}
+{"symbol":"TRXE.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}

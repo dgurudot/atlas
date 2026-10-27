@@ -16001,3 +16001,10 @@
 {"symbol":"FUS0","exchange":"LSE","status":"ok","logoid":"fidelity-advantage"}
 {"symbol":"0RFR","exchange":"LSE","status":"ok","logoid":"tivoli-a-s"}
 {"symbol":"TECH","exchange":"LSE","status":"ok","logoid":"dws"}
+{"symbol":"HROS","exchange":"LSE","status":"ok","logoid":"hsbc"}
+{"symbol":"PNPL","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"QTF","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"HROB","exchange":"LSE","status":"ok","logoid":"hsbc"}
+{"symbol":"QTFD","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"TEK4","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"M1NE","exchange":"LSE","status":"ok","logoid":"coinshares"}

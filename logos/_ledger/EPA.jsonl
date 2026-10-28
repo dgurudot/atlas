@@ -4046,3 +4046,7 @@
 {"symbol":"BGO","exchange":"EPA","status":"ok","logoid":"chargeurs"}
 {"symbol":"ALN4","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"CMWL","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"CBR","exchange":"EPA","status":"ok","logoid":"robertet-ci"}
+{"symbol":"ITXT","exchange":"EPA","status":"ok","logoid":"intexa-sa"}
+{"symbol":"WDP","exchange":"EPA","status":"ok","logoid":"warehouses-de-pauw"}
+{"symbol":"OLG","exchange":"EPA","status":"ok","logoid":"ol-groupe"}

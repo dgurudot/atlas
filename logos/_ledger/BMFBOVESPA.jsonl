@@ -2635,3 +2635,9 @@
 {"symbol":"C1DP34","exchange":"BMFBOVESPA","status":"ok","logoid":"corporate-office-properties-trust"}
 {"symbol":"N1VR34","exchange":"BMFBOVESPA","status":"ok","logoid":"nvr"}
 {"symbol":"CASN3","exchange":"BMFBOVESPA","status":"ok","logoid":"casan-on"}
+{"symbol":"QTZD11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"EQPA6","exchange":"BMFBOVESPA","status":"ok","logoid":"eqtl-para-on"}
+{"symbol":"D1HI34","exchange":"BMFBOVESPA","status":"ok","logoid":"dr-horton"}
+{"symbol":"H2TA34","exchange":"BMFBOVESPA","status":"ok","logoid":"healthcare-realty-trust-incorporated"}
+{"symbol":"SHUL3","exchange":"BMFBOVESPA","status":"ok","logoid":"schulz"}
+{"symbol":"K1RG34","exchange":"BMFBOVESPA","status":"ok","logoid":"kite-realty-trust"}

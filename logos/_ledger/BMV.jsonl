@@ -2739,3 +2739,9 @@
 {"symbol":"WTVE/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
 {"symbol":"RRCO","exchange":"BMV","status":"ok","logoid":"range-resources"}
 {"symbol":"RPD","exchange":"BMV","status":"ok","logoid":"rapid7"}
+{"symbol":"RSPU","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"EPIA/N","exchange":"BMV","status":"ok","logoid":"epiroc-ab-ser-b"}
+{"symbol":"MSFU","exchange":"BMV","status":"ok","logoid":"direxion"}
+{"symbol":"RSPH","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"DBEF","exchange":"BMV","status":"ok","logoid":"dws"}
+{"symbol":"WTVG/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}

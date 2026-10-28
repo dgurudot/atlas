@@ -5725,3 +5725,5 @@
 {"symbol":"YSKH","exchange":"NASDAQ","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}
 {"symbol":"SCQCU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FFTT","exchange":"NASDAQ","status":"ok","logoid":"masonglory-limited"}
+{"symbol":"FACTU","exchange":"NASDAQ","status":"ok","logoid":"fact-ii-acquisition"}

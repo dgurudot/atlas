@@ -3070,3 +3070,9 @@
 {"symbol":"SMHC","exchange":"SIX","status":"ok","logoid":"vaneck"}
 {"symbol":"KO","exchange":"SIX","status":"ok","logoid":"coca-cola"}
 {"symbol":"TRXE.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"PQEU","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"ADWIC","exchange":"SIX","status":"ok","logoid":"leonteq-n"}
+{"symbol":"AEMUS","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FGLB","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"CLSK","exchange":"SIX","status":"ok","logoid":"cleanspark"}
+{"symbol":"GEDI.USD","exchange":"SIX","status":"ok","logoid":"legal-and-general"}

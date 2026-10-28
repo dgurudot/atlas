@@ -5551,3 +5551,10 @@
 {"symbol":"ATD","exchange":"XETR","status":"ok","logoid":"allegheny-technologies"}
 {"symbol":"AMI0","exchange":"XETR","status":"ok","logoid":"medondo-ag"}
 {"symbol":"HC1","exchange":"XETR","status":"ok","logoid":"heico"}
+{"symbol":"BRGE","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"FEMSB","exchange":"XETR","status":"ok","logoid":"invesco"}
+{"symbol":"BRGN","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"QLYE","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TRNE","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"QLYT","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TRND","exchange":"XETR","status":"nologo","logoid":null}

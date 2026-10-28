@@ -504,3 +504,5 @@
 {"symbol":"IBM","exchange":"BCS","status":"ok","logoid":"international-bus-mach"}
 {"symbol":"MA","exchange":"BCS","status":"ok","logoid":"mastercard"}
 {"symbol":"ADPCL","exchange":"BCS","status":"ok","logoid":"automatic-data-processing"}
+{"symbol":"HWMCL1","exchange":"BCS","status":"ok","logoid":"howmet-aerospace"}
+{"symbol":"TXNCL","exchange":"BCS","status":"ok","logoid":"texas-instruments"}

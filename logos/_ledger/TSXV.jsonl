@@ -1468,3 +1468,6 @@
 {"symbol":"NSKY","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"JUNO","exchange":"TSXV","status":"ok","logoid":"trail-blazer-capital"}
 {"symbol":"RTO.P","exchange":"TSXV","status":"ok","logoid":"chrysalis-12"}
+{"symbol":"NACM","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"SUNV","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"TAG","exchange":"TSXV","status":"ok","logoid":"galaxy-ventures"}

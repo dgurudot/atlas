@@ -5344,3 +5344,7 @@
 {"symbol":"SISL","exchange":"BSE","status":"ok","logoid":"shantidoot-infra-services-limi"}
 {"symbol":"SVLL","exchange":"BSE","status":"ok","logoid":"shree-vasu-logistics-ltd"}
 {"symbol":"BIRLATOTAL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"JPL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"TAG","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PARASHLTH","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PHARMAIETF","exchange":"BSE","status":"ok","logoid":"icici-prudential-bank"}

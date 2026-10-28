@@ -1611,3 +1611,4 @@
 {"symbol":"HSBCD","exchange":"BCBA","status":"ok","logoid":"hsbc"}
 {"symbol":"BBDCC","exchange":"BCBA","status":"ok","logoid":"bradesco"}
 {"symbol":"GFID","exchange":"BCBA","status":"ok","logoid":"gold-fields"}
+{"symbol":"TTEC","exchange":"BCBA","status":"ok","logoid":"total"}

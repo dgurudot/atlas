@@ -3607,3 +3607,6 @@
 {"symbol":"BIRLATOTAL","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SUDARSHAN","exchange":"NSE","status":"ok","logoid":"sudarshan-pharma-industries-li"}
 {"symbol":"KHAZANCHI","exchange":"NSE","status":"ok","logoid":"khazanchi-jewellers-limited"}
+{"symbol":"JPL","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"PARASHLTH","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"PHARMAIETF","exchange":"NSE","status":"ok","logoid":"icici-prudential-bank"}

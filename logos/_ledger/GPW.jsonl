@@ -858,3 +858,5 @@
 {"symbol":"LGL","exchange":"GPW","status":"ok","logoid":"less"}
 {"symbol":"EGO","exchange":"GPW","status":"ok","logoid":"pgfgroup"}
 {"symbol":"HYP","exchange":"GPW","status":"nologo","logoid":null}
+{"symbol":"ETNHAN2LET","exchange":"GPW","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"ORO","exchange":"GPW","status":"ok","logoid":"apollo-capital"}

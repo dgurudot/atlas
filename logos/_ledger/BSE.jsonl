@@ -5348,3 +5348,6 @@
 {"symbol":"TAG","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"PARASHLTH","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"PHARMAIETF","exchange":"BSE","status":"ok","logoid":"icici-prudential-bank"}
+{"symbol":"CENTEXTPP","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"PHLSRG","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"SBIDEFETF","exchange":"BSE","status":"nologo","logoid":null}

@@ -5727,3 +5727,11 @@
 {"symbol":"PAXG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"FFTT","exchange":"NASDAQ","status":"ok","logoid":"masonglory-limited"}
 {"symbol":"FACTU","exchange":"NASDAQ","status":"ok","logoid":"fact-ii-acquisition"}
+{"symbol":"FIBT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"FBEQ","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"BHAIU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AZR","exchange":"NASDAQ","status":"ok","logoid":"blackberry"}
+{"symbol":"CHPGU","exchange":"NASDAQ","status":"ok","logoid":"championsgate-acquisition"}
+{"symbol":"FIBT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"FBEQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BHAIU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

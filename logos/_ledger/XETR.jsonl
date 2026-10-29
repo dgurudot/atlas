@@ -5558,3 +5558,12 @@
 {"symbol":"TRNE","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"QLYT","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"TRND","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"EBHY","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"EBCA","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"EYBA","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"ECBA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"TKCC","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"CSMH","exchange":"XETR","status":"ok","logoid":"vaneck"}
+{"symbol":"VRTR","exchange":"XETR","status":"ok","logoid":"virtune"}
+{"symbol":"XNA1","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"WIDE","exchange":"XETR","status":"ok","logoid":"amundi"}

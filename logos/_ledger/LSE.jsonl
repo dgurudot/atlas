@@ -16012,3 +16012,9 @@
 {"symbol":"MGAG","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"ABT","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"SER","exchange":"LSE","status":"ok","logoid":"serica-energy-plc"}
+{"symbol":"SMCG","exchange":"LSE","status":"ok","logoid":"vaneck"}
+{"symbol":"MGAU","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"SMHC","exchange":"LSE","status":"ok","logoid":"vaneck"}
+{"symbol":"XROB","exchange":"LSE","status":"ok","logoid":"dws"}
+{"symbol":"0Y4V","exchange":"LSE","status":"ok","logoid":"ubs-group"}
+{"symbol":"0A2W","exchange":"LSE","status":"ok","logoid":"sap"}

@@ -3076,3 +3076,8 @@
 {"symbol":"FGLB","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
 {"symbol":"CLSK","exchange":"SIX","status":"ok","logoid":"cleanspark"}
 {"symbol":"GEDI.USD","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"CHMOM","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"DRAM","exchange":"SIX","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"AIPO","exchange":"SIX","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"XU10","exchange":"SIX","status":"ok","logoid":"dws"}
+{"symbol":"FFLG.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}

@@ -489,3 +489,5 @@
 {"symbol":"DSBP","exchange":"JSE","status":"ok","logoid":"discovery-ltd"}
 {"symbol":"CPIP","exchange":"JSE","status":"ok","logoid":"capitec-bank-hldgs-ltd"}
 {"symbol":"SDM001","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"WGINC","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"C4A","exchange":"JSE","status":"ok","logoid":"south-ocean-ltd"}

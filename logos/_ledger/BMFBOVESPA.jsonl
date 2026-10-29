@@ -2641,3 +2641,10 @@
 {"symbol":"H2TA34","exchange":"BMFBOVESPA","status":"ok","logoid":"healthcare-realty-trust-incorporated"}
 {"symbol":"SHUL3","exchange":"BMFBOVESPA","status":"ok","logoid":"schulz"}
 {"symbol":"K1RG34","exchange":"BMFBOVESPA","status":"ok","logoid":"kite-realty-trust"}
+{"symbol":"BFTC39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
+{"symbol":"HBOR53L","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"HBOR3L","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"CASN4","exchange":"BMFBOVESPA","status":"ok","logoid":"casan-on"}
+{"symbol":"F1FI34","exchange":"BMFBOVESPA","status":"ok","logoid":"f5-network"}
+{"symbol":"SNSY6F","exchange":"BMFBOVESPA","status":"ok","logoid":"sansuy-on"}
+{"symbol":"PNDL11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-egdb-ci"}

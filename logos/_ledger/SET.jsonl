@@ -2369,3 +2369,5 @@
 {"symbol":"KLAC03","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"QUICK","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"QUICK.R","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"HPT","exchange":"SET","status":"ok","logoid":"home-pottery-public-company-limited-non-voting"}
+{"symbol":"HPT.R","exchange":"SET","status":"ok","logoid":"home-pottery-public-company-limited-non-voting"}

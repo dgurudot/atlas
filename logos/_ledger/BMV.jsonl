@@ -2745,3 +2745,16 @@
 {"symbol":"RSPH","exchange":"BMV","status":"ok","logoid":"invesco"}
 {"symbol":"DBEF","exchange":"BMV","status":"ok","logoid":"dws"}
 {"symbol":"WTVG/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"ANDR/N","exchange":"BMV","status":"ok","logoid":"andritz-ag"}
+{"symbol":"BNZL/N","exchange":"BMV","status":"ok","logoid":"bunzl"}
+{"symbol":"BS6A/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"BEI/N","exchange":"BMV","status":"ok","logoid":"beiersdorf"}
+{"symbol":"BSBR/N","exchange":"BMV","status":"ok","logoid":"santander"}
+{"symbol":"HYLD/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"RAIL","exchange":"BMV","status":"ok","logoid":"freightcar-america"}
+{"symbol":"IBRX","exchange":"BMV","status":"ok","logoid":"immunitybio"}
+{"symbol":"SOBI/N","exchange":"BMV","status":"ok","logoid":"swedish-orphan-biovitrum-ab"}
+{"symbol":"SAN1/N","exchange":"BMV","status":"ok","logoid":"sanofi"}
+{"symbol":"RB/N","exchange":"BMV","status":"ok","logoid":"reckitt"}
+{"symbol":"UCB/N","exchange":"BMV","status":"ok","logoid":"ucb"}
+{"symbol":"IMCD/N","exchange":"BMV","status":"ok","logoid":"imcd"}

@@ -3610,3 +3610,6 @@
 {"symbol":"JPL","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"PARASHLTH","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"PHARMAIETF","exchange":"NSE","status":"ok","logoid":"icici-prudential-bank"}
+{"symbol":"CENTEXTPP.E1","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"SBIDEFETF","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"BONDADA","exchange":"NSE","status":"ok","logoid":"bondada-engineering-limited"}

@@ -1361,3 +1361,5 @@
 {"symbol":"6467","exchange":"TWSE","status":"ok","logoid":"taho-pharmaceuticals-ltd"}
 {"symbol":"00415A","exchange":"TWSE","status":"ok","logoid":"cap-dj-us-real-estate"}
 {"symbol":"7710","exchange":"TWSE","status":"ok","logoid":"asrock-industrial-computer"}
+{"symbol":"009832","exchange":"TWSE","status":"nologo","logoid":null}
+{"symbol":"009831","exchange":"TWSE","status":"ok","logoid":"franklin-templeton"}

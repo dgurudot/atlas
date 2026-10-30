@@ -3081,3 +3081,6 @@
 {"symbol":"AIPO","exchange":"SIX","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"XU10","exchange":"SIX","status":"ok","logoid":"dws"}
 {"symbol":"FFLG.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"HDD","exchange":"SIX","status":"ok","logoid":"heidelberger-druckmaschinen"}
+{"symbol":"AXON.USD","exchange":"SIX","status":"ok","logoid":"axon-enterprise"}
+{"symbol":"KTOS","exchange":"SIX","status":"ok","logoid":"kratos-defense-and-security-solutions"}

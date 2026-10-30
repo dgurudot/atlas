@@ -1612,3 +1612,5 @@
 {"symbol":"BBDCC","exchange":"BCBA","status":"ok","logoid":"bradesco"}
 {"symbol":"GFID","exchange":"BCBA","status":"ok","logoid":"gold-fields"}
 {"symbol":"TTEC","exchange":"BCBA","status":"ok","logoid":"total"}
+{"symbol":"NOKAD","exchange":"BCBA","status":"ok","logoid":"nokia"}
+{"symbol":"XOMB","exchange":"BCBA","status":"ok","logoid":"exxon"}

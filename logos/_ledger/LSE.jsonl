@@ -16018,3 +16018,7 @@
 {"symbol":"XROB","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"0Y4V","exchange":"LSE","status":"ok","logoid":"ubs-group"}
 {"symbol":"0A2W","exchange":"LSE","status":"ok","logoid":"sap"}
+{"symbol":"0HFT","exchange":"LSE","status":"ok","logoid":"paribas"}
+{"symbol":"0YEG","exchange":"LSE","status":"ok","logoid":"proshares"}
+{"symbol":"C027","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"0O6G","exchange":"LSE","status":"ok","logoid":"peh-wertpapier"}

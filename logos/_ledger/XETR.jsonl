@@ -5567,3 +5567,5 @@
 {"symbol":"VRTR","exchange":"XETR","status":"ok","logoid":"virtune"}
 {"symbol":"XNA1","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"WIDE","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"DSCC","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"SCWD","exchange":"XETR","status":"ok","logoid":"dws"}

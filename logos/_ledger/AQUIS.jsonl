@@ -425,3 +425,4 @@
 {"symbol":"MCJ","exchange":"AQUIS","status":"ok","logoid":"majestic-plc"}
 {"symbol":"CASC","exchange":"AQUIS","status":"nologo","logoid":null}
 {"symbol":"IUSZ.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}
+{"symbol":"ICOM.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}

@@ -508,3 +508,6 @@
 {"symbol":"TXNCL","exchange":"BCS","status":"ok","logoid":"texas-instruments"}
 {"symbol":"CFIALRAA_E0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"CFIALT2A_E0","exchange":"BCS","status":"ok","logoid":"ameris-capital"}
+{"symbol":"PUNTILLA","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"BIIB","exchange":"BCS","status":"ok","logoid":"biogen"}
+{"symbol":"CFINRENTAS","exchange":"BCS","status":"ok","logoid":"independencia-administradora-gen-fd-fondo-de-inv-independencia-rentas-inmob"}

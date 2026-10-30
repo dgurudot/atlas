@@ -3360,3 +3360,9 @@
 {"symbol":"PTIV","exchange":"AMEX","status":"ok","logoid":"pineapple-financial"}
 {"symbol":"GUNN","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"WBMO","exchange":"AMEX","status":"ok","logoid":"vaneck"}
+{"symbol":"ELCF","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ETDG","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ACJL","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ETDG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ELCF","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACJL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

@@ -5735,3 +5735,8 @@
 {"symbol":"FIBT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"FBEQ","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BHAIU","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"METAM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NORD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"GBC","exchange":"NASDAQ","status":"ok","logoid":"bloomberg-global-uk-large-mid-chf"}
+{"symbol":"NORD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"METAM","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

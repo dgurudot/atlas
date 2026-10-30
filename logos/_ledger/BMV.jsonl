@@ -2758,3 +2758,5 @@
 {"symbol":"RB/N","exchange":"BMV","status":"ok","logoid":"reckitt"}
 {"symbol":"UCB/N","exchange":"BMV","status":"ok","logoid":"ucb"}
 {"symbol":"IMCD/N","exchange":"BMV","status":"ok","logoid":"imcd"}
+{"symbol":"AGGH/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"SAABB/N","exchange":"BMV","status":"ok","logoid":"saab-ab-ser-b"}

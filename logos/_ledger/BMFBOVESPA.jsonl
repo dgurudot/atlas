@@ -2648,3 +2648,7 @@
 {"symbol":"F1FI34","exchange":"BMFBOVESPA","status":"ok","logoid":"f5-network"}
 {"symbol":"SNSY6F","exchange":"BMFBOVESPA","status":"ok","logoid":"sansuy-on"}
 {"symbol":"PNDL11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-egdb-ci"}
+{"symbol":"ARND3L","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FBOV11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FMUN11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FSPY11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}

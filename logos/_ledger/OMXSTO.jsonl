@@ -929,3 +929,5 @@
 {"symbol":"BIOVIC_BTA_B","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"REALFI_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"BIOEX_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"PJ","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"MGNO","exchange":"OMXSTO","status":"ok","logoid":"magnora-asa"}

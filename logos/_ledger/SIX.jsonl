@@ -3084,3 +3084,7 @@
 {"symbol":"HDD","exchange":"SIX","status":"ok","logoid":"heidelberger-druckmaschinen"}
 {"symbol":"AXON.USD","exchange":"SIX","status":"ok","logoid":"axon-enterprise"}
 {"symbol":"KTOS","exchange":"SIX","status":"ok","logoid":"kratos-defense-and-security-solutions"}
+{"symbol":"FUSB","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"ON.USD","exchange":"SIX","status":"ok","logoid":"on-semiconductor"}
+{"symbol":"UCG","exchange":"SIX","status":"ok","logoid":"unicredit"}
+{"symbol":"V","exchange":"SIX","status":"ok","logoid":"visa"}

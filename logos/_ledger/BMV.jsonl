@@ -2760,3 +2760,9 @@
 {"symbol":"IMCD/N","exchange":"BMV","status":"ok","logoid":"imcd"}
 {"symbol":"AGGH/N","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"SAABB/N","exchange":"BMV","status":"ok","logoid":"saab-ab-ser-b"}
+{"symbol":"EMSD/N","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"KSTR","exchange":"BMV","status":"ok","logoid":"kraneshares"}
+{"symbol":"FEUZ","exchange":"BMV","status":"ok","logoid":"first-trust"}
+{"symbol":"MGC","exchange":"BMV","status":"ok","logoid":"vanguard"}
+{"symbol":"WETF/N","exchange":"BMV","status":"ok","logoid":"paribas"}
+{"symbol":"RMV/N","exchange":"BMV","status":"ok","logoid":"rightmove-plc-ord-0-1p"}

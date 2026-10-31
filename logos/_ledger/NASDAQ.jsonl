@@ -5740,3 +5740,9 @@
 {"symbol":"GBC","exchange":"NASDAQ","status":"ok","logoid":"bloomberg-global-uk-large-mid-chf"}
 {"symbol":"NORD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"METAM","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"BBTX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ASPE","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"METAM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ASPE","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"METAM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BBTX","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

@@ -5569,3 +5569,12 @@
 {"symbol":"WIDE","exchange":"XETR","status":"ok","logoid":"amundi"}
 {"symbol":"DSCC","exchange":"XETR","status":"ok","logoid":"ishares"}
 {"symbol":"SCWD","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"CN2A","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}
+{"symbol":"T7HF","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}
+{"symbol":"CN2B","exchange":"XETR","status":"ok","logoid":"yis-msci-europe-universal-ucits-etf-hedged-capitalisation"}
+{"symbol":"T7HB","exchange":"XETR","status":"ok","logoid":"yis-msci-europe-universal-ucits-etf-hedged-capitalisation"}
+{"symbol":"T7H3","exchange":"XETR","status":"ok","logoid":"yis-msci-europe-universal-ucits-etf-hedged-capitalisation"}
+{"symbol":"T7HG","exchange":"XETR","status":"ok","logoid":"yis-msci-europe-universal-ucits-etf-hedged-capitalisation"}
+{"symbol":"T7HD","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}
+{"symbol":"T7HE","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}
+{"symbol":"T7HH","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}

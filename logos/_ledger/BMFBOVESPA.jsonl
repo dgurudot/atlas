@@ -2652,3 +2652,10 @@
 {"symbol":"FBOV11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"FMUN11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"FSPY11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"AUMT11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"FDIV11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"D1RI34","exchange":"BMFBOVESPA","status":"ok","logoid":"darden"}
+{"symbol":"CRDA34","exchange":"BMFBOVESPA","status":"ok","logoid":"credit-acceptance"}
+{"symbol":"BTWR11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"F2RT34","exchange":"BMFBOVESPA","status":"ok","logoid":"first-industrial-realty-trust"}
+{"symbol":"VIML11","exchange":"BMFBOVESPA","status":"ok","logoid":"btgp"}

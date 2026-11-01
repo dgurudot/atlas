@@ -5746,3 +5746,5 @@
 {"symbol":"ASPE","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"METAM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BBTX","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"BBTX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"BBTX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

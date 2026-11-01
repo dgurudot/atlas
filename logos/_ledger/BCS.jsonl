@@ -547,3 +547,9 @@
 {"symbol":"QCOMCL1","exchange":"BCS","status":"ok","logoid":"qualcomm"}
 {"symbol":"CVSCL1","exchange":"BCS","status":"ok","logoid":"cvs-health"}
 {"symbol":"PASUR0","exchange":"BCS","status":"ok","logoid":"forestal-pacifico"}
+{"symbol":"CFIMBILA_A0","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
+{"symbol":"CFIIMSCLI0","exchange":"BCS","status":"ok","logoid":"im-trust-sa-admin-general-de-fondos-fdo-inv-imt-spread-corporativo-local-i"}
+{"symbol":"CTC0","exchange":"BCS","status":"ok","logoid":"telefonica-chile-s"}
+{"symbol":"CFIMRVCHA0","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
+{"symbol":"CFILVDPU_E0","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
+{"symbol":"CINTAC0","exchange":"BCS","status":"ok","logoid":"cintac-sa"}

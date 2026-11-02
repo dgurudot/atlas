@@ -5359,3 +5359,7 @@
 {"symbol":"SBIPSUBNK","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"SBINIFTY50","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"SBIMID150","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"EDELALTS","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"TRANOCE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ABCIND","exchange":"BSE","status":"ok","logoid":"ab-cotspin-india-l"}
+{"symbol":"BRAHMVIRAT","exchange":"BSE","status":"ok","logoid":"virat-industries-ltd"}

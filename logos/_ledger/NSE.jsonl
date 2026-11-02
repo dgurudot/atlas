@@ -3626,3 +3626,6 @@
 {"symbol":"SBIQUALITY","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SBIPVTBNK","exchange":"NSE","status":"nologo","logoid":null}
 {"symbol":"SBIPSUBNK","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"EDELALTS","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"ABCIND","exchange":"NSE","status":"ok","logoid":"ab-cotspin-india-l"}
+{"symbol":"MHLSRG.DF","exchange":"NSE","status":"ok","logoid":"sbi-mutual-fund-magnum-hybrid-long-short-rg"}

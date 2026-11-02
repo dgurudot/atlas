@@ -5748,3 +5748,7 @@
 {"symbol":"BBTX","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"BBTX","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"BBTX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CASK","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"NARA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CASK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"NARA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

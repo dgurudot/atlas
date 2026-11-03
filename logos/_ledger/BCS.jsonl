@@ -553,3 +553,5 @@
 {"symbol":"CFIMRVCHA0","exchange":"BCS","status":"ok","logoid":"moneda-sa-admin-general-de-fondos-pionero-fondo-de-inversion"}
 {"symbol":"CFILVDPU_E0","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
 {"symbol":"CINTAC0","exchange":"BCS","status":"ok","logoid":"cintac-sa"}
+{"symbol":"CFI_FMVPBE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"PGCL","exchange":"BCS","status":"ok","logoid":"procter-and-gamble"}

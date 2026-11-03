@@ -3366,3 +3366,6 @@
 {"symbol":"ETDG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ELCF","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ACJL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"AIBE","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"EMIL","exchange":"AMEX","status":"ok","logoid":"vaneck"}
+{"symbol":"AIBE","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

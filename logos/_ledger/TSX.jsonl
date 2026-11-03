@@ -3041,3 +3041,7 @@
 {"symbol":"CAML","exchange":"TSX","status":"ok","logoid":"central-asia-metals-plc"}
 {"symbol":"MMEM","exchange":"TSX","status":"ok","logoid":"mackenzie-balanced"}
 {"symbol":"FORU","exchange":"TSX","status":"ok","logoid":"longpoint-etf-savvyshort-geared-crude-oil-etf"}
+{"symbol":"DPAY","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"DPAY.V","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"DPAY.U","exchange":"TSX","status":"ok","logoid":"dynamic-active-canadian-dividend"}
+{"symbol":"CORP","exchange":"TSX","status":"ok","logoid":"mulvihill-cdn-bk-enhanced"}

@@ -1615,3 +1615,5 @@
 {"symbol":"NOKAD","exchange":"BCBA","status":"ok","logoid":"nokia"}
 {"symbol":"XOMB","exchange":"BCBA","status":"ok","logoid":"exxon"}
 {"symbol":"ADBEB","exchange":"BCBA","status":"ok","logoid":"adobe"}
+{"symbol":"DEOC","exchange":"BCBA","status":"ok","logoid":"diageo"}
+{"symbol":"BOLT.CI","exchange":"BCBA","status":"ok","logoid":"boldt-sa"}

@@ -120,3 +120,5 @@
 {"symbol":"ADID","exchange":"ADX","status":"ok","logoid":"abu-dhabi-national-co-for-building-materials"}
 {"symbol":"RAKNIC","exchange":"ADX","status":"ok","logoid":"ras-alkhaima-national-insurance-co"}
 {"symbol":"ETISALAT","exchange":"ADX","status":"ok","logoid":"emirates-telecom-company-etisalat-pjsc"}
+{"symbol":"KMCA","exchange":"ADX","status":"ok","logoid":"hanwha"}
+{"symbol":"KDEF","exchange":"ADX","status":"ok","logoid":"exchange-listed-funds-trust-plus-korea-defense-industry-index-etf"}

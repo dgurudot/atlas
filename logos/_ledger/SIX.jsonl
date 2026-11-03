@@ -3088,3 +3088,4 @@
 {"symbol":"ON.USD","exchange":"SIX","status":"ok","logoid":"on-semiconductor"}
 {"symbol":"UCG","exchange":"SIX","status":"ok","logoid":"unicredit"}
 {"symbol":"V","exchange":"SIX","status":"ok","logoid":"visa"}
+{"symbol":"BAERE","exchange":"SIX","status":"ok","logoid":"julius-baer-n"}

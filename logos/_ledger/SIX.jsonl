@@ -3089,3 +3089,7 @@
 {"symbol":"UCG","exchange":"SIX","status":"ok","logoid":"unicredit"}
 {"symbol":"V","exchange":"SIX","status":"ok","logoid":"visa"}
 {"symbol":"BAERE","exchange":"SIX","status":"ok","logoid":"julius-baer-n"}
+{"symbol":"DCSH.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"G1A","exchange":"SIX","status":"ok","logoid":"gea-group-ag"}
+{"symbol":"EEII","exchange":"SIX","status":"ok","logoid":"eeii-ag-br"}
+{"symbol":"SPEUS.USD","exchange":"SIX","status":"ok","logoid":"paribas"}

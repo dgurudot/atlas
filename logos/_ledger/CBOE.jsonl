@@ -2084,3 +2084,5 @@
 {"symbol":"LTB","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ACIN","exchange":"CBOE","status":"ok","logoid":"hartford-core-bond-etf"}
 {"symbol":"PHYL","exchange":"CBOE","status":"ok","logoid":"pgim-active-aggregate-bond-etf"}
+{"symbol":"SIX","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"SIX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

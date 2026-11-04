@@ -16046,3 +16046,6 @@
 {"symbol":"XGPD","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"XGGD","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"USAS","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"SCDW","exchange":"LSE","status":"ok","logoid":"dws"}
+{"symbol":"SCWD","exchange":"LSE","status":"ok","logoid":"dws"}
+{"symbol":"PRIS","exchange":"LSE","status":"ok","logoid":"pristine-capital-plc-ord-gbp001"}

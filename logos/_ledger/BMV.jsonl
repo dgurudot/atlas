@@ -2766,3 +2766,10 @@
 {"symbol":"MGC","exchange":"BMV","status":"ok","logoid":"vanguard"}
 {"symbol":"WETF/N","exchange":"BMV","status":"ok","logoid":"paribas"}
 {"symbol":"RMV/N","exchange":"BMV","status":"ok","logoid":"rightmove-plc-ord-0-1p"}
+{"symbol":"MLPA","exchange":"BMV","status":"ok","logoid":"global-x"}
+{"symbol":"QNDX","exchange":"BMV","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"FLJH","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"IQQ","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"ESGD","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"ARMK","exchange":"BMV","status":"ok","logoid":"aramark"}
+{"symbol":"SCZM/N","exchange":"BMV","status":"ok","logoid":"santacruz-silver-mining-ltd"}

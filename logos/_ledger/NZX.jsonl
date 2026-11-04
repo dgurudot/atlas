@@ -167,3 +167,4 @@
 {"symbol":"VNT","exchange":"NZX","status":"ok","logoid":"ventia-services-group-limited"}
 {"symbol":"MCKPA","exchange":"NZX","status":"ok","logoid":"millennium-and-copth-npv"}
 {"symbol":"LOD","exchange":"NZX","status":"nologo","logoid":null}
+{"symbol":"BGH","exchange":"NZX","status":"ok","logoid":"blackwell-global-h-npv"}

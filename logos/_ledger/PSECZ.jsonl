@@ -61,3 +61,4 @@
 {"symbol":"VOLVB","exchange":"PSECZ","status":"ok","logoid":"volvo-car"}
 {"symbol":"ULVR","exchange":"PSECZ","status":"ok","logoid":"unilever"}
 {"symbol":"DOOR","exchange":"PSECZ","status":"nologo","logoid":null}
+{"symbol":"BVB","exchange":"PSECZ","status":"ok","logoid":"borussia-dortmund"}

@@ -5580,3 +5580,5 @@
 {"symbol":"T7HH","exchange":"XETR","status":"ok","logoid":"yourindex-sicav-yis-3-5-year-italian-government-bond-capitalisation-ucits-etf"}
 {"symbol":"EM4","exchange":"XETR","status":"ok","logoid":"emcor"}
 {"symbol":"DUT","exchange":"XETR","status":"ok","logoid":"moodys"}
+{"symbol":"LQUS","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"VRTI","exchange":"XETR","status":"nologo","logoid":null}

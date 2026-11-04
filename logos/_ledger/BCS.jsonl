@@ -555,3 +555,7 @@
 {"symbol":"CINTAC0","exchange":"BCS","status":"ok","logoid":"cintac-sa"}
 {"symbol":"CFI_FMVPBE0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"PGCL","exchange":"BCS","status":"ok","logoid":"procter-and-gamble"}
+{"symbol":"CFI_LVDARE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFI_LVRUAE","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
+{"symbol":"PFECL","exchange":"BCS","status":"ok","logoid":"pfizer"}
+{"symbol":"ANDINA_A1","exchange":"BCS","status":"ok","logoid":"embotelladora-andina"}

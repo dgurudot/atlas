@@ -5752,3 +5752,4 @@
 {"symbol":"NARA","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"CASK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"NARA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SAEN","exchange":"NASDAQ","status":"ok","logoid":"genenta-science-spa"}

@@ -1617,3 +1617,9 @@
 {"symbol":"ADBEB","exchange":"BCBA","status":"ok","logoid":"adobe"}
 {"symbol":"DEOC","exchange":"BCBA","status":"ok","logoid":"diageo"}
 {"symbol":"BOLT.CI","exchange":"BCBA","status":"ok","logoid":"boldt-sa"}
+{"symbol":"ALAAF","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"MERVD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"NTRAC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"MSC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"SDAD","exchange":"BCBA","status":"ok","logoid":"suncar-technology"}
+{"symbol":"VODC","exchange":"BCBA","status":"ok","logoid":"vodafone"}

@@ -3093,3 +3093,9 @@
 {"symbol":"G1A","exchange":"SIX","status":"ok","logoid":"gea-group-ag"}
 {"symbol":"EEII","exchange":"SIX","status":"ok","logoid":"eeii-ag-br"}
 {"symbol":"SPEUS.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"GQWX","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"AETH.JPY","exchange":"SIX","status":"ok","logoid":"21shares"}
+{"symbol":"GQXU","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"FSLR","exchange":"SIX","status":"ok","logoid":"first-solar"}
+{"symbol":"FUSP5.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"FUSY","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}

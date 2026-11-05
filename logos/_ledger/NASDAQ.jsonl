@@ -5753,3 +5753,10 @@
 {"symbol":"CASK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"NARA","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SAEN","exchange":"NASDAQ","status":"ok","logoid":"genenta-science-spa"}
+{"symbol":"AGLT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ACEM","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"INK","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"HLT","exchange":"NASDAQ","status":"ok","logoid":"hilton-worldwide"}
+{"symbol":"AGLT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ACEM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"INK","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

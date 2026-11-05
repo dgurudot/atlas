@@ -5582,3 +5582,5 @@
 {"symbol":"DUT","exchange":"XETR","status":"ok","logoid":"moodys"}
 {"symbol":"LQUS","exchange":"XETR","status":"ok","logoid":"amundi"}
 {"symbol":"VRTI","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"MGIN","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"MAET","exchange":"XETR","status":"nologo","logoid":null}

@@ -1068,3 +1068,4 @@
 {"symbol":"TCH.F141","exchange":"TASE","status":"ok","logoid":"tachlit-indices"}
 {"symbol":"UNVO-M","exchange":"TASE","status":"ok","logoid":"univo"}
 {"symbol":"CONX","exchange":"TASE","status":"ok","logoid":"brand"}
+{"symbol":"MTF.F142","exchange":"TASE","status":"nologo","logoid":null}

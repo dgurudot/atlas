@@ -4057,3 +4057,6 @@
 {"symbol":"TUSE","exchange":"EPA","status":"ok","logoid":"rowe-price"}
 {"symbol":"ENAMH","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"UEFU","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"MATE","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"MLERH","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"FUSB","exchange":"EPA","status":"ok","logoid":"fidelity-advantage"}

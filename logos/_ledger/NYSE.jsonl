@@ -2877,3 +2877,5 @@
 {"symbol":"MSGK","exchange":"NYSE","status":"ok","logoid":"madison-square-garden"}
 {"symbol":"MSGR","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"THCR","exchange":"NYSE","status":"ok","logoid":"thor-funds"}
+{"symbol":"BFH/PC","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"BFH/PC","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

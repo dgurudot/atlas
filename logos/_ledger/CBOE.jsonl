@@ -2086,3 +2086,7 @@
 {"symbol":"PHYL","exchange":"CBOE","status":"ok","logoid":"pgim-active-aggregate-bond-etf"}
 {"symbol":"SIX","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"SIX","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DFIT","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"DLAY","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"DLAY","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DFIT","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

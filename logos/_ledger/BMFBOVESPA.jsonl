@@ -2661,3 +2661,6 @@
 {"symbol":"VIML11","exchange":"BMFBOVESPA","status":"ok","logoid":"btgp"}
 {"symbol":"RAIZ55F","exchange":"BMFBOVESPA","status":"ok","logoid":"raizen"}
 {"symbol":"RAIZ55","exchange":"BMFBOVESPA","status":"ok","logoid":"raizen"}
+{"symbol":"IVBP11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"VTBR11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"VTUS11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}

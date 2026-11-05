@@ -16049,3 +16049,6 @@
 {"symbol":"SCDW","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"SCWD","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"PRIS","exchange":"LSE","status":"ok","logoid":"pristine-capital-plc-ord-gbp001"}
+{"symbol":"AXV","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"J5G1","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0MNY","exchange":"LSE","status":"ok","logoid":"ing"}

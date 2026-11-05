@@ -5379,3 +5379,7 @@
 {"symbol":"EVONILE","exchange":"BSE","status":"ok","logoid":"novartis"}
 {"symbol":"MELSTAR","exchange":"BSE","status":"ok","logoid":"melstar-information-technologi"}
 {"symbol":"ROOPSHRI","exchange":"BSE","status":"ok","logoid":"roopshri-resorts-limited"}
+{"symbol":"AVENIQUE","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"BCSSL","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"BRIGHTOUTD","exchange":"BSE","status":"ok","logoid":"bright-outdoor-media-limited"}
+{"symbol":"TSIFDG","exchange":"BSE","status":"ok","logoid":"titanium-hybrid-long-short-fund-direct-plan-growth-units-direct-plan-growth"}

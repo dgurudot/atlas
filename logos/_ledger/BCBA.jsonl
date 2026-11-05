@@ -1623,3 +1623,5 @@
 {"symbol":"MSC","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"SDAD","exchange":"BCBA","status":"ok","logoid":"suncar-technology"}
 {"symbol":"VODC","exchange":"BCBA","status":"ok","logoid":"vodafone"}
+{"symbol":"IRSAC","exchange":"BCBA","status":"ok","logoid":"irsa"}
+{"symbol":"HDB.CI","exchange":"BCBA","status":"ok","logoid":"hdfc-bank"}

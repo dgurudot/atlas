@@ -305,3 +305,4 @@
 {"symbol":"FERC","exchange":"EGX","status":"ok","logoid":"ferchem-misr-co-for-fertillizers-and-chemicals"}
 {"symbol":"EGS3I0S1C019","exchange":"EGX","status":"ok","logoid":"international-company-for-medical-industries-icmi"}
 {"symbol":"BQDC","exchange":"EGX","status":"nologo","logoid":null}
+{"symbol":"EGS3A0Y1C018","exchange":"EGX","status":"nologo","logoid":null}

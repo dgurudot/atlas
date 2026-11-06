@@ -3638,3 +3638,7 @@
 {"symbol":"EVONILE","exchange":"NSE","status":"ok","logoid":"novartis"}
 {"symbol":"MELSTAR","exchange":"NSE","status":"ok","logoid":"melstar-information-technologi"}
 {"symbol":"BCSSL","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"HGSINDIALT","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"MAXENGS","exchange":"NSE","status":"nologo","logoid":null}
+{"symbol":"BRIGHTOUTD","exchange":"NSE","status":"ok","logoid":"bright-outdoor-media-limited"}
+{"symbol":"OLAPP.E1","exchange":"NSE","status":"nologo","logoid":null}

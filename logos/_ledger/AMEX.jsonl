@@ -3375,3 +3375,4 @@
 {"symbol":"RECD","exchange":"AMEX","status":"ok","logoid":"columbia-diversified-fixed"}
 {"symbol":"RECM","exchange":"AMEX","status":"ok","logoid":"columbia-diversified-fixed"}
 {"symbol":"FMIG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BBLX","exchange":"AMEX","status":"ok","logoid":"bondbloxx"}

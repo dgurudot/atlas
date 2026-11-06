@@ -1625,3 +1625,4 @@
 {"symbol":"VODC","exchange":"BCBA","status":"ok","logoid":"vodafone"}
 {"symbol":"IRSAC","exchange":"BCBA","status":"ok","logoid":"irsa"}
 {"symbol":"HDB.CI","exchange":"BCBA","status":"ok","logoid":"hdfc-bank"}
+{"symbol":"AAPD","exchange":"BCBA","status":"ok","logoid":"advance-auto-parts"}

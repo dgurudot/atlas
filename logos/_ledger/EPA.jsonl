@@ -4060,3 +4060,5 @@
 {"symbol":"MATE","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"MLERH","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"FUSB","exchange":"EPA","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"MAGZ-ETFP","exchange":"EPA","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"USESGA","exchange":"EPA","status":"ok","logoid":"ubs-group"}

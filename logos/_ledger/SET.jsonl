@@ -2371,3 +2371,5 @@
 {"symbol":"QUICK.R","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"HPT","exchange":"SET","status":"ok","logoid":"home-pottery-public-company-limited-non-voting"}
 {"symbol":"HPT.R","exchange":"SET","status":"ok","logoid":"home-pottery-public-company-limited-non-voting"}
+{"symbol":"TR","exchange":"SET","status":"ok","logoid":"aditya-birla-capital"}
+{"symbol":"TR.R","exchange":"SET","status":"ok","logoid":"aditya-birla-capital"}

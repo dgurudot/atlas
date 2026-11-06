@@ -5584,3 +5584,5 @@
 {"symbol":"VRTI","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MGIN","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MAET","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"RPL1","exchange":"XETR","status":"ok","logoid":"upm-kymmene"}
+{"symbol":"YLDU","exchange":"XETR","status":"ok","logoid":"amundi"}

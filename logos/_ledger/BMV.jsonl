@@ -2784,3 +2784,7 @@
 {"symbol":"TREE","exchange":"BMV","status":"ok","logoid":"lendingtree"}
 {"symbol":"XDWI/N","exchange":"BMV","status":"ok","logoid":"dws"}
 {"symbol":"ERF/N","exchange":"BMV","status":"ok","logoid":"eurofins-scientific"}
+{"symbol":"MOG","exchange":"BMV","status":"ok","logoid":"moog"}
+{"symbol":"HBAN","exchange":"BMV","status":"ok","logoid":"huntington-bancshares"}
+{"symbol":"NCNO1","exchange":"BMV","status":"ok","logoid":"ncino"}
+{"symbol":"ROVI/N","exchange":"BMV","status":"ok","logoid":"laboratorios-farmaceuticos"}

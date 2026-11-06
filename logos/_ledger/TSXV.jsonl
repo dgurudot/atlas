@@ -1478,3 +1478,5 @@
 {"symbol":"HRC.P","exchange":"TSXV","status":"ok","logoid":"hoshi-resource"}
 {"symbol":"LKY","exchange":"TSXV","status":"ok","logoid":"lucky-minerals"}
 {"symbol":"MAP","exchange":"TSXV","status":"ok","logoid":"maple-peak-invts"}
+{"symbol":"HXC.H","exchange":"TSXV","status":"ok","logoid":"hfx"}
+{"symbol":"PEC.H","exchange":"TSXV","status":"ok","logoid":"peak-discovery-capital-ltd"}

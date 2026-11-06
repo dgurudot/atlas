@@ -5760,3 +5760,8 @@
 {"symbol":"AGLT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ACEM","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"INK","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"INJC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"LEDR","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"INK","exchange":"NASDAQ","status":"ok","logoid":"alliancebernstein-holding"}
+{"symbol":"LEDR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"INJC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

@@ -560,3 +560,7 @@
 {"symbol":"PFECL","exchange":"BCS","status":"ok","logoid":"pfizer"}
 {"symbol":"ANDINA_A1","exchange":"BCS","status":"ok","logoid":"embotelladora-andina"}
 {"symbol":"CATCL1","exchange":"BCS","status":"ok","logoid":"caterpillar"}
+{"symbol":"TGTCL","exchange":"BCS","status":"ok","logoid":"target"}
+{"symbol":"SALFACORP1","exchange":"BCS","status":"ok","logoid":"salfacorp-sa"}
+{"symbol":"CVSCL","exchange":"BCS","status":"ok","logoid":"cvs-health"}
+{"symbol":"SK1","exchange":"BCS","status":"ok","logoid":"sigdo-koppers-sa"}

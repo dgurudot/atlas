@@ -3106,3 +3106,10 @@
 {"symbol":"METE.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"RGLD","exchange":"SIX","status":"ok","logoid":"royal-gold"}
 {"symbol":"USFIN.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"BRIXU","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"CBND.USD","exchange":"SIX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"EMED.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"UEFA","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"DELL.USD","exchange":"SIX","status":"ok","logoid":"dell"}
+{"symbol":"UST37.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"GBP5.GBP","exchange":"SIX","status":"ok","logoid":"legal-and-general"}

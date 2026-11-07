@@ -5586,3 +5586,7 @@
 {"symbol":"MAET","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"RPL1","exchange":"XETR","status":"ok","logoid":"upm-kymmene"}
 {"symbol":"YLDU","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"GUHA","exchange":"XETR","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"GXHA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"LMEM","exchange":"XETR","status":"ok","logoid":"legal-and-general"}
+{"symbol":"MA9S","exchange":"XETR","status":"ok","logoid":"differential-series-solutions"}

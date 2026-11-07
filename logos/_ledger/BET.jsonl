@@ -125,3 +125,4 @@
 {"symbol":"SYB5","exchange":"BET","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"2B7A","exchange":"BET","status":"ok","logoid":"ishares"}
 {"symbol":"THYSS","exchange":"BET","status":"nologo","logoid":null}
+{"symbol":"UPPC","exchange":"BET","status":"nologo","logoid":null}

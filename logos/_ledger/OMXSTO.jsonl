@@ -932,3 +932,5 @@
 {"symbol":"PJ","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"MGNO","exchange":"OMXSTO","status":"ok","logoid":"magnora-asa"}
 {"symbol":"ONCINO","exchange":"OMXSTO","status":"ok","logoid":"bergenbio-asa"}
+{"symbol":"KLAR_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"CDLRO","exchange":"OMXSTO","status":"ok","logoid":"cadeler-as"}

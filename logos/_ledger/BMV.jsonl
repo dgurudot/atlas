@@ -2788,3 +2788,12 @@
 {"symbol":"HBAN","exchange":"BMV","status":"ok","logoid":"huntington-bancshares"}
 {"symbol":"NCNO1","exchange":"BMV","status":"ok","logoid":"ncino"}
 {"symbol":"ROVI/N","exchange":"BMV","status":"ok","logoid":"laboratorios-farmaceuticos"}
+{"symbol":"BOL/N","exchange":"BMV","status":"ok","logoid":"bollore"}
+{"symbol":"ENO/N","exchange":"BMV","status":"ok","logoid":"elecnor"}
+{"symbol":"ELE1/N","exchange":"BMV","status":"ok","logoid":"endesa"}
+{"symbol":"NVCR/N","exchange":"BMV","status":"ok","logoid":"novocure"}
+{"symbol":"WCOA/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"FLS","exchange":"BMV","status":"ok","logoid":"flowserve"}
+{"symbol":"PUIG/N","exchange":"BMV","status":"ok","logoid":"puig-brands"}
+{"symbol":"TUB/N","exchange":"BMV","status":"ok","logoid":"tubacex"}
+{"symbol":"ZROZ","exchange":"BMV","status":"ok","logoid":"pimco"}

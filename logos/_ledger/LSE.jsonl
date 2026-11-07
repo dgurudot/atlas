@@ -16058,3 +16058,7 @@
 {"symbol":"MATE","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"MGIN","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"OGOL","exchange":"LSE","status":"ok","logoid":"global-x"}
+{"symbol":"MAGZ","exchange":"LSE","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"MAGP","exchange":"LSE","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"0M8W","exchange":"LSE","status":"ok","logoid":"thunderbird-resorts"}
+{"symbol":"0O3W","exchange":"LSE","status":"ok","logoid":"gyldendal-b-a-s"}

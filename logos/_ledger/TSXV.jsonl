@@ -1480,3 +1480,4 @@
 {"symbol":"MAP","exchange":"TSXV","status":"ok","logoid":"maple-peak-invts"}
 {"symbol":"HXC.H","exchange":"TSXV","status":"ok","logoid":"hfx"}
 {"symbol":"PEC.H","exchange":"TSXV","status":"ok","logoid":"peak-discovery-capital-ltd"}
+{"symbol":"AIV.P","exchange":"TSXV","status":"nologo","logoid":null}

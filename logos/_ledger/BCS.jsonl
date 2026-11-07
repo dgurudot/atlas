@@ -564,3 +564,7 @@
 {"symbol":"SALFACORP1","exchange":"BCS","status":"ok","logoid":"salfacorp-sa"}
 {"symbol":"CVSCL","exchange":"BCS","status":"ok","logoid":"cvs-health"}
 {"symbol":"SK1","exchange":"BCS","status":"ok","logoid":"sigdo-koppers-sa"}
+{"symbol":"CFI_FMVPIE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"SBUXCL","exchange":"BCS","status":"ok","logoid":"starbucks"}
+{"symbol":"CFI_ALTEAE0","exchange":"BCS","status":"ok","logoid":"ameris-capital"}
+{"symbol":"BKNG","exchange":"BCS","status":"ok","logoid":"booking"}

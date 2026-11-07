@@ -23455,3 +23455,4 @@
 {"symbol":"ZTSSTOCK","exchange":"crypto","status":"nologo","logoid":null}
 {"symbol":"EMESTOCK","exchange":"crypto","status":"nologo","logoid":null}
 {"symbol":"EME","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"CARD","exchange":"crypto","status":"ok","logoid":"crypto/XTVCCARDSC"}

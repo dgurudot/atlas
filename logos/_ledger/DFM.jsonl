@@ -64,3 +64,4 @@
 {"symbol":"UPP","exchange":"DFM","status":"ok","logoid":"union-pacific"}
 {"symbol":"UNIONCOOP","exchange":"DFM","status":"ok","logoid":"union-coop"}
 {"symbol":"WATANIA","exchange":"DFM","status":"ok","logoid":"dar-al-takaful"}
+{"symbol":"DIP","exchange":"DFM","status":"nologo","logoid":null}

@@ -5765,3 +5765,4 @@
 {"symbol":"INK","exchange":"NASDAQ","status":"ok","logoid":"alliancebernstein-holding"}
 {"symbol":"LEDR","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"INJC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"MTRI","exchange":"NASDAQ","status":"ok","logoid":"inmed-pharmaceuticals"}

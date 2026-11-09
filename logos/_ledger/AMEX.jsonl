@@ -3376,3 +3376,11 @@
 {"symbol":"RECM","exchange":"AMEX","status":"ok","logoid":"columbia-diversified-fixed"}
 {"symbol":"FMIG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BBLX","exchange":"AMEX","status":"ok","logoid":"bondbloxx"}
+{"symbol":"HYFY","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"MFIX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"LYR","exchange":"AMEX","status":"ok","logoid":"s-and-p-global"}
+{"symbol":"LYRI","exchange":"AMEX","status":"ok","logoid":"s-and-p-global"}
+{"symbol":"TXCP/PB","exchange":"AMEX","status":"ok","logoid":"texas-capital-bancshares"}
+{"symbol":"TXCP","exchange":"AMEX","status":"ok","logoid":"texas-capital-bancshares"}
+{"symbol":"MFIX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HYFY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

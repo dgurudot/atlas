@@ -5590,3 +5590,5 @@
 {"symbol":"GXHA","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"LMEM","exchange":"XETR","status":"ok","logoid":"legal-and-general"}
 {"symbol":"MA9S","exchange":"XETR","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"5WV","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"F4UBB","exchange":"XETR","status":"ok","logoid":"ubs-group"}

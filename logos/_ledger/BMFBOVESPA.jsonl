@@ -2666,3 +2666,9 @@
 {"symbol":"VTUS11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"HCRA20","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"BFDN39","exchange":"BMFBOVESPA","status":"ok","logoid":"first-trust"}
+{"symbol":"L1OE34","exchange":"BMFBOVESPA","status":"ok","logoid":"loews"}
+{"symbol":"RBIC11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"RSID3","exchange":"BMFBOVESPA","status":"ok","logoid":"rossi-resid-on-nm"}
+{"symbol":"RBIC","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"W1EC34","exchange":"BMFBOVESPA","status":"ok","logoid":"wec-energy"}
+{"symbol":"RSID3F","exchange":"BMFBOVESPA","status":"ok","logoid":"rossi-resid-on-nm"}

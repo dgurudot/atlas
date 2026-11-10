@@ -2797,3 +2797,7 @@
 {"symbol":"PUIG/N","exchange":"BMV","status":"ok","logoid":"puig-brands"}
 {"symbol":"TUB/N","exchange":"BMV","status":"ok","logoid":"tubacex"}
 {"symbol":"ZROZ","exchange":"BMV","status":"ok","logoid":"pimco"}
+{"symbol":"AUSF","exchange":"BMV","status":"ok","logoid":"global-x"}
+{"symbol":"CBUX/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"API/N","exchange":"BMV","status":"ok","logoid":"agora"}
+{"symbol":"XSMC/N","exchange":"BMV","status":"ok","logoid":"dws"}

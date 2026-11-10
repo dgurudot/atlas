@@ -1071,3 +1071,5 @@
 {"symbol":"MTF.F142","exchange":"TASE","status":"nologo","logoid":null}
 {"symbol":"IS.FF506","exchange":"TASE","status":"ok","logoid":"ishares"}
 {"symbol":"IS.FFSEM","exchange":"TASE","status":"ok","logoid":"ishares"}
+{"symbol":"HRL.F242","exchange":"TASE","status":"nologo","logoid":null}
+{"symbol":"IS.FFIND","exchange":"TASE","status":"ok","logoid":"ishares"}

@@ -2308,3 +2308,6 @@
 {"symbol":"CHAT","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"AQ1","exchange":"ASX","status":"ok","logoid":"hiremii-limited"}
 {"symbol":"CISB","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"DTCR","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"NABCD","exchange":"ASX","status":"ok","logoid":"national-australia-bank"}
+{"symbol":"SMG","exchange":"ASX","status":"ok","logoid":"southern-cross-media-limited"}

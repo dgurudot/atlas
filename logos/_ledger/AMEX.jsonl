@@ -3384,3 +3384,11 @@
 {"symbol":"TXCP","exchange":"AMEX","status":"ok","logoid":"texas-capital-bancshares"}
 {"symbol":"MFIX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"HYFY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"EMDI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"HYB","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SMDC","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"EMDI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HYB","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SMDC","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

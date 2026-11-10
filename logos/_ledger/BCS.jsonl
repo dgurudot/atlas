@@ -568,3 +568,7 @@
 {"symbol":"SBUXCL","exchange":"BCS","status":"ok","logoid":"starbucks"}
 {"symbol":"CFI_ALTEAE0","exchange":"BCS","status":"ok","logoid":"ameris-capital"}
 {"symbol":"BKNG","exchange":"BCS","status":"ok","logoid":"booking"}
+{"symbol":"CFIFYNDEPA1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIHMI4X_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFI_AEVOBE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"SOCOVESA0","exchange":"BCS","status":"ok","logoid":"socovesa-sa"}

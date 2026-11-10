@@ -3113,3 +3113,14 @@
 {"symbol":"DELL.USD","exchange":"SIX","status":"ok","logoid":"dell"}
 {"symbol":"UST37.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
 {"symbol":"GBP5.GBP","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"ACDC","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"AMAT","exchange":"SIX","status":"ok","logoid":"applied-materials"}
+{"symbol":"F50A","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"ACESD.EUR","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"ANAU","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"FME","exchange":"SIX","status":"ok","logoid":"fresenius-medical-care"}
+{"symbol":"SP4C","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"WEWE","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"LITE1.USD","exchange":"SIX","status":"ok","logoid":"lumentum-hldgs"}
+{"symbol":"TENM.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
+{"symbol":"SGHY.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}

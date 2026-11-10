@@ -16062,3 +16062,6 @@
 {"symbol":"MAGP","exchange":"LSE","status":"ok","logoid":"differential-series-solutions"}
 {"symbol":"0M8W","exchange":"LSE","status":"ok","logoid":"thunderbird-resorts"}
 {"symbol":"0O3W","exchange":"LSE","status":"ok","logoid":"gyldendal-b-a-s"}
+{"symbol":"DEMM","exchange":"LSE","status":"ok","logoid":"legal-and-general"}
+{"symbol":"JCHN","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0HRT","exchange":"LSE","status":"ok","logoid":"cv-sciences-com-usd00001"}

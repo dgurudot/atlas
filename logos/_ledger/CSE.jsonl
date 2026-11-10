@@ -651,3 +651,5 @@
 {"symbol":"CCCU","exchange":"CSE","status":"ok","logoid":"clarity-metals"}
 {"symbol":"DGEN","exchange":"CSE","status":"nologo","logoid":null}
 {"symbol":"AGRI","exchange":"CSE","status":"ok","logoid":"eat-well-investment"}
+{"symbol":"NDAT","exchange":"CSE","status":"ok","logoid":"ndatalyze"}
+{"symbol":"REVX","exchange":"CSE","status":"ok","logoid":"rev-exploration"}

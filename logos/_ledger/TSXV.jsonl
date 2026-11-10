@@ -1481,3 +1481,6 @@
 {"symbol":"HXC.H","exchange":"TSXV","status":"ok","logoid":"hfx"}
 {"symbol":"PEC.H","exchange":"TSXV","status":"ok","logoid":"peak-discovery-capital-ltd"}
 {"symbol":"AIV.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"KEON","exchange":"TSXV","status":"ok","logoid":"keon-capital"}
+{"symbol":"QTX","exchange":"TSXV","status":"ok","logoid":"hydaway-digital"}
+{"symbol":"LIXX","exchange":"TSXV","status":"ok","logoid":"surge-battery-metals"}

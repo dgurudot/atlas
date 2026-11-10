@@ -2090,3 +2090,7 @@
 {"symbol":"DLAY","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"DLAY","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"DFIT","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BGRD","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"PGRW","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"PGRW","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BGRD","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

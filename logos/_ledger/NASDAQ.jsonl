@@ -5770,3 +5770,5 @@
 {"symbol":"QUIT","exchange":"NASDAQ","status":"ok","logoid":"achieve-life-science"}
 {"symbol":"XGPU","exchange":"NASDAQ","status":"ok","logoid":"reliance-global-hldgs-ltd"}
 {"symbol":"SCQC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"SCQC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

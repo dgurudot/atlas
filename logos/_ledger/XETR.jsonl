@@ -5592,3 +5592,12 @@
 {"symbol":"MA9S","exchange":"XETR","status":"ok","logoid":"differential-series-solutions"}
 {"symbol":"5WV","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"F4UBB","exchange":"XETR","status":"ok","logoid":"ubs-group"}
+{"symbol":"FDECD","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"FF702","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"FF701","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"FSRHE","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"FF703","exchange":"XETR","status":"ok","logoid":"lyxor"}
+{"symbol":"FNADQ","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"IVES","exchange":"XETR","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"SKEU","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"SKUS","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}

@@ -2672,3 +2672,4 @@
 {"symbol":"RBIC","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
 {"symbol":"W1EC34","exchange":"BMFBOVESPA","status":"ok","logoid":"wec-energy"}
 {"symbol":"RSID3F","exchange":"BMFBOVESPA","status":"ok","logoid":"rossi-resid-on-nm"}
+{"symbol":"TXRX3","exchange":"BMFBOVESPA","status":"ok","logoid":"tex-renaux-on"}

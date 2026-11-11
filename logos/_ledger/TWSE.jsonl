@@ -1365,3 +1365,5 @@
 {"symbol":"009831","exchange":"TWSE","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"7867","exchange":"TWSE","status":"ok","logoid":"test-rite-retail-co-ltd"}
 {"symbol":"00416A","exchange":"TWSE","status":"nologo","logoid":null}
+{"symbol":"00413A","exchange":"TWSE","status":"nologo","logoid":null}
+{"symbol":"00418A","exchange":"TWSE","status":"nologo","logoid":null}

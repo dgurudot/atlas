@@ -4064,3 +4064,5 @@
 {"symbol":"USESGA","exchange":"EPA","status":"ok","logoid":"ubs-group"}
 {"symbol":"SGHY","exchange":"EPA","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"DEMM","exchange":"EPA","status":"ok","logoid":"legal-and-general"}
+{"symbol":"MAGZ","exchange":"EPA","status":"ok","logoid":"differential-series-solutions"}
+{"symbol":"IVES","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}

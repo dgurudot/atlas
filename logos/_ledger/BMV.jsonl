@@ -2801,3 +2801,9 @@
 {"symbol":"CBUX/N","exchange":"BMV","status":"ok","logoid":"ishares"}
 {"symbol":"API/N","exchange":"BMV","status":"ok","logoid":"agora"}
 {"symbol":"XSMC/N","exchange":"BMV","status":"ok","logoid":"dws"}
+{"symbol":"CCH1/N","exchange":"BMV","status":"ok","logoid":"coca-cola"}
+{"symbol":"CN50/N","exchange":"BMV","status":"ok","logoid":"invesco"}
+{"symbol":"OPPJ","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"JPUS","exchange":"BMV","status":"ok","logoid":"jpmorgan"}
+{"symbol":"HUKX/N","exchange":"BMV","status":"ok","logoid":"hsbc"}
+{"symbol":"VRSA/N","exchange":"BMV","status":"ok","logoid":"vanguard"}

@@ -3392,3 +3392,13 @@
 {"symbol":"HYB","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SMDC","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"HYB","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"IQEI","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"IQEL","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SMDC","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"IQEI","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HYB","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"SMDC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IQEL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

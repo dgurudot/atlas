@@ -53,3 +53,4 @@
 {"symbol":"VFQS","exchange":"QSE","status":"ok","logoid":"vodafone"}
 {"symbol":"WDAM","exchange":"QSE","status":"ok","logoid":"widam-food-qpsc"}
 {"symbol":"ZHCD","exchange":"QSE","status":"ok","logoid":"zad-holding-qpsc"}
+{"symbol":"DNDY","exchange":"QSE","status":"nologo","logoid":null}

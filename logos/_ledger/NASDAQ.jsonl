@@ -5772,3 +5772,7 @@
 {"symbol":"SCQC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"SCQC","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CRMN","exchange":"NASDAQ","status":"ok","logoid":"skyline-builders-limited"}
+{"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ORIQU","exchange":"NASDAQ","status":"ok","logoid":"origin-investment-i"}
+{"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

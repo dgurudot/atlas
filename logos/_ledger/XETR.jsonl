@@ -5601,3 +5601,7 @@
 {"symbol":"IVES","exchange":"XETR","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
 {"symbol":"SKEU","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"SKUS","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"307","exchange":"XETR","status":"ok","logoid":"shopify"}
+{"symbol":"XMAC","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"HELD","exchange":"XETR","status":"ok","logoid":"hsbc"}
+{"symbol":"FACE","exchange":"XETR","status":"ok","logoid":"fidelity-advantage"}

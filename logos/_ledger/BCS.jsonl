@@ -574,3 +574,5 @@
 {"symbol":"SOCOVESA0","exchange":"BCS","status":"ok","logoid":"socovesa-sa"}
 {"symbol":"COST1","exchange":"BCS","status":"ok","logoid":"costco-wholesale"}
 {"symbol":"CFIPKRA4_E0","exchange":"BCS","status":"ok","logoid":"picton-adm-general-de-fondos-sa-picton-kkr-asia-iv-fi"}
+{"symbol":"ABBV","exchange":"BCS","status":"ok","logoid":"abbvie"}
+{"symbol":"EMBONOR_B1","exchange":"BCS","status":"ok","logoid":"coca-cola"}

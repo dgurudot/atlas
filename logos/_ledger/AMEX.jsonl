@@ -3402,3 +3402,12 @@
 {"symbol":"SMDC","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"IQEL","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"KBTY","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"CFR/PB","exchange":"AMEX","status":"ok","logoid":"cullen-frost-bankers"}
+{"symbol":"CFR","exchange":"AMEX","status":"ok","logoid":"cullen-frost-bankers"}
+{"symbol":"IQEE","exchange":"AMEX","status":"ok","logoid":"invesco"}
+{"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GLLD","exchange":"AMEX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"IQES","exchange":"AMEX","status":"ok","logoid":"invesco"}
+{"symbol":"KBTY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

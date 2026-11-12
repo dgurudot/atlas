@@ -2094,3 +2094,4 @@
 {"symbol":"PGRW","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"PGRW","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BGRD","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"IBLY","exchange":"CBOE","status":"ok","logoid":"first-trust"}

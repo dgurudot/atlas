@@ -16065,3 +16065,7 @@
 {"symbol":"DEMM","exchange":"LSE","status":"ok","logoid":"legal-and-general"}
 {"symbol":"JCHN","exchange":"LSE","status":"nologo","logoid":null}
 {"symbol":"0HRT","exchange":"LSE","status":"ok","logoid":"cv-sciences-com-usd00001"}
+{"symbol":"DIVY","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"HAVE","exchange":"LSE","status":"ok","logoid":"hsbc"}
+{"symbol":"0KFF","exchange":"LSE","status":"ok","logoid":"nordwest-handel-ag"}
+{"symbol":"HOLD","exchange":"LSE","status":"ok","logoid":"hsbc"}

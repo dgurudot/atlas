@@ -3124,3 +3124,8 @@
 {"symbol":"LITE1.USD","exchange":"SIX","status":"ok","logoid":"lumentum-hldgs"}
 {"symbol":"TENM.USD","exchange":"SIX","status":"ok","logoid":"ishares"}
 {"symbol":"SGHY.USD","exchange":"SIX","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"GENDEW","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"VIB3","exchange":"SIX","status":"ok","logoid":"villeroy-and-boch-ag-pref"}
+{"symbol":"SHOP","exchange":"SIX","status":"ok","logoid":"shopify"}
+{"symbol":"VRT.USD","exchange":"SIX","status":"ok","logoid":"vertiv-holdings"}
+{"symbol":"SAX","exchange":"SIX","status":"ok","logoid":"stroeer-se-co-kgaa"}

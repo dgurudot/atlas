@@ -3411,3 +3411,8 @@
 {"symbol":"IQES","exchange":"AMEX","status":"ok","logoid":"invesco"}
 {"symbol":"KBTY","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"XDLR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"BWLB","exchange":"AMEX","status":"ok","logoid":"brandywineglobal-global-income-opportunities-fund"}
+{"symbol":"MDRN","exchange":"AMEX","status":"ok","logoid":"modern-mining-technology"}
+{"symbol":"NJPN","exchange":"AMEX","status":"ok","logoid":"nomura"}
+{"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

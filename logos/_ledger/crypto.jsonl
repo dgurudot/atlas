@@ -23563,3 +23563,8 @@
 {"symbol":"YOSHI","exchange":"crypto","status":"ok","logoid":"crypto/XTVCYOSHI"}
 {"symbol":"SHIK","exchange":"crypto","status":"ok","logoid":"crypto/XTVCSHIK"}
 {"symbol":"WOJ","exchange":"crypto","status":"ok","logoid":"crypto/XTVCWOJ"}
+{"symbol":"VJRA","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"NCSKFRHC2USD","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"IO-NVDL","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"ANTX","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"SANC","exchange":"crypto","status":"ok","logoid":"crypto/XTVCSANCH"}

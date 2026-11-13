@@ -16069,3 +16069,8 @@
 {"symbol":"HAVE","exchange":"LSE","status":"ok","logoid":"hsbc"}
 {"symbol":"0KFF","exchange":"LSE","status":"ok","logoid":"nordwest-handel-ag"}
 {"symbol":"HOLD","exchange":"LSE","status":"ok","logoid":"hsbc"}
+{"symbol":"IVES","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"IVEP","exchange":"LSE","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"0G1T","exchange":"LSE","status":"ok","logoid":"wavestone"}
+{"symbol":"0HHI","exchange":"LSE","status":"ok","logoid":"surteco-se"}
+{"symbol":"XHT5","exchange":"LSE","status":"ok","logoid":"dws"}

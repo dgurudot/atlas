@@ -5741,3 +5741,6 @@
 {"symbol":"41559","exchange":"HKEX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
 {"symbol":"7772","exchange":"HKEX","status":"ok","logoid":"csop-asset"}
 {"symbol":"3559","exchange":"HKEX","status":"ok","logoid":"harvest-capital-manag-pu-ltd"}
+{"symbol":"6935","exchange":"HKEX","status":"nologo","logoid":null}
+{"symbol":"9479","exchange":"HKEX","status":"ok","logoid":"china-asset-mgt-co"}
+{"symbol":"9107","exchange":"HKEX","status":"ok","logoid":"bosera-asset-mgt-intl-co-ltd-bosera-star-50-index-etf-cny"}

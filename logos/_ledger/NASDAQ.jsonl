@@ -5776,3 +5776,7 @@
 {"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"ORIQU","exchange":"NASDAQ","status":"ok","logoid":"origin-investment-i"}
 {"symbol":"SCQC","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LOVI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"OPHI","exchange":"NASDAQ","status":"ok","logoid":"collplant-biotechnologies-ltd"}
+{"symbol":"ZYN","exchange":"NASDAQ","status":"ok","logoid":"ptl-limited-class-a"}
+{"symbol":"LOVI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

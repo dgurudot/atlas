@@ -2883,3 +2883,5 @@
 {"symbol":"HYAC","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"LTEQ","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"LTEQ","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"LOB/PB","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"LOB/PB","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

@@ -653,3 +653,5 @@
 {"symbol":"AGRI","exchange":"CSE","status":"ok","logoid":"eat-well-investment"}
 {"symbol":"NDAT","exchange":"CSE","status":"ok","logoid":"ndatalyze"}
 {"symbol":"REVX","exchange":"CSE","status":"ok","logoid":"rev-exploration"}
+{"symbol":"ELYX","exchange":"CSE","status":"ok","logoid":"elysian-mineral-exploration"}
+{"symbol":"VLAB","exchange":"CSE","status":"ok","logoid":"sweet-earth"}

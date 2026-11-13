@@ -576,3 +576,8 @@
 {"symbol":"CFIPKRA4_E0","exchange":"BCS","status":"ok","logoid":"picton-adm-general-de-fondos-sa-picton-kkr-asia-iv-fi"}
 {"symbol":"ABBV","exchange":"BCS","status":"ok","logoid":"abbvie"}
 {"symbol":"EMBONOR_B1","exchange":"BCS","status":"ok","logoid":"coca-cola"}
+{"symbol":"CFIMBD5I_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIMBD5I_E1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFILVDPU_E1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
+{"symbol":"CFI_FYNUAE","exchange":"BCS","status":"ok","logoid":"fynsa-adm-general-de-fundos-sa-fi-fynsa-upper-residencial-us-i-a"}
+{"symbol":"AAISA1","exchange":"BCS","status":"ok","logoid":"adm-americana-de-i"}

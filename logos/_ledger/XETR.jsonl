@@ -5605,3 +5605,9 @@
 {"symbol":"XMAC","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"HELD","exchange":"XETR","status":"ok","logoid":"hsbc"}
 {"symbol":"FACE","exchange":"XETR","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"UF1A","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"STBL","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"JGVA","exchange":"XETR","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JGLV","exchange":"XETR","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JGVL","exchange":"XETR","status":"ok","logoid":"jpmorgan"}
+{"symbol":"WDL","exchange":"XETR","status":"ok","logoid":"windelnde-se"}

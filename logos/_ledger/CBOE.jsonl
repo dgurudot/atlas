@@ -2095,3 +2095,5 @@
 {"symbol":"PGRW","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BGRD","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"IBLY","exchange":"CBOE","status":"ok","logoid":"first-trust"}
+{"symbol":"MAGP","exchange":"CBOE","status":"ok","logoid":"roundhmetave-aeoa"}
+{"symbol":"VEMB","exchange":"CBOE","status":"ok","logoid":"vanguard"}

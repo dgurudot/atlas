@@ -581,3 +581,9 @@
 {"symbol":"CFILVDPU_E1","exchange":"BCS","status":"ok","logoid":"larrain-vial-activos-sa-admin-gen-fi-lv-patio-renta-inmobiliaria-i-a"}
 {"symbol":"CFI_FYNUAE","exchange":"BCS","status":"ok","logoid":"fynsa-adm-general-de-fundos-sa-fi-fynsa-upper-residencial-us-i-a"}
 {"symbol":"AAISA1","exchange":"BCS","status":"ok","logoid":"adm-americana-de-i"}
+{"symbol":"CFIANXIA_E","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIANXIB_E","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CAT1","exchange":"BCS","status":"ok","logoid":"caterpillar"}
+{"symbol":"SCHWAGER0","exchange":"BCS","status":"ok","logoid":"schwager-sa"}
+{"symbol":"CFIMBD4C_E1","exchange":"BCS","status":"ok","logoid":"mbi-administradora-general-de-fondo-mbi-chl-deuda-estructurada-fi-a-usd"}
+{"symbol":"CFI_AMDVMA","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}

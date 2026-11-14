@@ -3134,3 +3134,6 @@
 {"symbol":"AUSG","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"AHYX","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"LGUS.USD","exchange":"SIX","status":"ok","logoid":"legal-and-general"}
+{"symbol":"C027","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"UDVDA.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"F.USD","exchange":"SIX","status":"ok","logoid":"ford"}

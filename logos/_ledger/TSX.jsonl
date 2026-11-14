@@ -3049,3 +3049,10 @@
 {"symbol":"TXR","exchange":"TSX","status":"ok","logoid":"torex-gold-resources"}
 {"symbol":"PAEF","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"FWZ","exchange":"TSX","status":"ok","logoid":"fireweed-metals"}
+{"symbol":"ZESC","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZALL","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZGDB","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZFIX","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZESC.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZGSC","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"ZINC","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}

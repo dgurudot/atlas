@@ -2314,3 +2314,5 @@
 {"symbol":"MQGCD","exchange":"ASX","status":"ok","logoid":"macquarie"}
 {"symbol":"SBK","exchange":"ASX","status":"ok","logoid":"blaze-minerals-limited"}
 {"symbol":"CX8","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"MAV","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"ANZCD","exchange":"ASX","status":"ok","logoid":"australia-and-new-zealand-banking"}

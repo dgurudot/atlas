@@ -863,3 +863,4 @@
 {"symbol":"ETFHANYMAG","exchange":"GPW","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}
 {"symbol":"CEN","exchange":"GPW","status":"ok","logoid":"cstore-sa"}
 {"symbol":"HPG","exchange":"GPW","status":"ok","logoid":"honeypay"}
+{"symbol":"WFI","exchange":"GPW","status":"ok","logoid":"ibsm"}

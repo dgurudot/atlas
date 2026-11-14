@@ -2675,3 +2675,4 @@
 {"symbol":"TXRX3","exchange":"BMFBOVESPA","status":"ok","logoid":"tex-renaux-on"}
 {"symbol":"STRY11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"RBRK11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii"}
+{"symbol":"GPRE11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}

@@ -1628,3 +1628,14 @@
 {"symbol":"AAPD","exchange":"BCBA","status":"ok","logoid":"advance-auto-parts"}
 {"symbol":"EQNRD","exchange":"BCBA","status":"ok","logoid":"equinor"}
 {"symbol":"KO..B","exchange":"BCBA","status":"ok","logoid":"coca-cola"}
+{"symbol":"DBA","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"HSIMD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"DBBD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"DBB","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ILIT","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"JMOM","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"WEAT","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"JMOMD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"REMX","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"QQQDB","exchange":"BCBA","status":"ok","logoid":"invesco"}
+{"symbol":"XROXC","exchange":"BCBA","status":"ok","logoid":"xerox"}

@@ -2818,3 +2818,11 @@
 {"symbol":"SA/N","exchange":"BMV","status":"ok","logoid":"seabridge-gold"}
 {"symbol":"WMS","exchange":"BMV","status":"ok","logoid":"advanced-drainage-system"}
 {"symbol":"WDS/N","exchange":"BMV","status":"ok","logoid":"woodside-petroleum"}
+{"symbol":"AENA/N","exchange":"BMV","status":"ok","logoid":"aena"}
+{"symbol":"BEKE/N","exchange":"BMV","status":"ok","logoid":"ke-holdings"}
+{"symbol":"CIEA/N","exchange":"BMV","status":"ok","logoid":"cie-automotive"}
+{"symbol":"MCM/N","exchange":"BMV","status":"ok","logoid":"miquel-costas-miquel"}
+{"symbol":"LVHI","exchange":"BMV","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"CABK/N","exchange":"BMV","status":"ok","logoid":"caixabank"}
+{"symbol":"HSDT","exchange":"BMV","status":"ok","logoid":"helius-medical-technologies"}
+{"symbol":"FIZZ","exchange":"BMV","status":"ok","logoid":"national-beverage"}

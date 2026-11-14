@@ -1488,3 +1488,4 @@
 {"symbol":"SKK","exchange":"TSXV","status":"ok","logoid":"strikewell-energy"}
 {"symbol":"NMRK","exchange":"TSXV","status":"ok","logoid":"apogee-minerals-ltd"}
 {"symbol":"SBO.H","exchange":"TSXV","status":"ok","logoid":"schwabo-capital"}
+{"symbol":"BASQ.P","exchange":"TSXV","status":"nologo","logoid":null}

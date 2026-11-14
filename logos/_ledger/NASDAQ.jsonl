@@ -5780,3 +5780,5 @@
 {"symbol":"OPHI","exchange":"NASDAQ","status":"ok","logoid":"collplant-biotechnologies-ltd"}
 {"symbol":"ZYN","exchange":"NASDAQ","status":"ok","logoid":"ptl-limited-class-a"}
 {"symbol":"LOVI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"WWB","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"WWB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

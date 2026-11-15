@@ -23569,3 +23569,15 @@
 {"symbol":"ANTX","exchange":"crypto","status":"nologo","logoid":null}
 {"symbol":"SANC","exchange":"crypto","status":"ok","logoid":"crypto/XTVCSANCH"}
 {"symbol":"ASMBSC","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"IO-AMD","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"KYNCO2","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"WASTED","exchange":"crypto","status":"nologo","logoid":null}
+{"symbol":"REROC","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"RKSPI","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"RHONA","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"RERIC","exchange":"crypto","status":"failed","logoid":null,"source":"coingecko"}
+{"symbol":"\u725b\u903c","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"RBRKB","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"ANTX","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"CIG","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}
+{"symbol":"WOLVERINU","exchange":"crypto","status":"ok","logoid":null,"source":"coingecko"}

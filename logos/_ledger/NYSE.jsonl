@@ -2887,3 +2887,6 @@
 {"symbol":"LOB/PB","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VVVV","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"VVVV","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"HZN","exchange":"NYSE","status":"ok","logoid":"black-hills"}
+{"symbol":"PORT","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PORT","exchange":"NYSE","status":"failed","logoid":null,"source":"polygon"}

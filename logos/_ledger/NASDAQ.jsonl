@@ -5784,3 +5784,11 @@
 {"symbol":"WWB","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"BRRK","exchange":"NASDAQ","status":"nologo","logoid":null}
 {"symbol":"BRRK","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DAU","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"PIVT","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"VRSA","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"HCOP","exchange":"NASDAQ","status":"ok","logoid":"hartford-core-bond-etf"}
+{"symbol":"GM","exchange":"NASDAQ","status":"ok","logoid":"general-motors"}
+{"symbol":"PIVT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"VRSA","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"DAU","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

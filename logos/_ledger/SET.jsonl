@@ -2379,3 +2379,5 @@
 {"symbol":"CATL11","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"WUXI11","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"TI26","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"ROH","exchange":"SET","status":"ok","logoid":"royal-orchid-thai-non-voting"}
+{"symbol":"ROH.R","exchange":"SET","status":"ok","logoid":"royal-orchid-thai-non-voting"}

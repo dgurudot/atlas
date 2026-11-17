@@ -1489,3 +1489,5 @@
 {"symbol":"NMRK","exchange":"TSXV","status":"ok","logoid":"apogee-minerals-ltd"}
 {"symbol":"SBO.H","exchange":"TSXV","status":"ok","logoid":"schwabo-capital"}
 {"symbol":"BASQ.P","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"LTV","exchange":"TSXV","status":"ok","logoid":"leonovus"}
+{"symbol":"VALX","exchange":"TSXV","status":"nologo","logoid":null}

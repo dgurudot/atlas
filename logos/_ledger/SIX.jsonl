@@ -3137,3 +3137,6 @@
 {"symbol":"C027","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"UDVDA.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"F.USD","exchange":"SIX","status":"ok","logoid":"ford"}
+{"symbol":"MA","exchange":"SIX","status":"ok","logoid":"mastercard"}
+{"symbol":"KTOS.USD","exchange":"SIX","status":"ok","logoid":"kratos-defense-and-security-solutions"}
+{"symbol":"USTYP.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}

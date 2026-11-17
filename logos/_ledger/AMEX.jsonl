@@ -3416,3 +3416,4 @@
 {"symbol":"MDRN","exchange":"AMEX","status":"ok","logoid":"modern-mining-technology"}
 {"symbol":"NJPN","exchange":"AMEX","status":"ok","logoid":"nomura"}
 {"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ZDAY","exchange":"AMEX","status":"ok","logoid":"bitwise-crypto-industry"}

@@ -3056,3 +3056,12 @@
 {"symbol":"ZESC.F","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZGSC","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
 {"symbol":"ZINC","exchange":"TSX","status":"ok","logoid":"bank-of-montreal"}
+{"symbol":"SBIE","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"SBAL","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"SEQT","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"SCNS","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"SBGE","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"CGOV","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
+{"symbol":"SGRW","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"UGOV.U","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
+{"symbol":"SFIX","exchange":"TSX","status":"nologo","logoid":null}

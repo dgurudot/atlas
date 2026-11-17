@@ -1639,3 +1639,6 @@
 {"symbol":"REMX","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"QQQDB","exchange":"BCBA","status":"ok","logoid":"invesco"}
 {"symbol":"XROXC","exchange":"BCBA","status":"ok","logoid":"xerox"}
+{"symbol":"REMX.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"JMOM.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"WEAT.CI","exchange":"BCBA","status":"nologo","logoid":null}

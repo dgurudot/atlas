@@ -4070,3 +4070,6 @@
 {"symbol":"GRCTB-ETFP","exchange":"EPA","status":"ok","logoid":"paribas"}
 {"symbol":"XBNK","exchange":"EPA","status":"ok","logoid":"legal-and-general"}
 {"symbol":"TCQW","exchange":"EPA","status":"ok","logoid":"hanetf-icav-airline-hotel-cruise"}
+{"symbol":"MGIN","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"JGLV","exchange":"EPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"WOLD","exchange":"EPA","status":"ok","logoid":"amundi"}

@@ -3065,3 +3065,6 @@
 {"symbol":"SGRW","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"UGOV.U","exchange":"TSX","status":"ok","logoid":"hamilton-austrlan-bk"}
 {"symbol":"SFIX","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"EEQT","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
+{"symbol":"EBAL","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
+{"symbol":"VRSA","exchange":"TSX","status":"ok","logoid":"versabank"}

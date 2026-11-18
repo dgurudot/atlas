@@ -5792,3 +5792,16 @@
 {"symbol":"PIVT","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"VRSA","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"DAU","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CWPG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CWPD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"IQQI","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"DRAC","exchange":"NASDAQ","status":"ok","logoid":"graniteshares"}
+{"symbol":"DAU","exchange":"NASDAQ","status":"ok","logoid":"graniteshares"}
+{"symbol":"MEA","exchange":"NASDAQ","status":"ok","logoid":"graniteshares"}
+{"symbol":"GUER","exchange":"NASDAQ","status":"ok","logoid":"guerrilla-rf"}
+{"symbol":"PCHX","exchange":"NASDAQ","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"NTCR","exchange":"NASDAQ","status":"ok","logoid":"nuveen-dividend-growth"}
+{"symbol":"VRSA","exchange":"NASDAQ","status":"ok","logoid":"versabank"}
+{"symbol":"IQQI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CWPD","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CWPG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

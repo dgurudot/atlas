@@ -497,3 +497,7 @@
 {"symbol":"BEST","exchange":"JSE","status":"nologo","logoid":null}
 {"symbol":"91GEQ","exchange":"JSE","status":"nologo","logoid":null}
 {"symbol":"91SAEQ","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"AFXBAL","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"AFXGLP","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"AFXFLX","exchange":"JSE","status":"nologo","logoid":null}
+{"symbol":"UEXGEP","exchange":"JSE","status":"ok","logoid":"ubs-group"}

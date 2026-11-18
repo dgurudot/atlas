@@ -2381,3 +2381,14 @@
 {"symbol":"TI26","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"ROH","exchange":"SET","status":"ok","logoid":"royal-orchid-thai-non-voting"}
 {"symbol":"ROH.R","exchange":"SET","status":"ok","logoid":"royal-orchid-thai-non-voting"}
+{"symbol":"APDIV24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"AIINFRA24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"AIQ24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"CNSEMI24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"COPHK24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"GOLDHK24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"JPMS24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"USDIV24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"HKDIV24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"KRSEMI24","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"USTLTH24","exchange":"SET","status":"nologo","logoid":null}

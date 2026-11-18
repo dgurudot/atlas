@@ -591,3 +591,8 @@
 {"symbol":"CFI_FYNMAE1","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"ABBVCL1","exchange":"BCS","status":"ok","logoid":"abbvie"}
 {"symbol":"LIPIGAS1","exchange":"BCS","status":"ok","logoid":"empresas-lipigas"}
+{"symbol":"CFIVPE9B_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIANXIA_E1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"GILDCL","exchange":"BCS","status":"ok","logoid":"gilead"}
+{"symbol":"PUCOBRE1","exchange":"BCS","status":"ok","logoid":"sociedad-punta-del"}
+{"symbol":"DIS1","exchange":"BCS","status":"ok","logoid":"walt-disney"}

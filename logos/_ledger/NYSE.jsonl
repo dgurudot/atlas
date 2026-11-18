@@ -2893,3 +2893,5 @@
 {"symbol":"PORT","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"TXR","exchange":"NYSE","status":"ok","logoid":"torex-gold-resources"}
 {"symbol":"PORT","exchange":"NYSE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"PORT","exchange":"NYSE","status":"nologo","logoid":null}
+{"symbol":"PORT","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}

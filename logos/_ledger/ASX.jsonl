@@ -2317,3 +2317,7 @@
 {"symbol":"MAV","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"ANZCD","exchange":"ASX","status":"ok","logoid":"australia-and-new-zealand-banking"}
 {"symbol":"PGH1","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"MBAI","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"DSEM","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"DGPR","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"TIR2","exchange":"ASX","status":"ok","logoid":"beta-shares"}

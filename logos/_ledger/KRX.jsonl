@@ -4446,3 +4446,7 @@
 {"symbol":"0269M0","exchange":"KRX","status":"ok","logoid":"kb-financial"}
 {"symbol":"0269N0","exchange":"KRX","status":"ok","logoid":"kb-financial"}
 {"symbol":"456190","exchange":"KRX","status":"ok","logoid":"curachem"}
+{"symbol":"610117","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"610118","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"471800","exchange":"KRX","status":"nologo","logoid":null}
+{"symbol":"610116","exchange":"KRX","status":"nologo","logoid":null}

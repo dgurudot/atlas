@@ -3140,3 +3140,8 @@
 {"symbol":"MA","exchange":"SIX","status":"ok","logoid":"mastercard"}
 {"symbol":"KTOS.USD","exchange":"SIX","status":"ok","logoid":"kratos-defense-and-security-solutions"}
 {"symbol":"USTYP.USD","exchange":"SIX","status":"ok","logoid":"ubs-group"}
+{"symbol":"AEHY","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"EMGXC","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"TTK","exchange":"SIX","status":"ok","logoid":"takkt-ag"}
+{"symbol":"MSMW.USD","exchange":"SIX","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MTOP.EUR","exchange":"SIX","status":"ok","logoid":"morgan-stanley"}

@@ -5612,3 +5612,9 @@
 {"symbol":"JGVL","exchange":"XETR","status":"ok","logoid":"jpmorgan"}
 {"symbol":"WDL","exchange":"XETR","status":"ok","logoid":"windelnde-se"}
 {"symbol":"WAI","exchange":"XETR","status":"ok","logoid":"umt-united-mobility-technology-ag"}
+{"symbol":"ESAS","exchange":"XETR","status":"ok","logoid":"paribas"}
+{"symbol":"FLYY7","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"MKIT","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"MSLP","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MZLU","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"MNRG","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}

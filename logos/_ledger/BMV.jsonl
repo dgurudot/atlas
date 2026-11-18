@@ -2826,3 +2826,8 @@
 {"symbol":"CABK/N","exchange":"BMV","status":"ok","logoid":"caixabank"}
 {"symbol":"HSDT","exchange":"BMV","status":"ok","logoid":"helius-medical-technologies"}
 {"symbol":"FIZZ","exchange":"BMV","status":"ok","logoid":"national-beverage"}
+{"symbol":"BNKE/N","exchange":"BMV","status":"ok","logoid":"amundi"}
+{"symbol":"THC","exchange":"BMV","status":"ok","logoid":"tenet-healthcare"}
+{"symbol":"7182/N","exchange":"BMV","status":"ok","logoid":"japan-post-bank"}
+{"symbol":"STVN/N","exchange":"BMV","status":"ok","logoid":"stevanato-group"}
+{"symbol":"YPSN/N","exchange":"BMV","status":"ok","logoid":"ypsomed-hldg"}

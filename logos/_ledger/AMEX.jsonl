@@ -3417,3 +3417,12 @@
 {"symbol":"NJPN","exchange":"AMEX","status":"ok","logoid":"nomura"}
 {"symbol":"XDLR","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ZDAY","exchange":"AMEX","status":"ok","logoid":"bitwise-crypto-industry"}
+{"symbol":"APNX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"APFS","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ZOAR","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"SIMI","exchange":"AMEX","status":"ok","logoid":"american-beacon"}
+{"symbol":"VEN","exchange":"AMEX","status":"ok","logoid":"teucrium-agricultural"}
+{"symbol":"YO","exchange":"AMEX","status":"ok","logoid":"amplify"}
+{"symbol":"APFS","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"APNX","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"ZOAR","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

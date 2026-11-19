@@ -3145,3 +3145,7 @@
 {"symbol":"TTK","exchange":"SIX","status":"ok","logoid":"takkt-ag"}
 {"symbol":"MSMW.USD","exchange":"SIX","status":"ok","logoid":"morgan-stanley"}
 {"symbol":"MTOP.EUR","exchange":"SIX","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"CCJ","exchange":"SIX","status":"ok","logoid":"cameco"}
+{"symbol":"FLXED.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"GLDX","exchange":"SIX","status":"ok","logoid":"global-x"}
+{"symbol":"FBIE.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}

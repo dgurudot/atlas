@@ -1645,3 +1645,14 @@
 {"symbol":"WEATD","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"ILIT.CI","exchange":"BCBA","status":"nologo","logoid":null}
 {"symbol":"DBB.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"CQQQ","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"HSIMC","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"IGPT","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"DBAD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"HSIM.CI","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"ILITD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"XSMO","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"INDA","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"BMA.B","exchange":"BCBA","status":"ok","logoid":"banco-macro"}
+{"symbol":"YPDCB","exchange":"BCBA","status":"ok","logoid":"ypf"}
+{"symbol":"TENB","exchange":"BCBA","status":"ok","logoid":"tenaris"}

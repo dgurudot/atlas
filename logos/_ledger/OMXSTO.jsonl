@@ -937,3 +937,5 @@
 {"symbol":"HUGOO","exchange":"OMXSTO","status":"ok","logoid":"5th-planet-games-a-s"}
 {"symbol":"NORDVI","exchange":"OMXSTO","status":"ok","logoid":"doxa-ab"}
 {"symbol":"WSTEPO","exchange":"OMXSTO","status":"ok","logoid":"webstep-asa"}
+{"symbol":"BRIGHT_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"NICA_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}

@@ -1492,3 +1492,6 @@
 {"symbol":"LTV","exchange":"TSXV","status":"ok","logoid":"leonovus"}
 {"symbol":"VALX","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"VIMY","exchange":"TSXV","status":"ok","logoid":"harmony-acquisitions"}
+{"symbol":"ATHO","exchange":"TSXV","status":"ok","logoid":"meed-growth"}
+{"symbol":"KALM.P","exchange":"TSXV","status":"ok","logoid":"kalma-capital"}
+{"symbol":"SAY","exchange":"TSXV","status":"ok","logoid":"sparta-capital"}

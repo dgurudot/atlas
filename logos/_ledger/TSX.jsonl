@@ -3068,3 +3068,6 @@
 {"symbol":"EEQT","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
 {"symbol":"EBAL","exchange":"TSX","status":"ok","logoid":"evolve-etf"}
 {"symbol":"VRSA","exchange":"TSX","status":"ok","logoid":"versabank"}
+{"symbol":"NBIS","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"NSTR","exchange":"TSX","status":"ok","logoid":"viking-acquisition-i-units-cons-of-1-shs-a-1-3-red-wt"}
+{"symbol":"EGHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}

@@ -1779,3 +1779,12 @@
 {"symbol":"FTAS","exchange":"AMS","status":"ok","logoid":"ishares"}
 {"symbol":"US4D","exchange":"AMS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"IDVU","exchange":"AMS","status":"ok","logoid":"ishares"}
+{"symbol":"BINC","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"EHUH","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"EUUH","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"VAEA","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"VAEC","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"ILOC","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"VAHA","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"VAHD","exchange":"AMS","status":"nologo","logoid":null}
+{"symbol":"WWLD","exchange":"AMS","status":"nologo","logoid":null}

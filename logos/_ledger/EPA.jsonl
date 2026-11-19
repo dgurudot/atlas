@@ -4076,3 +4076,5 @@
 {"symbol":"AUTOC","exchange":"EPA","status":"nologo","logoid":null}
 {"symbol":"UCRPH","exchange":"EPA","status":"ok","logoid":"amundi"}
 {"symbol":"JGVA","exchange":"EPA","status":"ok","logoid":"jpmorgan"}
+{"symbol":"GLDX","exchange":"EPA","status":"ok","logoid":"global-x"}
+{"symbol":"EBCA","exchange":"EPA","status":"ok","logoid":"ishares"}

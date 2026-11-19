@@ -2831,3 +2831,7 @@
 {"symbol":"7182/N","exchange":"BMV","status":"ok","logoid":"japan-post-bank"}
 {"symbol":"STVN/N","exchange":"BMV","status":"ok","logoid":"stevanato-group"}
 {"symbol":"YPSN/N","exchange":"BMV","status":"ok","logoid":"ypsomed-hldg"}
+{"symbol":"FSUN","exchange":"BMV","status":"ok","logoid":"firstsun-capital-bancorp"}
+{"symbol":"LOAR","exchange":"BMV","status":"ok","logoid":"loar"}
+{"symbol":"RYN","exchange":"BMV","status":"ok","logoid":"rayonier-reit"}
+{"symbol":"TFRNX/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}

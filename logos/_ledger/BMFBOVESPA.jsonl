@@ -2680,3 +2680,4 @@
 {"symbol":"RAPT3L","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"SOND3F","exchange":"BMFBOVESPA","status":"ok","logoid":"sondotecnicapnb"}
 {"symbol":"BFLO39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
+{"symbol":"TSER11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-tishman-ci-er"}

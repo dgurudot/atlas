@@ -5805,3 +5805,10 @@
 {"symbol":"IQQI","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CWPD","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"CWPG","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CCHP","exchange":"NASDAQ","status":"ok","logoid":"global-x"}
+{"symbol":"CWPG","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"CWPD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"FDGX","exchange":"NASDAQ","status":"ok","logoid":"cslm-digital-asset-acquisition-iii"}
+{"symbol":"FDGXU","exchange":"NASDAQ","status":"ok","logoid":"cslm-digital-asset-acquisition-iii"}
+{"symbol":"CWPG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CWPD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

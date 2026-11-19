@@ -5618,3 +5618,10 @@
 {"symbol":"MSLP","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}
 {"symbol":"MZLU","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"MNRG","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"EQAM","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"DDEF","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"D1ST","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"WWLD","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"DDYN","exchange":"XETR","status":"ok","logoid":"dws"}
+{"symbol":"GQJJ","exchange":"XETR","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"MSMW","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}

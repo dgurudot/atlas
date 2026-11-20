@@ -5396,3 +5396,10 @@
 {"symbol":"WARDHEALTH","exchange":"BSE","status":"ok","logoid":"wardwizard-healthcare-limited"}
 {"symbol":"MIHIKA_RE","exchange":"BSE","status":"nologo","logoid":null}
 {"symbol":"ZODJRD_RE1","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KTKFMP336RI","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KTKFMP336DI","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KTKFMP336DG","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"KTKFMP336RG","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"ISIFHLSG","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"AARCON","exchange":"BSE","status":"ok","logoid":"aarcon-facilities-limited"}
+{"symbol":"SHUKRAMED","exchange":"BSE","status":"ok","logoid":"shukra-pharmaceuticals-limited"}

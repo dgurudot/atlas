@@ -5625,3 +5625,17 @@
 {"symbol":"DDYN","exchange":"XETR","status":"ok","logoid":"dws"}
 {"symbol":"GQJJ","exchange":"XETR","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
 {"symbol":"MSMW","exchange":"XETR","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"1ANT","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"BCGA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"BECA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"BGGA","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"BGHY","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"BUSH","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"GURD","exchange":"XETR","status":"ok","logoid":"amundi"}
+{"symbol":"GBAE","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"GEAB","exchange":"XETR","status":"ok","logoid":"ishares"}
+{"symbol":"ETF1","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"VAEA","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VUHA","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VAEC","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"VUHD","exchange":"XETR","status":"ok","logoid":"vanguard"}

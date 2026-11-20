@@ -3441,3 +3441,8 @@
 {"symbol":"APNX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"GQGG","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"YASX","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"YASX","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"GSCZ","exchange":"AMEX","status":"ok","logoid":"golden-sachs-etf-trust-goldman"}
+{"symbol":"JALL","exchange":"AMEX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"YLDS","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
+{"symbol":"YASX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

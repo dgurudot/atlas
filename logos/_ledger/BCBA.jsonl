@@ -1656,3 +1656,6 @@
 {"symbol":"BMA.B","exchange":"BCBA","status":"ok","logoid":"banco-macro"}
 {"symbol":"YPDCB","exchange":"BCBA","status":"ok","logoid":"ypf"}
 {"symbol":"TENB","exchange":"BCBA","status":"ok","logoid":"tenaris"}
+{"symbol":"IGPTD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"CQQQD","exchange":"BCBA","status":"nologo","logoid":null}
+{"symbol":"XSMOD","exchange":"BCBA","status":"nologo","logoid":null}

@@ -2407,3 +2407,5 @@
 {"symbol":"VRTX80","exchange":"SET","status":"nologo","logoid":null}
 {"symbol":"CLV.R","exchange":"SET","status":"ok","logoid":"cl-venture-pcl-non-voting"}
 {"symbol":"YOFC80","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"CNBIO80","exchange":"SET","status":"nologo","logoid":null}
+{"symbol":"MURATA80","exchange":"SET","status":"nologo","logoid":null}

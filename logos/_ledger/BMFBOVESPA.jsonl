@@ -2681,3 +2681,9 @@
 {"symbol":"SOND3F","exchange":"BMFBOVESPA","status":"ok","logoid":"sondotecnicapnb"}
 {"symbol":"BFLO39","exchange":"BMFBOVESPA","status":"ok","logoid":"ishares"}
 {"symbol":"TSER11","exchange":"BMFBOVESPA","status":"ok","logoid":"fii-tishman-ci-er"}
+{"symbol":"HCRA21","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"NOVO11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"ANTH34","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"PLUS11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"POWR11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"TUDO11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}

@@ -4078,3 +4078,15 @@
 {"symbol":"JGVA","exchange":"EPA","status":"ok","logoid":"jpmorgan"}
 {"symbol":"GLDX","exchange":"EPA","status":"ok","logoid":"global-x"}
 {"symbol":"EBCA","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"BGCA","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BUHY","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BAGG","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BECA","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"BGHY","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"MSAI","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"VAHD-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"MSEN","exchange":"EPA","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"GEAB","exchange":"EPA","status":"ok","logoid":"ishares"}
+{"symbol":"HOLD","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"VAHA-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"VAEC-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}

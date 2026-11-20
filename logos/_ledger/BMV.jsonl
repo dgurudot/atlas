@@ -2835,3 +2835,5 @@
 {"symbol":"LOAR","exchange":"BMV","status":"ok","logoid":"loar"}
 {"symbol":"RYN","exchange":"BMV","status":"ok","logoid":"rayonier-reit"}
 {"symbol":"TFRNX/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
+{"symbol":"C50/N","exchange":"BMV","status":"ok","logoid":"amundi"}
+{"symbol":"FFH/N","exchange":"BMV","status":"ok","logoid":"fairfax-financial"}

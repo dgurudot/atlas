@@ -16092,3 +16092,13 @@
 {"symbol":"39IB","exchange":"LSE","status":"ok","logoid":"lg-display"}
 {"symbol":"XG05","exchange":"LSE","status":"ok","logoid":"dws"}
 {"symbol":"WINU","exchange":"LSE","status":"ok","logoid":"ishares"}
+{"symbol":"DSEC","exchange":"LSE","status":"ok","logoid":"ishares"}
+{"symbol":"MSEG","exchange":"LSE","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MSMW","exchange":"LSE","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MSMG","exchange":"LSE","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MSEN","exchange":"LSE","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MSAG","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"MSAI","exchange":"LSE","status":"nologo","logoid":null}
+{"symbol":"0QXW","exchange":"LSE","status":"ok","logoid":"image-systems-ab"}
+{"symbol":"0P3V","exchange":"LSE","status":"ok","logoid":"nord-precious-metals-mining"}
+{"symbol":"MTOP","exchange":"LSE","status":"ok","logoid":"morgan-stanley"}

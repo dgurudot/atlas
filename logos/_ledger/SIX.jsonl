@@ -3149,3 +3149,6 @@
 {"symbol":"FLXED.EUR","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"GLDX","exchange":"SIX","status":"ok","logoid":"global-x"}
 {"symbol":"FBIE.USD","exchange":"SIX","status":"ok","logoid":"fidelity-advantage"}
+{"symbol":"ECRP","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"ESTA","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"UEC.USD","exchange":"SIX","status":"ok","logoid":"uranium-energy"}

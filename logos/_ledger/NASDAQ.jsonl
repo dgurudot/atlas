@@ -5812,3 +5812,7 @@
 {"symbol":"FDGXU","exchange":"NASDAQ","status":"ok","logoid":"cslm-digital-asset-acquisition-iii"}
 {"symbol":"CWPG","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"CWPD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ISMH","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"ANT","exchange":"NASDAQ","status":"ok","logoid":"anthropic"}
+{"symbol":"AAUD","exchange":"NASDAQ","status":"ok","logoid":"alpha-architect"}
+{"symbol":"ISMH","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

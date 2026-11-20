@@ -596,3 +596,4 @@
 {"symbol":"GILDCL","exchange":"BCS","status":"ok","logoid":"gilead"}
 {"symbol":"PUCOBRE1","exchange":"BCS","status":"ok","logoid":"sociedad-punta-del"}
 {"symbol":"DIS1","exchange":"BCS","status":"ok","logoid":"walt-disney"}
+{"symbol":"CFIALRAF_E0","exchange":"BCS","status":"nologo","logoid":null}

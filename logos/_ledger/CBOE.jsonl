@@ -2099,3 +2099,5 @@
 {"symbol":"VEMB","exchange":"CBOE","status":"ok","logoid":"vanguard"}
 {"symbol":"VVPL","exchange":"CBOE","status":"nologo","logoid":null}
 {"symbol":"VVPL","exchange":"CBOE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"VVPL","exchange":"CBOE","status":"nologo","logoid":null}
+{"symbol":"VVPL","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}

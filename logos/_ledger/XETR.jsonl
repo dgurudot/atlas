@@ -5639,3 +5639,6 @@
 {"symbol":"VUHA","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"VAEC","exchange":"XETR","status":"ok","logoid":"vanguard"}
 {"symbol":"VUHD","exchange":"XETR","status":"ok","logoid":"vanguard"}
+{"symbol":"BEZ0","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"J5E1","exchange":"XETR","status":"ok","logoid":"henderson-diversified-income"}
+{"symbol":"IBOT","exchange":"XETR","status":"nologo","logoid":null}

@@ -3152,3 +3152,9 @@
 {"symbol":"ECRP","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"ESTA","exchange":"SIX","status":"ok","logoid":"invesco"}
 {"symbol":"UEC.USD","exchange":"SIX","status":"ok","logoid":"uranium-energy"}
+{"symbol":"ANT","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"IQXU","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"ANT.USD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"BE30.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
+{"symbol":"JGLV.USD","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"JMAC.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}

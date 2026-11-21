@@ -2837,3 +2837,11 @@
 {"symbol":"TFRNX/N","exchange":"BMV","status":"ok","logoid":"wisdomtree"}
 {"symbol":"C50/N","exchange":"BMV","status":"ok","logoid":"amundi"}
 {"symbol":"FFH/N","exchange":"BMV","status":"ok","logoid":"fairfax-financial"}
+{"symbol":"30IA/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"ERAN/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"29GA/N","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"IBHF","exchange":"BMV","status":"ok","logoid":"ishares"}
+{"symbol":"DSFIR/N","exchange":"BMV","status":"ok","logoid":"dsm-kon"}
+{"symbol":"UNIC/N","exchange":"BMV","status":"ok","logoid":"amundi"}
+{"symbol":"TU/N","exchange":"BMV","status":"ok","logoid":"telus"}
+{"symbol":"ST/N","exchange":"BMV","status":"ok","logoid":"sensata-technologies-holding-plc"}

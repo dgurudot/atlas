@@ -30,3 +30,4 @@
 {"symbol":"KLDVK","exchange":"OMXICE","status":"ok","logoid":"ice-fish-farm-as"}
 {"symbol":"SFS_B","exchange":"OMXICE","status":"ok","logoid":"slaturfelag-sudurlands-svf"}
 {"symbol":"ASAR","exchange":"OMXICE","status":"ok","logoid":"siminn-hf"}
+{"symbol":"BLUE","exchange":"OMXICE","status":"nologo","logoid":null}

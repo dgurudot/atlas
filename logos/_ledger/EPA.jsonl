@@ -4090,3 +4090,8 @@
 {"symbol":"HOLD","exchange":"EPA","status":"ok","logoid":"hsbc"}
 {"symbol":"VAHA-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
 {"symbol":"VAEC-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"ANT3","exchange":"EPA","status":"ok","logoid":"leverage-shares"}
+{"symbol":"HOLD-ETFP","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"VAEA-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
+{"symbol":"HROB-ETFP","exchange":"EPA","status":"ok","logoid":"hsbc"}
+{"symbol":"J5E1","exchange":"EPA","status":"ok","logoid":"henderson-diversified-income"}

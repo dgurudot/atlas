@@ -3072,3 +3072,7 @@
 {"symbol":"NSTR","exchange":"TSX","status":"ok","logoid":"viking-acquisition-i-units-cons-of-1-shs-a-1-3-red-wt"}
 {"symbol":"EGHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
 {"symbol":"ANTH","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"ANTU","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"SNDU","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"ANTE","exchange":"TSX","status":"ok","logoid":"harvest"}
+{"symbol":"ANHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}

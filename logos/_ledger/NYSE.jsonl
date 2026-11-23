@@ -2897,3 +2897,5 @@
 {"symbol":"PORT","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"SONN","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"SONN","exchange":"NYSE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"BIPF/PA","exchange":"NYSE","status":"ok","logoid":"brookfield"}
+{"symbol":"BIPF/PB","exchange":"NYSE","status":"ok","logoid":"brookfield"}

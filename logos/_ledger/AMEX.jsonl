@@ -3446,3 +3446,6 @@
 {"symbol":"JALL","exchange":"AMEX","status":"ok","logoid":"jpmorgan"}
 {"symbol":"YLDS","exchange":"AMEX","status":"ok","logoid":"harbor-etf-trust-harbor-all-weather"}
 {"symbol":"YASX","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"DIVA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"ZECX","exchange":"AMEX","status":"ok","logoid":"grayscale"}
+{"symbol":"DIVA","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}

@@ -599,3 +599,11 @@
 {"symbol":"CFIALRAF_E0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"CFIDPKP_R0","exchange":"BCS","status":"ok","logoid":"avante-adm-g-de-f-deuda-privada-y-capital-r"}
 {"symbol":"CFI_AG3RNE0","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}
+{"symbol":"CFI_FSLFAE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIBPRII_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIANXIB_E1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIBPRIA_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFI_GTSGAE0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIBPRIB_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFILGTVA_E0","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}
+{"symbol":"CVX","exchange":"BCS","status":"ok","logoid":"chevron"}

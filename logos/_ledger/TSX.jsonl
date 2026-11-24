@@ -3076,3 +3076,7 @@
 {"symbol":"SNDU","exchange":"TSX","status":"nologo","logoid":null}
 {"symbol":"ANTE","exchange":"TSX","status":"ok","logoid":"harvest"}
 {"symbol":"ANHI","exchange":"TSX","status":"ok","logoid":"ninepoint-alternative"}
+{"symbol":"TBX","exchange":"TSX","status":"nologo","logoid":null}
+{"symbol":"BIP","exchange":"TSX","status":"ok","logoid":"brookfield"}
+{"symbol":"BIPF.PR.E","exchange":"TSX","status":"ok","logoid":"brookfield"}
+{"symbol":"BIPF.PR.F","exchange":"TSX","status":"ok","logoid":"brookfield"}

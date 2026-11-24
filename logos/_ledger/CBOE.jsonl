@@ -2111,3 +2111,5 @@
 {"symbol":"ANDD","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ANTT","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
 {"symbol":"ANTZ","exchange":"CBOE","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"ALLZ","exchange":"CBOE","status":"ok","logoid":"zacks-trust-zacks"}
+{"symbol":"ZCAP","exchange":"CBOE","status":"ok","logoid":"zacks-trust-zacks"}

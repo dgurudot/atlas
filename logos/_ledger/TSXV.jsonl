@@ -1496,3 +1496,5 @@
 {"symbol":"KALM.P","exchange":"TSXV","status":"ok","logoid":"kalma-capital"}
 {"symbol":"SAY","exchange":"TSXV","status":"ok","logoid":"sparta-capital"}
 {"symbol":"ERXY","exchange":"TSXV","status":"ok","logoid":"interconnect-ventures"}
+{"symbol":"MIA.H","exchange":"TSXV","status":"nologo","logoid":null}
+{"symbol":"DAQ.P","exchange":"TSXV","status":"ok","logoid":"dominus-acquisitions"}

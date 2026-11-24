@@ -939,3 +939,4 @@
 {"symbol":"WSTEPO","exchange":"OMXSTO","status":"ok","logoid":"webstep-asa"}
 {"symbol":"BRIGHT_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"NICA_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}
+{"symbol":"IMMNOV_BTU","exchange":"OMXSTO","status":"nologo","logoid":null}

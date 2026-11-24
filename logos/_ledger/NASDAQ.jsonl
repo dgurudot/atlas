@@ -5835,3 +5835,10 @@
 {"symbol":"CLYD","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"EVRL","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"VESI","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CLYD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"AIL","exchange":"NASDAQ","status":"ok","logoid":"graniteshares"}
+{"symbol":"ANS","exchange":"NASDAQ","status":"ok","logoid":"graniteshares"}
+{"symbol":"EVRL","exchange":"NASDAQ","status":"ok","logoid":"melar-acquisition-i"}
+{"symbol":"OBMT","exchange":"NASDAQ","status":"ok","logoid":"eagle-montana"}
+{"symbol":"VESI","exchange":"NASDAQ","status":"ok","logoid":"blackhawk-growth"}
+{"symbol":"CLYD","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}

@@ -2323,3 +2323,7 @@
 {"symbol":"TIR2","exchange":"ASX","status":"ok","logoid":"beta-shares"}
 {"symbol":"JVHU","exchange":"ASX","status":"nologo","logoid":null}
 {"symbol":"NRES","exchange":"ASX","status":"ok","logoid":"global-x"}
+{"symbol":"ADNOD","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"JVLU","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"ADNOC","exchange":"ASX","status":"nologo","logoid":null}
+{"symbol":"NL8","exchange":"ASX","status":"ok","logoid":"fortifai-ltd"}

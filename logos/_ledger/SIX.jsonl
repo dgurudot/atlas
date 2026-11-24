@@ -3158,3 +3158,8 @@
 {"symbol":"BE30.EUR","exchange":"SIX","status":"ok","logoid":"invesco"}
 {"symbol":"JGLV.USD","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
 {"symbol":"JMAC.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"HELD","exchange":"SIX","status":"ok","logoid":"hsbc"}
+{"symbol":"MTGE","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"FOFD.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
+{"symbol":"DATAC","exchange":"SIX","status":"ok","logoid":"amundi"}
+{"symbol":"RAA","exchange":"SIX","status":"ok","logoid":"rational-ag"}

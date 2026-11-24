@@ -4095,3 +4095,7 @@
 {"symbol":"VAEA-ETFP","exchange":"EPA","status":"ok","logoid":"vanguard"}
 {"symbol":"HROB-ETFP","exchange":"EPA","status":"ok","logoid":"hsbc"}
 {"symbol":"J5E1","exchange":"EPA","status":"ok","logoid":"henderson-diversified-income"}
+{"symbol":"AUSSR","exchange":"EPA","status":"ok","logoid":"paribas"}
+{"symbol":"MSMW","exchange":"EPA","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"MTOP","exchange":"EPA","status":"ok","logoid":"morgan-stanley"}
+{"symbol":"NOIG","exchange":"EPA","status":"ok","logoid":"natixis-etf-trust-natixis-loomis"}

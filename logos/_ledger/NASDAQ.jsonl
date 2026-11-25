@@ -5842,3 +5842,8 @@
 {"symbol":"OBMT","exchange":"NASDAQ","status":"ok","logoid":"eagle-montana"}
 {"symbol":"VESI","exchange":"NASDAQ","status":"ok","logoid":"blackhawk-growth"}
 {"symbol":"CLYD","exchange":"NASDAQ","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"CLYD","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"RMTX","exchange":"NASDAQ","status":"nologo","logoid":null}
+{"symbol":"BFLR","exchange":"NASDAQ","status":"ok","logoid":"fingermotion"}
+{"symbol":"RMTX","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}
+{"symbol":"CLYD","exchange":"NASDAQ","status":"nologo","logoid":null,"source":"polygon"}

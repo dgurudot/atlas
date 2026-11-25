@@ -4099,3 +4099,6 @@
 {"symbol":"MSMW","exchange":"EPA","status":"ok","logoid":"morgan-stanley"}
 {"symbol":"MTOP","exchange":"EPA","status":"ok","logoid":"morgan-stanley"}
 {"symbol":"NOIG","exchange":"EPA","status":"ok","logoid":"natixis-etf-trust-natixis-loomis"}
+{"symbol":"ANTL","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"FEUS","exchange":"EPA","status":"nologo","logoid":null}
+{"symbol":"CLAS","exchange":"EPA","status":"nologo","logoid":null}

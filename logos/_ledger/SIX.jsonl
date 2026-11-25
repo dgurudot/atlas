@@ -3163,3 +3163,6 @@
 {"symbol":"FOFD.USD","exchange":"SIX","status":"ok","logoid":"franklin-templeton"}
 {"symbol":"DATAC","exchange":"SIX","status":"ok","logoid":"amundi"}
 {"symbol":"RAA","exchange":"SIX","status":"ok","logoid":"rational-ag"}
+{"symbol":"UNH","exchange":"SIX","status":"ok","logoid":"unitedhealth"}
+{"symbol":"SBUX.USD","exchange":"SIX","status":"ok","logoid":"starbucks"}
+{"symbol":"MDT","exchange":"SIX","status":"ok","logoid":"medtronic"}

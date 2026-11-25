@@ -3080,3 +3080,6 @@
 {"symbol":"BIP","exchange":"TSX","status":"ok","logoid":"brookfield"}
 {"symbol":"BIPF.PR.E","exchange":"TSX","status":"ok","logoid":"brookfield"}
 {"symbol":"BIPF.PR.F","exchange":"TSX","status":"ok","logoid":"brookfield"}
+{"symbol":"TCB","exchange":"TSX","status":"ok","logoid":"td-active-gbl"}
+{"symbol":"TGB","exchange":"TSX","status":"ok","logoid":"td-active-gbl"}
+{"symbol":"MGLO","exchange":"TSX","status":"ok","logoid":"manulife"}

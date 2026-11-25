@@ -435,3 +435,4 @@
 {"symbol":"ATO","exchange":"AQUIS","status":"nologo","logoid":null}
 {"symbol":"EUDI.GB","exchange":"AQUIS","status":"ok","logoid":"spdr-sandp500-etf-tr"}
 {"symbol":"HMJD.GB","exchange":"AQUIS","status":"ok","logoid":"hsbc"}
+{"symbol":"IUMO.GB","exchange":"AQUIS","status":"ok","logoid":"ishares"}

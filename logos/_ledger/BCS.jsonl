@@ -607,3 +607,6 @@
 {"symbol":"CFIBPRIB_E0","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"CFILGTVA_E0","exchange":"BCS","status":"ok","logoid":"ameris-capital-adm-gen-de-fdos-sa-ameris-nm-guardian-iii-fi-r-usd"}
 {"symbol":"CVX","exchange":"BCS","status":"ok","logoid":"chevron"}
+{"symbol":"CFISECRFNR1","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"MRK1","exchange":"BCS","status":"ok","logoid":"merck-and-co"}
+{"symbol":"GRPARGOSCL","exchange":"BCS","status":"ok","logoid":"grupo-argos-sa"}

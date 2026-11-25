@@ -2901,3 +2901,4 @@
 {"symbol":"BIPF/PB","exchange":"NYSE","status":"ok","logoid":"brookfield"}
 {"symbol":"QSPC","exchange":"NYSE","status":"nologo","logoid":null}
 {"symbol":"QSPC","exchange":"NYSE","status":"failed","logoid":null,"source":"polygon"}
+{"symbol":"QSPC","exchange":"NYSE","status":"ok","logoid":"maywood-acquisition"}

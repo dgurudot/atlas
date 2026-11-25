@@ -2846,3 +2846,15 @@
 {"symbol":"TU/N","exchange":"BMV","status":"ok","logoid":"telus"}
 {"symbol":"ST/N","exchange":"BMV","status":"ok","logoid":"sensata-technologies-holding-plc"}
 {"symbol":"HSTE/N","exchange":"BMV","status":"ok","logoid":"hsbc"}
+{"symbol":"AMH","exchange":"BMV","status":"ok","logoid":"american-homes-4-rent"}
+{"symbol":"ELS","exchange":"BMV","status":"ok","logoid":"equity-lifestyle-properties"}
+{"symbol":"CUZ","exchange":"BMV","status":"ok","logoid":"cousins-properties-incorporated"}
+{"symbol":"CDP","exchange":"BMV","status":"ok","logoid":"corporate-office-properties-trust"}
+{"symbol":"FLTR","exchange":"BMV","status":"ok","logoid":"vaneck"}
+{"symbol":"EVRG","exchange":"BMV","status":"ok","logoid":"evergy"}
+{"symbol":"ESS","exchange":"BMV","status":"ok","logoid":"essex-property-trust"}
+{"symbol":"NHI","exchange":"BMV","status":"ok","logoid":"national-health-investors"}
+{"symbol":"NNN","exchange":"BMV","status":"ok","logoid":"national-retail-properties"}
+{"symbol":"SNA","exchange":"BMV","status":"ok","logoid":"snap-on"}
+{"symbol":"SBRA","exchange":"BMV","status":"ok","logoid":"sabra-health-care-reit"}
+{"symbol":"URBN","exchange":"BMV","status":"ok","logoid":"urban-outfitters"}

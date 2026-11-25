@@ -2690,3 +2690,7 @@
 {"symbol":"LTOX11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"XBB511","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
 {"symbol":"XF3511","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"HYPH11","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"JPIE39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"JPHY39","exchange":"BMFBOVESPA","status":"nologo","logoid":null}
+{"symbol":"Z1IO34","exchange":"BMFBOVESPA","status":"ok","logoid":"zions-bancorporation"}

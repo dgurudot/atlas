@@ -3451,3 +3451,5 @@
 {"symbol":"DIVA","exchange":"AMEX","status":"failed","logoid":null,"source":"polygon"}
 {"symbol":"DIVA","exchange":"AMEX","status":"ok","logoid":"alliancebernstein-holding"}
 {"symbol":"YANT","exchange":"AMEX","status":"ok","logoid":"yieldmax-tsla-option-income-strategy-etf"}
+{"symbol":"IVEA","exchange":"AMEX","status":"nologo","logoid":null}
+{"symbol":"IVEA","exchange":"AMEX","status":"nologo","logoid":null,"source":"polygon"}

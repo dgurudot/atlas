@@ -16118,3 +16118,9 @@
 {"symbol":"BGCP","exchange":"LSE","status":"ok","logoid":"bny-mellon-core-bond-etf"}
 {"symbol":"INT","exchange":"LSE","status":"ok","logoid":"intelliam-ai-plc"}
 {"symbol":"0Q1G","exchange":"LSE","status":"ok","logoid":"eli-lilly"}
+{"symbol":"ELEX","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"ACMR","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"GDEF","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"ROKT","exchange":"LSE","status":"ok","logoid":"amundi"}
+{"symbol":"0NT5","exchange":"LSE","status":"ok","logoid":"fourlis-sa-cr"}
+{"symbol":"0W8R","exchange":"LSE","status":"ok","logoid":"europlasma-eur1-post-consolidation"}

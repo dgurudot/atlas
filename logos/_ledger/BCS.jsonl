@@ -610,3 +610,8 @@
 {"symbol":"CFISECRFNR1","exchange":"BCS","status":"nologo","logoid":null}
 {"symbol":"MRK1","exchange":"BCS","status":"ok","logoid":"merck-and-co"}
 {"symbol":"GRPARGOSCL","exchange":"BCS","status":"ok","logoid":"grupo-argos-sa"}
+{"symbol":"CFIVPE8A_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"CFIANXIA_E0","exchange":"BCS","status":"nologo","logoid":null}
+{"symbol":"NVDACL0","exchange":"BCS","status":"ok","logoid":"nvidia"}
+{"symbol":"NEM","exchange":"BCS","status":"ok","logoid":"newmont"}
+{"symbol":"CFIFTUFP_E0","exchange":"BCS","status":"ok","logoid":"frontal-trust-adm-gen-de-fondos-sa-frontal-trust-xepelin-deu-mex-fi-usd-f"}

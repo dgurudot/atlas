@@ -5404,3 +5404,6 @@
 {"symbol":"AARCON","exchange":"BSE","status":"ok","logoid":"aarcon-facilities-limited"}
 {"symbol":"SHUKRAMED","exchange":"BSE","status":"ok","logoid":"shukra-pharmaceuticals-limited"}
 {"symbol":"AANJAAY","exchange":"BSE","status":"ok","logoid":"kabra-drugs-ltd"}
+{"symbol":"CRYSTALCP","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"MROTEK","exchange":"BSE","status":"nologo","logoid":null}
+{"symbol":"FABINO","exchange":"BSE","status":"ok","logoid":"fabino-life-sciences-limited"}

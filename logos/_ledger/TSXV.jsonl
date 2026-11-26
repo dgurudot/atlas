@@ -1498,3 +1498,5 @@
 {"symbol":"ERXY","exchange":"TSXV","status":"ok","logoid":"interconnect-ventures"}
 {"symbol":"MIA.H","exchange":"TSXV","status":"nologo","logoid":null}
 {"symbol":"DAQ.P","exchange":"TSXV","status":"ok","logoid":"dominus-acquisitions"}
+{"symbol":"DNTE","exchange":"TSXV","status":"ok","logoid":"clean-air-metals"}
+{"symbol":"GNT.H","exchange":"TSXV","status":"ok","logoid":"gentor-resources"}

@@ -5654,3 +5654,6 @@
 {"symbol":"FEUS","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"LK5A","exchange":"XETR","status":"nologo","logoid":null}
 {"symbol":"OSYU","exchange":"XETR","status":"ok","logoid":"ossi-lux-omjn-1c-e"}
+{"symbol":"MAAF","exchange":"XETR","status":"nologo","logoid":null}
+{"symbol":"GELD","exchange":"XETR","status":"ok","logoid":"spdr-sandp500-etf-tr"}
+{"symbol":"GR4M","exchange":"XETR","status":"ok","logoid":"coinshares"}

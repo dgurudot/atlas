@@ -2858,3 +2858,6 @@
 {"symbol":"SNA","exchange":"BMV","status":"ok","logoid":"snap-on"}
 {"symbol":"SBRA","exchange":"BMV","status":"ok","logoid":"sabra-health-care-reit"}
 {"symbol":"URBN","exchange":"BMV","status":"ok","logoid":"urban-outfitters"}
+{"symbol":"ATO","exchange":"BMV","status":"ok","logoid":"atmos-energy"}
+{"symbol":"ELCR/N","exchange":"BMV","status":"ok","logoid":"amundi"}
+{"symbol":"SPGPE","exchange":"BMV","status":"ok","logoid":"invesco"}

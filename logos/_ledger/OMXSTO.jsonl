@@ -943,3 +943,4 @@
 {"symbol":"NOFINO","exchange":"OMXSTO","status":"ok","logoid":"nordic-financials-asa"}
 {"symbol":"HASKO_B","exchange":"OMXSTO","status":"nologo","logoid":null}
 {"symbol":"CAPTO","exchange":"OMXSTO","status":"ok","logoid":"capital-tankers"}
+{"symbol":"ORX_BTA","exchange":"OMXSTO","status":"nologo","logoid":null}

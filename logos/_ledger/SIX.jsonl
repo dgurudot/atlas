@@ -3169,3 +3169,9 @@
 {"symbol":"GLW","exchange":"SIX","status":"ok","logoid":"corning"}
 {"symbol":"CASL","exchange":"SIX","status":"ok","logoid":"cardano-ada-staking-by-liqwid"}
 {"symbol":"JUKF","exchange":"SIX","status":"ok","logoid":"jpmorgan"}
+{"symbol":"BBIT.USD","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"BBIT","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"PREF","exchange":"SIX","status":"nologo","logoid":null}
+{"symbol":"BGUS.USD","exchange":"SIX","status":"ok","logoid":"paribas"}
+{"symbol":"AZUQ","exchange":"SIX","status":"ok","logoid":"allianz"}
+{"symbol":"JUEK.EUR","exchange":"SIX","status":"ok","logoid":"jpmorgan"}

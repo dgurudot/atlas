@@ -1500,3 +1500,5 @@
 {"symbol":"DAQ.P","exchange":"TSXV","status":"ok","logoid":"dominus-acquisitions"}
 {"symbol":"DNTE","exchange":"TSXV","status":"ok","logoid":"clean-air-metals"}
 {"symbol":"GNT.H","exchange":"TSXV","status":"ok","logoid":"gentor-resources"}
+{"symbol":"WATT","exchange":"TSXV","status":"ok","logoid":"grosvenor-cpc-i"}
+{"symbol":"CNST.P","exchange":"TSXV","status":"ok","logoid":"constellation-capital"}
